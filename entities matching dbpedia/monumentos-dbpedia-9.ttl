@@ -1,0 +1,1288 @@
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://www.wikidata.org/entity/Q97623698>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Priego_de_Córdoba>.
+
+<http://www.wikidata.org/entity/Q43135353>
+        owl:sameAs <http://es.dbpedia.org/resource/Alcazaba_de_Baza>.
+
+<http://www.wikidata.org/entity/Q24024872>
+        owl:sameAs <http://es.dbpedia.org/resource/Alcazaba_y_Murallas_del_Cerro_de_San_Cristóbal>.
+
+<http://www.wikidata.org/entity/Q43132923>
+        owl:sameAs <http://es.dbpedia.org/resource/Alcazaba_de_Fiñana>.
+
+<http://www.wikidata.org/entity/Q5664100>
+        owl:sameAs <http://es.dbpedia.org/resource/Alcazaba_de_las_Siete_Torres>.
+
+<http://www.wikidata.org/entity/Q922097>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Vélez-Blanco>.
+
+<http://www.wikidata.org/entity/Q3127243>
+        owl:sameAs <http://es.dbpedia.org/resource/Alcazaba_de_Málaga>.
+
+<http://www.wikidata.org/entity/Q5836509>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Archidona>.
+
+<http://www.wikidata.org/entity/Q5664093>
+        owl:sameAs <http://es.dbpedia.org/resource/Alcazaba_de_Guadix>.
+
+<http://www.wikidata.org/entity/Q527301>
+        owl:sameAs <http://es.dbpedia.org/resource/Alcazaba_de_Badajoz>.
+
+<http://www.wikidata.org/entity/Q6169628>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimientos_arqueológicos_del_Cerro_del_Espíritu_Santo>.
+
+<http://www.wikidata.org/entity/Q12156457>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Moclín>.
+
+<http://www.wikidata.org/entity/Q5658720>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_Mayor_(Daroca)>.
+
+<http://www.wikidata.org/entity/Q2832102>
+        owl:sameAs <http://es.dbpedia.org/resource/Alcazaba_de_Mérida>.
+
+<http://www.wikidata.org/entity/Q5763348>
+        owl:sameAs <http://es.dbpedia.org/resource/Cerro_de_San_Cristóbal_(Estepa)>.
+
+<http://www.wikidata.org/entity/Q3034067>
+        owl:sameAs <http://es.dbpedia.org/resource/Conjunto_megalítico_de_Rosas>.
+
+<http://www.wikidata.org/entity/Q963503>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_Viera>.
+
+<http://www.wikidata.org/entity/Q1143218>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_Menga>.
+
+<http://www.wikidata.org/entity/Q1235932>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_Dombate>.
+
+<http://www.wikidata.org/entity/Q764173>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_la_Cabana_Arqueta>.
+
+<http://www.wikidata.org/entity/Q1235860>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_la_Pastora>.
+
+<http://www.wikidata.org/entity/Q2881521>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_La_Cabaña>.
+
+<http://www.wikidata.org/entity/Q28050209>
+        owl:sameAs <http://es.dbpedia.org/resource/Tholos_del_Cerro_de_la_Barca>.
+
+<http://www.wikidata.org/entity/Q28662974>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_del_Alto_de_la_Huesera>.
+
+<http://www.wikidata.org/entity/Q74224381>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_a_Casa_dos_Mouros>.
+
+<http://www.wikidata.org/entity/Q124424596>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_Aguas_Tuertas>.
+
+<http://www.wikidata.org/entity/Q12252993>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_Aizkomendi>.
+
+<http://www.wikidata.org/entity/Q19946350>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_Juan_Rol_I>.
+
+<http://www.wikidata.org/entity/Q20170929>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_Guadalperal>.
+
+<http://www.wikidata.org/entity/Q20182113>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_Meixoeiro>.
+
+<http://www.wikidata.org/entity/Q14826246>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_Cabaleiros>.
+
+<http://www.wikidata.org/entity/Q18342958>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_Toriñuelo>.
+
+<http://www.wikidata.org/entity/Q16557867>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_Cubillejo_de_Lara>.
+
+<http://www.wikidata.org/entity/Q5812504>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_Soto>.
+
+<http://www.wikidata.org/entity/Q5812514>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_del_Gigante>.
+
+<http://www.wikidata.org/entity/Q6039299>
+        owl:sameAs <http://es.dbpedia.org/resource/Necrópolis_de_Las_Chaperas>.
+
+<http://www.wikidata.org/entity/Q8561495>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_Ca_l'Arenes>.
+
+<http://www.wikidata.org/entity/Q10330196>
+        owl:sameAs <http://es.dbpedia.org/resource/Mina_da_Parxubeira>.
+
+<http://www.wikidata.org/entity/Q5812510>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_la_Giganta>.
+
+<http://www.wikidata.org/entity/Q5812516>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_del_Portillo_de_las_Cortes>.
+
+<http://www.wikidata.org/entity/Q5812518>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_del_Prado_de_las_Cruces>.
+
+<http://www.wikidata.org/entity/Q8344449>
+        owl:sameAs <http://es.dbpedia.org/resource/Chabola_de_la_Hechicera>.
+
+<http://www.wikidata.org/entity/Q8561496>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_del_Barranc>.
+
+<http://www.wikidata.org/entity/Q5812507>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_la_Casa_del_Moro>.
+
+<http://www.wikidata.org/entity/Q11094893>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_El_Pozuelo>.
+
+<http://www.wikidata.org/entity/Q5812512>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_la_Velilla>.
+
+<http://www.wikidata.org/entity/Q6039300>
+        owl:sameAs <http://es.dbpedia.org/resource/Necrópolis_de_Los_Algarbes>.
+
+<http://www.wikidata.org/entity/Q5978571>
+        owl:sameAs <http://es.dbpedia.org/resource/Loma_de_Galera>.
+
+<http://www.wikidata.org/entity/Q3780704>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Daina>.
+
+<http://www.wikidata.org/entity/Q5289390>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_del_prado_de_Lácara>.
+
+<http://www.wikidata.org/entity/Q5812497>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_San_Adrián>.
+
+<http://www.wikidata.org/entity/Q5812499>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_San_Gregorio>.
+
+<http://www.wikidata.org/entity/Q5812486>
+        owl:sameAs <http://es.dbpedia.org/resource/Tholos_de_El_Romeral>.
+
+<http://www.wikidata.org/entity/Q5812478>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_Alberite>.
+
+<http://www.wikidata.org/entity/Q5812480>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_Azután>.
+
+<http://www.wikidata.org/entity/Q5812481>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_Busnela>.
+
+<http://www.wikidata.org/entity/Q4894571>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_Vallgorguina>.
+
+<http://www.wikidata.org/entity/Q5812488>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_Hidalgo>.
+
+<http://www.wikidata.org/entity/Q5812494>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_La_Zarcita>.
+
+<http://www.wikidata.org/entity/Q4267528>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_Axeitos>.
+
+<http://www.wikidata.org/entity/Q3491189>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_Sorginetxe>.
+
+<http://www.wikidata.org/entity/Q5812492>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_La_Ermita>.
+
+<http://www.wikidata.org/entity/Q5812502>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_Santa_Cruz>.
+
+<http://www.wikidata.org/entity/Q91106047>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_la_Losa_Mora>.
+
+<http://www.wikidata.org/entity/Q91106061>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_Tella>.
+
+<http://www.wikidata.org/entity/Q91103523>
+        owl:sameAs <http://es.dbpedia.org/resource/Dólmenes_de_Santa_Elena_(Biescas)>.
+
+<http://www.wikidata.org/entity/Q91114179>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_las_Balanzas>.
+
+<http://www.wikidata.org/entity/Q50689185>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_San_Martín>.
+
+<http://www.wikidata.org/entity/Q50689407>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_Magacela>.
+
+<http://www.wikidata.org/entity/Q50689380>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_El_Milano>.
+
+<http://www.wikidata.org/entity/Q50689283>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_Maimón_II>.
+
+<http://www.wikidata.org/entity/Q43401258>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_La_Lapita>.
+
+<http://www.wikidata.org/entity/Q97626423>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_Casas_de_Don_Pedro>.
+
+<http://www.wikidata.org/entity/Q56707003>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_la_Capilleta>.
+
+<http://www.wikidata.org/entity/Q51429100>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_Ibirque>.
+
+<http://www.wikidata.org/entity/Q97633671>
+        owl:sameAs <http://es.dbpedia.org/resource/Necrópolis_megalítica_de_la_Planilla>.
+
+<http://www.wikidata.org/entity/Q106832772>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_Merillés_(Tineo)>.
+
+<http://www.wikidata.org/entity/Q106523309>
+        owl:sameAs <http://es.dbpedia.org/resource/Dólmenes_de_Corominas>.
+
+<http://www.wikidata.org/entity/Q106834280>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_Baradal_(Tineo)>.
+
+<http://www.wikidata.org/entity/Q104412471>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_Pueyoril>.
+
+<http://www.wikidata.org/entity/Q21402397>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_Can_Gurri>.
+
+<http://www.wikidata.org/entity/Q24568147>
+        owl:sameAs <http://es.dbpedia.org/resource/Los_Zumacales>.
+
+<http://www.wikidata.org/entity/Q21402399>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_Castellruf>.
+
+<http://www.wikidata.org/entity/Q5856386>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Cabo_de_las_Salinas>.
+
+<http://www.wikidata.org/entity/Q5856392>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Cap_de_Tramuntana>.
+
+<http://www.wikidata.org/entity/Q5856359>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Cabo_Canet>.
+
+<http://www.wikidata.org/entity/Q5856342>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Ahorcados>.
+
+<http://www.wikidata.org/entity/Q5856356>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Botafoc>.
+
+<http://www.wikidata.org/entity/Q5856397>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Conejera>.
+
+<http://www.wikidata.org/entity/Q5856347>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Alcanada>.
+
+<http://www.wikidata.org/entity/Q5856380>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Cabo_de_Palos>.
+
+<http://www.wikidata.org/entity/Q5856365>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Cabo_Mayor>.
+
+<http://www.wikidata.org/entity/Q5856371>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Cabo_Trafalgar>.
+
+<http://www.wikidata.org/entity/Q5856390>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Cala_Figuera>.
+
+<http://www.wikidata.org/entity/Q5856394>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Capdepera>.
+
+<http://www.wikidata.org/entity/Q5856298>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_Punta_de_Rasca>.
+
+<http://www.wikidata.org/entity/Q5856344>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Ajo>.
+
+<http://www.wikidata.org/entity/Q5856349>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Anaga>.
+
+<http://www.wikidata.org/entity/Q5856351>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Artrutx>.
+
+<http://www.wikidata.org/entity/Q5856354>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Bleda_Plana>.
+
+<http://www.wikidata.org/entity/Q5856374>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Cabo_de_Berbería>.
+
+<http://www.wikidata.org/entity/Q5856361>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Cabo_Gros>.
+
+<http://www.wikidata.org/entity/Q5856363>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Cabo_Llebeig>.
+
+<http://www.wikidata.org/entity/Q5856340>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Adra>.
+
+<http://www.wikidata.org/entity/Q5856369>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Cabo_Sacratif>.
+
+<http://www.wikidata.org/entity/Q5856401>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_El_Estacio>.
+
+<http://www.wikidata.org/entity/Q5856399>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Cuevas_Blancas>.
+
+<http://www.wikidata.org/entity/Q5856432>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_La_Isleta>.
+
+<http://www.wikidata.org/entity/Q5856434>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_La_Mola>.
+
+<http://www.wikidata.org/entity/Q5856442>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Morro_Jable>.
+
+<http://www.wikidata.org/entity/Q5856471>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Punta_Nati>.
+
+<http://www.wikidata.org/entity/Q5856482>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Punta_Silla>.
+
+<http://www.wikidata.org/entity/Q5856428>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_isla_del_Aire>.
+
+<http://www.wikidata.org/entity/Q5856488>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Punta_de_Sa_Creu>.
+
+<http://www.wikidata.org/entity/Q5856473>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Punta_Orchilla>.
+
+<http://www.wikidata.org/entity/Q5856436>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_La_Plata_(Pasajes)>.
+
+<http://www.wikidata.org/entity/Q5856457>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Punta_Cumplida>.
+
+<http://www.wikidata.org/entity/Q5856468>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Punta_La_Entallada>.
+
+<http://www.wikidata.org/entity/Q5856454>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Portopí>.
+
+<http://www.wikidata.org/entity/Q5856459>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Punta_Delgada>.
+
+<http://www.wikidata.org/entity/Q5856476>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Punta_Sardina>.
+
+<http://www.wikidata.org/entity/Q5856409>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Formentor>.
+
+<http://www.wikidata.org/entity/Q5856444>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Mouro>.
+
+<http://www.wikidata.org/entity/Q5856450>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Peñíscola>.
+
+<http://www.wikidata.org/entity/Q5856452>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Porto_Colom>.
+
+<http://www.wikidata.org/entity/Q5856461>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Punta_Doncella>.
+
+<http://www.wikidata.org/entity/Q5856464>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Punta_Grossa>.
+
+<http://www.wikidata.org/entity/Q5856404>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_En_Pou>.
+
+<http://www.wikidata.org/entity/Q5856407>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Es_Vedrá>.
+
+<http://www.wikidata.org/entity/Q5856539>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_la_isla_de_Alborán>.
+
+<http://www.wikidata.org/entity/Q5856495>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Punta_de_la_Avanzada>.
+
+<http://www.wikidata.org/entity/Q5856504>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Rota>.
+
+<http://www.wikidata.org/entity/Q5856519>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Santa_Pola>.
+
+<http://www.wikidata.org/entity/Q5856532>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Torre_den_Beu>.
+
+<http://www.wikidata.org/entity/Q5856555>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_del_Caballo>.
+
+<http://www.wikidata.org/entity/Q6546359>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_Tostón>.
+
+<http://www.wikidata.org/entity/Q5856492>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Punta_de_Tarifa>.
+
+<http://www.wikidata.org/entity/Q5856515>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_San_Jerónimo>.
+
+<http://www.wikidata.org/entity/Q5856497>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Punta_del_Castillete>.
+
+<http://www.wikidata.org/entity/Q5856502>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Punta_del_Torco_de_Afuera>.
+
+<http://www.wikidata.org/entity/Q5856547>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_sa_Mola>.
+
+<http://www.wikidata.org/entity/Q5856517>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_San_Telmo>.
+
+<http://www.wikidata.org/entity/Q5856522>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Tagomago>.
+
+<http://www.wikidata.org/entity/Q5856557>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_del_Cabo_de_San_Antonio>.
+
+<http://www.wikidata.org/entity/Q5966669>
+        owl:sameAs <http://es.dbpedia.org/resource/La_farola_del_mar_(Santa_Cruz_de_Tenerife)>.
+
+<http://www.wikidata.org/entity/Q5856534>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Torrox>.
+
+<http://www.wikidata.org/entity/Q5856545>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_n'Ensiola>.
+
+<http://www.wikidata.org/entity/Q5856493>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Punta_de_Teno>.
+
+<http://www.wikidata.org/entity/Q5856562>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_del_Pescador>.
+
+<http://www.wikidata.org/entity/Q6546369>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Punta_Candelaria>.
+
+<http://www.wikidata.org/entity/Q5856550>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Águilas>.
+
+<http://www.wikidata.org/entity/Q5856506>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Salou>.
+
+<http://www.wikidata.org/entity/Q5856565>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_del_Puerto_de_Palma>.
+
+<http://www.wikidata.org/entity/Q5856567>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_del_castillo_de_Santa_Ana>.
+
+<http://www.wikidata.org/entity/Q2185489>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Punta_Pechiguera>.
+
+<http://www.wikidata.org/entity/Q3183461>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Isla_Verde>.
+
+<http://www.wikidata.org/entity/Q3183741>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Marbella>.
+
+<http://www.wikidata.org/entity/Q3211185>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Punta_Carnero>.
+
+<http://www.wikidata.org/entity/Q2512443>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Estaca_de_Bares>.
+
+<http://www.wikidata.org/entity/Q947099>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_San_Esteban_de_Pravia>.
+
+<http://www.wikidata.org/entity/Q973815>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_del_monte_Igueldo>.
+
+<http://www.wikidata.org/entity/Q1190267>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Chipiona>.
+
+<http://www.wikidata.org/entity/Q616196>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Lastres>.
+
+<http://www.wikidata.org/entity/Q76885>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Punta_de_Arinaga>.
+
+<http://www.wikidata.org/entity/Q245151>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Hércules>.
+
+<http://www.wikidata.org/entity/Q148520>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_San_Juan>.
+
+<http://www.wikidata.org/entity/Q8960894>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Cudillero>.
+
+<http://www.wikidata.org/entity/Q8960910>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_San_Emeterio>.
+
+<http://www.wikidata.org/entity/Q8960917>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Tapia_de_Casariego>.
+
+<http://www.wikidata.org/entity/Q8960884>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Cabo_Peñas>.
+
+<http://www.wikidata.org/entity/Q8960907>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Ribadesella>.
+
+<http://www.wikidata.org/entity/Q8960923>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_del_Cabo_de_la_Nao>.
+
+<http://www.wikidata.org/entity/Q8960915>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Tazones>.
+
+<http://www.wikidata.org/entity/Q8960921>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Torres_(España)>.
+
+<http://www.wikidata.org/entity/Q8960888>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Cabo_de_Cavallería>.
+
+<http://www.wikidata.org/entity/Q8960914>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Tabarca>.
+
+<http://www.wikidata.org/entity/Q8960878>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Cabo_Blanco>.
+
+<http://www.wikidata.org/entity/Q8960896>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Favarich>.
+
+<http://www.wikidata.org/entity/Q8960898>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Llanes>.
+
+<http://www.wikidata.org/entity/Q8960899>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Luarca>.
+
+<http://www.wikidata.org/entity/Q8960886>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_San_Agustín>.
+
+<http://www.wikidata.org/entity/Q10971033>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Cabo_Machichaco>.
+
+<http://www.wikidata.org/entity/Q12266995>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_la_isla_de_Santa_Clara>.
+
+<http://www.wikidata.org/entity/Q11921569>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_San_Sebastián_(Palafrugell)>.
+
+<http://www.wikidata.org/entity/Q12013511>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_la_Punta_del_Picacho>.
+
+<http://www.wikidata.org/entity/Q12268890>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_cabo_Villano>.
+
+<http://www.wikidata.org/entity/Q12258124>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Punta_Galea>.
+
+<http://www.wikidata.org/entity/Q12258462>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Guetaria>.
+
+<http://www.wikidata.org/entity/Q12388284>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Punta_Nariga>.
+
+<http://www.wikidata.org/entity/Q12258672>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Gorliz>.
+
+<http://www.wikidata.org/entity/Q12388285>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Punta_Roncadoira>.
+
+<http://www.wikidata.org/entity/Q11026049>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Santa_Catalina>.
+
+<http://www.wikidata.org/entity/Q12259123>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Cabo_Higuer>.
+
+<http://www.wikidata.org/entity/Q12266204>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Cabo_Prior>.
+
+<http://www.wikidata.org/entity/Q12257882>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Finisterre>.
+
+<http://www.wikidata.org/entity/Q12269486>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Zumaya>.
+
+<http://www.wikidata.org/entity/Q12268090>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_Touriñán>.
+
+<http://www.wikidata.org/entity/Q11034482>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Camarinal>.
+
+<http://www.wikidata.org/entity/Q11921570>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_del_Fangar>.
+
+<http://www.wikidata.org/entity/Q12388283>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Punta_Cabalo>.
+
+<http://www.wikidata.org/entity/Q5495467>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Na_Popis>.
+
+<http://www.wikidata.org/entity/Q3378550>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Cabo_Busto>.
+
+<http://www.wikidata.org/entity/Q3739802>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_del_Puerto_de_la_Cruz>.
+
+<http://www.wikidata.org/entity/Q3739807>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_la_Punta_del_Hidalgo>.
+
+<http://www.wikidata.org/entity/Q5404378>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Fuencaliente>.
+
+<http://www.wikidata.org/entity/Q3739792>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Maspalomas>.
+
+<http://www.wikidata.org/entity/Q3390347>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Cabo_Ortegal>.
+
+<http://www.wikidata.org/entity/Q3395437>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Candás>.
+
+<http://www.wikidata.org/entity/Q5647786>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Calaburras>.
+
+<http://www.wikidata.org/entity/Q5669119>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Farola_de_Málaga>.
+
+<http://www.wikidata.org/entity/Q3757265>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Cabo_Vidio>.
+
+<http://www.wikidata.org/entity/Q27096272>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Portmán>.
+
+<http://www.wikidata.org/entity/Q24540144>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Cabo_Cullera>.
+
+<http://www.wikidata.org/entity/Q24644213>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_del_Cabo_de_Gata>.
+
+<http://www.wikidata.org/entity/Q25239328>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_San_Cristóbal>.
+
+<http://www.wikidata.org/entity/Q23823865>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_la_Punta_de_Melenara>.
+
+<http://www.wikidata.org/entity/Q28375214>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_La_Higuera>.
+
+<http://www.wikidata.org/entity/Q28375228>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_la_Isla_de_Ons>.
+
+<http://www.wikidata.org/entity/Q15242338>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Calella>.
+
+<http://www.wikidata.org/entity/Q17615870>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Rosas>.
+
+<http://www.wikidata.org/entity/Q18325508>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Reloj_(Barceloneta)>.
+
+<http://www.wikidata.org/entity/Q18619044>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Punta_Jandía>.
+
+<http://www.wikidata.org/entity/Q18696197>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Tosa_de_Mar>.
+
+<http://www.wikidata.org/entity/Q17603505>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Calanans>.
+
+<http://www.wikidata.org/entity/Q20894714>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Punta_Martiño>.
+
+<http://www.wikidata.org/entity/Q15809316>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Punta_Abona>.
+
+<http://www.wikidata.org/entity/Q17603510>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_del_Cabo_de_Creus>.
+
+<http://www.wikidata.org/entity/Q20015003>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Mazarrón>.
+
+<http://www.wikidata.org/entity/Q18345859>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Punta_Moscarter>.
+
+<http://www.wikidata.org/entity/Q19279502>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Arenas_Blancas>.
+
+<http://www.wikidata.org/entity/Q20544592>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Punta_Frouxeira>.
+
+<http://www.wikidata.org/entity/Q16566375>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Torre_del_Mar>.
+
+<http://www.wikidata.org/entity/Q17603515>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Punta_s'Arenella>.
+
+<http://www.wikidata.org/entity/Q23823864>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Buenavista>.
+
+<http://www.wikidata.org/entity/Q18746975>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Punta_Lava>.
+
+<http://www.wikidata.org/entity/Q20546094>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_isla_Pancha>.
+
+<http://www.wikidata.org/entity/Q20543970>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Punta_Atalaya>.
+
+<http://www.wikidata.org/entity/Q21039368>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_del_Puerto_del_Rosario>.
+
+<http://www.wikidata.org/entity/Q18149997>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Ciudadela>.
+
+<http://www.wikidata.org/entity/Q30754977>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Roquetas_de_Mar>.
+
+<http://www.wikidata.org/entity/Q30528100>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Oropesa_del_Mar>.
+
+<http://www.wikidata.org/entity/Q30586255>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_San_Carlos_de_la_Rápita>.
+
+<http://www.wikidata.org/entity/Q30714322>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_del_Cabo_Tortosa>.
+
+<http://www.wikidata.org/entity/Q30912204>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Montjuic>.
+
+<http://www.wikidata.org/entity/Q30754272>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Torredembarra>.
+
+<http://www.wikidata.org/entity/Q30505614>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Castellón>.
+
+<http://www.wikidata.org/entity/Q30578823>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_La_Banya>.
+
+<http://www.wikidata.org/entity/Q31053619>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Palamós>.
+
+<http://www.wikidata.org/entity/Q30795540>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_San_Cristóbal_(Villanueva_y_Geltrú)>.
+
+<http://www.wikidata.org/entity/Q30754792>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_San_Sebastián>.
+
+<http://www.wikidata.org/entity/Q30741128>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Valencia_(2015)>.
+
+<http://www.wikidata.org/entity/Q30527773>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Columbretes>.
+
+<http://www.wikidata.org/entity/Q30501522>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Nules>.
+
+<http://www.wikidata.org/entity/Q29939858>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Llobregat>.
+
+<http://www.wikidata.org/entity/Q29907024>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Punta_Albir>.
+
+<http://www.wikidata.org/entity/Q30320341>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Escombreras>.
+
+<http://www.wikidata.org/entity/Q30302794>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Punta_Almina>.
+
+<http://www.wikidata.org/entity/Q30320081>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_del_Cabo_Tiñoso>.
+
+<http://www.wikidata.org/entity/Q28710741>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_las_islas_Medas>.
+
+<http://www.wikidata.org/entity/Q29954477>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Cabo_Silleiro>.
+
+<http://www.wikidata.org/entity/Q29949348>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Na_Pòpia>.
+
+<http://www.wikidata.org/entity/Q30069010>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Carbonera>.
+
+<http://www.wikidata.org/entity/Q28376375>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_del_Monte_del_Faro>.
+
+<http://www.wikidata.org/entity/Q28771409>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Melilla>.
+
+<http://www.wikidata.org/entity/Q29982274>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_del_Cabo_de_las_Huertas>.
+
+<http://www.wikidata.org/entity/Q30175124>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_la_Punta_del_Melonar>.
+
+<http://www.wikidata.org/entity/Q30308534>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_del_peñón_de_Vélez_de_la_Gomera>.
+
+<http://www.wikidata.org/entity/Q28375399>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Punta_Insua>.
+
+<http://www.wikidata.org/entity/Q30158547>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Punta_de_la_Mona>.
+
+<http://www.wikidata.org/entity/Q28375388>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Roche>.
+
+<http://www.wikidata.org/entity/Q28945815>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_la_isla_de_Isabel_II>.
+
+<http://www.wikidata.org/entity/Q30134302>
+        owl:sameAs <http://es.dbpedia.org/resource/Baliza_de_Barbate>.
+
+<http://www.wikidata.org/entity/Q30301508>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Garrucha>.
+
+<http://www.wikidata.org/entity/Q29835635>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_San_Carlos-Mahón>.
+
+<http://www.wikidata.org/entity/Q29907085>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Irta>.
+
+<http://www.wikidata.org/entity/Q30125526>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_El_Rompido>.
+
+<http://www.wikidata.org/entity/Q28375603>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Cabo_Corrubedo>.
+
+<http://www.wikidata.org/entity/Q29477030>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Sabinal>.
+
+<http://www.wikidata.org/entity/Q30202643>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_la_Punta_de_los_Baños>.
+
+<http://www.wikidata.org/entity/Q30278259>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Mesa_Roldán>.
+
+<http://www.wikidata.org/entity/Q43133120>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Punta_de_la_Polacra>.
+
+<http://www.wikidata.org/entity/Q42894711>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Valencia>.
+
+<http://www.wikidata.org/entity/Q43102662>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_del_Dique_Juan_Carlos_I>.
+
+<http://www.wikidata.org/entity/Q33311327>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_las_islas_Sisargas>.
+
+<http://www.wikidata.org/entity/Q33798259>
+        owl:sameAs <http://es.dbpedia.org/resource/Baliza_de_la_isla_Rúa>.
+
+<http://www.wikidata.org/entity/Q33404874>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Punta_Lage>.
+
+<http://www.wikidata.org/entity/Q33684091>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_la_isla_de_Sálvora>.
+
+<http://www.wikidata.org/entity/Q33247542>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Cabo_Prioriño>.
+
+<http://www.wikidata.org/entity/Q34307602>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_La_Guía>.
+
+<http://www.wikidata.org/entity/Q5812504>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_Soto>.
+
+<http://www.wikidata.org/entity/Q8561495>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_Ca_l'Arenes>.
+
+<http://www.wikidata.org/entity/Q2454775>
+        owl:sameAs <http://es.dbpedia.org/resource/Toros_de_Guisando>.
+
+<http://www.wikidata.org/entity/Q16560327>
+        owl:sameAs <http://es.dbpedia.org/resource/El_cancho_que_se_menea>.
+
+<http://www.wikidata.org/entity/Q20016793>
+        owl:sameAs <http://es.dbpedia.org/resource/Conjunto_megalítico_de_Chan_de_Castiñeiras>.
+
+<http://www.wikidata.org/entity/Q122229877>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_La_Mina>.
+
+<http://www.wikidata.org/entity/Q122840032>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_San_Sebastián_Norte>.
+
+<http://www.wikidata.org/entity/Q60970429>
+        owl:sameAs <http://es.dbpedia.org/resource/Tholos_de_Montelirio>.
+
+<http://www.wikidata.org/entity/Q66123025>
+        owl:sameAs <http://es.dbpedia.org/resource/Hipogeo_de_Longar_(Viana)>.
+
+<http://www.wikidata.org/entity/Q113558973>
+        owl:sameAs <http://es.dbpedia.org/resource/Sitio_megalítico_de_La_Torre-La_Janera>.
+
+<http://www.wikidata.org/entity/Q59261003>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_de_na_Comerma_de_sa_Garita>.
+
+<http://www.wikidata.org/entity/Q61070821>
+        owl:sameAs <http://es.dbpedia.org/resource/Conjunto_megalítico_de_Igueldo>.
+
+<http://www.wikidata.org/entity/Q20182119>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_del_Mellizo>.
+
+<http://www.wikidata.org/entity/Q945281>
+        owl:sameAs <http://es.dbpedia.org/resource/Mezquita_del_Rey_Abdelaziz>.
+
+<http://www.wikidata.org/entity/Q977764>
+        owl:sameAs <http://es.dbpedia.org/resource/Mezquita_de_Fuengirola>.
+
+<http://www.wikidata.org/entity/Q249463>
+        owl:sameAs <http://es.dbpedia.org/resource/Mezquita_Basharat>.
+
+<http://www.wikidata.org/entity/Q183179>
+        owl:sameAs <http://es.dbpedia.org/resource/Mezquita_Central_de_Madrid>.
+
+<http://www.wikidata.org/entity/Q6012246>
+        owl:sameAs <http://es.dbpedia.org/resource/Mezquita_Mayor_de_Granada>.
+
+<http://www.wikidata.org/entity/Q6012270>
+        owl:sameAs <http://es.dbpedia.org/resource/Mezquita_del_Rey_Fahd>.
+
+<http://www.wikidata.org/entity/Q5911869>
+        owl:sameAs <http://es.dbpedia.org/resource/Basílica_de_Santa_María_de_los_Reales_Alcázares>.
+
+<http://www.wikidata.org/entity/Q5910534>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Juan_Evangelista_(Almería)>.
+
+<http://www.wikidata.org/entity/Q6169495>
+        owl:sameAs <http://es.dbpedia.org/resource/Yabal_Faruh>.
+
+<http://www.wikidata.org/entity/Q11692328>
+        owl:sameAs <http://es.dbpedia.org/resource/Mezquita_de_al-Ándalus>.
+
+<http://www.wikidata.org/entity/Q5669766>
+        owl:sameAs <http://es.dbpedia.org/resource/Alminar_de_San_Juan_(Córdoba)>.
+
+<http://www.wikidata.org/entity/Q5789719>
+        owl:sameAs <http://es.dbpedia.org/resource/Cortijo_de_las_Mezquitas>.
+
+<http://www.wikidata.org/entity/Q5669769>
+        owl:sameAs <http://es.dbpedia.org/resource/Alminar_de_San_Sebastián>.
+
+<http://www.wikidata.org/entity/Q5836509>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Archidona>.
+
+<http://www.wikidata.org/entity/Q3109589>
+        owl:sameAs <http://es.dbpedia.org/resource/Mezquita_de_Almonaster_la_Real>.
+
+<http://www.wikidata.org/entity/Q2879509>
+        owl:sameAs <http://es.dbpedia.org/resource/Mezquita_de_la_M-30>.
+
+<http://www.wikidata.org/entity/Q5835932>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_Cuatrovitas>.
+
+<http://www.wikidata.org/entity/Q28221700>
+        owl:sameAs <http://es.dbpedia.org/resource/Mezquita_El_Morabito>.
+
+<http://www.wikidata.org/entity/Q21501418>
+        owl:sameAs <http://es.dbpedia.org/resource/Mezquita_Central_de_Melilla>.
+
+<http://www.wikidata.org/entity/Q52008163>
+        owl:sameAs <http://es.dbpedia.org/resource/Mezquita_Muley_El-Mehdi>.
+
+<http://www.wikidata.org/entity/Q42310382>
+        owl:sameAs <http://es.dbpedia.org/resource/Mezquita_del_Buen_Acuerdo>.
+
+<http://www.wikidata.org/entity/Q52008173>
+        owl:sameAs <http://es.dbpedia.org/resource/Mezquita_Sidi_Embarek>.
+
+<http://www.wikidata.org/entity/Q43084735>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Nuestra_Señora_del_Mayor_Dolor_(Aracena)>.
+
+<http://www.wikidata.org/entity/Q32046709>
+        owl:sameAs <http://es.dbpedia.org/resource/Alminar_de_Salares>.
+
+<http://www.wikidata.org/entity/Q98501261>
+        owl:sameAs <http://es.dbpedia.org/resource/Silla_del_Moro>.
+
+<http://www.wikidata.org/entity/Q98062612>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santa_María_de_la_Granada_(Niebla)>.
+
+<http://www.wikidata.org/entity/Q108064502>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_natural_del_Islote_de_Halcones>.
+
+<http://www.wikidata.org/entity/Q108064588>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_natural_del_Montañón_Negro>.
+
+<http://www.wikidata.org/entity/Q20650983>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Las_Palomas>.
+
+<http://www.wikidata.org/entity/Q24024358>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_natural_de_los_Riscos_de_Tirajana>.
+
+<http://www.wikidata.org/entity/Q20164541>
+        owl:sameAs <http://es.dbpedia.org/resource/Saucedas_de_Buelles>.
+
+<http://www.wikidata.org/entity/Q20549235>
+        owl:sameAs <http://es.dbpedia.org/resource/Carballa_da_Rocha>.
+
+<http://www.wikidata.org/entity/Q20541881>
+        owl:sameAs <http://es.dbpedia.org/resource/Pena_Corneira>.
+
+<http://www.wikidata.org/entity/Q20548067>
+        owl:sameAs <http://es.dbpedia.org/resource/Bosque_de_Catasós>.
+
+<http://www.wikidata.org/entity/Q20872509>
+        owl:sameAs <http://es.dbpedia.org/resource/Torcas_de_Lagunaseca>.
+
+<http://www.wikidata.org/entity/Q584899>
+        owl:sameAs <http://es.dbpedia.org/resource/Encina_Tres_Patas_de_Mendaza>.
+
+<http://www.wikidata.org/entity/Q3395750>
+        owl:sameAs <http://es.dbpedia.org/resource/Isla_de_La_Deva_y_Playón_de_Bayas>.
+
+<http://www.wikidata.org/entity/Q3753808>
+        owl:sameAs <http://es.dbpedia.org/resource/Playa_de_Gulpiyuri>.
+
+<http://www.wikidata.org/entity/Q3895653>
+        owl:sameAs <http://es.dbpedia.org/resource/Secuoyas_del_Monte_Cabezón>.
+
+<http://www.wikidata.org/entity/Q5794257>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Gato>.
+
+<http://www.wikidata.org/entity/Q5763599>
+        owl:sameAs <http://es.dbpedia.org/resource/Hoya_de_Cervera>.
+
+<http://www.wikidata.org/entity/Q1094352>
+        owl:sameAs <http://es.dbpedia.org/resource/Ciudad_Encantada>.
+
+<http://www.wikidata.org/entity/Q5406247>
+        owl:sameAs <http://es.dbpedia.org/resource/Pitón_volcánico_de_Cancarix>.
+
+<http://www.wikidata.org/entity/Q2892560>
+        owl:sameAs <http://es.dbpedia.org/resource/Bosque_de_la_Bañizuela>.
+
+<http://www.wikidata.org/entity/Q3259756>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_natural_de_Los_Órganos>.
+
+<http://www.wikidata.org/entity/Q5705356>
+        owl:sameAs <http://es.dbpedia.org/resource/Arrecife_Barrera_de_Posidonia>.
+
+<http://www.wikidata.org/entity/Q5794136>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Castañar_de_Ibor>.
+
+<http://www.wikidata.org/entity/Q5794103>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_Deboyo>.
+
+<http://www.wikidata.org/entity/Q3393454>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_natural_del_Roque_de_Garachico>.
+
+<http://www.wikidata.org/entity/Q5915714>
+        owl:sameAs <http://es.dbpedia.org/resource/Infiernos_de_Loja>.
+
+<http://www.wikidata.org/entity/Q5969300>
+        owl:sameAs <http://es.dbpedia.org/resource/Laguna_del_Arquillo>.
+
+<http://www.wikidata.org/entity/Q6078938>
+        owl:sameAs <http://es.dbpedia.org/resource/Playa_de_Penarronda>.
+
+<http://www.wikidata.org/entity/Q6103194>
+        owl:sameAs <http://es.dbpedia.org/resource/Red_de_Toneyu>.
+
+<http://www.wikidata.org/entity/Q5969350>
+        owl:sameAs <http://es.dbpedia.org/resource/Lagunas_de_Cañada_del_Hoyo>.
+
+<http://www.wikidata.org/entity/Q5794299>
+        owl:sameAs <http://es.dbpedia.org/resource/Cuevas_de_Andina>.
+
+<http://www.wikidata.org/entity/Q5799057>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_natural_Riberas_del_Guadaíra>.
+
+<http://www.wikidata.org/entity/Q6023346>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_natural_de_La_Fuentona>.
+
+<http://www.wikidata.org/entity/Q6022942>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_natural_de_Montaña_Amarilla>.
+
+<http://www.wikidata.org/entity/Q5864162>
+        owl:sameAs <http://es.dbpedia.org/resource/Fortaleza_de_Chipude>.
+
+<http://www.wikidata.org/entity/Q6023342>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_natural_de_Isla_de_Terreros_e_Isla_Negra>.
+
+<http://www.wikidata.org/entity/Q6022947>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_natural_de_la_Montaña_de_Tejina>.
+
+<http://www.wikidata.org/entity/Q6023352>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_natural_de_la_Sabina_Albar>.
+
+<http://www.wikidata.org/entity/Q6023358>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_natural_del_Puente_de_Fonseca>.
+
+<http://www.wikidata.org/entity/Q30902970>
+        owl:sameAs <http://es.dbpedia.org/resource/Mirador_del_Guarda_Forestal>.
+
+<http://www.wikidata.org/entity/Q93981692>
+        owl:sameAs <http://es.dbpedia.org/resource/Encina_de_la_Peana>.
+
+<http://www.wikidata.org/entity/Q107256228>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Hundidero>.
+
+<http://www.wikidata.org/entity/Q26939797>
+        owl:sameAs <http://es.dbpedia.org/resource/Laguna_volcánica_de_Michos>.
+
+<http://www.wikidata.org/entity/Q93379376>
+        owl:sameAs <http://es.dbpedia.org/resource/Tajos_del_Alcázar>.
+
+<http://www.wikidata.org/entity/Q27865994>
+        owl:sameAs <http://es.dbpedia.org/resource/Maar_de_la_Hoya_del_Mortero>.
+
+<http://www.wikidata.org/entity/Q64524604>
+        owl:sameAs <http://es.dbpedia.org/resource/Cuevas_de_Fuentes_de_León>.
+
+<http://www.wikidata.org/entity/Q27869542>
+        owl:sameAs <http://es.dbpedia.org/resource/Los_Castillejos_Volcánicos_de_La_Bienvenida>.
+
+<http://www.wikidata.org/entity/Q30908934>
+        owl:sameAs <http://es.dbpedia.org/resource/Encina_de_la_Dehesa_de_San_Francisco>.
+
+<http://www.wikidata.org/entity/Q54799825>
+        owl:sameAs <http://es.dbpedia.org/resource/Pinar_de_Cánavas>.
+
+<http://www.wikidata.org/entity/Q64513531>
+        owl:sameAs <http://es.dbpedia.org/resource/Muela_Pinilla_y_del_Puntal>.
+
+<http://www.wikidata.org/entity/Q64533041>
+        owl:sameAs <http://es.dbpedia.org/resource/Peñas_del_Arcipreste_de_Hita>.
+
+<http://www.wikidata.org/entity/Q26940411>
+        owl:sameAs <http://es.dbpedia.org/resource/Laguna_volcánica_de_La_Alberquilla>.
+
+<http://www.wikidata.org/entity/Q28662565>
+        owl:sameAs <http://es.dbpedia.org/resource/Peñón_de_Bernal>.
+
+<http://www.wikidata.org/entity/Q29428180>
+        owl:sameAs <http://es.dbpedia.org/resource/Torcas_de_los_Palancares>.
+
+<http://www.wikidata.org/entity/Q31187802>
+        owl:sameAs <http://es.dbpedia.org/resource/Cedro_de_Bertiz>.
+
+<http://www.wikidata.org/entity/Q93759978>
+        owl:sameAs <http://es.dbpedia.org/resource/Meandro_de_Montoro>.
+
+<http://www.wikidata.org/entity/Q12265047>
+        owl:sameAs <http://es.dbpedia.org/resource/Ojo_Guareña>.
+
+<http://www.wikidata.org/entity/Q7754791>
+        owl:sameAs <http://es.dbpedia.org/resource/Carbayera_de_El_Tragamón>.
+
+<http://www.wikidata.org/entity/Q8355062>
+        owl:sameAs <http://es.dbpedia.org/resource/Desfiladero_de_las_Xanas>.
+
+<http://www.wikidata.org/entity/Q9088471>
+        owl:sameAs <http://es.dbpedia.org/resource/Torca_Urriellu>.
+
+<http://www.wikidata.org/entity/Q6127843>
+        owl:sameAs <http://es.dbpedia.org/resource/Sierra_de_Pela_y_laguna_de_Somolinos>.
+
+<http://www.wikidata.org/entity/Q6153872>
+        owl:sameAs <http://es.dbpedia.org/resource/Turbera_de_Las_Dueñas>.
+
+<http://www.wikidata.org/entity/Q8242679>
+        owl:sameAs <http://es.dbpedia.org/resource/Barranco_del_Draguillo>.
+
+<http://www.wikidata.org/entity/Q8965214>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_natural_de_las_Grutas_de_Cristal_de_Molinos>.
+
+<http://www.wikidata.org/entity/Q9035044>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_natural_del_Monte_Santiago>.
+
+<http://www.wikidata.org/entity/Q9035046>
+        owl:sameAs <http://es.dbpedia.org/resource/Nacimiento_del_río_Pitarque>.
+
+<http://www.wikidata.org/entity/Q9078011>
+        owl:sameAs <http://es.dbpedia.org/resource/Sistema_del_Trave>.
+
+<http://www.wikidata.org/entity/Q9081514>
+        owl:sameAs <http://es.dbpedia.org/resource/Tajos_de_Mogarejo>.
+
+<http://www.wikidata.org/entity/Q11693597>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_natural_del_Lago_de_la_Baña>.
+
+<http://www.wikidata.org/entity/Q20111367>
+        owl:sameAs <http://es.dbpedia.org/resource/Gredas_de_Bolnuevo>.
+
+<http://www.wikidata.org/entity/Q6140327>
+        owl:sameAs <http://es.dbpedia.org/resource/Tejo_de_Pastur>.
+
+<http://www.wikidata.org/entity/Q8253492>
+        owl:sameAs <http://es.dbpedia.org/resource/Bufón_de_Santiuste>.
+
+<http://www.wikidata.org/entity/Q6127682>
+        owl:sameAs <http://es.dbpedia.org/resource/Sierra_de_Caldereros>.
+
+<http://www.wikidata.org/entity/Q9030954>
+        owl:sameAs <http://es.dbpedia.org/resource/Meandros_del_Nora>.
+
+<http://www.wikidata.org/entity/Q19363242>
+        owl:sameAs <http://es.dbpedia.org/resource/Barrancas_de_Castrejón_y_Calaña>.
+
+<http://www.wikidata.org/entity/Q20021382>
+        owl:sameAs <http://es.dbpedia.org/resource/Cárcavas_de_Marchal>.
+
+<http://www.wikidata.org/entity/Q6129887>
+        owl:sameAs <http://es.dbpedia.org/resource/Sistema_del_Jitu>.
+
+<http://www.wikidata.org/entity/Q6132674>
+        owl:sameAs <http://es.dbpedia.org/resource/Sotos_de_la_Albolafia>.
+
+<http://www.wikidata.org/entity/Q10916042>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_natural_del_Lago_de_Truchillas>.
+
+<http://www.wikidata.org/entity/Q6154609>
+        owl:sameAs <http://es.dbpedia.org/resource/Tómbolo_de_Trafalgar>.
+
+<http://www.wikidata.org/entity/Q9096846>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimientos_de_icnitas_de_Asturias>.
+
+<http://www.wikidata.org/entity/Q10271159>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Piélago>.
+
+<http://www.wikidata.org/entity/Q9023897>
+        owl:sameAs <http://es.dbpedia.org/resource/Los_Barruecos>.
+
+<http://www.wikidata.org/entity/Q20021519>
+        owl:sameAs <http://es.dbpedia.org/resource/Pino_centenario_del_Parador_de_Mazagón>.
+
+<http://www.wikidata.org/entity/Q8193872>
+        owl:sameAs <http://es.dbpedia.org/resource/Alcornocal_de_Boxo>.
+
+<http://www.wikidata.org/entity/Q17587742>
+        owl:sameAs <http://es.dbpedia.org/resource/Barcino>.
+
+<http://www.wikidata.org/entity/Q20087591>
+        owl:sameAs <http://es.dbpedia.org/resource/Salaria>.
+
+<http://www.wikidata.org/entity/Q1501940>
+        owl:sameAs <http://es.dbpedia.org/resource/Tarraco>.
+
+<http://www.wikidata.org/entity/Q2932882>
+        owl:sameAs <http://es.dbpedia.org/resource/Caesaraugusta>.
+
+<http://www.wikidata.org/entity/Q2724682>
+        owl:sameAs <http://es.dbpedia.org/resource/Clunia>.
+
+<http://www.wikidata.org/entity/Q1583842>
+        owl:sameAs <http://es.dbpedia.org/resource/Augusta_Emerita>.
+
+<http://www.wikidata.org/entity/Q5760255>
+        owl:sameAs <http://es.dbpedia.org/resource/Celsa>.
+
+<http://www.wikidata.org/entity/Q5808431>
+        owl:sameAs <http://es.dbpedia.org/resource/Graccurris>.
+
+<http://www.wikidata.org/entity/Q5974846>
+        owl:sameAs <http://es.dbpedia.org/resource/Libisosa>.
+
+<http://www.wikidata.org/entity/Q3552479>
+        owl:sameAs <http://es.dbpedia.org/resource/Urso>.
+
+<http://www.wikidata.org/entity/Q3025521>
+        owl:sameAs <http://es.dbpedia.org/resource/Flaviobriga>.
+
+<http://www.wikidata.org/entity/Q6044750>
+        owl:sameAs <http://es.dbpedia.org/resource/Norba_Caesarina>.
+
+<http://www.wikidata.org/entity/Q9092331>
+        owl:sameAs <http://es.dbpedia.org/resource/Valentia_Edetanorum>.
+
+<http://www.wikidata.org/entity/Q1972356>
+        owl:sameAs <http://es.dbpedia.org/resource/Naveta_des_Tudons>.
+
+<http://www.wikidata.org/entity/Q30249533>
+        owl:sameAs <http://es.dbpedia.org/resource/Sepulcro_de_Santa_Eulalia>.
+
+<http://www.wikidata.org/entity/Q11922662>
+        owl:sameAs <http://es.dbpedia.org/resource/Fossar_de_la_Pedrera>.
+
+<http://www.wikidata.org/entity/Q20106994>
+        owl:sameAs <http://es.dbpedia.org/resource/Sepulcros_condales_de_la_catedral_de_Gerona>.

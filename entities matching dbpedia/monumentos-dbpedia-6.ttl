@@ -1,0 +1,3772 @@
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://www.wikidata.org/entity/Q860500>
+        owl:sameAs <http://es.dbpedia.org/resource/Bílbilis>.
+
+<http://www.wikidata.org/entity/Q1759993>
+        owl:sameAs <http://es.dbpedia.org/resource/Segóbriga>.
+
+<http://www.wikidata.org/entity/Q1501940>
+        owl:sameAs <http://es.dbpedia.org/resource/Tarraco>.
+
+<http://www.wikidata.org/entity/Q339005>
+        owl:sameAs <http://es.dbpedia.org/resource/Acci>.
+
+<http://www.wikidata.org/entity/Q20012809>
+        owl:sameAs <http://es.dbpedia.org/resource/Al-Basit>.
+
+<http://www.wikidata.org/entity/Q29574695>
+        owl:sameAs <http://es.dbpedia.org/resource/Toletum>.
+
+<http://www.wikidata.org/entity/Q47287609>
+        owl:sameAs <http://es.dbpedia.org/resource/Resa>.
+
+<http://www.wikidata.org/entity/Q47770480>
+        owl:sameAs <http://es.dbpedia.org/resource/Oba_(Cádiz)>.
+
+<http://www.wikidata.org/entity/Q42907493>
+        owl:sameAs <http://es.dbpedia.org/resource/Saiti>.
+
+<http://www.wikidata.org/entity/Q16621121>
+        owl:sameAs <http://es.dbpedia.org/resource/Portus_Magnus_(Almería)>.
+
+<http://www.wikidata.org/entity/Q16145193>
+        owl:sameAs <http://es.dbpedia.org/resource/Alce_(Celtiberia)>.
+
+<http://www.wikidata.org/entity/Q3469665>
+        owl:sameAs <http://es.dbpedia.org/resource/Salduie>.
+
+<http://www.wikidata.org/entity/Q3559084>
+        owl:sameAs <http://es.dbpedia.org/resource/Hemeroscopio>.
+
+<http://www.wikidata.org/entity/Q2429023>
+        owl:sameAs <http://es.dbpedia.org/resource/Tiermes>.
+
+<http://www.wikidata.org/entity/Q2830654>
+        owl:sameAs <http://es.dbpedia.org/resource/Alarcos>.
+
+<http://www.wikidata.org/entity/Q5045811>
+        owl:sameAs <http://es.dbpedia.org/resource/Carpia>.
+
+<http://www.wikidata.org/entity/Q5475466>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Custodia>.
+
+<http://www.wikidata.org/entity/Q3135141>
+        owl:sameAs <http://es.dbpedia.org/resource/Hibera>.
+
+<http://www.wikidata.org/entity/Q2941505>
+        owl:sameAs <http://es.dbpedia.org/resource/Castra_Cecilia>.
+
+<http://www.wikidata.org/entity/Q3555926>
+        owl:sameAs <http://es.dbpedia.org/resource/Lucentum>.
+
+<http://www.wikidata.org/entity/Q2855339>
+        owl:sameAs <http://es.dbpedia.org/resource/Zona_arqueológica_de_Medina_Elvira>.
+
+<http://www.wikidata.org/entity/Q2876083>
+        owl:sameAs <http://es.dbpedia.org/resource/Sucro_(oppidum)>.
+
+<http://www.wikidata.org/entity/Q3559159>
+        owl:sameAs <http://es.dbpedia.org/resource/Ciudad_portuaria_fenicia_La_Fonteta>.
+
+<http://www.wikidata.org/entity/Q5478271>
+        owl:sameAs <http://es.dbpedia.org/resource/Pisoraca>.
+
+<http://www.wikidata.org/entity/Q5485281>
+        owl:sameAs <http://es.dbpedia.org/resource/Urci>.
+
+<http://www.wikidata.org/entity/Q6131553>
+        owl:sameAs <http://es.dbpedia.org/resource/Solia>.
+
+<http://www.wikidata.org/entity/Q5735862>
+        owl:sameAs <http://es.dbpedia.org/resource/Bursau>.
+
+<http://www.wikidata.org/entity/Q6026356>
+        owl:sameAs <http://es.dbpedia.org/resource/Mundobriga>.
+
+<http://www.wikidata.org/entity/Q6170974>
+        owl:sameAs <http://es.dbpedia.org/resource/Cesaracosta>.
+
+<http://www.wikidata.org/entity/Q5661720>
+        owl:sameAs <http://es.dbpedia.org/resource/Al-Yazira_al-Jadra>.
+
+<http://www.wikidata.org/entity/Q5728549>
+        owl:sameAs <http://es.dbpedia.org/resource/Bilibio>.
+
+<http://www.wikidata.org/entity/Q6094009>
+        owl:sameAs <http://es.dbpedia.org/resource/Qartayannat_al-Halfa>.
+
+<http://www.wikidata.org/entity/Q5890310>
+        owl:sameAs <http://es.dbpedia.org/resource/Gádeira>.
+
+<http://www.wikidata.org/entity/Q6174172>
+        owl:sameAs <http://es.dbpedia.org/resource/Ébora>.
+
+<http://www.wikidata.org/entity/Q9061216>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_iberorromano_de_El_Monastil>.
+
+<http://www.wikidata.org/entity/Q5770857>
+        owl:sameAs <http://es.dbpedia.org/resource/Ciudad_iberorromana_de_Basti>.
+
+<http://www.wikidata.org/entity/Q5990417>
+        owl:sameAs <http://es.dbpedia.org/resource/Malaca_(Hispania)>.
+
+<http://www.wikidata.org/entity/Q5723757>
+        owl:sameAs <http://es.dbpedia.org/resource/Bayanna>.
+
+<http://www.wikidata.org/entity/Q6127391>
+        owl:sameAs <http://es.dbpedia.org/resource/Sicana>.
+
+<http://www.wikidata.org/entity/Q5728473>
+        owl:sameAs <http://es.dbpedia.org/resource/Bigerra>.
+
+<http://www.wikidata.org/entity/Q5998362>
+        owl:sameAs <http://es.dbpedia.org/resource/Ilipa>.
+
+<http://www.wikidata.org/entity/Q6083280>
+        owl:sameAs <http://es.dbpedia.org/resource/Portus_Gaditanus>.
+
+<http://www.wikidata.org/entity/Q16144734>
+        owl:sameAs <http://es.dbpedia.org/resource/Akra_Leuké>.
+
+<http://www.wikidata.org/entity/Q65394563>
+        owl:sameAs <http://es.dbpedia.org/resource/Caravis>.
+
+<http://www.wikidata.org/entity/Q104811691>
+        owl:sameAs <http://es.dbpedia.org/resource/Cerro_de_San_Esteban_(yacimiento_arqueológico)>.
+
+<http://www.wikidata.org/entity/Q104713805>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Loma_del_Prado>.
+
+<http://www.wikidata.org/entity/Q23816345>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_Molino_de_Arriba>.
+
+<http://www.wikidata.org/entity/Q9074474>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_y_termas_romanas_de_Mura>.
+
+<http://www.wikidata.org/entity/Q9086161>
+        owl:sameAs <http://es.dbpedia.org/resource/Termas_romanas_de_Torreblanca_del_Sol>.
+
+<http://www.wikidata.org/entity/Q28466499>
+        owl:sameAs <http://es.dbpedia.org/resource/Termas_romanas_de_Caldas_de_Montbui>.
+
+<http://www.wikidata.org/entity/Q9093961>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Baños_de_Valdearados>.
+
+<http://www.wikidata.org/entity/Q17602421>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_L'Espelt>.
+
+<http://www.wikidata.org/entity/Q18008813>
+        owl:sameAs <http://es.dbpedia.org/resource/Vía_del_Capsacosta>.
+
+<http://www.wikidata.org/entity/Q9093964>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Veranes>.
+
+<http://www.wikidata.org/entity/Q9093969>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_tardorromana_de_Camarzana_de_Tera>.
+
+<http://www.wikidata.org/entity/Q28501664>
+        owl:sameAs <http://es.dbpedia.org/resource/Vía_XXV>.
+
+<http://www.wikidata.org/entity/Q9093954>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Almenara-Puras>.
+
+<http://www.wikidata.org/entity/Q9093967>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_del_Palmeral>.
+
+<http://www.wikidata.org/entity/Q27107047>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_El_Vergel>.
+
+<http://www.wikidata.org/entity/Q9093962>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_Torre_Águila_(Montijo)>.
+
+<http://www.wikidata.org/entity/Q2738446>
+        owl:sameAs <http://es.dbpedia.org/resource/Vía_XVIII>.
+
+<http://www.wikidata.org/entity/Q3616686>
+        owl:sameAs <http://es.dbpedia.org/resource/Anfiteatro_y_circo_romanos_de_Barcelona>.
+
+<http://www.wikidata.org/entity/Q4966441>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Masegoso>.
+
+<http://www.wikidata.org/entity/Q3896297>
+        owl:sameAs <http://es.dbpedia.org/resource/Teatro_romano_de_Sagunto>.
+
+<http://www.wikidata.org/entity/Q4893109>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Can_Llauder>.
+
+<http://www.wikidata.org/entity/Q5474005>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_del_Paturro>.
+
+<http://www.wikidata.org/entity/Q3391963>
+        owl:sameAs <http://es.dbpedia.org/resource/Vía_XIX>.
+
+<http://www.wikidata.org/entity/Q5717423>
+        owl:sameAs <http://es.dbpedia.org/resource/Balneario_de_Alange>.
+
+<http://www.wikidata.org/entity/Q2941505>
+        owl:sameAs <http://es.dbpedia.org/resource/Castra_Cecilia>.
+
+<http://www.wikidata.org/entity/Q3079841>
+        owl:sameAs <http://es.dbpedia.org/resource/Teatro_romano_de_Tarraco>.
+
+<http://www.wikidata.org/entity/Q3849447>
+        owl:sameAs <http://es.dbpedia.org/resource/Teatro_romano_de_Málaga>.
+
+<http://www.wikidata.org/entity/Q5638033>
+        owl:sameAs <http://es.dbpedia.org/resource/Camino_Real_de_Granada_a_Cuenca>.
+
+<http://www.wikidata.org/entity/Q2525114>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_Fortunatus>.
+
+<http://www.wikidata.org/entity/Q2746482>
+        owl:sameAs <http://es.dbpedia.org/resource/Anfiteatro_de_Tarraco>.
+
+<http://www.wikidata.org/entity/Q2878537>
+        owl:sameAs <http://es.dbpedia.org/resource/Castra_Aelia>.
+
+<http://www.wikidata.org/entity/Q3328022>
+        owl:sameAs <http://es.dbpedia.org/resource/Muralla_romana_de_Zaragoza>.
+
+<http://www.wikidata.org/entity/Q5684365>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Las_Calaveras>.
+
+<http://www.wikidata.org/entity/Q5742550>
+        owl:sameAs <http://es.dbpedia.org/resource/Campamento_romano_de_El_Cincho>.
+
+<http://www.wikidata.org/entity/Q5938445>
+        owl:sameAs <http://es.dbpedia.org/resource/Termas_romanas_de_Las_Bóvedas>.
+
+<http://www.wikidata.org/entity/Q6162507>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_las_Torres>.
+
+<http://www.wikidata.org/entity/Q6073313>
+        owl:sameAs <http://es.dbpedia.org/resource/Petavonium>.
+
+<http://www.wikidata.org/entity/Q9071429>
+        owl:sameAs <http://es.dbpedia.org/resource/Ruta_Bética_Romana>.
+
+<http://www.wikidata.org/entity/Q5741626>
+        owl:sameAs <http://es.dbpedia.org/resource/Calzada_romana_de_la_Fuenfría>.
+
+<http://www.wikidata.org/entity/Q5923165>
+        owl:sameAs <http://es.dbpedia.org/resource/Vía_XXXI>.
+
+<http://www.wikidata.org/entity/Q6142722>
+        owl:sameAs <http://es.dbpedia.org/resource/Termas_romanas_de_Itálica>.
+
+<http://www.wikidata.org/entity/Q7777503>
+        owl:sameAs <http://es.dbpedia.org/resource/Teatro_romano_de_Clunia_Sulpicia>.
+
+<http://www.wikidata.org/entity/Q5757857>
+        owl:sameAs <http://es.dbpedia.org/resource/Castra_Servilia>.
+
+<http://www.wikidata.org/entity/Q6142687>
+        owl:sameAs <http://es.dbpedia.org/resource/Termas_romanas_de_San_Baudilio>.
+
+<http://www.wikidata.org/entity/Q7228143>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Segura>.
+
+<http://www.wikidata.org/entity/Q5864106>
+        owl:sameAs <http://es.dbpedia.org/resource/Foro_romano_de_Clunia_Sulpicia>.
+
+<http://www.wikidata.org/entity/Q6142718>
+        owl:sameAs <http://es.dbpedia.org/resource/Termas_romanas_de_Caesaraugusta>.
+
+<http://www.wikidata.org/entity/Q6169592>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Camino_de_Albalate>.
+
+<http://www.wikidata.org/entity/Q6169523>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_Camesa-Rebolledo>.
+
+<http://www.wikidata.org/entity/Q8199538>
+        owl:sameAs <http://es.dbpedia.org/resource/Anfiteatro_de_Segóbriga>.
+
+<http://www.wikidata.org/entity/Q6142693>
+        owl:sameAs <http://es.dbpedia.org/resource/Termas_romanas_de_Campo_Valdés>.
+
+<http://www.wikidata.org/entity/Q6162504>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_La_Quintilla>.
+
+<http://www.wikidata.org/entity/Q6162517>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_del_Rincón_de_la_Victoria>.
+
+<http://www.wikidata.org/entity/Q7362337>
+        owl:sameAs <http://es.dbpedia.org/resource/Templo_romano_de_Alcántara>.
+
+<http://www.wikidata.org/entity/Q5723880>
+        owl:sameAs <http://es.dbpedia.org/resource/Baños_termales_de_Isla_Plana>.
+
+<http://www.wikidata.org/entity/Q6142720>
+        owl:sameAs <http://es.dbpedia.org/resource/Termas_romanas_de_Clunia_Sulpicia>.
+
+<http://www.wikidata.org/entity/Q6162514>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_la_Estación>.
+
+<http://www.wikidata.org/entity/Q6162510>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Saelices_el_Chico>.
+
+<http://www.wikidata.org/entity/Q6164161>
+        owl:sameAs <http://es.dbpedia.org/resource/Vivarium_(villa)>.
+
+<http://www.wikidata.org/entity/Q7361967>
+        owl:sameAs <http://es.dbpedia.org/resource/Foro_romano_de_Mérida>.
+
+<http://www.wikidata.org/entity/Q588535>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_romano_de_Mérida>.
+
+<http://www.wikidata.org/entity/Q1818061>
+        owl:sameAs <http://es.dbpedia.org/resource/Embalse_de_Proserpina>.
+
+<http://www.wikidata.org/entity/Q1754499>
+        owl:sameAs <http://es.dbpedia.org/resource/Vía_de_la_Plata>.
+
+<http://www.wikidata.org/entity/Q2294240>
+        owl:sameAs <http://es.dbpedia.org/resource/Templo_romano_de_Vich>.
+
+<http://www.wikidata.org/entity/Q1526659>
+        owl:sameAs <http://es.dbpedia.org/resource/Teatro_romano_de_Cádiz>.
+
+<http://www.wikidata.org/entity/Q1241197>
+        owl:sameAs <http://es.dbpedia.org/resource/Vía_Augusta>.
+
+<http://www.wikidata.org/entity/Q1227129>
+        owl:sameAs <http://es.dbpedia.org/resource/Vía_XXXIV>.
+
+<http://www.wikidata.org/entity/Q1115216>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_La_Tejada>.
+
+<http://www.wikidata.org/entity/Q1146645>
+        owl:sameAs <http://es.dbpedia.org/resource/Vía_Domitia>.
+
+<http://www.wikidata.org/entity/Q766555>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Carranque>.
+
+<http://www.wikidata.org/entity/Q967119>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Alconétar>.
+
+<http://www.wikidata.org/entity/Q996197>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Alcántara>.
+
+<http://www.wikidata.org/entity/Q1053521>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa-mausoleo_de_Centcelles>.
+
+<http://www.wikidata.org/entity/Q98498508>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Salar>.
+
+<http://www.wikidata.org/entity/Q113515817>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Vinamargo>.
+
+<http://www.wikidata.org/entity/Q97634205>
+        owl:sameAs <http://es.dbpedia.org/resource/Termas_romanas_de_Alameda>.
+
+<http://www.wikidata.org/entity/Q69424698>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Los_Villares>.
+
+<http://www.wikidata.org/entity/Q97642035>
+        owl:sameAs <http://es.dbpedia.org/resource/Conjunto_termal_de_Herrera>.
+
+<http://www.wikidata.org/entity/Q107507288>
+        owl:sameAs <http://es.dbpedia.org/resource/Templo_de_Isis_(Baelo_Claudia)>.
+
+<http://www.wikidata.org/entity/Q60617274>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Liédena>.
+
+<http://www.wikidata.org/entity/Q60647391>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Las_Musas>.
+
+<http://www.wikidata.org/entity/Q38102115>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Paterna>.
+
+<http://www.wikidata.org/entity/Q42669853>
+        owl:sameAs <http://es.dbpedia.org/resource/Termas_romanas_de_Lucentum>.
+
+<http://www.wikidata.org/entity/Q42667868>
+        owl:sameAs <http://es.dbpedia.org/resource/Termas_romanas_de_Ampurias>.
+
+<http://www.wikidata.org/entity/Q51907337>
+        owl:sameAs <http://es.dbpedia.org/resource/Domus_de_Terpsícore_(Valencia)>.
+
+<http://www.wikidata.org/entity/Q52144654>
+        owl:sameAs <http://es.dbpedia.org/resource/Los_Bañales>.
+
+<http://www.wikidata.org/entity/Q42658737>
+        owl:sameAs <http://es.dbpedia.org/resource/Termas_romanas_de_Baelo_Claudia>.
+
+<http://www.wikidata.org/entity/Q31197165>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_Cornelius>.
+
+<http://www.wikidata.org/entity/Q42667596>
+        owl:sameAs <http://es.dbpedia.org/resource/Termas_romanas_de_Valentia>.
+
+<http://www.wikidata.org/entity/Q30899528>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_del_Ramalete>.
+
+<http://www.wikidata.org/entity/Q39080918>
+        owl:sameAs <http://es.dbpedia.org/resource/Termas_romanas_de_Valduno>.
+
+<http://www.wikidata.org/entity/Q42654887>
+        owl:sameAs <http://es.dbpedia.org/resource/Termas_romanas_de_Asturica_Augusta>.
+
+<http://www.wikidata.org/entity/Q42673362>
+        owl:sameAs <http://es.dbpedia.org/resource/Termas_romanas_de_Augusta_Emerita>.
+
+<http://www.wikidata.org/entity/Q6169529>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_Covalta>.
+
+<http://www.wikidata.org/entity/Q6169507>
+        owl:sameAs <http://es.dbpedia.org/resource/Cuatro_Puertas>.
+
+<http://www.wikidata.org/entity/Q6169521>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_Cabezo_Lucero>.
+
+<http://www.wikidata.org/entity/Q6169531>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_Doña_Blanca>.
+
+<http://www.wikidata.org/entity/Q6169495>
+        owl:sameAs <http://es.dbpedia.org/resource/Yabal_Faruh>.
+
+<http://www.wikidata.org/entity/Q6169523>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_Camesa-Rebolledo>.
+
+<http://www.wikidata.org/entity/Q6169527>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_Cerro_de_la_Virgen>.
+
+<http://www.wikidata.org/entity/Q6169517>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_El_Villar>.
+
+<http://www.wikidata.org/entity/Q6162517>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_del_Rincón_de_la_Victoria>.
+
+<http://www.wikidata.org/entity/Q6169511>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_El_Vizcaíno_y_mausoleo_de_Layos>.
+
+<http://www.wikidata.org/entity/Q6162514>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_la_Estación>.
+
+<http://www.wikidata.org/entity/Q6162510>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Saelices_el_Chico>.
+
+<http://www.wikidata.org/entity/Q6169514>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_Cerro_de_la_Mora>.
+
+<http://www.wikidata.org/entity/Q6169526>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_Cercadilla>.
+
+<http://www.wikidata.org/entity/Q6022371>
+        owl:sameAs <http://es.dbpedia.org/resource/Monte_Cildá_(Palencia)>.
+
+<http://www.wikidata.org/entity/Q6039299>
+        owl:sameAs <http://es.dbpedia.org/resource/Necrópolis_de_Las_Chaperas>.
+
+<http://www.wikidata.org/entity/Q6062471>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimientos_arqueológicos_de_la_Araña>.
+
+<http://www.wikidata.org/entity/Q6039310>
+        owl:sameAs <http://es.dbpedia.org/resource/Necrópolis_de_Trayamar>.
+
+<http://www.wikidata.org/entity/Q6039321>
+        owl:sameAs <http://es.dbpedia.org/resource/Necrópolis_megalítica_de_Gádor>.
+
+<http://www.wikidata.org/entity/Q6041035>
+        owl:sameAs <http://es.dbpedia.org/resource/Nertobriga_Concordia_Iulia>.
+
+<http://www.wikidata.org/entity/Q6062393>
+        owl:sameAs <http://es.dbpedia.org/resource/Parque_Moret>.
+
+<http://www.wikidata.org/entity/Q6022501>
+        owl:sameAs <http://es.dbpedia.org/resource/Monte_Valonsadero>.
+
+<http://www.wikidata.org/entity/Q6039279>
+        owl:sameAs <http://es.dbpedia.org/resource/Necrópolis_de_Alcaide>.
+
+<http://www.wikidata.org/entity/Q6039303>
+        owl:sameAs <http://es.dbpedia.org/resource/Necrópolis_de_Los_Villares>.
+
+<http://www.wikidata.org/entity/Q6001787>
+        owl:sameAs <http://es.dbpedia.org/resource/Marroquíes_Bajos>.
+
+<http://www.wikidata.org/entity/Q6023312>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Ambrosio>.
+
+<http://www.wikidata.org/entity/Q6039283>
+        owl:sameAs <http://es.dbpedia.org/resource/Necrópolis_de_Arteara>.
+
+<http://www.wikidata.org/entity/Q6039307>
+        owl:sameAs <http://es.dbpedia.org/resource/Necrópolis_de_Santa_Mariña>.
+
+<http://www.wikidata.org/entity/Q6044750>
+        owl:sameAs <http://es.dbpedia.org/resource/Norba_Caesarina>.
+
+<http://www.wikidata.org/entity/Q5995080>
+        owl:sameAs <http://es.dbpedia.org/resource/Maqbara_de_Santa_Clara>.
+
+<http://www.wikidata.org/entity/Q6009698>
+        owl:sameAs <http://es.dbpedia.org/resource/Mellaria>.
+
+<http://www.wikidata.org/entity/Q6034413>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Cobre>.
+
+<http://www.wikidata.org/entity/Q5884310>
+        owl:sameAs <http://es.dbpedia.org/resource/Gran_Dolina>.
+
+<http://www.wikidata.org/entity/Q5968701>
+        owl:sameAs <http://es.dbpedia.org/resource/Lacipo>.
+
+<http://www.wikidata.org/entity/Q5974846>
+        owl:sameAs <http://es.dbpedia.org/resource/Libisosa>.
+
+<http://www.wikidata.org/entity/Q5938445>
+        owl:sameAs <http://es.dbpedia.org/resource/Termas_romanas_de_Las_Bóvedas>.
+
+<http://www.wikidata.org/entity/Q5965306>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Terrera_del_Reloj>.
+
+<http://www.wikidata.org/entity/Q5962169>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Bastida_de_Totana>.
+
+<http://www.wikidata.org/entity/Q5962795>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Cava>.
+
+<http://www.wikidata.org/entity/Q5968727>
+        owl:sameAs <http://es.dbpedia.org/resource/Laderas_de_Morana>.
+
+<http://www.wikidata.org/entity/Q5970278>
+        owl:sameAs <http://es.dbpedia.org/resource/Las_Capacheras>.
+
+<http://www.wikidata.org/entity/Q5861900>
+        owl:sameAs <http://es.dbpedia.org/resource/Figueral_de_Son_Real>.
+
+<http://www.wikidata.org/entity/Q5864162>
+        owl:sameAs <http://es.dbpedia.org/resource/Fortaleza_de_Chipude>.
+
+<http://www.wikidata.org/entity/Q5965400>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Ulaña>.
+
+<http://www.wikidata.org/entity/Q5982540>
+        owl:sameAs <http://es.dbpedia.org/resource/Lugarico_Viejo_(Antas)>.
+
+<http://www.wikidata.org/entity/Q5870412>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuenteungrillo>.
+
+<http://www.wikidata.org/entity/Q5964443>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Motilla_(Carmona)>.
+
+<http://www.wikidata.org/entity/Q5965533>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Vispesa>.
+
+<http://www.wikidata.org/entity/Q5970308>
+        owl:sameAs <http://es.dbpedia.org/resource/Las_Cavenes>.
+
+<http://www.wikidata.org/entity/Q5977833>
+        owl:sameAs <http://es.dbpedia.org/resource/Lloma_de_Betxí>.
+
+<http://www.wikidata.org/entity/Q5979966>
+        owl:sameAs <http://es.dbpedia.org/resource/Los_Mercados_(Duratón)>.
+
+<http://www.wikidata.org/entity/Q5908877>
+        owl:sameAs <http://es.dbpedia.org/resource/Iesso>.
+
+<http://www.wikidata.org/entity/Q5911471>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santa_Ana_(Mainar)>.
+
+<http://www.wikidata.org/entity/Q5965334>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Torre_(Sax)>.
+
+<http://www.wikidata.org/entity/Q5978571>
+        owl:sameAs <http://es.dbpedia.org/resource/Loma_de_Galera>.
+
+<http://www.wikidata.org/entity/Q6062609>
+        owl:sameAs <http://es.dbpedia.org/resource/Parque_arqueológico_de_San_Esteban_(Cuéllar)>.
+
+<http://www.wikidata.org/entity/Q6073978>
+        owl:sameAs <http://es.dbpedia.org/resource/Peñalosa_(Baños_de_la_Encina)>.
+
+<http://www.wikidata.org/entity/Q6074007>
+        owl:sameAs <http://es.dbpedia.org/resource/Peñas_de_los_Gitanos>.
+
+<http://www.wikidata.org/entity/Q6077155>
+        owl:sameAs <http://es.dbpedia.org/resource/Pla_de_l'Arc>.
+
+<http://www.wikidata.org/entity/Q6131391>
+        owl:sameAs <http://es.dbpedia.org/resource/Solana_del_Zamborino>.
+
+<http://www.wikidata.org/entity/Q6132048>
+        owl:sameAs <http://es.dbpedia.org/resource/Son_Corró>.
+
+<http://www.wikidata.org/entity/Q6073313>
+        owl:sameAs <http://es.dbpedia.org/resource/Petavonium>.
+
+<http://www.wikidata.org/entity/Q6081041>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_amurallado_Cova_Foradà>.
+
+<http://www.wikidata.org/entity/Q6091748>
+        owl:sameAs <http://es.dbpedia.org/resource/Puerta_del_Almocábar>.
+
+<http://www.wikidata.org/entity/Q6074003>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_Bermeja_(Jaén)>.
+
+<http://www.wikidata.org/entity/Q6067920>
+        owl:sameAs <http://es.dbpedia.org/resource/Pecio_Gandolfo>.
+
+<http://www.wikidata.org/entity/Q6083481>
+        owl:sameAs <http://es.dbpedia.org/resource/Postoloboso>.
+
+<http://www.wikidata.org/entity/Q6094009>
+        owl:sameAs <http://es.dbpedia.org/resource/Qartayannat_al-Halfa>.
+
+<http://www.wikidata.org/entity/Q6114634>
+        owl:sameAs <http://es.dbpedia.org/resource/Rábita_Califal_de_las_Dunas_de_Guardamar>.
+
+<http://www.wikidata.org/entity/Q6081036>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_ibérico_del_Pico_de_los_Ajos>.
+
+<http://www.wikidata.org/entity/Q6083476>
+        owl:sameAs <http://es.dbpedia.org/resource/Postigo_del_Aceite_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q6132042>
+        owl:sameAs <http://es.dbpedia.org/resource/Son_Boronat_(yacimiento)>.
+
+<http://www.wikidata.org/entity/Q6091678>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_y_calzada_romana_de_Becilla_de_Valderaduey>.
+
+<http://www.wikidata.org/entity/Q6092629>
+        owl:sameAs <http://es.dbpedia.org/resource/Puig_de_Sa_Morisca_(Yacimiento_arqueológico)>.
+
+<http://www.wikidata.org/entity/Q6122143>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_El_Saucedo>.
+
+<http://www.wikidata.org/entity/Q6075258>
+        owl:sameAs <http://es.dbpedia.org/resource/Piedra_Escrita>.
+
+<http://www.wikidata.org/entity/Q6129295>
+        owl:sameAs <http://es.dbpedia.org/resource/Singilia_Barba>.
+
+<http://www.wikidata.org/entity/Q6073981>
+        owl:sameAs <http://es.dbpedia.org/resource/Peñalosa_(Escacena_del_Campo)>.
+
+<http://www.wikidata.org/entity/Q6121489>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_de_Almallutx>.
+
+<http://www.wikidata.org/entity/Q6140277>
+        owl:sameAs <http://es.dbpedia.org/resource/Tejada_la_Nueva>.
+
+<http://www.wikidata.org/entity/Q6140279>
+        owl:sameAs <http://es.dbpedia.org/resource/Tejada_la_Vieja>.
+
+<http://www.wikidata.org/entity/Q6158704>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_Valdeherrera>.
+
+<http://www.wikidata.org/entity/Q6162507>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_las_Torres>.
+
+<http://www.wikidata.org/entity/Q6162367>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_Romana_de_Las_Gabias>.
+
+<http://www.wikidata.org/entity/Q6141961>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_íbero_del_Molino_de_Espigol>.
+
+<http://www.wikidata.org/entity/Q6142725>
+        owl:sameAs <http://es.dbpedia.org/resource/Termas_romanas_de_Lecrín>.
+
+<http://www.wikidata.org/entity/Q6141053>
+        owl:sameAs <http://es.dbpedia.org/resource/Templo_de_Trajano_de_Itálica>.
+
+<http://www.wikidata.org/entity/Q6142722>
+        owl:sameAs <http://es.dbpedia.org/resource/Termas_romanas_de_Itálica>.
+
+<http://www.wikidata.org/entity/Q6158255>
+        owl:sameAs <http://es.dbpedia.org/resource/Uxama_Argaela>.
+
+<http://www.wikidata.org/entity/Q6142687>
+        owl:sameAs <http://es.dbpedia.org/resource/Termas_romanas_de_San_Baudilio>.
+
+<http://www.wikidata.org/entity/Q6158705>
+        owl:sameAs <http://es.dbpedia.org/resource/Valdeherreros-La_Azafuera>.
+
+<http://www.wikidata.org/entity/Q6158926>
+        owl:sameAs <http://es.dbpedia.org/resource/Valeria_(ciudad_romana)>.
+
+<http://www.wikidata.org/entity/Q6142718>
+        owl:sameAs <http://es.dbpedia.org/resource/Termas_romanas_de_Caesaraugusta>.
+
+<http://www.wikidata.org/entity/Q6143471>
+        owl:sameAs <http://es.dbpedia.org/resource/Tesorillo_de_la_Algaida>.
+
+<http://www.wikidata.org/entity/Q6142693>
+        owl:sameAs <http://es.dbpedia.org/resource/Termas_romanas_de_Campo_Valdés>.
+
+<http://www.wikidata.org/entity/Q6162502>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_El_Ruedo>.
+
+<http://www.wikidata.org/entity/Q6162504>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_La_Quintilla>.
+
+<http://www.wikidata.org/entity/Q6142720>
+        owl:sameAs <http://es.dbpedia.org/resource/Termas_romanas_de_Clunia_Sulpicia>.
+
+<http://www.wikidata.org/entity/Q6160090>
+        owl:sameAs <http://es.dbpedia.org/resource/Vellica>.
+
+<http://www.wikidata.org/entity/Q5812516>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_del_Portillo_de_las_Cortes>.
+
+<http://www.wikidata.org/entity/Q5822831>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Picarcho>.
+
+<http://www.wikidata.org/entity/Q5821292>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_El_Castillón>.
+
+<http://www.wikidata.org/entity/Q5821278>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Castellón_Alto>.
+
+<http://www.wikidata.org/entity/Q5832402>
+        owl:sameAs <http://es.dbpedia.org/resource/Enclave_arqueológico_de_Remedios>.
+
+<http://www.wikidata.org/entity/Q5821285>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Castillejo_de_Nívar_y_Güevéjar>.
+
+<http://www.wikidata.org/entity/Q5821985>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Gallumbar>.
+
+<http://www.wikidata.org/entity/Q5822261>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Junquillo>.
+
+<http://www.wikidata.org/entity/Q5822823>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Peñón_de_la_Reina_(Alboloduy)>.
+
+<http://www.wikidata.org/entity/Q5823717>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Zafrín>.
+
+<http://www.wikidata.org/entity/Q5834314>
+        owl:sameAs <http://es.dbpedia.org/resource/Entorno_del_Castillo_de_la_Duquesa>.
+
+<http://www.wikidata.org/entity/Q5821358>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Cerrón_(Dalías)>.
+
+<http://www.wikidata.org/entity/Q5822827>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Peñón_de_las_Juntas>.
+
+<http://www.wikidata.org/entity/Q5812512>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_la_Velilla>.
+
+<http://www.wikidata.org/entity/Q5820875>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Argar_y_La_Gerundia>.
+
+<http://www.wikidata.org/entity/Q5821283>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Castillejo_de_El_Villar>.
+
+<http://www.wikidata.org/entity/Q5808431>
+        owl:sameAs <http://es.dbpedia.org/resource/Graccurris>.
+
+<http://www.wikidata.org/entity/Q5794138>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Conde>.
+
+<http://www.wikidata.org/entity/Q5794208>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_la_Victoria>.
+
+<http://www.wikidata.org/entity/Q5794278>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Retoret>.
+
+<http://www.wikidata.org/entity/Q5794250>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Boquete_de_Zafarraya>.
+
+<http://www.wikidata.org/entity/Q5794327>
+        owl:sameAs <http://es.dbpedia.org/resource/Cuevas_de_la_Lluera>.
+
+<http://www.wikidata.org/entity/Q5812497>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_San_Adrián>.
+
+<http://www.wikidata.org/entity/Q5807001>
+        owl:sameAs <http://es.dbpedia.org/resource/Genó>.
+
+<http://www.wikidata.org/entity/Q5794175>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Santa_Ana>.
+
+<http://www.wikidata.org/entity/Q5812480>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_Azután>.
+
+<http://www.wikidata.org/entity/Q5812507>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_la_Casa_del_Moro>.
+
+<http://www.wikidata.org/entity/Q5802794>
+        owl:sameAs <http://es.dbpedia.org/resource/Deobrígula>.
+
+<http://www.wikidata.org/entity/Q5794281>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Sol>.
+
+<http://www.wikidata.org/entity/Q5812492>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_La_Ermita>.
+
+<http://www.wikidata.org/entity/Q5742550>
+        owl:sameAs <http://es.dbpedia.org/resource/Campamento_romano_de_El_Cincho>.
+
+<http://www.wikidata.org/entity/Q5749247>
+        owl:sameAs <http://es.dbpedia.org/resource/Carissa_Aurelia>.
+
+<http://www.wikidata.org/entity/Q5756797>
+        owl:sameAs <http://es.dbpedia.org/resource/Castellazos>.
+
+<http://www.wikidata.org/entity/Q5710505>
+        owl:sameAs <http://es.dbpedia.org/resource/Ategua>.
+
+<http://www.wikidata.org/entity/Q5757302>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_El_Collao>.
+
+<http://www.wikidata.org/entity/Q5757964>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Abiada>.
+
+<http://www.wikidata.org/entity/Q5717423>
+        owl:sameAs <http://es.dbpedia.org/resource/Balneario_de_Alange>.
+
+<http://www.wikidata.org/entity/Q5757440>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Miranda_(Zaragoza)>.
+
+<http://www.wikidata.org/entity/Q5757512>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Pedraja>.
+
+<http://www.wikidata.org/entity/Q5754951>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_Orfeo>.
+
+<http://www.wikidata.org/entity/Q5757223>
+        owl:sameAs <http://es.dbpedia.org/resource/Castrotorafe>.
+
+<http://www.wikidata.org/entity/Q5719362>
+        owl:sameAs <http://es.dbpedia.org/resource/Barbesula>.
+
+<http://www.wikidata.org/entity/Q5755665>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_romana_de_la_calle_Añón_de_Zaragoza>.
+
+<http://www.wikidata.org/entity/Q5757574>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_San_Miguel_(Almuñécar)>.
+
+<http://www.wikidata.org/entity/Q5756789>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_íbero_Castellar_de_Meca>.
+
+<http://www.wikidata.org/entity/Q5723880>
+        owl:sameAs <http://es.dbpedia.org/resource/Baños_termales_de_Isla_Plana>.
+
+<http://www.wikidata.org/entity/Q5724470>
+        owl:sameAs <http://es.dbpedia.org/resource/Bedunia>.
+
+<http://www.wikidata.org/entity/Q5478271>
+        owl:sameAs <http://es.dbpedia.org/resource/Pisoraca>.
+
+<http://www.wikidata.org/entity/Q5558060>
+        owl:sameAs <http://es.dbpedia.org/resource/Naveta_Alemany>.
+
+<http://www.wikidata.org/entity/Q5709588>
+        owl:sameAs <http://es.dbpedia.org/resource/Asta_Regia>.
+
+<http://www.wikidata.org/entity/Q5403600>
+        owl:sameAs <http://es.dbpedia.org/resource/Borjabudo>.
+
+<http://www.wikidata.org/entity/Q5647632>
+        owl:sameAs <http://es.dbpedia.org/resource/Las_Angosturas>.
+
+<http://www.wikidata.org/entity/Q5702349>
+        owl:sameAs <http://es.dbpedia.org/resource/Aratispi>.
+
+<http://www.wikidata.org/entity/Q5703228>
+        owl:sameAs <http://es.dbpedia.org/resource/Arcóbriga>.
+
+<http://www.wikidata.org/entity/Q5703178>
+        owl:sameAs <http://es.dbpedia.org/resource/Arco_de_la_Rosa>.
+
+<http://www.wikidata.org/entity/Q5412414>
+        owl:sameAs <http://es.dbpedia.org/resource/Monte_Areo>.
+
+<http://www.wikidata.org/entity/Q5474005>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_del_Paturro>.
+
+<http://www.wikidata.org/entity/Q5562219>
+        owl:sameAs <http://es.dbpedia.org/resource/Obúlcula>.
+
+<http://www.wikidata.org/entity/Q5666528>
+        owl:sameAs <http://es.dbpedia.org/resource/Alfar_romano_del_Cerro_de_Ceuta>.
+
+<http://www.wikidata.org/entity/Q5696224>
+        owl:sameAs <http://es.dbpedia.org/resource/Campamento_romano_de_La_Cerca>.
+
+<http://www.wikidata.org/entity/Q5404425>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_Valencia_la_Vieja>.
+
+<http://www.wikidata.org/entity/Q5553707>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_la_Vega_Baja_de_Toledo>.
+
+<http://www.wikidata.org/entity/Q5664103>
+        owl:sameAs <http://es.dbpedia.org/resource/Alcazaba_y_Castillo_de_Tudela>.
+
+<http://www.wikidata.org/entity/Q5703129>
+        owl:sameAs <http://es.dbpedia.org/resource/Arco_de_Belén>.
+
+<http://www.wikidata.org/entity/Q5703180>
+        owl:sameAs <http://es.dbpedia.org/resource/Arco_de_los_Gigantes>.
+
+<http://www.wikidata.org/entity/Q5560440>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_íbero_de_La_Esquerda>.
+
+<http://www.wikidata.org/entity/Q5554293>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_de_Los_Saladares>.
+
+<http://www.wikidata.org/entity/Q5557555>
+        owl:sameAs <http://es.dbpedia.org/resource/Zona_arqueológica_de_Ramales>.
+
+<http://www.wikidata.org/entity/Q5703175>
+        owl:sameAs <http://es.dbpedia.org/resource/Arco_de_la_Pastora>.
+
+<http://www.wikidata.org/entity/Q5655377>
+        owl:sameAs <http://es.dbpedia.org/resource/Abrigo_del_Cubular>.
+
+<http://www.wikidata.org/entity/Q5689658>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_ibérico_del_Cerro_de_la_Cruz>.
+
+<http://www.wikidata.org/entity/Q5757973>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Castillo>.
+
+<http://www.wikidata.org/entity/Q5757988>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Las_Merchanas>.
+
+<http://www.wikidata.org/entity/Q5757989>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Las_Paredejas>.
+
+<http://www.wikidata.org/entity/Q5758010>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_del_Pico_del_Hacha>.
+
+<http://www.wikidata.org/entity/Q5760255>
+        owl:sameAs <http://es.dbpedia.org/resource/Celsa>.
+
+<http://www.wikidata.org/entity/Q5763446>
+        owl:sameAs <http://es.dbpedia.org/resource/Cerro_del_Villar>.
+
+<http://www.wikidata.org/entity/Q5770832>
+        owl:sameAs <http://es.dbpedia.org/resource/Ciudad_de_Vascos>.
+
+<http://www.wikidata.org/entity/Q5789709>
+        owl:sameAs <http://es.dbpedia.org/resource/Cortijo_de_Aparicio_el_Grande>.
+
+<http://www.wikidata.org/entity/Q5793293>
+        owl:sameAs <http://es.dbpedia.org/resource/Cuarto_Roble>.
+
+<http://www.wikidata.org/entity/Q5757976>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_El_Castillo>.
+
+<http://www.wikidata.org/entity/Q5760449>
+        owl:sameAs <http://es.dbpedia.org/resource/Cenobio_de_Valerón>.
+
+<http://www.wikidata.org/entity/Q5768702>
+        owl:sameAs <http://es.dbpedia.org/resource/Ciavieja>.
+
+<http://www.wikidata.org/entity/Q5757981>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Hocincavero>.
+
+<http://www.wikidata.org/entity/Q5757986>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_la_Loma>.
+
+<http://www.wikidata.org/entity/Q5785784>
+        owl:sameAs <http://es.dbpedia.org/resource/Convento_de_San_Lázaro>.
+
+<http://www.wikidata.org/entity/Q5757967>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_As_Muradellas>.
+
+<http://www.wikidata.org/entity/Q5757992>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Noega>.
+
+<http://www.wikidata.org/entity/Q5757994>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_San_Mamede>.
+
+<http://www.wikidata.org/entity/Q5785332>
+        owl:sameAs <http://es.dbpedia.org/resource/Contrebia_Carbica>.
+
+<http://www.wikidata.org/entity/Q5758001>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_los_Castillejos_(Sanchorreja)>.
+
+<http://www.wikidata.org/entity/Q5758012>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_del_Raso>.
+
+<http://www.wikidata.org/entity/Q5763428>
+        owl:sameAs <http://es.dbpedia.org/resource/Cerro_del_Nacimiento>.
+
+<http://www.wikidata.org/entity/Q5789693>
+        owl:sameAs <http://es.dbpedia.org/resource/Cortijo_Nuevo>.
+
+<http://www.wikidata.org/entity/Q5794127>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Arlanpe>.
+
+<http://www.wikidata.org/entity/Q5757991>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Las_Rabas>.
+
+<http://www.wikidata.org/entity/Q5757998>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_las_Labradas>.
+
+<http://www.wikidata.org/entity/Q5758040>
+        owl:sameAs <http://es.dbpedia.org/resource/Castros_del_monte_Dobra>.
+
+<http://www.wikidata.org/entity/Q5763390>
+        owl:sameAs <http://es.dbpedia.org/resource/Oppidum_íbero_de_Puente_Tablas>.
+
+<http://www.wikidata.org/entity/Q211252>
+        owl:sameAs <http://es.dbpedia.org/resource/Medina_Azahara>.
+
+<http://www.wikidata.org/entity/Q331404>
+        owl:sameAs <http://es.dbpedia.org/resource/Abric_Romaní>.
+
+<http://www.wikidata.org/entity/Q373865>
+        owl:sameAs <http://es.dbpedia.org/resource/Mainake>.
+
+<http://www.wikidata.org/entity/Q371063>
+        owl:sameAs <http://es.dbpedia.org/resource/Calatrava_la_Vieja>.
+
+<http://www.wikidata.org/entity/Q370336>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_amurallado_de_s'Hospitalet_Vell>.
+
+<http://www.wikidata.org/entity/Q339005>
+        owl:sameAs <http://es.dbpedia.org/resource/Acci>.
+
+<http://www.wikidata.org/entity/Q23747>
+        owl:sameAs <http://es.dbpedia.org/resource/Zona_arqueológica_del_Pla_de_Nadal>.
+
+<http://www.wikidata.org/entity/Q129913>
+        owl:sameAs <http://es.dbpedia.org/resource/Parque_Arqueológico_de_las_Murallas_Meriníes_de_Algeciras>.
+
+<http://www.wikidata.org/entity/Q963503>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_Viera>.
+
+<http://www.wikidata.org/entity/Q965924>
+        owl:sameAs <http://es.dbpedia.org/resource/Medina_Alzahira>.
+
+<http://www.wikidata.org/entity/Q930753>
+        owl:sameAs <http://es.dbpedia.org/resource/Arco_romano_de_Cabanes>.
+
+<http://www.wikidata.org/entity/Q927907>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_de_Cala_Morell>.
+
+<http://www.wikidata.org/entity/Q899302>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Altamira_y_arte_rupestre_paleolítico_de_la_cornisa_cantábrica>.
+
+<http://www.wikidata.org/entity/Q923894>
+        owl:sameAs <http://es.dbpedia.org/resource/Sitio_arqueológico_de_Atapuerca>.
+
+<http://www.wikidata.org/entity/Q1798767>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_La_Draga>.
+
+<http://www.wikidata.org/entity/Q1985588>
+        owl:sameAs <http://es.dbpedia.org/resource/Circo_romano_de_Toledo>.
+
+<http://www.wikidata.org/entity/Q1984155>
+        owl:sameAs <http://es.dbpedia.org/resource/Circo_romano_de_Mérida>.
+
+<http://www.wikidata.org/entity/Q1799448>
+        owl:sameAs <http://es.dbpedia.org/resource/Labitolosa>.
+
+<http://www.wikidata.org/entity/Q1798995>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Pared_de_los_Moros>.
+
+<http://www.wikidata.org/entity/Q2060316>
+        owl:sameAs <http://es.dbpedia.org/resource/Cancho_Roano>.
+
+<http://www.wikidata.org/entity/Q798018>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_El_Pendo>.
+
+<http://www.wikidata.org/entity/Q781932>
+        owl:sameAs <http://es.dbpedia.org/resource/Barranco_de_Guayadeque>.
+
+<http://www.wikidata.org/entity/Q860500>
+        owl:sameAs <http://es.dbpedia.org/resource/Bílbilis>.
+
+<http://www.wikidata.org/entity/Q888390>
+        owl:sameAs <http://es.dbpedia.org/resource/Bobastro>.
+
+<http://www.wikidata.org/entity/Q796596>
+        owl:sameAs <http://es.dbpedia.org/resource/Iruña-Veleia>.
+
+<http://www.wikidata.org/entity/Q766555>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Carranque>.
+
+<http://www.wikidata.org/entity/Q810130>
+        owl:sameAs <http://es.dbpedia.org/resource/Basílica_de_Son_Peretó>.
+
+<http://www.wikidata.org/entity/Q618458>
+        owl:sameAs <http://es.dbpedia.org/resource/Basílica_de_Sa_Carrotja>.
+
+<http://www.wikidata.org/entity/Q429431>
+        owl:sameAs <http://es.dbpedia.org/resource/Cuevas_del_Drach>.
+
+<http://www.wikidata.org/entity/Q619588>
+        owl:sameAs <http://es.dbpedia.org/resource/Pirámides_de_Güímar>.
+
+<http://www.wikidata.org/entity/Q455933>
+        owl:sameAs <http://es.dbpedia.org/resource/Amaya_(ciudad)>.
+
+<http://www.wikidata.org/entity/Q597955>
+        owl:sameAs <http://es.dbpedia.org/resource/Capilla_y_necrópolis_de_San_Victor_de_Barxacova>.
+
+<http://www.wikidata.org/entity/Q475423>
+        owl:sameAs <http://es.dbpedia.org/resource/Ciudad_íbera_de_Ullastret>.
+
+<http://www.wikidata.org/entity/Q478482>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Praileaitz>.
+
+<http://www.wikidata.org/entity/Q389930>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Elviña>.
+
+<http://www.wikidata.org/entity/Q549699>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Can_Terrés>.
+
+<http://www.wikidata.org/entity/Q631051>
+        owl:sameAs <http://es.dbpedia.org/resource/Arco_de_Bará>.
+
+<http://www.wikidata.org/entity/Q658893>
+        owl:sameAs <http://es.dbpedia.org/resource/Itálica>.
+
+<http://www.wikidata.org/entity/Q651415>
+        owl:sameAs <http://es.dbpedia.org/resource/Anfiteatro_de_Cartagena>.
+
+<http://www.wikidata.org/entity/Q696803>
+        owl:sameAs <http://es.dbpedia.org/resource/Las_Médulas>.
+
+<http://www.wikidata.org/entity/Q1323802>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Argar>.
+
+<http://www.wikidata.org/entity/Q1236430>
+        owl:sameAs <http://es.dbpedia.org/resource/Recópolis>.
+
+<http://www.wikidata.org/entity/Q1348600>
+        owl:sameAs <http://es.dbpedia.org/resource/Ercávica>.
+
+<http://www.wikidata.org/entity/Q1143227>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_los_Aviones>.
+
+<http://www.wikidata.org/entity/Q1049918>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Coaña>.
+
+<http://www.wikidata.org/entity/Q1049927>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Yecla_la_Vieja>.
+
+<http://www.wikidata.org/entity/Q1140249>
+        owl:sameAs <http://es.dbpedia.org/resource/Templo_de_Debod>.
+
+<http://www.wikidata.org/entity/Q1115216>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_La_Tejada>.
+
+<http://www.wikidata.org/entity/Q1137965>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_las_Calaveras>.
+
+<http://www.wikidata.org/entity/Q1034758>
+        owl:sameAs <http://es.dbpedia.org/resource/Capocorb_Vell>.
+
+<http://www.wikidata.org/entity/Q1049903>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Baroña>.
+
+<http://www.wikidata.org/entity/Q1143210>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_Antón>.
+
+<http://www.wikidata.org/entity/Q1053521>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa-mausoleo_de_Centcelles>.
+
+<http://www.wikidata.org/entity/Q1137979>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_de_Son_Mercer_de_Baix>.
+
+<http://www.wikidata.org/entity/Q1641338>
+        owl:sameAs <http://es.dbpedia.org/resource/Hipogeo_de_Torre_del_Ram>.
+
+<http://www.wikidata.org/entity/Q1670070>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimientos_de_Torralba_y_Ambrona>.
+
+<http://www.wikidata.org/entity/Q1754499>
+        owl:sameAs <http://es.dbpedia.org/resource/Vía_de_la_Plata>.
+
+<http://www.wikidata.org/entity/Q1590778>
+        owl:sameAs <http://es.dbpedia.org/resource/Illeta_dels_Banyets>.
+
+<http://www.wikidata.org/entity/Q1583842>
+        owl:sameAs <http://es.dbpedia.org/resource/Augusta_Emerita>.
+
+<http://www.wikidata.org/entity/Q1505731>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_los_Escipiones>.
+
+<http://www.wikidata.org/entity/Q1579766>
+        owl:sameAs <http://es.dbpedia.org/resource/Los_Millares>.
+
+<http://www.wikidata.org/entity/Q1501940>
+        owl:sameAs <http://es.dbpedia.org/resource/Tarraco>.
+
+<http://www.wikidata.org/entity/Q1526659>
+        owl:sameAs <http://es.dbpedia.org/resource/Teatro_romano_de_Cádiz>.
+
+<http://www.wikidata.org/entity/Q1442199>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Cambre>.
+
+<http://www.wikidata.org/entity/Q1512868>
+        owl:sameAs <http://es.dbpedia.org/resource/Pollentia>.
+
+<http://www.wikidata.org/entity/Q2932315>
+        owl:sameAs <http://es.dbpedia.org/resource/Cabezo_de_Alcalá>.
+
+<http://www.wikidata.org/entity/Q2941387>
+        owl:sameAs <http://es.dbpedia.org/resource/Castellet_de_Bernabé>.
+
+<http://www.wikidata.org/entity/Q2946789>
+        owl:sameAs <http://es.dbpedia.org/resource/Cerro_de_las_Cabezas>.
+
+<http://www.wikidata.org/entity/Q2941520>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_La_Mesa_de_Miranda_y_necrópolis_de_La_Osera>.
+
+<http://www.wikidata.org/entity/Q2892231>
+        owl:sameAs <http://es.dbpedia.org/resource/Las_Pilas-Mojácar_la_Vieja>.
+
+<http://www.wikidata.org/entity/Q2916716>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_Roquizal_del_Rullo>.
+
+<http://www.wikidata.org/entity/Q2941519>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Ulaca>.
+
+<http://www.wikidata.org/entity/Q2941521>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Viladonga>.
+
+<http://www.wikidata.org/entity/Q2941505>
+        owl:sameAs <http://es.dbpedia.org/resource/Castra_Cecilia>.
+
+<http://www.wikidata.org/entity/Q2972673>
+        owl:sameAs <http://es.dbpedia.org/resource/Cementerio_paleocristiano_de_Tarragona>.
+
+<http://www.wikidata.org/entity/Q2894755>
+        owl:sameAs <http://es.dbpedia.org/resource/Ciudad_iberorromana_fortificada_La_Carencia>.
+
+<http://www.wikidata.org/entity/Q2411979>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Santa_Tecla>.
+
+<http://www.wikidata.org/entity/Q2580972>
+        owl:sameAs <http://es.dbpedia.org/resource/Cáparra>.
+
+<http://www.wikidata.org/entity/Q2300742>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_de_Son_Fornés>.
+
+<http://www.wikidata.org/entity/Q2513720>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_A_Cidá>.
+
+<http://www.wikidata.org/entity/Q2513122>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Borneiro>.
+
+<http://www.wikidata.org/entity/Q2452989>
+        owl:sameAs <http://es.dbpedia.org/resource/Puerta_de_Elvira>.
+
+<http://www.wikidata.org/entity/Q2444476>
+        owl:sameAs <http://es.dbpedia.org/resource/Torralba_den_Salord>.
+
+<http://www.wikidata.org/entity/Q2454775>
+        owl:sameAs <http://es.dbpedia.org/resource/Toros_de_Guisando>.
+
+<http://www.wikidata.org/entity/Q2511345>
+        owl:sameAs <http://es.dbpedia.org/resource/Castriño_de_Conxo>.
+
+<http://www.wikidata.org/entity/Q2513704>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Porto_de_Baixo>.
+
+<http://www.wikidata.org/entity/Q2717874>
+        owl:sameAs <http://es.dbpedia.org/resource/Siega_Verde>.
+
+<http://www.wikidata.org/entity/Q2882755>
+        owl:sameAs <http://es.dbpedia.org/resource/Portus_Victoriae_Iuliobrigensium>.
+
+<http://www.wikidata.org/entity/Q2629538>
+        owl:sameAs <http://es.dbpedia.org/resource/Circo_romano_de_Tarraco>.
+
+<http://www.wikidata.org/entity/Q2871504>
+        owl:sameAs <http://es.dbpedia.org/resource/Augusteum_y_foro_romano_de_Cartagena>.
+
+<http://www.wikidata.org/entity/Q2742973>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_San_Cibrao_de_Las>.
+
+<http://www.wikidata.org/entity/Q2627735>
+        owl:sameAs <http://es.dbpedia.org/resource/Teatro_romano_de_Cartagena>.
+
+<http://www.wikidata.org/entity/Q2724682>
+        owl:sameAs <http://es.dbpedia.org/resource/Clunia>.
+
+<http://www.wikidata.org/entity/Q2885480>
+        owl:sameAs <http://es.dbpedia.org/resource/Barranco_de_la_Valltorta>.
+
+<http://www.wikidata.org/entity/Q2855339>
+        owl:sameAs <http://es.dbpedia.org/resource/Zona_arqueológica_de_Medina_Elvira>.
+
+<http://www.wikidata.org/entity/Q2881521>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_La_Cabaña>.
+
+<http://www.wikidata.org/entity/Q5849275>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_La_Clotilde>.
+
+<http://www.wikidata.org/entity/Q5836589>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_los_Santos_Mártires_(Medina-Sidonia)>.
+
+<http://www.wikidata.org/entity/Q5836509>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Archidona>.
+
+<http://www.wikidata.org/entity/Q5856534>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Torrox>.
+
+<http://www.wikidata.org/entity/Q5835894>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_Mausoleo_de_Llanes>.
+
+<http://www.wikidata.org/entity/Q5840235>
+        owl:sameAs <http://es.dbpedia.org/resource/Esperilla>.
+
+<http://www.wikidata.org/entity/Q3552479>
+        owl:sameAs <http://es.dbpedia.org/resource/Urso>.
+
+<http://www.wikidata.org/entity/Q3555926>
+        owl:sameAs <http://es.dbpedia.org/resource/Lucentum>.
+
+<http://www.wikidata.org/entity/Q3818305>
+        owl:sameAs <http://es.dbpedia.org/resource/Mausoleo_romano_(Córdoba)>.
+
+<http://www.wikidata.org/entity/Q3819019>
+        owl:sameAs <http://es.dbpedia.org/resource/Templo_de_Augusto_(Barcelona)>.
+
+<http://www.wikidata.org/entity/Q3780704>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Daina>.
+
+<http://www.wikidata.org/entity/Q3614851>
+        owl:sameAs <http://es.dbpedia.org/resource/Ana_(yacimiento)>.
+
+<http://www.wikidata.org/entity/Q3572282>
+        owl:sameAs <http://es.dbpedia.org/resource/Hospital_de_Santa_Cristina_de_Somport>.
+
+<http://www.wikidata.org/entity/Q3823712>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Camp_de_les_Lloses>.
+
+<http://www.wikidata.org/entity/Q3814961>
+        owl:sameAs <http://es.dbpedia.org/resource/Pintia>.
+
+<http://www.wikidata.org/entity/Q3819440>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_íbero_de_Castell>.
+
+<http://www.wikidata.org/entity/Q3559159>
+        owl:sameAs <http://es.dbpedia.org/resource/Ciudad_portuaria_fenicia_La_Fonteta>.
+
+<http://www.wikidata.org/entity/Q3302594>
+        owl:sameAs <http://es.dbpedia.org/resource/Sanisera>.
+
+<http://www.wikidata.org/entity/Q3477735>
+        owl:sameAs <http://es.dbpedia.org/resource/Segeda>.
+
+<http://www.wikidata.org/entity/Q3137544>
+        owl:sameAs <http://es.dbpedia.org/resource/Foro_romano_de_Tarraco>.
+
+<http://www.wikidata.org/entity/Q3346877>
+        owl:sameAs <http://es.dbpedia.org/resource/Necrópolis_de_San_Antón>.
+
+<http://www.wikidata.org/entity/Q2993079>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Santimamiñe>.
+
+<http://www.wikidata.org/entity/Q3079849>
+        owl:sameAs <http://es.dbpedia.org/resource/Cantera_romana_de_El_Médol>.
+
+<http://www.wikidata.org/entity/Q3079841>
+        owl:sameAs <http://es.dbpedia.org/resource/Teatro_romano_de_Tarraco>.
+
+<http://www.wikidata.org/entity/Q3327952>
+        owl:sameAs <http://es.dbpedia.org/resource/Almunia_de_Alamiriya>.
+
+<http://www.wikidata.org/entity/Q3394481>
+        owl:sameAs <http://es.dbpedia.org/resource/Aquis_Querquennis>.
+
+<http://www.wikidata.org/entity/Q3517581>
+        owl:sameAs <http://es.dbpedia.org/resource/Templo_de_Hércules_Gaditano>.
+
+<http://www.wikidata.org/entity/Q3034067>
+        owl:sameAs <http://es.dbpedia.org/resource/Conjunto_megalítico_de_Rosas>.
+
+<http://www.wikidata.org/entity/Q3189896>
+        owl:sameAs <http://es.dbpedia.org/resource/Julióbriga>.
+
+<http://www.wikidata.org/entity/Q3390174>
+        owl:sameAs <http://es.dbpedia.org/resource/Roca_de_los_Moros>.
+
+<http://www.wikidata.org/entity/Q4012812>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_La_Olmeda>.
+
+<http://www.wikidata.org/entity/Q4745109>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_Torreparedones>.
+
+<http://www.wikidata.org/entity/Q5016588>
+        owl:sameAs <http://es.dbpedia.org/resource/Puerta_Monaita>.
+
+<http://www.wikidata.org/entity/Q3867196>
+        owl:sameAs <http://es.dbpedia.org/resource/Cerro_de_los_Infantes>.
+
+<http://www.wikidata.org/entity/Q3896297>
+        owl:sameAs <http://es.dbpedia.org/resource/Teatro_romano_de_Sagunto>.
+
+<http://www.wikidata.org/entity/Q4893109>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Can_Llauder>.
+
+<http://www.wikidata.org/entity/Q4981241>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Alcalá_la_Vieja>.
+
+<http://www.wikidata.org/entity/Q4531364>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Aculadero>.
+
+<http://www.wikidata.org/entity/Q4868434>
+        owl:sameAs <http://es.dbpedia.org/resource/Basílica_de_Vega_del_Mar>.
+
+<http://www.wikidata.org/entity/Q4894543>
+        owl:sameAs <http://es.dbpedia.org/resource/Foro_colonial_de_Tarraco>.
+
+<http://www.wikidata.org/entity/Q4894734>
+        owl:sameAs <http://es.dbpedia.org/resource/Vareia>.
+
+<http://www.wikidata.org/entity/Q4892904>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_La_Alcudia>.
+
+<http://www.wikidata.org/entity/Q3849447>
+        owl:sameAs <http://es.dbpedia.org/resource/Teatro_romano_de_Málaga>.
+
+<http://www.wikidata.org/entity/Q4936168>
+        owl:sameAs <http://es.dbpedia.org/resource/Bocchoris>.
+
+<http://www.wikidata.org/entity/Q4262253>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_Hippolytus>.
+
+<http://www.wikidata.org/entity/Q5050413>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Sancti_Petri>.
+
+<http://www.wikidata.org/entity/Q11303958>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Burela>.
+
+<http://www.wikidata.org/entity/Q7362141>
+        owl:sameAs <http://es.dbpedia.org/resource/Foro_romano_provincial_de_Mérida>.
+
+<http://www.wikidata.org/entity/Q8346543>
+        owl:sameAs <http://es.dbpedia.org/resource/Ciudad_romana_de_Iluro>.
+
+<http://www.wikidata.org/entity/Q8348804>
+        owl:sameAs <http://es.dbpedia.org/resource/Complejo_kárstico_del_monte_de_La_Garma>.
+
+<http://www.wikidata.org/entity/Q8339557>
+        owl:sameAs <http://es.dbpedia.org/resource/Carretelá>.
+
+<http://www.wikidata.org/entity/Q8342716>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Fazouro>.
+
+<http://www.wikidata.org/entity/Q8196258>
+        owl:sameAs <http://es.dbpedia.org/resource/Alonis>.
+
+<http://www.wikidata.org/entity/Q8346545>
+        owl:sameAs <http://es.dbpedia.org/resource/Ciudadela_ibérica_de_Calafell>.
+
+<http://www.wikidata.org/entity/Q8346975>
+        owl:sameAs <http://es.dbpedia.org/resource/Closos_de_Can_Gaià>.
+
+<http://www.wikidata.org/entity/Q8239659>
+        owl:sameAs <http://es.dbpedia.org/resource/Baetulo>.
+
+<http://www.wikidata.org/entity/Q8254441>
+        owl:sameAs <http://es.dbpedia.org/resource/Cabezo_Redondo>.
+
+<http://www.wikidata.org/entity/Q8352464>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_El_Haza>.
+
+<http://www.wikidata.org/entity/Q8208868>
+        owl:sameAs <http://es.dbpedia.org/resource/Atxa>.
+
+<http://www.wikidata.org/entity/Q8256415>
+        owl:sameAs <http://es.dbpedia.org/resource/Campa_Torres>.
+
+<http://www.wikidata.org/entity/Q8352512>
+        owl:sameAs <http://es.dbpedia.org/resource/Cuevas_del_Toll>.
+
+<http://www.wikidata.org/entity/Q8464929>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Parpalló>.
+
+<http://www.wikidata.org/entity/Q8352483>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_las_Maravillas>.
+
+<http://www.wikidata.org/entity/Q7361967>
+        owl:sameAs <http://es.dbpedia.org/resource/Foro_romano_de_Mérida>.
+
+<http://www.wikidata.org/entity/Q8352463>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Bolomor>.
+
+<http://www.wikidata.org/entity/Q8352466>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_La_Estación>.
+
+<http://www.wikidata.org/entity/Q8350452>
+        owl:sameAs <http://es.dbpedia.org/resource/Convento_de_San_Francisco_(Montblanch)>.
+
+<http://www.wikidata.org/entity/Q9096820>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_Vilosiu>.
+
+<http://www.wikidata.org/entity/Q9093664>
+        owl:sameAs <http://es.dbpedia.org/resource/Vila_Vella>.
+
+<http://www.wikidata.org/entity/Q9093955>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_dels_Munts>.
+
+<http://www.wikidata.org/entity/Q10316068>
+        owl:sameAs <http://es.dbpedia.org/resource/Laxe_das_Rodas>.
+
+<http://www.wikidata.org/entity/Q10971491>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Cabañeta>.
+
+<http://www.wikidata.org/entity/Q9093961>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Baños_de_Valdearados>.
+
+<http://www.wikidata.org/entity/Q9096824>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_Cimadevilla>.
+
+<http://www.wikidata.org/entity/Q9092331>
+        owl:sameAs <http://es.dbpedia.org/resource/Valentia_Edetanorum>.
+
+<http://www.wikidata.org/entity/Q9093712>
+        owl:sameAs <http://es.dbpedia.org/resource/Vilars_de_Arbeca>.
+
+<http://www.wikidata.org/entity/Q9093954>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Almenara-Puras>.
+
+<http://www.wikidata.org/entity/Q10900351>
+        owl:sameAs <http://es.dbpedia.org/resource/Sima_de_las_Palomas>.
+
+<http://www.wikidata.org/entity/Q9088095>
+        owl:sameAs <http://es.dbpedia.org/resource/Tolmo_de_Minateda>.
+
+<http://www.wikidata.org/entity/Q9090620>
+        owl:sameAs <http://es.dbpedia.org/resource/Turriforme_escalonado_de_Son_Ferrer>.
+
+<http://www.wikidata.org/entity/Q9064500>
+        owl:sameAs <http://es.dbpedia.org/resource/Puerta_de_Almodóvar>.
+
+<http://www.wikidata.org/entity/Q9061215>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_de_Son_Catlar>.
+
+<http://www.wikidata.org/entity/Q9074474>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_y_termas_romanas_de_Mura>.
+
+<http://www.wikidata.org/entity/Q9077914>
+        owl:sameAs <http://es.dbpedia.org/resource/Sisapo>.
+
+<http://www.wikidata.org/entity/Q9086161>
+        owl:sameAs <http://es.dbpedia.org/resource/Termas_romanas_de_Torreblanca_del_Sol>.
+
+<http://www.wikidata.org/entity/Q9061218>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_íbero_Peña_del_Moro>.
+
+<http://www.wikidata.org/entity/Q8842737>
+        owl:sameAs <http://es.dbpedia.org/resource/Estación_de_Álora>.
+
+<http://www.wikidata.org/entity/Q9032143>
+        owl:sameAs <http://es.dbpedia.org/resource/Mezquita_de_Busquístar>.
+
+<http://www.wikidata.org/entity/Q8772854>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Bovalar>.
+
+<http://www.wikidata.org/entity/Q9046683>
+        owl:sameAs <http://es.dbpedia.org/resource/Muralla_árabe_de_Valencia>.
+
+<http://www.wikidata.org/entity/Q9061216>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_iberorromano_de_El_Monastil>.
+
+<http://www.wikidata.org/entity/Q9007736>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_fortificada_de_San_Esteban>.
+
+<http://www.wikidata.org/entity/Q9033283>
+        owl:sameAs <http://es.dbpedia.org/resource/Minas_prehistóricas_de_Gavá-Can_Tintorer>.
+
+<http://www.wikidata.org/entity/Q9060242>
+        owl:sameAs <http://es.dbpedia.org/resource/Pla_de_Petracos>.
+
+<http://www.wikidata.org/entity/Q9064653>
+        owl:sameAs <http://es.dbpedia.org/resource/Puig_Ciutat>.
+
+<http://www.wikidata.org/entity/Q8843217>
+        owl:sameAs <http://es.dbpedia.org/resource/Estela_de_Barros>.
+
+<http://www.wikidata.org/entity/Q9018453>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Cova_Negra>.
+
+<http://www.wikidata.org/entity/Q9048368>
+        owl:sameAs <http://es.dbpedia.org/resource/Na_Guardis>.
+
+<http://www.wikidata.org/entity/Q9053113>
+        owl:sameAs <http://es.dbpedia.org/resource/Orippo>.
+
+<http://www.wikidata.org/entity/Q9059484>
+        owl:sameAs <http://es.dbpedia.org/resource/Piedra_de_las_Golondrinas>.
+
+<http://www.wikidata.org/entity/Q8778888>
+        owl:sameAs <http://es.dbpedia.org/resource/Estación_Agut>.
+
+<http://www.wikidata.org/entity/Q11942142>
+        owl:sameAs <http://es.dbpedia.org/resource/Binissafullet>.
+
+<http://www.wikidata.org/entity/Q11915985>
+        owl:sameAs <http://es.dbpedia.org/resource/Cuevas_de_Seriñá>.
+
+<http://www.wikidata.org/entity/Q11915959>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Gegant>.
+
+<http://www.wikidata.org/entity/Q11919664>
+        owl:sameAs <http://es.dbpedia.org/resource/Es_Castellet_des_Pop_Mosquer>.
+
+<http://www.wikidata.org/entity/Q11915672>
+        owl:sameAs <http://es.dbpedia.org/resource/Cornia_Nou>.
+
+<http://www.wikidata.org/entity/Q11705417>
+        owl:sameAs <http://es.dbpedia.org/resource/L'Alt_de_Benimaquia>.
+
+<http://www.wikidata.org/entity/Q11680611>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Troña>.
+
+<http://www.wikidata.org/entity/Q11908701>
+        owl:sameAs <http://es.dbpedia.org/resource/Basílica_de_la_cabecera_del_Puerto_de_Fornells>.
+
+<http://www.wikidata.org/entity/Q11705496>
+        owl:sameAs <http://es.dbpedia.org/resource/Sornostegui>.
+
+<http://www.wikidata.org/entity/Q11680154>
+        owl:sameAs <http://es.dbpedia.org/resource/Barranco_del_Xorquet>.
+
+<http://www.wikidata.org/entity/Q11906658>
+        owl:sameAs <http://es.dbpedia.org/resource/Arraona>.
+
+<http://www.wikidata.org/entity/Q11699853>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_íbero_de_Cogulló>.
+
+<http://www.wikidata.org/entity/Q11907044>
+        owl:sameAs <http://es.dbpedia.org/resource/Astigi>.
+
+<http://www.wikidata.org/entity/Q11680607>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Unzueta>.
+
+<http://www.wikidata.org/entity/Q6463144>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Hoya_(Laguardia)>.
+
+<http://www.wikidata.org/entity/Q6169549>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_La_Ribera_de_la_Algaida>.
+
+<http://www.wikidata.org/entity/Q6169557>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_Pinedo>.
+
+<http://www.wikidata.org/entity/Q6169625>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimientos_arqueológicos_de_Colmenar_Viejo>.
+
+<http://www.wikidata.org/entity/Q6171626>
+        owl:sameAs <http://es.dbpedia.org/resource/Zona_arqueológica_de_Santa_María_de_Hito>.
+
+<http://www.wikidata.org/entity/Q6169630>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimientos_de_la_desembocadura_del_río_Algarrobo>.
+
+<http://www.wikidata.org/entity/Q6174407>
+        owl:sameAs <http://es.dbpedia.org/resource/Ídolo_de_Ruanales>.
+
+<http://www.wikidata.org/entity/Q6171624>
+        owl:sameAs <http://es.dbpedia.org/resource/Zona_arqueológica_de_Santa_Eulalia>.
+
+<http://www.wikidata.org/entity/Q6169533>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_El_Oral>.
+
+<http://www.wikidata.org/entity/Q6169543>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_Fuente_Álamo_(Cuevas_del_Almanzora)>.
+
+<http://www.wikidata.org/entity/Q6169572>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_del_cementerio_de_Maliaño>.
+
+<http://www.wikidata.org/entity/Q6169576>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_del_monte_Ornedo>.
+
+<http://www.wikidata.org/entity/Q6171619>
+        owl:sameAs <http://es.dbpedia.org/resource/Zona_arqueológica_de_El_Chuche_(Benahadux)>.
+
+<http://www.wikidata.org/entity/Q6171631>
+        owl:sameAs <http://es.dbpedia.org/resource/Zona_arqueológica_del_Cerro_del_Mojón>.
+
+<http://www.wikidata.org/entity/Q6169550>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_La_Serreta>.
+
+<http://www.wikidata.org/entity/Q6174172>
+        owl:sameAs <http://es.dbpedia.org/resource/Ébora>.
+
+<http://www.wikidata.org/entity/Q6169541>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_Fuente_Álamo_(Alcalá_la_Real)>.
+
+<http://www.wikidata.org/entity/Q6169545>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_Hijovejo>.
+
+<http://www.wikidata.org/entity/Q6169555>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_Oreto_y_Zuqueca>.
+
+<http://www.wikidata.org/entity/Q6169562>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_San_Esteban>.
+
+<http://www.wikidata.org/entity/Q6169617>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_y_Mausoleo_Romano_de_El_Torrejón>.
+
+<http://www.wikidata.org/entity/Q6169628>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimientos_arqueológicos_del_Cerro_del_Espíritu_Santo>.
+
+<http://www.wikidata.org/entity/Q6169536>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_El_Puig>.
+
+<http://www.wikidata.org/entity/Q6169569>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_del_Pico_del_Castillo>.
+
+<http://www.wikidata.org/entity/Q6169577>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_de_Cerro_de_la_Ermita>.
+
+<http://www.wikidata.org/entity/Q6169612>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_púnico_de_Dalías>.
+
+<http://www.wikidata.org/entity/Q6169532>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_El_Malagón>.
+
+<http://www.wikidata.org/entity/Q6169538>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_El_Puntal>.
+
+<http://www.wikidata.org/entity/Q6169552>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_Malamoneda>.
+
+<http://www.wikidata.org/entity/Q6462331>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_La_Escuera>.
+
+<http://www.wikidata.org/entity/Q6169624>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimientos_arqueológicos_de_Alcolea_de_Tajo>.
+
+<http://www.wikidata.org/entity/Q6171029>
+        owl:sameAs <http://es.dbpedia.org/resource/Zaudín_Bajo>.
+
+<http://www.wikidata.org/entity/Q12176329>
+        owl:sameAs <http://es.dbpedia.org/resource/Huerta_del_Carmen>.
+
+<http://www.wikidata.org/entity/Q12252984>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Aitzorrotz>.
+
+<http://www.wikidata.org/entity/Q12253935>
+        owl:sameAs <http://es.dbpedia.org/resource/Necrópolis_de_Arguiñeta>.
+
+<http://www.wikidata.org/entity/Q12401042>
+        owl:sameAs <http://es.dbpedia.org/resource/Termas_romanas_de_Lucus_Augusti>.
+
+<http://www.wikidata.org/entity/Q12397633>
+        owl:sameAs <http://es.dbpedia.org/resource/Petroglifos_de_Mogor>.
+
+<http://www.wikidata.org/entity/Q11952243>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_Gironella>.
+
+<http://www.wikidata.org/entity/Q12383187>
+        owl:sameAs <http://es.dbpedia.org/resource/Aquis_Originis>.
+
+<http://www.wikidata.org/entity/Q12164203>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Castellar_(Torres_de_Berrellén)>.
+
+<http://www.wikidata.org/entity/Q12259745>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_Irikaitz>.
+
+<http://www.wikidata.org/entity/Q12402365>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_Romana_de_Toralla>.
+
+<http://www.wikidata.org/entity/Q13077238>
+        owl:sameAs <http://es.dbpedia.org/resource/Lancia_(ciudad)>.
+
+<http://www.wikidata.org/entity/Q13049828>
+        owl:sameAs <http://es.dbpedia.org/resource/Peñalba_de_Villastar>.
+
+<http://www.wikidata.org/entity/Q15109106>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_los_Letreros>.
+
+<http://www.wikidata.org/entity/Q13049880>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_ibérico_de_San_Antonio>.
+
+<http://www.wikidata.org/entity/Q17587742>
+        owl:sameAs <http://es.dbpedia.org/resource/Barcino>.
+
+<http://www.wikidata.org/entity/Q17625576>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_de_Urri>.
+
+<http://www.wikidata.org/entity/Q17630205>
+        owl:sameAs <http://es.dbpedia.org/resource/Sierra_del_Retín>.
+
+<http://www.wikidata.org/entity/Q16609180>
+        owl:sameAs <http://es.dbpedia.org/resource/Mota_de_Trespalacios>.
+
+<http://www.wikidata.org/entity/Q16648641>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_de_El_Jardal>.
+
+<http://www.wikidata.org/entity/Q16618591>
+        owl:sameAs <http://es.dbpedia.org/resource/Peña_del_Castro>.
+
+<http://www.wikidata.org/entity/Q16607617>
+        owl:sameAs <http://es.dbpedia.org/resource/Mimbral_(pedanía)>.
+
+<http://www.wikidata.org/entity/Q16620555>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_prehistórico_de_Capocorb_Vell>.
+
+<http://www.wikidata.org/entity/Q16643230>
+        owl:sameAs <http://es.dbpedia.org/resource/Turó_de_Ses_Abelles>.
+
+<http://www.wikidata.org/entity/Q16648654>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimientos_arqueológicos_en_Aragón>.
+
+<http://www.wikidata.org/entity/Q16918507>
+        owl:sameAs <http://es.dbpedia.org/resource/Mola_Murada_(Chert)>.
+
+<http://www.wikidata.org/entity/Q16597006>
+        owl:sameAs <http://es.dbpedia.org/resource/Albalat_(Cáceres)>.
+
+<http://www.wikidata.org/entity/Q16587605>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Masera>.
+
+<http://www.wikidata.org/entity/Q16559722>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_El_Cerco>.
+
+<http://www.wikidata.org/entity/Q16544879>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_peña_del_Hombre>.
+
+<http://www.wikidata.org/entity/Q16554295>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_la_Tinaja>.
+
+<http://www.wikidata.org/entity/Q16568477>
+        owl:sameAs <http://es.dbpedia.org/resource/Font_de_la_Canya>.
+
+<http://www.wikidata.org/entity/Q16587405>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_La_Corona-El_Pesadero>.
+
+<http://www.wikidata.org/entity/Q15529756>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Belén_(Córdoba)>.
+
+<http://www.wikidata.org/entity/Q15649237>
+        owl:sameAs <http://es.dbpedia.org/resource/Roca_dels_Bous>.
+
+<http://www.wikidata.org/entity/Q15714786>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_La_Cabeza_del_Castillo>.
+
+<http://www.wikidata.org/entity/Q16492379>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Oficio>.
+
+<http://www.wikidata.org/entity/Q16492422>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Rincón_de_Almendricos>.
+
+<http://www.wikidata.org/entity/Q16516289>
+        owl:sameAs <http://es.dbpedia.org/resource/Arrillor>.
+
+<http://www.wikidata.org/entity/Q16190022>
+        owl:sameAs <http://es.dbpedia.org/resource/Cova_dels_Segarulls>.
+
+<http://www.wikidata.org/entity/Q16518404>
+        owl:sameAs <http://es.dbpedia.org/resource/Cementerio_Prehistórico_de_Mulisko_Gaina>.
+
+<http://www.wikidata.org/entity/Q16490739>
+        owl:sameAs <http://es.dbpedia.org/resource/Cerro_de_la_Encina>.
+
+<http://www.wikidata.org/entity/Q16517950>
+        owl:sameAs <http://es.dbpedia.org/resource/Kanpanoste_Goikoa>.
+
+<http://www.wikidata.org/entity/Q16482391>
+        owl:sameAs <http://es.dbpedia.org/resource/Abrigos_El_Peñón_de_la_Virgen>.
+
+<http://www.wikidata.org/entity/Q16544867>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Arrola>.
+
+<http://www.wikidata.org/entity/Q15813894>
+        owl:sameAs <http://es.dbpedia.org/resource/Motilla_del_Azuer>.
+
+<http://www.wikidata.org/entity/Q15542470>
+        owl:sameAs <http://es.dbpedia.org/resource/Cerro_de_los_Santos>.
+
+<http://www.wikidata.org/entity/Q15651613>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_El_Torrelló_de_Boverot>.
+
+<http://www.wikidata.org/entity/Q15136682>
+        owl:sameAs <http://es.dbpedia.org/resource/Vía_sepulcral_de_la_plaza_de_la_Villa_de_Madrid>.
+
+<http://www.wikidata.org/entity/Q15233334>
+        owl:sameAs <http://es.dbpedia.org/resource/Conjunto_arqueológico_de_Mérida>.
+
+<http://www.wikidata.org/entity/Q16269123>
+        owl:sameAs <http://es.dbpedia.org/resource/Parque_megalítico_de_Gorafe>.
+
+<http://www.wikidata.org/entity/Q16465959>
+        owl:sameAs <http://es.dbpedia.org/resource/So_na_Caçana>.
+
+<http://www.wikidata.org/entity/Q16491715>
+        owl:sameAs <http://es.dbpedia.org/resource/Cuesta_del_Negro>.
+
+<http://www.wikidata.org/entity/Q20021885>
+        owl:sameAs <http://es.dbpedia.org/resource/Área_arqueológica_de_Tourón>.
+
+<http://www.wikidata.org/entity/Q20021348>
+        owl:sameAs <http://es.dbpedia.org/resource/Cabeza_Ladrero>.
+
+<http://www.wikidata.org/entity/Q20017060>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_La_Solana>.
+
+<http://www.wikidata.org/entity/Q20021380>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Toro>.
+
+<http://www.wikidata.org/entity/Q20021377>
+        owl:sameAs <http://es.dbpedia.org/resource/Crómlech_de_Elurzulo>.
+
+<http://www.wikidata.org/entity/Q20017044>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_La_Corvera>.
+
+<http://www.wikidata.org/entity/Q20021633>
+        owl:sameAs <http://es.dbpedia.org/resource/Termas_públicas_de_Allon>.
+
+<http://www.wikidata.org/entity/Q19843480>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_Son_Matge>.
+
+<http://www.wikidata.org/entity/Q20017044>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_La_Corvera>.
+
+<http://www.wikidata.org/entity/Q19482368>
+        owl:sameAs <http://es.dbpedia.org/resource/Crómlech_de_Eteneta>.
+
+<http://www.wikidata.org/entity/Q20021633>
+        owl:sameAs <http://es.dbpedia.org/resource/Termas_públicas_de_Allon>.
+
+<http://www.wikidata.org/entity/Q19368320>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Foios>.
+
+<http://www.wikidata.org/entity/Q19721980>
+        owl:sameAs <http://es.dbpedia.org/resource/Abrigo_y_cueva_de_Benzú>.
+
+<http://www.wikidata.org/entity/Q19913402>
+        owl:sameAs <http://es.dbpedia.org/resource/Abrigo_de_Tortosilla>.
+
+<http://www.wikidata.org/entity/Q20021884>
+        owl:sameAs <http://es.dbpedia.org/resource/Área_arqueológica_de_A_Caeira>.
+
+<http://www.wikidata.org/entity/Q20017239>
+        owl:sameAs <http://es.dbpedia.org/resource/Molí_de_l'Horta>.
+
+<http://www.wikidata.org/entity/Q20100446>
+        owl:sameAs <http://es.dbpedia.org/resource/Cova_Remigia>.
+
+<http://www.wikidata.org/entity/Q20105581>
+        owl:sameAs <http://es.dbpedia.org/resource/Deltebre_I>.
+
+<http://www.wikidata.org/entity/Q20107133>
+        owl:sameAs <http://es.dbpedia.org/resource/Solana_de_las_Pilillas>.
+
+<http://www.wikidata.org/entity/Q18285673>
+        owl:sameAs <http://es.dbpedia.org/resource/Canal_de_San_Indalecio>.
+
+<http://www.wikidata.org/entity/Q18199963>
+        owl:sameAs <http://es.dbpedia.org/resource/Roca_de_los_Moros_(Cretas)>.
+
+<http://www.wikidata.org/entity/Q17803269>
+        owl:sameAs <http://es.dbpedia.org/resource/Cañón_de_la_Horadada>.
+
+<http://www.wikidata.org/entity/Q18199961>
+        owl:sameAs <http://es.dbpedia.org/resource/Els_Gascons>.
+
+<http://www.wikidata.org/entity/Q18285712>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Matamala>.
+
+<http://www.wikidata.org/entity/Q18005828>
+        owl:sameAs <http://es.dbpedia.org/resource/Castrum_o_Ciudadela_visigoda_del_Puig_Rom>.
+
+<http://www.wikidata.org/entity/Q18285583>
+        owl:sameAs <http://es.dbpedia.org/resource/Abrigo_de_la_Huerta_de_las_Pilas>.
+
+<http://www.wikidata.org/entity/Q18278105>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_de_la_Peña_Ajuerá>.
+
+<http://www.wikidata.org/entity/Q18285841>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Sumidero_II>.
+
+<http://www.wikidata.org/entity/Q18285882>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Piruétano>.
+
+<http://www.wikidata.org/entity/Q18285818>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Corchadillo>.
+
+<http://www.wikidata.org/entity/Q18285825>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Helechar_II>.
+
+<http://www.wikidata.org/entity/Q18285782>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_la_Carrahola>.
+
+<http://www.wikidata.org/entity/Q18286286>
+        owl:sameAs <http://es.dbpedia.org/resource/Peñón_de_la_Cueva>.
+
+<http://www.wikidata.org/entity/Q18285776>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_Abejera>.
+
+<http://www.wikidata.org/entity/Q18285806>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Palomas_IV>.
+
+<http://www.wikidata.org/entity/Q18285817>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Cancho>.
+
+<http://www.wikidata.org/entity/Q18285828>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Magro>.
+
+<http://www.wikidata.org/entity/Q18285839>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Sumidero_I>.
+
+<http://www.wikidata.org/entity/Q18285803>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Palomas_III>.
+
+<http://www.wikidata.org/entity/Q18285834>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Realillo>.
+
+<http://www.wikidata.org/entity/Q18285795>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_los_Arrieros>.
+
+<http://www.wikidata.org/entity/Q18327081>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Cambulló>.
+
+<http://www.wikidata.org/entity/Q18285823>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Helechar_I>.
+
+<http://www.wikidata.org/entity/Q18285843>
+        owl:sameAs <http://es.dbpedia.org/resource/Cuevas_de_Chinchilla>.
+
+<http://www.wikidata.org/entity/Q18285847>
+        owl:sameAs <http://es.dbpedia.org/resource/Cuevas_del_Chorreón_Salado>.
+
+<http://www.wikidata.org/entity/Q18286317>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_metalúrgico_de_Orellán>.
+
+<http://www.wikidata.org/entity/Q20548647>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_Candaz>.
+
+<http://www.wikidata.org/entity/Q20170571>
+        owl:sameAs <http://es.dbpedia.org/resource/Dólmenes_de_Alcántara>.
+
+<http://www.wikidata.org/entity/Q20551300>
+        owl:sameAs <http://es.dbpedia.org/resource/Centro_Arqueológico_de_Salinae>.
+
+<http://www.wikidata.org/entity/Q20922282>
+        owl:sameAs <http://es.dbpedia.org/resource/Cova_Bonica>.
+
+<http://www.wikidata.org/entity/Q20995305>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_La_Dehesa>.
+
+<http://www.wikidata.org/entity/Q20995230>
+        owl:sameAs <http://es.dbpedia.org/resource/Conjunto_Arqueológico_de_Carmona>.
+
+<http://www.wikidata.org/entity/Q20936644>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimientos_del_Calvero_de_la_Higuera>.
+
+<http://www.wikidata.org/entity/Q21004164>
+        owl:sameAs <http://es.dbpedia.org/resource/Los_Torrejones>.
+
+<http://www.wikidata.org/entity/Q20970789>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_Negra_de_Montanejos>.
+
+<http://www.wikidata.org/entity/Q20986278>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_Son_Bauló_de_Dalt>.
+
+<http://www.wikidata.org/entity/Q20963329>
+        owl:sameAs <http://es.dbpedia.org/resource/Hospital_de_San_Juan_de_Acre>.
+
+<http://www.wikidata.org/entity/Q20985000>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Martín_(Basauri)>.
+
+<http://www.wikidata.org/entity/Q30904199>
+        owl:sameAs <http://es.dbpedia.org/resource/Peña_Sacra_de_Ranchiles>.
+
+<http://www.wikidata.org/entity/Q33607589>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Caulor>.
+
+<http://www.wikidata.org/entity/Q35244664>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_los_Luna_(Erla)>.
+
+<http://www.wikidata.org/entity/Q33667161>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Ferrellón>.
+
+<http://www.wikidata.org/entity/Q34306232>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Chodes>.
+
+<http://www.wikidata.org/entity/Q30901966>
+        owl:sameAs <http://es.dbpedia.org/resource/Mola_d'Agres>.
+
+<http://www.wikidata.org/entity/Q33511885>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Gañarul>.
+
+<http://www.wikidata.org/entity/Q30874314>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Alborge>.
+
+<http://www.wikidata.org/entity/Q33665752>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Ferrera>.
+
+<http://www.wikidata.org/entity/Q34342470>
+        owl:sameAs <http://es.dbpedia.org/resource/Torreón_de_San_Cristóbal_(Anento)>.
+
+<http://www.wikidata.org/entity/Q31197165>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_Cornelius>.
+
+<http://www.wikidata.org/entity/Q33623562>
+        owl:sameAs <http://es.dbpedia.org/resource/Zona_arqueológica_Los_Granados>.
+
+<http://www.wikidata.org/entity/Q30904062>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Turuñuelo>.
+
+<http://www.wikidata.org/entity/Q33521146>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_los_Cornel_(Osera_de_Ebro)>.
+
+<http://www.wikidata.org/entity/Q30903099>
+        owl:sameAs <http://es.dbpedia.org/resource/Cerro_de_los_Almadenes>.
+
+<http://www.wikidata.org/entity/Q30901592>
+        owl:sameAs <http://es.dbpedia.org/resource/Necrópolis_Ibérica_de_Tútugi>.
+
+<http://www.wikidata.org/entity/Q30917828>
+        owl:sameAs <http://es.dbpedia.org/resource/Soto_de_Medinilla>.
+
+<http://www.wikidata.org/entity/Q34329687>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_del_Santo>.
+
+<http://www.wikidata.org/entity/Q23816345>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_Molino_de_Arriba>.
+
+<http://www.wikidata.org/entity/Q24568165>
+        owl:sameAs <http://es.dbpedia.org/resource/Cañada_de_los_Gatos>.
+
+<http://www.wikidata.org/entity/Q24692247>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_los_Guanches>.
+
+<http://www.wikidata.org/entity/Q24090684>
+        owl:sameAs <http://es.dbpedia.org/resource/Necrópolis_de_Gadir>.
+
+<http://www.wikidata.org/entity/Q22970133>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_Cuyacabras>.
+
+<http://www.wikidata.org/entity/Q24749780>
+        owl:sameAs <http://es.dbpedia.org/resource/Conjunto_Arqueológico_Dólmenes_de_Antequera>.
+
+<http://www.wikidata.org/entity/Q24568147>
+        owl:sameAs <http://es.dbpedia.org/resource/Los_Zumacales>.
+
+<http://www.wikidata.org/entity/Q24693406>
+        owl:sameAs <http://es.dbpedia.org/resource/Cuevas_de_Don_Gaspar>.
+
+<http://www.wikidata.org/entity/Q23986022>
+        owl:sameAs <http://es.dbpedia.org/resource/Islote_de_La_Galera>.
+
+<http://www.wikidata.org/entity/Q22075485>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_subacuático_del_pecio_Bou_Ferrer>.
+
+<http://www.wikidata.org/entity/Q22969999>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Acequión>.
+
+<http://www.wikidata.org/entity/Q21730847>
+        owl:sameAs <http://es.dbpedia.org/resource/Sueras_Alta>.
+
+<http://www.wikidata.org/entity/Q22969939>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_la_Fortuna>.
+
+<http://www.wikidata.org/entity/Q21077396>
+        owl:sameAs <http://es.dbpedia.org/resource/Ses_Roques_Llises>.
+
+<http://www.wikidata.org/entity/Q21077062>
+        owl:sameAs <http://es.dbpedia.org/resource/Alfar_Romano_de_la_Cartuja>.
+
+<http://www.wikidata.org/entity/Q21480504>
+        owl:sameAs <http://es.dbpedia.org/resource/Can_Missert>.
+
+<http://www.wikidata.org/entity/Q22970113>
+        owl:sameAs <http://es.dbpedia.org/resource/Tossal_del_Mortórum>.
+
+<http://www.wikidata.org/entity/Q21376234>
+        owl:sameAs <http://es.dbpedia.org/resource/Sala_hipóstila_del_Gallinero_de_Madona>.
+
+<http://www.wikidata.org/entity/Q21480631>
+        owl:sameAs <http://es.dbpedia.org/resource/Factoría_romana_de_La_Algaida>.
+
+<http://www.wikidata.org/entity/Q43177583>
+        owl:sameAs <http://es.dbpedia.org/resource/Zona_arqueológica_de_La_Pedriza>.
+
+<http://www.wikidata.org/entity/Q43177541>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_los_Siete_Altares>.
+
+<http://www.wikidata.org/entity/Q43178708>
+        owl:sameAs <http://es.dbpedia.org/resource/Cuevas_de_la_Montañeta>.
+
+<http://www.wikidata.org/entity/Q43177567>
+        owl:sameAs <http://es.dbpedia.org/resource/Zona_arqueológica_El_Espartal>.
+
+<http://www.wikidata.org/entity/Q43178520>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_martirial_de_Marialba_de_la_Ribera>.
+
+<http://www.wikidata.org/entity/Q43177410>
+        owl:sameAs <http://es.dbpedia.org/resource/Zona_arqueológica_del_Roque_de_Teneguía>.
+
+<http://www.wikidata.org/entity/Q43178676>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_Ibérico_del_Cabezo_de_la_Guardia>.
+
+<http://www.wikidata.org/entity/Q43178169>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_El_Cuco>.
+
+<http://www.wikidata.org/entity/Q43177284>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_Arqueológico_Cerro_de_la_Virgen_de_la_Cuesta>.
+
+<http://www.wikidata.org/entity/Q43178660>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_ibérico_del_Cabezo_de_San_Pedro>.
+
+<http://www.wikidata.org/entity/Q43178539>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_iberorromano_de_San_José>.
+
+<http://www.wikidata.org/entity/Q43178471>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Los_Emboscados>.
+
+<http://www.wikidata.org/entity/Q43178451>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Las_Brujas_(Suances)>.
+
+<http://www.wikidata.org/entity/Q43178701>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_Horada>.
+
+<http://www.wikidata.org/entity/Q25112852>
+        owl:sameAs <http://es.dbpedia.org/resource/Puerta_de_Triana>.
+
+<http://www.wikidata.org/entity/Q25400815>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_de_la_Malladeta>.
+
+<http://www.wikidata.org/entity/Q26856865>
+        owl:sameAs <http://es.dbpedia.org/resource/Abrigos_de_las_Peñas_de_Castro>.
+
+<http://www.wikidata.org/entity/Q28032817>
+        owl:sameAs <http://es.dbpedia.org/resource/Kanpanoste>.
+
+<http://www.wikidata.org/entity/Q28002149>
+        owl:sameAs <http://es.dbpedia.org/resource/Puig_Pedró>.
+
+<http://www.wikidata.org/entity/Q25409793>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Almoloya>.
+
+<http://www.wikidata.org/entity/Q25688763>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Cortijo_de_los_Salineros>.
+
+<http://www.wikidata.org/entity/Q28002381>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Vilavella_(Villanueva_de_Alcolea)>.
+
+<http://www.wikidata.org/entity/Q28056985>
+        owl:sameAs <http://es.dbpedia.org/resource/Les_Raboses>.
+
+<http://www.wikidata.org/entity/Q24943915>
+        owl:sameAs <http://es.dbpedia.org/resource/Conjunto_prehistórico_de_Son_Serra>.
+
+<http://www.wikidata.org/entity/Q25411248>
+        owl:sameAs <http://es.dbpedia.org/resource/Tribisburu>.
+
+<http://www.wikidata.org/entity/Q25414096>
+        owl:sameAs <http://es.dbpedia.org/resource/Augustóbriga_(Muro_de_Ágreda)>.
+
+<http://www.wikidata.org/entity/Q25384415>
+        owl:sameAs <http://es.dbpedia.org/resource/Tira_del_Lienzo>.
+
+<http://www.wikidata.org/entity/Q27949611>
+        owl:sameAs <http://es.dbpedia.org/resource/Altet_de_Palau>.
+
+<http://www.wikidata.org/entity/Q26839949>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_los_Siete_Palacios_(Almuñécar)>.
+
+<http://www.wikidata.org/entity/Q30172142>
+        owl:sameAs <http://es.dbpedia.org/resource/Arenal_de_la_Virgen>.
+
+<http://www.wikidata.org/entity/Q30156835>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_Lara_(Villena)>.
+
+<http://www.wikidata.org/entity/Q28502222>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Ariza>.
+
+<http://www.wikidata.org/entity/Q29367945>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Laguarres>.
+
+<http://www.wikidata.org/entity/Q29345560>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Torrecilla_de_Valmadrid>.
+
+<http://www.wikidata.org/entity/Q28737951>
+        owl:sameAs <http://es.dbpedia.org/resource/Cova_Santa_(Vallada)>.
+
+<http://www.wikidata.org/entity/Q28370933>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_de_Kukuma>.
+
+<http://www.wikidata.org/entity/Q28502217>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_La_Mora_Encantada>.
+
+<http://www.wikidata.org/entity/Q28517942>
+        owl:sameAs <http://es.dbpedia.org/resource/Hornos_de_yeso_de_los_Aljezares>.
+
+<http://www.wikidata.org/entity/Q28923895>
+        owl:sameAs <http://es.dbpedia.org/resource/Ereta_del_Castellar>.
+
+<http://www.wikidata.org/entity/Q28952348>
+        owl:sameAs <http://es.dbpedia.org/resource/Sima_de_los_Huesos>.
+
+<http://www.wikidata.org/entity/Q28517965>
+        owl:sameAs <http://es.dbpedia.org/resource/Necrópolis_de_la_Nava>.
+
+<http://www.wikidata.org/entity/Q28503599>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Covacha_de_Llatas>.
+
+<http://www.wikidata.org/entity/Q29466801>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Moro_(Malanquilla)>.
+
+<http://www.wikidata.org/entity/Q28919740>
+        owl:sameAs <http://es.dbpedia.org/resource/Muntanya_Assolada>.
+
+<http://www.wikidata.org/entity/Q29059190>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_El_Val>.
+
+<http://www.wikidata.org/entity/Q29896193>
+        owl:sameAs <http://es.dbpedia.org/resource/Cuevas_de_los_Moros>.
+
+<http://www.wikidata.org/entity/Q30060782>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_El_Cuervo>.
+
+<http://www.wikidata.org/entity/Q28502960>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_El_Cincho>.
+
+<http://www.wikidata.org/entity/Q28503079>
+        owl:sameAs <http://es.dbpedia.org/resource/Sima_de_la_Pedrera>.
+
+<http://www.wikidata.org/entity/Q28887202>
+        owl:sameAs <http://es.dbpedia.org/resource/Conjunto_arqueológico_-_natural_de_Santomé>.
+
+<http://www.wikidata.org/entity/Q29345462>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Alfocea>.
+
+<http://www.wikidata.org/entity/Q29345610>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Pola>.
+
+<http://www.wikidata.org/entity/Q28502108>
+        owl:sameAs <http://es.dbpedia.org/resource/Torrecid>.
+
+<http://www.wikidata.org/entity/Q29345606>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Quinto>.
+
+<http://www.wikidata.org/entity/Q30046637>
+        owl:sameAs <http://es.dbpedia.org/resource/Es_Castellàs_des_Caparrot_de_Forma>.
+
+<http://www.wikidata.org/entity/Q30176761>
+        owl:sameAs <http://es.dbpedia.org/resource/Barranco_Tuerto>.
+
+<http://www.wikidata.org/entity/Q56316530>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_Hoyo_de_la_Mina>.
+
+<http://www.wikidata.org/entity/Q56367192>
+        owl:sameAs <http://es.dbpedia.org/resource/Conjunto_monumental_de_Olérdola>.
+
+<http://www.wikidata.org/entity/Q56324318>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Híjar_en_Las_Gabias>.
+
+<http://www.wikidata.org/entity/Q43088706>
+        owl:sameAs <http://es.dbpedia.org/resource/Puerta_de_Córdoba_(Carmona)>.
+
+<http://www.wikidata.org/entity/Q43079510>
+        owl:sameAs <http://es.dbpedia.org/resource/Zona_arqueológica_de_Redueña>.
+
+<http://www.wikidata.org/entity/Q43083208>
+        owl:sameAs <http://es.dbpedia.org/resource/Almizaraque>.
+
+<http://www.wikidata.org/entity/Q43079626>
+        owl:sameAs <http://es.dbpedia.org/resource/Zona_arqueológica_del_Casco_Urbano_de_Alcorcón>.
+
+<http://www.wikidata.org/entity/Q35472286>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Velilla>.
+
+<http://www.wikidata.org/entity/Q42908474>
+        owl:sameAs <http://es.dbpedia.org/resource/Convento_de_Nuestra_Señora_de_Gracia_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q35482564>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Santa_Cruz_de_Moncayo>.
+
+<http://www.wikidata.org/entity/Q35654475>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Los_Fayos>.
+
+<http://www.wikidata.org/entity/Q42659903>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_El_Vilarenc>.
+
+<http://www.wikidata.org/entity/Q36121478>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Belmonte_de_Gracián>.
+
+<http://www.wikidata.org/entity/Q39081770>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_Armiña>.
+
+<http://www.wikidata.org/entity/Q42658737>
+        owl:sameAs <http://es.dbpedia.org/resource/Termas_romanas_de_Baelo_Claudia>.
+
+<http://www.wikidata.org/entity/Q42667596>
+        owl:sameAs <http://es.dbpedia.org/resource/Termas_romanas_de_Valentia>.
+
+<http://www.wikidata.org/entity/Q43079433>
+        owl:sameAs <http://es.dbpedia.org/resource/Zona_arqueológica_de_Aranjuez>.
+
+<http://www.wikidata.org/entity/Q42667411>
+        owl:sameAs <http://es.dbpedia.org/resource/Balneario_romano_de_Mas_d'en_Gras>.
+
+<http://www.wikidata.org/entity/Q42654887>
+        owl:sameAs <http://es.dbpedia.org/resource/Termas_romanas_de_Asturica_Augusta>.
+
+<http://www.wikidata.org/entity/Q60617274>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Liédena>.
+
+<http://www.wikidata.org/entity/Q60647391>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Las_Musas>.
+
+<http://www.wikidata.org/entity/Q61889722>
+        owl:sameAs <http://es.dbpedia.org/resource/Convento_de_Santa_María_de_los_Reyes>.
+
+<http://www.wikidata.org/entity/Q47287609>
+        owl:sameAs <http://es.dbpedia.org/resource/Resa>.
+
+<http://www.wikidata.org/entity/Q47711952>
+        owl:sameAs <http://es.dbpedia.org/resource/Jamila>.
+
+<http://www.wikidata.org/entity/Q43589960>
+        owl:sameAs <http://es.dbpedia.org/resource/Conjunto_Arqueológico_de_Fuente_Álamo>.
+
+<http://www.wikidata.org/entity/Q48476003>
+        owl:sameAs <http://es.dbpedia.org/resource/Cerro_de_la_Virgen_del_Castillo>.
+
+<http://www.wikidata.org/entity/Q51881592>
+        owl:sameAs <http://es.dbpedia.org/resource/Abrigo_de_las_Lomas_de_Abril>.
+
+<http://www.wikidata.org/entity/Q43179206>
+        owl:sameAs <http://es.dbpedia.org/resource/Salinas_Espartinas>.
+
+<http://www.wikidata.org/entity/Q48781610>
+        owl:sameAs <http://es.dbpedia.org/resource/Santa_Criz_de_Eslava>.
+
+<http://www.wikidata.org/entity/Q53588187>
+        owl:sameAs <http://es.dbpedia.org/resource/Regina_Turdulorum>.
+
+<http://www.wikidata.org/entity/Q48781524>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Irueña>.
+
+<http://www.wikidata.org/entity/Q49007800>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_de_Las_Atalayuelas>.
+
+<http://www.wikidata.org/entity/Q50377898>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_calcolítico_Venta_del_Rapa>.
+
+<http://www.wikidata.org/entity/Q51162088>
+        owl:sameAs <http://es.dbpedia.org/resource/Batería_de_costa_de_la_Atalaya_de_Fornells>.
+
+<http://www.wikidata.org/entity/Q47323398>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Chaves>.
+
+<http://www.wikidata.org/entity/Q47766735>
+        owl:sameAs <http://es.dbpedia.org/resource/Sexi_(Almuñécar)>.
+
+<http://www.wikidata.org/entity/Q48782291>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Ángel>.
+
+<http://www.wikidata.org/entity/Q50353800>
+        owl:sameAs <http://es.dbpedia.org/resource/Llometa_del_Tio_Figuetes>.
+
+<http://www.wikidata.org/entity/Q51881621>
+        owl:sameAs <http://es.dbpedia.org/resource/Corrales_de_los_Fantasmas>.
+
+<http://www.wikidata.org/entity/Q43179070>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Caridad_(yacimiento_arqueológico)>.
+
+<http://www.wikidata.org/entity/Q47005672>
+        owl:sameAs <http://es.dbpedia.org/resource/Augustobriga>.
+
+<http://www.wikidata.org/entity/Q48465607>
+        owl:sameAs <http://es.dbpedia.org/resource/Zorita-Las_Quintanas>.
+
+<http://www.wikidata.org/entity/Q48781936>
+        owl:sameAs <http://es.dbpedia.org/resource/Castil_de_Griegos>.
+
+<http://www.wikidata.org/entity/Q43179212>
+        owl:sameAs <http://es.dbpedia.org/resource/Conducción_de_aguas_de_El_Chorrillo>.
+
+<http://www.wikidata.org/entity/Q43148160>
+        owl:sameAs <http://es.dbpedia.org/resource/Forau_del_Cocho>.
+
+<http://www.wikidata.org/entity/Q43143810>
+        owl:sameAs <http://es.dbpedia.org/resource/Parque_Arqueológico_de_Belmaco>.
+
+<http://www.wikidata.org/entity/Q43133085>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santa_María_(Mojácar)>.
+
+<http://www.wikidata.org/entity/Q59213382>
+        owl:sameAs <http://es.dbpedia.org/resource/Conjunto_arqueológico_de_Acusa>.
+
+<http://www.wikidata.org/entity/Q59185091>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimientos_arqueológicos_de_Humanejos_(Parla)>.
+
+<http://www.wikidata.org/entity/Q56668978>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_Cerro_Boyero>.
+
+<http://www.wikidata.org/entity/Q56044255>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_del_Cortijo_de_Miraflores_y_Huerta_de_la_Albarrana>.
+
+<http://www.wikidata.org/entity/Q54865486>
+        owl:sameAs <http://es.dbpedia.org/resource/Berbea>.
+
+<http://www.wikidata.org/entity/Q55843169>
+        owl:sameAs <http://es.dbpedia.org/resource/Ciudad_ibérica_fortificada_La_Punta_d'Orleyl>.
+
+<http://www.wikidata.org/entity/Q56195867>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillón-Peñaflor>.
+
+<http://www.wikidata.org/entity/Q56191809>
+        owl:sameAs <http://es.dbpedia.org/resource/Peña_Buraca>.
+
+<http://www.wikidata.org/entity/Q56062312>
+        owl:sameAs <http://es.dbpedia.org/resource/Henayo>.
+
+<http://www.wikidata.org/entity/Q53844977>
+        owl:sameAs <http://es.dbpedia.org/resource/Abrigo_de_la_Hoya_de_los_Navarejos_I>.
+
+<http://www.wikidata.org/entity/Q54825779>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Vigo>.
+
+<http://www.wikidata.org/entity/Q55495511>
+        owl:sameAs <http://es.dbpedia.org/resource/Paisaje_cultural_del_Risco_Caído_y_montañas_sagradas_de_Gran_Canaria>.
+
+<http://www.wikidata.org/entity/Q56101488>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_La_Silera>.
+
+<http://www.wikidata.org/entity/Q54847386>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_Alcalá_la_Vieja>.
+
+<http://www.wikidata.org/entity/Q55705604>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Dos_Hermanas_(Montemayor)>.
+
+<http://www.wikidata.org/entity/Q63869344>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Universitario_A_Domus_do_Mitreo>.
+
+<http://www.wikidata.org/entity/Q97603129>
+        owl:sameAs <http://es.dbpedia.org/resource/Parque_botánico-arqueológico_El_Majuelo>.
+
+<http://www.wikidata.org/entity/Q43176182>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_del_Mitreo>.
+
+<http://www.wikidata.org/entity/Q43176443>
+        owl:sameAs <http://es.dbpedia.org/resource/Terrazas_del_Manzanares>.
+
+<http://www.wikidata.org/entity/Q43175453>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_de_Zonzamas>.
+
+<http://www.wikidata.org/entity/Q43177045>
+        owl:sameAs <http://es.dbpedia.org/resource/Cerro_del_Bu>.
+
+<http://www.wikidata.org/entity/Q43175479>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Palomar_(Oliete)>.
+
+<http://www.wikidata.org/entity/Q43177055>
+        owl:sameAs <http://es.dbpedia.org/resource/Dólmenes_de_Valencia_de_Alcántara>.
+
+<http://www.wikidata.org/entity/Q43174653>
+        owl:sameAs <http://es.dbpedia.org/resource/Baelo_Claudia>.
+
+<http://www.wikidata.org/entity/Q43176396>
+        owl:sameAs <http://es.dbpedia.org/resource/Basílica_Tardorromana_de_Ceuta>.
+
+<http://www.wikidata.org/entity/Q97616819>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Ranchiles_I>.
+
+<http://www.wikidata.org/entity/Q97616842>
+        owl:sameAs <http://es.dbpedia.org/resource/Carteia>.
+
+<http://www.wikidata.org/entity/Q97616823>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Palomas_II>.
+
+<http://www.wikidata.org/entity/Q97620186>
+        owl:sameAs <http://es.dbpedia.org/resource/Necrópolis_de_la_Punta_de_la_Vaca>.
+
+<http://www.wikidata.org/entity/Q97620185>
+        owl:sameAs <http://es.dbpedia.org/resource/Factoría_de_salazones_del_Teatro_de_Andalucía>.
+
+<http://www.wikidata.org/entity/Q97617128>
+        owl:sameAs <http://es.dbpedia.org/resource/Baño_de_la_Reina_Mora_(Jimena_de_la_Frontera)>.
+
+<http://www.wikidata.org/entity/Q97602344>
+        owl:sameAs <http://es.dbpedia.org/resource/Gatas_(yacimiento_arqueológico)>.
+
+<http://www.wikidata.org/entity/Q97620305>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_la_Mesa_del_Helechoso>.
+
+<http://www.wikidata.org/entity/Q97620304>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Barranco_del_Arca>.
+
+<http://www.wikidata.org/entity/Q97620357>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Caballo>.
+
+<http://www.wikidata.org/entity/Q97620354>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Bacinete>.
+
+<http://www.wikidata.org/entity/Q97620323>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_la_Motilla>.
+
+<http://www.wikidata.org/entity/Q97620325>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Risco_del_Tajo_Gordo>.
+
+<http://www.wikidata.org/entity/Q97620335>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_los_Ladrones>.
+
+<http://www.wikidata.org/entity/Q97620336>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Mediano>.
+
+<http://www.wikidata.org/entity/Q97620299>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Palomas_I>.
+
+<http://www.wikidata.org/entity/Q97620326>
+        owl:sameAs <http://es.dbpedia.org/resource/Abrigo_Rancho_de_Valdechuelo>.
+
+<http://www.wikidata.org/entity/Q97620315>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Extremo_Sur>.
+
+<http://www.wikidata.org/entity/Q97620351>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_las_Bailadoras>.
+
+<http://www.wikidata.org/entity/Q97620359>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Pajarraco>.
+
+<http://www.wikidata.org/entity/Q97620485>
+        owl:sameAs <http://es.dbpedia.org/resource/Conjunto_Arqueológico_Romano_de_Medina_Sidonia>.
+
+<http://www.wikidata.org/entity/Q66970674>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_del_Cohete>.
+
+<http://www.wikidata.org/entity/Q67871413>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_toros_de_la_Real_Maestranza_de_Granada>.
+
+<http://www.wikidata.org/entity/Q68338058>
+        owl:sameAs <http://es.dbpedia.org/resource/Villavieja_(asentamiento_prehistórico)>.
+
+<http://www.wikidata.org/entity/Q68711663>
+        owl:sameAs <http://es.dbpedia.org/resource/Barranco_León>.
+
+<http://www.wikidata.org/entity/Q66661644>
+        owl:sameAs <http://es.dbpedia.org/resource/Cerro_de_la_Merced>.
+
+<http://www.wikidata.org/entity/Q73716914>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_del_Molino_Manzánez>.
+
+<http://www.wikidata.org/entity/Q77920248>
+        owl:sameAs <http://es.dbpedia.org/resource/Recinto_amurallado_de_Rada>.
+
+<http://www.wikidata.org/entity/Q97620586>
+        owl:sameAs <http://es.dbpedia.org/resource/Ocuri>.
+
+<http://www.wikidata.org/entity/Q97618785>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_la_Taconera>.
+
+<http://www.wikidata.org/entity/Q97618801>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Roca_con_Letras>.
+
+<http://www.wikidata.org/entity/Q97625506>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Monturque>.
+
+<http://www.wikidata.org/entity/Q97625649>
+        owl:sameAs <http://es.dbpedia.org/resource/Templo_romano_de_Córdoba>.
+
+<http://www.wikidata.org/entity/Q97625652>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_romano_de_Córdoba>.
+
+<http://www.wikidata.org/entity/Q93746614>
+        owl:sameAs <http://es.dbpedia.org/resource/Estación_solar_de_Masca>.
+
+<http://www.wikidata.org/entity/Q96099137>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Cárchel>.
+
+<http://www.wikidata.org/entity/Q87374474>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Medala>.
+
+<http://www.wikidata.org/entity/Q88582853>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_del_Cortijo_del_Pajarillo>.
+
+<http://www.wikidata.org/entity/Q87392861>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Sapo>.
+
+<http://www.wikidata.org/entity/Q96526844>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_Cova_Foradada_(Calafell)>.
+
+<http://www.wikidata.org/entity/Q89130483>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_y_Necrópolis_de_San_Nicolás>.
+
+<http://www.wikidata.org/entity/Q90254244>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_La_Mata>.
+
+<http://www.wikidata.org/entity/Q97628806>
+        owl:sameAs <http://es.dbpedia.org/resource/Mina_Concepción>.
+
+<http://www.wikidata.org/entity/Q97628758>
+        owl:sameAs <http://es.dbpedia.org/resource/Mina_Confesionarios>.
+
+<http://www.wikidata.org/entity/Q97626423>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_Casas_de_Don_Pedro>.
+
+<http://www.wikidata.org/entity/Q97624866>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_los_Murciélagos>.
+
+<http://www.wikidata.org/entity/Q97627209>
+        owl:sameAs <http://es.dbpedia.org/resource/Mina_de_Cabezas_del_Pasto>.
+
+<http://www.wikidata.org/entity/Q97627453>
+        owl:sameAs <http://es.dbpedia.org/resource/Mina_de_San_Miguel>.
+
+<http://www.wikidata.org/entity/Q97628350>
+        owl:sameAs <http://es.dbpedia.org/resource/Canaleos_de_Peña_del_Hierro>.
+
+<http://www.wikidata.org/entity/Q97628328>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_la_Algaba>.
+
+<http://www.wikidata.org/entity/Q97628297>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Papúa>.
+
+<http://www.wikidata.org/entity/Q97628413>
+        owl:sameAs <http://es.dbpedia.org/resource/Cerro_del_Moro>.
+
+<http://www.wikidata.org/entity/Q97628367>
+        owl:sameAs <http://es.dbpedia.org/resource/Canaleos_de_la_Cementación_Naya>.
+
+<http://www.wikidata.org/entity/Q97628405>
+        owl:sameAs <http://es.dbpedia.org/resource/Monte_Romero>.
+
+<http://www.wikidata.org/entity/Q97628412>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_del_Cerro_de_San_Cristóbal>.
+
+<http://www.wikidata.org/entity/Q97628371>
+        owl:sameAs <http://es.dbpedia.org/resource/Cansalobos>.
+
+<http://www.wikidata.org/entity/Q97628363>
+        owl:sameAs <http://es.dbpedia.org/resource/Cuenca_minera_de_Riotinto-Nerva>.
+
+<http://www.wikidata.org/entity/Q97628347>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_la_Mora>.
+
+<http://www.wikidata.org/entity/Q97628336>
+        owl:sameAs <http://es.dbpedia.org/resource/Necrópolis_de_La_Dehesa>.
+
+<http://www.wikidata.org/entity/Q97628274>
+        owl:sameAs <http://es.dbpedia.org/resource/Túnel_n.%C2%BA_11_(Riotinto)>.
+
+<http://www.wikidata.org/entity/Q97628509>
+        owl:sameAs <http://es.dbpedia.org/resource/Turóbriga>.
+
+<http://www.wikidata.org/entity/Q97628636>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Ladrillera>.
+
+<http://www.wikidata.org/entity/Q97634112>
+        owl:sameAs <http://es.dbpedia.org/resource/Cerro_de_la_Era>.
+
+<http://www.wikidata.org/entity/Q97633994>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Casarabonela>.
+
+<http://www.wikidata.org/entity/Q97634052>
+        owl:sameAs <http://es.dbpedia.org/resource/Cerro_de_la_Tortuga>.
+
+<http://www.wikidata.org/entity/Q97630768>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_Gil_de_Olid>.
+
+<http://www.wikidata.org/entity/Q97630778>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_de_La_Mesa>.
+
+<http://www.wikidata.org/entity/Q97634209>
+        owl:sameAs <http://es.dbpedia.org/resource/Bezmiliana>.
+
+<http://www.wikidata.org/entity/Q97634208>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_prehistórico_del_Llano_de_la_Virgen>.
+
+<http://www.wikidata.org/entity/Q97634205>
+        owl:sameAs <http://es.dbpedia.org/resource/Termas_romanas_de_Alameda>.
+
+<http://www.wikidata.org/entity/Q97634235>
+        owl:sameAs <http://es.dbpedia.org/resource/Finca_del_Secretario>.
+
+<http://www.wikidata.org/entity/Q97631203>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Toya>.
+
+<http://www.wikidata.org/entity/Q97631082>
+        owl:sameAs <http://es.dbpedia.org/resource/Torres_de_Santa_Catalina>.
+
+<http://www.wikidata.org/entity/Q97631415>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_los_Muñecos>.
+
+<http://www.wikidata.org/entity/Q97642006>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Utrera>.
+
+<http://www.wikidata.org/entity/Q97640509>
+        owl:sameAs <http://es.dbpedia.org/resource/Puerta_de_Sevilla_(Marchena)>.
+
+<http://www.wikidata.org/entity/Q97642035>
+        owl:sameAs <http://es.dbpedia.org/resource/Conjunto_termal_de_Herrera>.
+
+<http://www.wikidata.org/entity/Q97641989>
+        owl:sameAs <http://es.dbpedia.org/resource/Puerta_de_Morón_de_la_Frontera>.
+
+<http://www.wikidata.org/entity/Q97632800>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_El_Toro>.
+
+<http://www.wikidata.org/entity/Q97632801>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_y_necrópolis_tardorromana_de_La_Angostura>.
+
+<http://www.wikidata.org/entity/Q85865312>
+        owl:sameAs <http://es.dbpedia.org/resource/Aratis>.
+
+<http://www.wikidata.org/entity/Q85749995>
+        owl:sameAs <http://es.dbpedia.org/resource/Cabezo_Juré>.
+
+<http://www.wikidata.org/entity/Q97633525>
+        owl:sameAs <http://es.dbpedia.org/resource/Los_Castillejos_(Teba)>.
+
+<http://www.wikidata.org/entity/Q97633452>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_la_Duquesa>.
+
+<http://www.wikidata.org/entity/Q97633562>
+        owl:sameAs <http://es.dbpedia.org/resource/Cerro_Colorao>.
+
+<http://www.wikidata.org/entity/Q97652215>
+        owl:sameAs <http://es.dbpedia.org/resource/Mina_Poderosa>.
+
+<http://www.wikidata.org/entity/Q98062051>
+        owl:sameAs <http://es.dbpedia.org/resource/Pilas_de_la_Fuente_del_Soto>.
+
+<http://www.wikidata.org/entity/Q97633745>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Mijas>.
+
+<http://www.wikidata.org/entity/Q97633816>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Tesoro>.
+
+<http://www.wikidata.org/entity/Q97633680>
+        owl:sameAs <http://es.dbpedia.org/resource/Los_Toscanos>.
+
+<http://www.wikidata.org/entity/Q97633671>
+        owl:sameAs <http://es.dbpedia.org/resource/Necrópolis_megalítica_de_la_Planilla>.
+
+<http://www.wikidata.org/entity/Q97633679>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimientos_de_la_desembocadura_del_río_Vélez>.
+
+<http://www.wikidata.org/entity/Q97633694>
+        owl:sameAs <http://es.dbpedia.org/resource/Sitio_de_los_Dólmenes_de_Antequera>.
+
+<http://www.wikidata.org/entity/Q97645797>
+        owl:sameAs <http://es.dbpedia.org/resource/Zona_arqueológica_de_Setefilla>.
+
+<http://www.wikidata.org/entity/Q97688631>
+        owl:sameAs <http://es.dbpedia.org/resource/Arco_del_Pópulo>.
+
+<http://www.wikidata.org/entity/Q97688624>
+        owl:sameAs <http://es.dbpedia.org/resource/Cerro_de_los_Castillones>.
+
+<http://www.wikidata.org/entity/Q97688683>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_la_Pileta>.
+
+<http://www.wikidata.org/entity/Q97688688>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Atlanterra>.
+
+<http://www.wikidata.org/entity/Q98182929>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Zarza,_La_Zarcita,_Llano_de_la_Zarza,_Fuente_de_Las_Palomas_y_Fajaneta_del_Jarito>.
+
+<http://www.wikidata.org/entity/Q98073782>
+        owl:sameAs <http://es.dbpedia.org/resource/Cuevas_del_Obispo>.
+
+<http://www.wikidata.org/entity/Q98060735>
+        owl:sameAs <http://es.dbpedia.org/resource/Escorial_romano_de_Los_Silillos>.
+
+<http://www.wikidata.org/entity/Q98060766>
+        owl:sameAs <http://es.dbpedia.org/resource/Cementerio_protestante_de_Tharsis>.
+
+<http://www.wikidata.org/entity/Q98060757>
+        owl:sameAs <http://es.dbpedia.org/resource/Cementerio_católico_de_Tharsis>.
+
+<http://www.wikidata.org/entity/Q98500520>
+        owl:sameAs <http://es.dbpedia.org/resource/Alberca_Rota>.
+
+<http://www.wikidata.org/entity/Q98502997>
+        owl:sameAs <http://es.dbpedia.org/resource/Masa_San_Dionisio>.
+
+<http://www.wikidata.org/entity/Q98681763>
+        owl:sameAs <http://es.dbpedia.org/resource/Pinturas_rupestres_de_Capsanes>.
+
+<http://www.wikidata.org/entity/Q101678164>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_la_Torre_Mocha_(Naharros_del_Río)>.
+
+<http://www.wikidata.org/entity/Q102226536>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Lagunas_Rubias>.
+
+<http://www.wikidata.org/entity/Q105884486>
+        owl:sameAs <http://es.dbpedia.org/resource/Necrópolis_musulmana_de_Tauste>.
+
+<http://www.wikidata.org/entity/Q107356566>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_de_Prado>.
+
+<http://www.wikidata.org/entity/Q107310558>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_romano_de_Calella>.
+
+<http://www.wikidata.org/entity/Q106523309>
+        owl:sameAs <http://es.dbpedia.org/resource/Dólmenes_de_Corominas>.
+
+<http://www.wikidata.org/entity/Q104811691>
+        owl:sameAs <http://es.dbpedia.org/resource/Cerro_de_San_Esteban_(yacimiento_arqueológico)>.
+
+<http://www.wikidata.org/entity/Q104832940>
+        owl:sameAs <http://es.dbpedia.org/resource/Peña_del_Diablo>.
+
+<http://www.wikidata.org/entity/Q104713805>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Loma_del_Prado>.
+
+<http://www.wikidata.org/entity/Q117308831>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_la_Vaquera>.
+
+<http://www.wikidata.org/entity/Q117777776>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_l%E2%80%99Albir>.
+
+<http://www.wikidata.org/entity/Q106312963>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_Barrio_Andalusí>.
+
+<http://www.wikidata.org/entity/Q109313259>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_de_las_Amoladeras>.
+
+<http://www.wikidata.org/entity/Q109675622>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Homón_de_Faro>.
+
+<http://www.wikidata.org/entity/Q110967390>
+        owl:sameAs <http://es.dbpedia.org/resource/Necrópolis_de_Sieteiglesias>.
+
+<http://www.wikidata.org/entity/Q111687069>
+        owl:sameAs <http://es.dbpedia.org/resource/Cabecico_del_Tesoro>.
+
+<http://www.wikidata.org/entity/Q111549182>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_de_los_Yesares>.
+
+<http://www.wikidata.org/entity/Q113110658>
+        owl:sameAs <http://es.dbpedia.org/resource/Forau_de_la_Tuta>.
+
+<http://www.wikidata.org/entity/Q113558973>
+        owl:sameAs <http://es.dbpedia.org/resource/Sitio_megalítico_de_La_Torre-La_Janera>.
+
+<http://www.wikidata.org/entity/Q115800330>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_El_Humedal>.
+
+<http://www.wikidata.org/entity/Q113612094>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_Moncín>.
+
+<http://www.wikidata.org/entity/Q115299250>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_Nuestra_Señora_del_Pueyo>.
+
+<http://www.wikidata.org/entity/Q115663619>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_Cantera_Vieja>.
+
+<http://www.wikidata.org/entity/Q115793028>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_de_El_Corral_de_Calvo>.
+
+<http://www.wikidata.org/entity/Q113976334>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Castillar_(Mendavia)>.
+
+<http://www.wikidata.org/entity/Q115682305>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_El_Esparragal>.
+
+<http://www.wikidata.org/entity/Q113306880>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Piquete_de_la_Atalaya>.
+
+<http://www.wikidata.org/entity/Q115799163>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Morredón>.
+
+<http://www.wikidata.org/entity/Q115355823>
+        owl:sameAs <http://es.dbpedia.org/resource/Castellet_del_Porquet>.
+
+<http://www.wikidata.org/entity/Q120643551>
+        owl:sameAs <http://es.dbpedia.org/resource/Cantera_de_Els_Quatre_Camins_(Énova)>.
+
+<http://www.wikidata.org/entity/Q120646018>
+        owl:sameAs <http://es.dbpedia.org/resource/Carriladas_Ibero_Romanas_de_Énova>.
+
+<http://www.wikidata.org/entity/Q124310029>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Arco>.
+
+<http://www.wikidata.org/entity/Q125342569>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_Peña_del_Moro>.
+
+<http://www.wikidata.org/entity/Q9093696>
+        owl:sameAs <http://es.dbpedia.org/resource/Vilanoveta>.
+
+<http://www.wikidata.org/entity/Q11909784>
+        owl:sameAs <http://es.dbpedia.org/resource/Bordas_de_Arreu>.
+
+<http://www.wikidata.org/entity/Q9075544>
+        owl:sameAs <http://es.dbpedia.org/resource/Segan>.
+
+<http://www.wikidata.org/entity/Q11681612>
+        owl:sameAs <http://es.dbpedia.org/resource/Espluga_Freda>.
+
+<http://www.wikidata.org/entity/Q8776016>
+        owl:sameAs <http://es.dbpedia.org/resource/Enrens>.
+
+<http://www.wikidata.org/entity/Q9074014>
+        owl:sameAs <http://es.dbpedia.org/resource/Santa_Cruz_de_Rodes>.
+
+<http://www.wikidata.org/entity/Q16545320>
+        owl:sameAs <http://es.dbpedia.org/resource/Cellers_(el_Pont_de_Suert)>.
+
+<http://www.wikidata.org/entity/Q11932071>
+        owl:sameAs <http://es.dbpedia.org/resource/Llarás>.
+
+<http://www.wikidata.org/entity/Q11913185>
+        owl:sameAs <http://es.dbpedia.org/resource/Castellnou_de_Peramea>.
+
+<http://www.wikidata.org/entity/Q16299897>
+        owl:sameAs <http://es.dbpedia.org/resource/Los_Altimiris>.
+
+<http://www.wikidata.org/entity/Q5645499>
+        owl:sameAs <http://es.dbpedia.org/resource/Herba-savina>.
+
+<http://www.wikidata.org/entity/Q6163066>
+        owl:sameAs <http://es.dbpedia.org/resource/Villiquera>.
+
+<http://www.wikidata.org/entity/Q5396273>
+        owl:sameAs <http://es.dbpedia.org/resource/Castellgormá>.
+
+<http://www.wikidata.org/entity/Q5874878>
+        owl:sameAs <http://es.dbpedia.org/resource/Gallicant>.
+
+<http://www.wikidata.org/entity/Q6059879>
+        owl:sameAs <http://es.dbpedia.org/resource/Panteón_de_la_Duquesa_de_Sevillano>.
+
+<http://www.wikidata.org/entity/Q29053297>
+        owl:sameAs <http://es.dbpedia.org/resource/Mausoleo_conjunto_de_Goya,_Meléndez_Valdés,_Donoso_y_Moratín>.
+
+<http://www.wikidata.org/entity/Q41339559>
+        owl:sameAs <http://es.dbpedia.org/resource/Panteón_de_los_Héroes>.
+
+<http://www.wikidata.org/entity/Q29479201>
+        owl:sameAs <http://es.dbpedia.org/resource/Panteón_Azas>.
+
+<http://www.wikidata.org/entity/Q46012506>
+        owl:sameAs <http://es.dbpedia.org/resource/Panteón_de_Aviación>.
+
+<http://www.wikidata.org/entity/Q29439275>
+        owl:sameAs <http://es.dbpedia.org/resource/Panteón_Guirao>.
+
+<http://www.wikidata.org/entity/Q46012649>
+        owl:sameAs <http://es.dbpedia.org/resource/Panteón_de_Regulares_número_5>.
+
+<http://www.wikidata.org/entity/Q46012990>
+        owl:sameAs <http://es.dbpedia.org/resource/Panteón_de_Regulares_número_2>.
+
+<http://www.wikidata.org/entity/Q5401214>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Ardales>.
+
+<http://www.wikidata.org/entity/Q2919889>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Luna_(Mairena_del_Alcor)>.
+
+<http://www.wikidata.org/entity/Q1148574>
+        owl:sameAs <http://es.dbpedia.org/resource/Munigua>.
+
+<http://www.wikidata.org/entity/Q1505731>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_los_Escipiones>.
+
+<http://www.wikidata.org/entity/Q4185860>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Tabernas>.
+
+<http://www.wikidata.org/entity/Q3867196>
+        owl:sameAs <http://es.dbpedia.org/resource/Cerro_de_los_Infantes>.
+
+<http://www.wikidata.org/entity/Q4868434>
+        owl:sameAs <http://es.dbpedia.org/resource/Basílica_de_Vega_del_Mar>.
+
+<http://www.wikidata.org/entity/Q498261>
+        owl:sameAs <http://es.dbpedia.org/resource/Real_Alcázar_de_Sevilla>.
+
+<http://www.wikidata.org/entity/Q2855339>
+        owl:sameAs <http://es.dbpedia.org/resource/Zona_arqueológica_de_Medina_Elvira>.
+
+<http://www.wikidata.org/entity/Q5709588>
+        owl:sameAs <http://es.dbpedia.org/resource/Asta_Regia>.
+
+<http://www.wikidata.org/entity/Q5749247>
+        owl:sameAs <http://es.dbpedia.org/resource/Carissa_Aurelia>.
+
+<http://www.wikidata.org/entity/Q5968701>
+        owl:sameAs <http://es.dbpedia.org/resource/Lacipo>.
+
+<http://www.wikidata.org/entity/Q5768702>
+        owl:sameAs <http://es.dbpedia.org/resource/Ciavieja>.
+
+<http://www.wikidata.org/entity/Q5965306>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Terrera_del_Reloj>.
+
+<http://www.wikidata.org/entity/Q5821278>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Castellón_Alto>.
+
+<http://www.wikidata.org/entity/Q5821285>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Castillejo_de_Nívar_y_Güevéjar>.
+
+<http://www.wikidata.org/entity/Q5822827>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Peñón_de_las_Juntas>.
+
+<http://www.wikidata.org/entity/Q5911869>
+        owl:sameAs <http://es.dbpedia.org/resource/Basílica_de_Santa_María_de_los_Reales_Alcázares>.
+
+<http://www.wikidata.org/entity/Q6001787>
+        owl:sameAs <http://es.dbpedia.org/resource/Marroquíes_Bajos>.
+
+<http://www.wikidata.org/entity/Q5664267>
+        owl:sameAs <http://es.dbpedia.org/resource/Alcázar_de_Úbeda>.
+
+<http://www.wikidata.org/entity/Q5719362>
+        owl:sameAs <http://es.dbpedia.org/resource/Barbesula>.
+
+<http://www.wikidata.org/entity/Q5820875>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Argar_y_La_Gerundia>.
+
+<http://www.wikidata.org/entity/Q5836036>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Ambrosio>.
+
+<http://www.wikidata.org/entity/Q5763390>
+        owl:sameAs <http://es.dbpedia.org/resource/Oppidum_íbero_de_Puente_Tablas>.
+
+<http://www.wikidata.org/entity/Q5689658>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_ibérico_del_Cerro_de_la_Cruz>.
+
+<http://www.wikidata.org/entity/Q6074007>
+        owl:sameAs <http://es.dbpedia.org/resource/Peñas_de_los_Gitanos>.
+
+<http://www.wikidata.org/entity/Q6039321>
+        owl:sameAs <http://es.dbpedia.org/resource/Necrópolis_megalítica_de_Gádor>.
+
+<http://www.wikidata.org/entity/Q6171624>
+        owl:sameAs <http://es.dbpedia.org/resource/Zona_arqueológica_de_Santa_Eulalia>.
+
+<http://www.wikidata.org/entity/Q9086161>
+        owl:sameAs <http://es.dbpedia.org/resource/Termas_romanas_de_Torreblanca_del_Sol>.
+
+<http://www.wikidata.org/entity/Q6171619>
+        owl:sameAs <http://es.dbpedia.org/resource/Zona_arqueológica_de_El_Chuche_(Benahadux)>.
+
+<http://www.wikidata.org/entity/Q6080175>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Constitución_(Almería)>.
+
+<http://www.wikidata.org/entity/Q6080051>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_San_Antonio_(Cádiz)>.
+
+<http://www.wikidata.org/entity/Q6039279>
+        owl:sameAs <http://es.dbpedia.org/resource/Necrópolis_de_Alcaide>.
+
+<http://www.wikidata.org/entity/Q6153784>
+        owl:sameAs <http://es.dbpedia.org/resource/Tumba_de_Crist��bal_Colón>.
+
+<http://www.wikidata.org/entity/Q7419759>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santa_María_Magdalena_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q6169527>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_Cerro_de_la_Virgen>.
+
+<http://www.wikidata.org/entity/Q6039300>
+        owl:sameAs <http://es.dbpedia.org/resource/Necrópolis_de_Los_Algarbes>.
+
+<http://www.wikidata.org/entity/Q6129295>
+        owl:sameAs <http://es.dbpedia.org/resource/Singilia_Barba>.
+
+<http://www.wikidata.org/entity/Q6162502>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_El_Ruedo>.
+
+<http://www.wikidata.org/entity/Q6162517>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_del_Rincón_de_la_Victoria>.
+
+<http://www.wikidata.org/entity/Q9053113>
+        owl:sameAs <http://es.dbpedia.org/resource/Orippo>.
+
+<http://www.wikidata.org/entity/Q6162500>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Bruñel>.
+
+<http://www.wikidata.org/entity/Q6169514>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_Cerro_de_la_Mora>.
+
+<http://www.wikidata.org/entity/Q16492379>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Oficio>.
+
+<http://www.wikidata.org/entity/Q16490739>
+        owl:sameAs <http://es.dbpedia.org/resource/Cerro_de_la_Encina>.
+
+<http://www.wikidata.org/entity/Q20995230>
+        owl:sameAs <http://es.dbpedia.org/resource/Conjunto_Arqueológico_de_Carmona>.
+
+<http://www.wikidata.org/entity/Q21480631>
+        owl:sameAs <http://es.dbpedia.org/resource/Factoría_romana_de_La_Algaida>.
+
+<http://www.wikidata.org/entity/Q97616842>
+        owl:sameAs <http://es.dbpedia.org/resource/Carteia>.
+
+<http://www.wikidata.org/entity/Q97620186>
+        owl:sameAs <http://es.dbpedia.org/resource/Necrópolis_de_la_Punta_de_la_Vaca>.
+
+<http://www.wikidata.org/entity/Q97620323>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_la_Motilla>.
+
+<http://www.wikidata.org/entity/Q97620946>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_la_Oliva_(Vejer_de_la_Frontera)>.
+
+<http://www.wikidata.org/entity/Q97625506>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Monturque>.
+
+<http://www.wikidata.org/entity/Q97628363>
+        owl:sameAs <http://es.dbpedia.org/resource/Cuenca_minera_de_Riotinto-Nerva>.
+
+<http://www.wikidata.org/entity/Q97628347>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_la_Mora>.
+
+<http://www.wikidata.org/entity/Q97628336>
+        owl:sameAs <http://es.dbpedia.org/resource/Necrópolis_de_La_Dehesa>.
+
+<http://www.wikidata.org/entity/Q97630768>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_Gil_de_Olid>.
+
+<http://www.wikidata.org/entity/Q97632801>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_y_necrópolis_tardorromana_de_La_Angostura>.
+
+<http://www.wikidata.org/entity/Q97633694>
+        owl:sameAs <http://es.dbpedia.org/resource/Sitio_de_los_Dólmenes_de_Antequera>.
+
+<http://www.wikidata.org/entity/Q97645802>
+        owl:sameAs <http://es.dbpedia.org/resource/Anfiteatro_romano_de_Carmona>.
+
+<http://www.wikidata.org/entity/Q97634205>
+        owl:sameAs <http://es.dbpedia.org/resource/Termas_romanas_de_Alameda>.
+
+<http://www.wikidata.org/entity/Q97634052>
+        owl:sameAs <http://es.dbpedia.org/resource/Cerro_de_la_Tortuga>.
+
+<http://www.wikidata.org/entity/Q30905728>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Santa_Catalina_del_Puerto>.
+
+<http://www.wikidata.org/entity/Q43136626>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Arjonilla>.
+
+<http://www.wikidata.org/entity/Q41784346>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Aguilar_de_la_Frontera>.
+
+<http://www.wikidata.org/entity/Q43133085>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santa_María_(Mojácar)>.
+
+<http://www.wikidata.org/entity/Q56324318>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Híjar_en_Las_Gabias>.
+
+<http://www.wikidata.org/entity/Q56668978>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_Cerro_Boyero>.
+
+<http://www.wikidata.org/entity/Q30901592>
+        owl:sameAs <http://es.dbpedia.org/resource/Necrópolis_Ibérica_de_Tútugi>.
+
+<http://www.wikidata.org/entity/Q922097>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Vélez-Blanco>.
+
+<http://www.wikidata.org/entity/Q1049927>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Yecla_la_Vieja>.
+
+<http://www.wikidata.org/entity/Q609760>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_El_Chao_Samartín>.
+
+<http://www.wikidata.org/entity/Q389930>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Elviña>.
+
+<http://www.wikidata.org/entity/Q1049903>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Baroña>.
+
+<http://www.wikidata.org/entity/Q623407>
+        owl:sameAs <http://es.dbpedia.org/resource/Numancia>.
+
+<http://www.wikidata.org/entity/Q2411979>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Santa_Tecla>.
+
+<http://www.wikidata.org/entity/Q2511592>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Bardaos>.
+
+<http://www.wikidata.org/entity/Q2888199>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Portilla>.
+
+<http://www.wikidata.org/entity/Q2513720>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_A_Cidá>.
+
+<http://www.wikidata.org/entity/Q2511580>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Achadizo>.
+
+<http://www.wikidata.org/entity/Q2513122>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Borneiro>.
+
+<http://www.wikidata.org/entity/Q2742973>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_San_Cibrao_de_Las>.
+
+<http://www.wikidata.org/entity/Q2941519>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Ulaca>.
+
+<http://www.wikidata.org/entity/Q2941521>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Viladonga>.
+
+<http://www.wikidata.org/entity/Q2511345>
+        owl:sameAs <http://es.dbpedia.org/resource/Castriño_de_Conxo>.
+
+<http://www.wikidata.org/entity/Q2513704>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Porto_de_Baixo>.
+
+<http://www.wikidata.org/entity/Q11680611>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Troña>.
+
+<http://www.wikidata.org/entity/Q11303958>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Burela>.
+
+<http://www.wikidata.org/entity/Q5757830>
+        owl:sameAs <http://es.dbpedia.org/resource/Castilviejo_de_Guijosa>.
+
+<http://www.wikidata.org/entity/Q5757973>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Castillo>.
+
+<http://www.wikidata.org/entity/Q5757988>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Las_Merchanas>.
+
+<http://www.wikidata.org/entity/Q5758010>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_del_Pico_del_Hacha>.
+
+<http://www.wikidata.org/entity/Q5757976>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_El_Castillo>.
+
+<http://www.wikidata.org/entity/Q8342724>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Pendia>.
+
+<http://www.wikidata.org/entity/Q8342716>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Fazouro>.
+
+<http://www.wikidata.org/entity/Q5475466>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Custodia>.
+
+<http://www.wikidata.org/entity/Q5757964>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Abiada>.
+
+<http://www.wikidata.org/entity/Q5757986>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_la_Loma>.
+
+<http://www.wikidata.org/entity/Q6073869>
+        owl:sameAs <http://es.dbpedia.org/resource/Peña_Moñuz>.
+
+<http://www.wikidata.org/entity/Q8342711>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Abándames>.
+
+<http://www.wikidata.org/entity/Q5198869>
+        owl:sameAs <http://es.dbpedia.org/resource/Campamento_romano_de_La_Carisa>.
+
+<http://www.wikidata.org/entity/Q6075182>
+        owl:sameAs <http://es.dbpedia.org/resource/Picu_Castiellu>.
+
+<http://www.wikidata.org/entity/Q8208868>
+        owl:sameAs <http://es.dbpedia.org/resource/Atxa>.
+
+<http://www.wikidata.org/entity/Q8342733>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Zoñán>.
+
+<http://www.wikidata.org/entity/Q5757991>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Las_Rabas>.
+
+<http://www.wikidata.org/entity/Q8342715>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Doña_Palla>.
+
+<http://www.wikidata.org/entity/Q5758006>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_del_Castiellu_de_Llagú>.
+
+<http://www.wikidata.org/entity/Q5914109>
+        owl:sameAs <http://es.dbpedia.org/resource/Ilurcis>.
+
+<http://www.wikidata.org/entity/Q29651638>
+        owl:sameAs <http://es.dbpedia.org/resource/Nivaria_(Hispania)>.
+
+<http://www.wikidata.org/entity/Q29651528>
+        owl:sameAs <http://es.dbpedia.org/resource/Septimanca>.
+
+<http://www.wikidata.org/entity/Q29652490>
+        owl:sameAs <http://es.dbpedia.org/resource/Segontia_Lanka>.
+
+<http://www.wikidata.org/entity/Q28502960>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_El_Cincho>.
+
+<http://www.wikidata.org/entity/Q28887202>
+        owl:sameAs <http://es.dbpedia.org/resource/Conjunto_arqueológico_-_natural_de_Santomé>.
+
+<http://www.wikidata.org/entity/Q16544879>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_peña_del_Hombre>.
+
+<http://www.wikidata.org/entity/Q20548647>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_Candaz>.
+
+<http://www.wikidata.org/entity/Q20550597>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_Lupario>.
+
+<http://www.wikidata.org/entity/Q16618591>
+        owl:sameAs <http://es.dbpedia.org/resource/Peña_del_Castro>.
+
+<http://www.wikidata.org/entity/Q16544867>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Arrola>.
+
+<http://www.wikidata.org/entity/Q17625576>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_de_Urri>.
+
+<http://www.wikidata.org/entity/Q20549443>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Lobadiz>.
+
+<http://www.wikidata.org/entity/Q20013929>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_San_Chuis>.
+
+<http://www.wikidata.org/entity/Q20551362>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Centroña>.
+
+<http://www.wikidata.org/entity/Q15714786>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_La_Cabeza_del_Castillo>.
+
+<http://www.wikidata.org/entity/Q12385781>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Cociñadoiro>.
+
+<http://www.wikidata.org/entity/Q12385766>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Santa_Comba>.
+
+<http://www.wikidata.org/entity/Q61388095>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_As_Modias>.
+
+<http://www.wikidata.org/entity/Q48781610>
+        owl:sameAs <http://es.dbpedia.org/resource/Santa_Criz_de_Eslava>.
+
+<http://www.wikidata.org/entity/Q52189963>
+        owl:sameAs <http://es.dbpedia.org/resource/Carasta>.
+
+<http://www.wikidata.org/entity/Q54865486>
+        owl:sameAs <http://es.dbpedia.org/resource/Berbea>.
+
+<http://www.wikidata.org/entity/Q61388098>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Piñeiros>.
+
+<http://www.wikidata.org/entity/Q48781524>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Irueña>.
+
+<http://www.wikidata.org/entity/Q56062312>
+        owl:sameAs <http://es.dbpedia.org/resource/Henayo>.
+
+<http://www.wikidata.org/entity/Q61388096>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Pico_do_Castro>.
+
+<http://www.wikidata.org/entity/Q54825779>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Vigo>.
+
+<http://www.wikidata.org/entity/Q30904224>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Arxeriz>.
+
+<http://www.wikidata.org/entity/Q109947577>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_los_Moros>.
+
+<http://www.wikidata.org/entity/Q67457652>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Lerilla>.
+
+<http://www.wikidata.org/entity/Q96603008>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Magros>.
+
+<http://www.wikidata.org/entity/Q97633993>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Ortegícar>.
+
+<http://www.wikidata.org/entity/Q124310150>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_La_Horma>.
+
+<http://www.wikidata.org/entity/Q6022082>
+        owl:sameAs <http://es.dbpedia.org/resource/Monravana>.
+
+<http://www.wikidata.org/entity/Q9061223>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_íbero_de_Montbarbat>.
+
+<http://www.wikidata.org/entity/Q2941387>
+        owl:sameAs <http://es.dbpedia.org/resource/Castellet_de_Bernabé>.
+
+<http://www.wikidata.org/entity/Q5401164>
+        owl:sameAs <http://es.dbpedia.org/resource/Puig_Castellar>.
+
+<http://www.wikidata.org/entity/Q6081033>
+        owl:sameAs <http://es.dbpedia.org/resource/Tosal_de_San_Miguel>.
+
+<http://www.wikidata.org/entity/Q9061226>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_íbero_de_la_Bastida_de_les_Alcusses>.
+
+<http://www.wikidata.org/entity/Q9061224>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_íbero_de_San_Sebastián_de_la_Guarda>.
+
+<http://www.wikidata.org/entity/Q973944>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_íbero_de_Les_Maleses>.
+
+<http://www.wikidata.org/entity/Q6141961>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_íbero_del_Molino_de_Espigol>.
+
+<http://www.wikidata.org/entity/Q6081055>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_ibérico_amurallado_Los_Villares>.
+
+<http://www.wikidata.org/entity/Q6081036>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_ibérico_del_Pico_de_los_Ajos>.
+
+<http://www.wikidata.org/entity/Q3819440>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_íbero_de_Castell>.
+
+<http://www.wikidata.org/entity/Q4893916>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_íbero_Can_Olivé>.
+
+<http://www.wikidata.org/entity/Q6081039>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_Ibérico_de_la_Muela_de_Arriba>.
+
+<http://www.wikidata.org/entity/Q6081065>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_ibérico_del_Amarejo>.
+
+<http://www.wikidata.org/entity/Q9061221>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_íbero_de_Can_Fatjó>.
+
+<http://www.wikidata.org/entity/Q9064785>
+        owl:sameAs <http://es.dbpedia.org/resource/Puntal_dels_Llops>.
+
+<http://www.wikidata.org/entity/Q5756789>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_íbero_Castellar_de_Meca>.
+
+<http://www.wikidata.org/entity/Q6081057>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_ibérico_amurallado_del_Tos_Pelat>.
+
+<http://www.wikidata.org/entity/Q5689658>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_ibérico_del_Cerro_de_la_Cruz>.
+
+<http://www.wikidata.org/entity/Q6081062>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_ibérico_de_la_Seña>.
+
+<http://www.wikidata.org/entity/Q6081060>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_ibérico_de_Xarpolar>.
+
+<http://www.wikidata.org/entity/Q11942136>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_ibérico_del_Far>.
+
+<http://www.wikidata.org/entity/Q11208543>
+        owl:sameAs <http://es.dbpedia.org/resource/Pla_de_Santa_Bárbara>.
+
+<http://www.wikidata.org/entity/Q20925290>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Celadilla>.
+
+<http://www.wikidata.org/entity/Q11699858>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_íbero_de_la_Torre_dels_Encantats>.
+
+<http://www.wikidata.org/entity/Q43178676>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_Ibérico_del_Cabezo_de_la_Guardia>.
+
+<http://www.wikidata.org/entity/Q13049880>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_ibérico_de_San_Antonio>.
+
+<http://www.wikidata.org/entity/Q11699853>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_íbero_de_Cogulló>.
+
+<http://www.wikidata.org/entity/Q43178660>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_ibérico_del_Cabezo_de_San_Pedro>.
+
+<http://www.wikidata.org/entity/Q57157770>
+        owl:sameAs <http://es.dbpedia.org/resource/Castellet_de_Banyoles>.
+
+<http://www.wikidata.org/entity/Q6162507>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_las_Torres>.
+
+<http://www.wikidata.org/entity/Q6162502>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_El_Ruedo>.
+
+<http://www.wikidata.org/entity/Q6162504>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_La_Quintilla>.
+
+<http://www.wikidata.org/entity/Q6162509>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Noheda>.
+
+<http://www.wikidata.org/entity/Q6162500>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Bruñel>.
+
+<http://www.wikidata.org/entity/Q5709588>
+        owl:sameAs <http://es.dbpedia.org/resource/Asta_Regia>.
+
+<http://www.wikidata.org/entity/Q6162367>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_Romana_de_Las_Gabias>.
+
+<http://www.wikidata.org/entity/Q4893109>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Can_Llauder>.
+
+<http://www.wikidata.org/entity/Q5474005>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_del_Paturro>.
+
+<http://www.wikidata.org/entity/Q1115216>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_La_Tejada>.
+
+<http://www.wikidata.org/entity/Q5821985>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Gallumbar>.
+
+<http://www.wikidata.org/entity/Q5801665>
+        owl:sameAs <http://es.dbpedia.org/resource/Thiar>.
+
+<http://www.wikidata.org/entity/Q6001787>
+        owl:sameAs <http://es.dbpedia.org/resource/Marroquíes_Bajos>.
+
+<http://www.wikidata.org/entity/Q6020996>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_del_Cubo_(Torredonjimeno)>.
+
+<http://www.wikidata.org/entity/Q626232>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Almodóvar_del_Río>.
+
+<http://www.wikidata.org/entity/Q1442199>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Cambre>.
+
+<http://www.wikidata.org/entity/Q5836036>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Ambrosio>.
+
+<http://www.wikidata.org/entity/Q6129295>
+        owl:sameAs <http://es.dbpedia.org/resource/Singilia_Barba>.
+
+<http://www.wikidata.org/entity/Q549699>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Can_Terrés>.
+
+<http://www.wikidata.org/entity/Q766555>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Carranque>.
+
+<http://www.wikidata.org/entity/Q1053521>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa-mausoleo_de_Centcelles>.
+
+<http://www.wikidata.org/entity/Q2525114>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_Fortunatus>.
+
+<http://www.wikidata.org/entity/Q5684365>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Las_Calaveras>.
+
+<http://www.wikidata.org/entity/Q9086161>
+        owl:sameAs <http://es.dbpedia.org/resource/Termas_romanas_de_Torreblanca_del_Sol>.
+
+<http://www.wikidata.org/entity/Q9093955>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_dels_Munts>.
+
+<http://www.wikidata.org/entity/Q8346545>
+        owl:sameAs <http://es.dbpedia.org/resource/Ciudadela_ibérica_de_Calafell>.
+
+<http://www.wikidata.org/entity/Q6169541>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_Fuente_Álamo_(Alcalá_la_Real)>.
+
+<http://www.wikidata.org/entity/Q9093961>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Baños_de_Valdearados>.
+
+<http://www.wikidata.org/entity/Q17602421>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_L'Espelt>.
+
+<http://www.wikidata.org/entity/Q6169592>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Camino_de_Albalate>.
+
+<http://www.wikidata.org/entity/Q6169523>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_Camesa-Rebolledo>.
+
+<http://www.wikidata.org/entity/Q6169517>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_El_Villar>.
+
+<http://www.wikidata.org/entity/Q9093964>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Veranes>.
+
+<http://www.wikidata.org/entity/Q9093969>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_tardorromana_de_Camarzana_de_Tera>.
+
+<http://www.wikidata.org/entity/Q6162517>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_del_Rincón_de_la_Victoria>.
+
+<http://www.wikidata.org/entity/Q9093954>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Almenara-Puras>.
+
+<http://www.wikidata.org/entity/Q9093967>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_del_Palmeral>.
+
+<http://www.wikidata.org/entity/Q6162514>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_la_Estación>.
+
+<http://www.wikidata.org/entity/Q6162510>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Saelices_el_Chico>.
+
+<http://www.wikidata.org/entity/Q6164161>
+        owl:sameAs <http://es.dbpedia.org/resource/Vivarium_(villa)>.
+
+<http://www.wikidata.org/entity/Q9093962>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_Torre_Águila_(Montijo)>.
+
+<http://www.wikidata.org/entity/Q12402365>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_Romana_de_Toralla>.
+
+<http://www.wikidata.org/entity/Q23816345>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_Molino_de_Arriba>.
+
+<http://www.wikidata.org/entity/Q24354684>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_María_Martín>.
+
+<http://www.wikidata.org/entity/Q30905728>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Santa_Catalina_del_Puerto>.
+
+<http://www.wikidata.org/entity/Q25340774>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Monje>.
+
+<http://www.wikidata.org/entity/Q31197165>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_Cornelius>.
+
+<http://www.wikidata.org/entity/Q23695753>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Potenciana>.
+
+<http://www.wikidata.org/entity/Q26000933>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_La_Higueruela>.
+
+<http://www.wikidata.org/entity/Q27107047>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_El_Vergel>.
+
+<http://www.wikidata.org/entity/Q30899528>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_del_Ramalete>.
+
+<http://www.wikidata.org/entity/Q30901592>
+        owl:sameAs <http://es.dbpedia.org/resource/Necrópolis_Ibérica_de_Tútugi>.
+
+<http://www.wikidata.org/entity/Q21001867>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Fuerte_(Torredelcampo)>.
+
+<http://www.wikidata.org/entity/Q42659903>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_El_Vilarenc>.
+
+<http://www.wikidata.org/entity/Q43589960>
+        owl:sameAs <http://es.dbpedia.org/resource/Conjunto_Arqueológico_de_Fuente_Álamo>.
+
+<http://www.wikidata.org/entity/Q38102115>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Paterna>.
+
+<http://www.wikidata.org/entity/Q56044255>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_del_Cortijo_de_Miraflores_y_Huerta_de_la_Albarrana>.
+
+<http://www.wikidata.org/entity/Q69424698>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Los_Villares>.
+
+<http://www.wikidata.org/entity/Q56324318>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Híjar_en_Las_Gabias>.
+
+<http://www.wikidata.org/entity/Q60617274>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Liédena>.
+
+<http://www.wikidata.org/entity/Q60647391>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Las_Musas>.
+
+<http://www.wikidata.org/entity/Q97632386>
+        owl:sameAs <http://es.dbpedia.org/resource/Caviclum>.
+
+<http://www.wikidata.org/entity/Q97632504>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Río_Verde>.
+
+<http://www.wikidata.org/entity/Q97634235>
+        owl:sameAs <http://es.dbpedia.org/resource/Finca_del_Secretario>.
+
+<http://www.wikidata.org/entity/Q97620946>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_la_Oliva_(Vejer_de_la_Frontera)>.
+
+<http://www.wikidata.org/entity/Q97626268>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Don_Lucas>.
+
+<http://www.wikidata.org/entity/Q98498508>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Salar>.
+
+<http://www.wikidata.org/entity/Q112066661>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_Romana_de_Orpheus>.
+
+<http://www.wikidata.org/entity/Q113515817>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Vinamargo>.
+
+<http://www.wikidata.org/entity/Q105217577>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Cortijo_Robledo>.
+
+<http://www.wikidata.org/entity/Q107356566>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_de_Prado>.
+
+<http://www.wikidata.org/entity/Q97630778>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_de_La_Mesa>.

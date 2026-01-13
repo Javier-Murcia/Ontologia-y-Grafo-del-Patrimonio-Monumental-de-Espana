@@ -1,0 +1,3238 @@
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://www.wikidata.org/entity/Q28793897>
+        owl:sameAs  <http://es.dbpedia.org/resource/Plaza_Mayor_de_Chinchón> .
+
+<http://www.wikidata.org/entity/Q28793839>
+        owl:sameAs  <http://es.dbpedia.org/resource/Plaza_Mayor_de_San_Carlos_del_Valle> .
+
+<http://www.wikidata.org/entity/Q6079665>
+        owl:sameAs  <http://es.dbpedia.org/resource/Plaza_Mayor_(La_Puebla_de_Montalbán)> .
+
+<http://www.wikidata.org/entity/Q6079670>
+        owl:sameAs  <http://es.dbpedia.org/resource/Plaza_Mayor_de_Ocaña> .
+
+<http://www.wikidata.org/entity/Q6079707>
+        owl:sameAs  <http://es.dbpedia.org/resource/Plaza_Mayor_de_Soria> .
+
+<http://www.wikidata.org/entity/Q21003484>
+        owl:sameAs  <http://es.dbpedia.org/resource/Plaza_de_Cervantes_(Alcalá_de_Henares)> .
+
+<http://www.wikidata.org/entity/Q41532894>
+        owl:sameAs  <http://es.dbpedia.org/resource/Plaza_Mayor_de_Segovia> .
+
+<http://www.wikidata.org/entity/Q6079690>
+        owl:sameAs  <http://es.dbpedia.org/resource/Plaza_Mayor_de_Cáceres> .
+
+<http://www.wikidata.org/entity/Q9060903>
+        owl:sameAs  <http://es.dbpedia.org/resource/Plaza_Mayor_de_Palma_de_Mallorca> .
+
+<http://www.wikidata.org/entity/Q6080446>
+        owl:sameAs  <http://es.dbpedia.org/resource/Plaza_del_Pan_(Talavera_de_la_Reina)> .
+
+<http://www.wikidata.org/entity/Q3906559>
+        owl:sameAs  <http://es.dbpedia.org/resource/Plaza_Mayor_de_Valladolid> .
+
+<http://www.wikidata.org/entity/Q5746228>
+        owl:sameAs  <http://es.dbpedia.org/resource/Can_Cartró> .
+
+<http://www.wikidata.org/entity/Q1142136>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cruz_de_Hierro_(León)> .
+
+<http://www.wikidata.org/entity/Q5792459>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cruz_de_la_Salve> .
+
+<http://www.wikidata.org/entity/Q97105273>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cruz_cubierta_de_Alcira> .
+
+<http://www.wikidata.org/entity/Q155443>
+        owl:sameAs  <http://es.dbpedia.org/resource/Hospital_de_los_Reyes_Católicos> .
+
+<http://www.wikidata.org/entity/Q5903090>
+        owl:sameAs  <http://es.dbpedia.org/resource/Hospital_de_San_Martín_(Astorga)> .
+
+<http://www.wikidata.org/entity/Q5903143>
+        owl:sameAs  <http://es.dbpedia.org/resource/Hospital_de_la_Concepción_(Burgos)> .
+
+<http://www.wikidata.org/entity/Q5903065>
+        owl:sameAs  <http://es.dbpedia.org/resource/Hospital_de_San_Feliz_(Astorga)> .
+
+<http://www.wikidata.org/entity/Q3572282>
+        owl:sameAs  <http://es.dbpedia.org/resource/Hospital_de_Santa_Cristina_de_Somport> .
+
+<http://www.wikidata.org/entity/Q5903172>
+        owl:sameAs  <http://es.dbpedia.org/resource/Hospital_de_La_Piedad> .
+
+<http://www.wikidata.org/entity/Q5903059>
+        owl:sameAs  <http://es.dbpedia.org/resource/Hospital_de_Peregrinos_de_Soria> .
+
+<http://www.wikidata.org/entity/Q5903071>
+        owl:sameAs  <http://es.dbpedia.org/resource/Hospital_de_San_Juan_Bautista_(Astorga)> .
+
+<http://www.wikidata.org/entity/Q5903123>
+        owl:sameAs  <http://es.dbpedia.org/resource/Hospital_de_Santo_Tomás_(Astorga)> .
+
+<http://www.wikidata.org/entity/Q5903100>
+        owl:sameAs  <http://es.dbpedia.org/resource/Hospital_de_Santa_Cristina_(Soria)> .
+
+<http://www.wikidata.org/entity/Q5903129>
+        owl:sameAs  <http://es.dbpedia.org/resource/Hospital_de_Valdefuentes> .
+
+<http://www.wikidata.org/entity/Q8200938>
+        owl:sameAs  <http://es.dbpedia.org/resource/Antiguo_Hospital_de_Santa_Catalina> .
+
+<http://www.wikidata.org/entity/Q744455>
+        owl:sameAs  <http://es.dbpedia.org/resource/Convento_de_San_Marcos_(León)> .
+
+<http://www.wikidata.org/entity/Q5908715>
+        owl:sameAs  <http://es.dbpedia.org/resource/Hospital_de_la_Herrada> .
+
+<http://www.wikidata.org/entity/Q5903107>
+        owl:sameAs  <http://es.dbpedia.org/resource/Hospital_de_Santa_Marta_(Astorga)> .
+
+<http://www.wikidata.org/entity/Q6444949>
+        owl:sameAs  <http://es.dbpedia.org/resource/Hospital_de_San_Andrés_(Mombeltrán)> .
+
+<http://www.wikidata.org/entity/Q20021429>
+        owl:sameAs  <http://es.dbpedia.org/resource/Hospital_de_San_Juan_de_Jerusalén_(Támara_de_Campos)> .
+
+<http://www.wikidata.org/entity/Q17374437>
+        owl:sameAs  <http://es.dbpedia.org/resource/Hospital_de_Las_Tiendas_(Orden_de_Santiago)> .
+
+<http://www.wikidata.org/entity/Q21077313>
+        owl:sameAs  <http://es.dbpedia.org/resource/Hospital_de_Benasque> .
+
+<http://www.wikidata.org/entity/Q30906606>
+        owl:sameAs  <http://es.dbpedia.org/resource/Hospital_de_Villalcázar_de_Sirga_(Orden_de_Santiago)> .
+
+<http://www.wikidata.org/entity/Q9004968>
+        owl:sameAs  <http://es.dbpedia.org/resource/Hospital_del_Rey_(Burgos)> .
+
+<http://www.wikidata.org/entity/Q30906571>
+        owl:sameAs  <http://es.dbpedia.org/resource/Hospital_de_Villamartín_(Orden_de_Santiago)> .
+
+<http://www.wikidata.org/entity/Q20963329>
+        owl:sameAs  <http://es.dbpedia.org/resource/Hospital_de_San_Juan_de_Acre> .
+
+<http://www.wikidata.org/entity/Q26831149>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ronda_de_Atocha> .
+
+<http://www.wikidata.org/entity/Q26833591>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_los_Artistas> .
+
+<http://www.wikidata.org/entity/Q26833571>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Hernani_(Madrid)> .
+
+<http://www.wikidata.org/entity/Q26810980>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Poeta_Joan_Maragall> .
+
+<http://www.wikidata.org/entity/Q26792155>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paseo_del_General_Martínez_Campos> .
+
+<http://www.wikidata.org/entity/Q26810468>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Valencia_(Madrid)> .
+
+<http://www.wikidata.org/entity/Q26810966>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Sagasta> .
+
+<http://www.wikidata.org/entity/Q26795575>
+        owl:sameAs  <http://es.dbpedia.org/resource/Avenida_de_los_Poblados> .
+
+<http://www.wikidata.org/entity/Q26806522>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Julián_Besteiro> .
+
+<http://www.wikidata.org/entity/Q26810252>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Fe> .
+
+<http://www.wikidata.org/entity/Q26809719>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Farmacia> .
+
+<http://www.wikidata.org/entity/Q26913989>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Rollo> .
+
+<http://www.wikidata.org/entity/Q27031791>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Ave_María> .
+
+<http://www.wikidata.org/entity/Q27031392>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Galileo> .
+
+<http://www.wikidata.org/entity/Q26913064>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Sacramento> .
+
+<http://www.wikidata.org/entity/Q26913422>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Pasa> .
+
+<http://www.wikidata.org/entity/Q27044256>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Flora> .
+
+<http://www.wikidata.org/entity/Q27043844>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_López_de_Hoyos> .
+
+<http://www.wikidata.org/entity/Q27031730>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Conde_Duque> .
+
+<http://www.wikidata.org/entity/Q27043900>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Isabel_la_Católica_(Madrid)> .
+
+<http://www.wikidata.org/entity/Q26913879>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Imperial_(Madrid)> .
+
+<http://www.wikidata.org/entity/Q27525845>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Santa_Brígida> .
+
+<http://www.wikidata.org/entity/Q27615104>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Almendro> .
+
+<http://www.wikidata.org/entity/Q27556319>
+        owl:sameAs  <http://es.dbpedia.org/resource/Avenida_del_Cardenal_Herrera_Oria> .
+
+<http://www.wikidata.org/entity/Q28033229>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Luis_Vélez_de_Guevara> .
+
+<http://www.wikidata.org/entity/Q28051324>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Postas> .
+
+<http://www.wikidata.org/entity/Q28050982>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Botoneras> .
+
+<http://www.wikidata.org/entity/Q28051271>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Cava_Alta> .
+
+<http://www.wikidata.org/entity/Q28051025>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_las_Hileras> .
+
+<http://www.wikidata.org/entity/Q28051254>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cava_de_San_Miguel> .
+
+<http://www.wikidata.org/entity/Q28045186>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Juanelo> .
+
+<http://www.wikidata.org/entity/Q28033661>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Bola> .
+
+<http://www.wikidata.org/entity/Q28047686>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Don_Pedro> .
+
+<http://www.wikidata.org/entity/Q28032988>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_los_Cañizares> .
+
+<http://www.wikidata.org/entity/Q28039019>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Lope_de_Haro> .
+
+<http://www.wikidata.org/entity/Q28006139>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Espada> .
+
+<http://www.wikidata.org/entity/Q28015873>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Goya> .
+
+<http://www.wikidata.org/entity/Q28007290>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_los_Donados> .
+
+<http://www.wikidata.org/entity/Q28016010>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Buen_Suceso_(Madrid)> .
+
+<http://www.wikidata.org/entity/Q28016208>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Quintana> .
+
+<http://www.wikidata.org/entity/Q28006145>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Amnistía> .
+
+<http://www.wikidata.org/entity/Q27941430>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Carranza> .
+
+<http://www.wikidata.org/entity/Q27998597>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Octavio_Cuartero> .
+
+<http://www.wikidata.org/entity/Q27992091>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Rosario_(Albacete)> .
+
+<http://www.wikidata.org/entity/Q27969692>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Isaac_Peral> .
+
+<http://www.wikidata.org/entity/Q27921599>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Navarra> .
+
+<http://www.wikidata.org/entity/Q27969689>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Tinte> .
+
+<http://www.wikidata.org/entity/Q27868435>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_San_Luis_(Sevilla)> .
+
+<http://www.wikidata.org/entity/Q27891489>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Rodríguez_Arias> .
+
+<http://www.wikidata.org/entity/Q27982772>
+        owl:sameAs  <http://es.dbpedia.org/resource/Avenida_de_Denia> .
+
+<http://www.wikidata.org/entity/Q27991265>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Miguel_Ángel> .
+
+<http://www.wikidata.org/entity/Q27990810>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Mayor_(Albacete)> .
+
+<http://www.wikidata.org/entity/Q27973902>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Zapateros> .
+
+<http://www.wikidata.org/entity/Q27955399>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ronda_de_Segovia> .
+
+<http://www.wikidata.org/entity/Q27955396>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cuesta_de_las_Descargas> .
+
+<http://www.wikidata.org/entity/Q27991423>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Concepción> .
+
+<http://www.wikidata.org/entity/Q27955398>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Rosario_(Madrid)> .
+
+<http://www.wikidata.org/entity/Q27974980>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Salamanca> .
+
+<http://www.wikidata.org/entity/Q28029008>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Fernando_el_Santo> .
+
+<http://www.wikidata.org/entity/Q28031508>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Doctor_Cortezo> .
+
+<http://www.wikidata.org/entity/Q28029043>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Covarrubias> .
+
+<http://www.wikidata.org/entity/Q28032520>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Apodaca> .
+
+<http://www.wikidata.org/entity/Q28032558>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Larra> .
+
+<http://www.wikidata.org/entity/Q28028972>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Caracas> .
+
+<http://www.wikidata.org/entity/Q28024216>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Trafalgar> .
+
+<http://www.wikidata.org/entity/Q28016829>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_San_Agustín_(Albacete)> .
+
+<http://www.wikidata.org/entity/Q28028696>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Zurbarán> .
+
+<http://www.wikidata.org/entity/Q28024232>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_General_Álvarez_de_Castro> .
+
+<http://www.wikidata.org/entity/Q28024452>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Lozoya> .
+
+<http://www.wikidata.org/entity/Q28024324>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Lucio_del_Valle> .
+
+<http://www.wikidata.org/entity/Q28016755>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Luisa_Fernanda> .
+
+<http://www.wikidata.org/entity/Q27267331>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Ríos_Rosas> .
+
+<http://www.wikidata.org/entity/Q27464979>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Biombo> .
+
+<http://www.wikidata.org/entity/Q27313964>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Alenza> .
+
+<http://www.wikidata.org/entity/Q27245477>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Tutor> .
+
+<http://www.wikidata.org/entity/Q27464959>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cuesta_de_los_Ciegos_(Madrid)> .
+
+<http://www.wikidata.org/entity/Q27310549>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_José_Abascal> .
+
+<http://www.wikidata.org/entity/Q27243291>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Hilarión_Eslava> .
+
+<http://www.wikidata.org/entity/Q27243798>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Escosura> .
+
+<http://www.wikidata.org/entity/Q27243299>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Fernando_el_Católico> .
+
+<http://www.wikidata.org/entity/Q27243356>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Magallanes> .
+
+<http://www.wikidata.org/entity/Q27243804>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Arapiles> .
+
+<http://www.wikidata.org/entity/Q27243374>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Vallehermoso> .
+
+<http://www.wikidata.org/entity/Q27345310>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Treviño> .
+
+<http://www.wikidata.org/entity/Q27243347>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_General_Lacy> .
+
+<http://www.wikidata.org/entity/Q27310035>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_María_de_Guzmán> .
+
+<http://www.wikidata.org/entity/Q27224202>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Alameda> .
+
+<http://www.wikidata.org/entity/Q27193723>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Pelayo_(Madrid)> .
+
+<http://www.wikidata.org/entity/Q27243288>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Donoso_Cortés> .
+
+<http://www.wikidata.org/entity/Q27243265>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Gaztambide> .
+
+<http://www.wikidata.org/entity/Q27243080>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Jenner> .
+
+<http://www.wikidata.org/entity/Q27166315>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_San_Andrés_(Madrid)> .
+
+<http://www.wikidata.org/entity/Q27048330>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Cádiz> .
+
+<http://www.wikidata.org/entity/Q27137371>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Joaquín_Costa> .
+
+<http://www.wikidata.org/entity/Q27108025>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Silva> .
+
+<http://www.wikidata.org/entity/Q27119734>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Caños_Viejos> .
+
+<http://www.wikidata.org/entity/Q27051021>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Cedaceros> .
+
+<http://www.wikidata.org/entity/Q27051120>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Barceló> .
+
+<http://www.wikidata.org/entity/Q27050844>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Carnero> .
+
+<http://www.wikidata.org/entity/Q27048338>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Barcelona> .
+
+<http://www.wikidata.org/entity/Q27165938>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_San_Vicente_Ferrer_(Madrid)> .
+
+<http://www.wikidata.org/entity/Q27051066>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_los_Irlandeses> .
+
+<http://www.wikidata.org/entity/Q27048299>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Mallorca_(Madrid)> .
+
+<http://www.wikidata.org/entity/Q27055280>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Cruz_Verde_(Madrid)> .
+
+<http://www.wikidata.org/entity/Q28052611>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_los_Jardines> .
+
+<http://www.wikidata.org/entity/Q28052826>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Hermosilla> .
+
+<http://www.wikidata.org/entity/Q28054647>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Juan_Bravo_(Madrid)> .
+
+<http://www.wikidata.org/entity/Q28052626>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Virgen_de_los_Peligros> .
+
+<http://www.wikidata.org/entity/Q28664134>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Platería_(Murcia)> .
+
+<http://www.wikidata.org/entity/Q28711039>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Cós_del_Bou> .
+
+<http://www.wikidata.org/entity/Q28065000>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Núñez_de_Balboa> .
+
+<http://www.wikidata.org/entity/Q28070822>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Jorge_Juan> .
+
+<http://www.wikidata.org/entity/Q28059043>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Claudio_Coello> .
+
+<http://www.wikidata.org/entity/Q28065178>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_General_Pardiñas> .
+
+<http://www.wikidata.org/entity/Q28065262>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_General_Díaz_Porlier> .
+
+<http://www.wikidata.org/entity/Q28059068>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paseo_de_La_Habana> .
+
+<http://www.wikidata.org/entity/Q28064981>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Lagasca> .
+
+<http://www.wikidata.org/entity/Q28074122>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Tabernillas> .
+
+<http://www.wikidata.org/entity/Q28072318>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Fortuny> .
+
+<http://www.wikidata.org/entity/Q28071028>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Lope_de_Rueda> .
+
+<http://www.wikidata.org/entity/Q28058270>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_María_de_Molina> .
+
+<http://www.wikidata.org/entity/Q28056196>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_General_Oráa> .
+
+<http://www.wikidata.org/entity/Q28056166>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Maldonado> .
+
+<http://www.wikidata.org/entity/Q28662733>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_los_Mancebos> .
+
+<http://www.wikidata.org/entity/Q28492319>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Reina> .
+
+<http://www.wikidata.org/entity/Q28662708>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Primavera> .
+
+<http://www.wikidata.org/entity/Q28503197>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Sal> .
+
+<http://www.wikidata.org/entity/Q28662545>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Piamonte> .
+
+<http://www.wikidata.org/entity/Q28503583>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Condal> .
+
+<http://www.wikidata.org/entity/Q28533506>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_las_Fuentes> .
+
+<http://www.wikidata.org/entity/Q28662618>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Villa> .
+
+<http://www.wikidata.org/entity/Q28526177>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Fernando_VI> .
+
+<http://www.wikidata.org/entity/Q28538924>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Santa_Feliciana> .
+
+<http://www.wikidata.org/entity/Q28537739>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Nicasio_Gallego> .
+
+<http://www.wikidata.org/entity/Q28537702>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Manuel_Cortina> .
+
+<http://www.wikidata.org/entity/Q28537871>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Eguílaz> .
+
+<http://www.wikidata.org/entity/Q28539254>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Garcilaso> .
+
+<http://www.wikidata.org/entity/Q28538784>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Raimundo_Lulio> .
+
+<http://www.wikidata.org/entity/Q28525695>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Orellana> .
+
+<http://www.wikidata.org/entity/Q28525557>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Argensola> .
+
+<http://www.wikidata.org/entity/Q28534583>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Gerona_(Madrid)> .
+
+<http://www.wikidata.org/entity/Q28537171>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Infante> .
+
+<http://www.wikidata.org/entity/Q28525867>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Santa_Teresa_(Madrid)> .
+
+<http://www.wikidata.org/entity/Q28966412>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Goiri> .
+
+<http://www.wikidata.org/entity/Q28937422>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Almirante> .
+
+<http://www.wikidata.org/entity/Q28944793>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Segre> .
+
+<http://www.wikidata.org/entity/Q28943623>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Luis_Cabrera> .
+
+<http://www.wikidata.org/entity/Q28921542>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Villanueva> .
+
+<http://www.wikidata.org/entity/Q28916914>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Pedro_Muñoz_Seca> .
+
+<http://www.wikidata.org/entity/Q28916630>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Conde_de_Xiquena> .
+
+<http://www.wikidata.org/entity/Q28793893>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Antonio_Machado> .
+
+<http://www.wikidata.org/entity/Q28856259>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Puebla> .
+
+<http://www.wikidata.org/entity/Q28735106>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Andrés_Borrego> .
+
+<http://www.wikidata.org/entity/Q28806217>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Columela> .
+
+<http://www.wikidata.org/entity/Q28735110>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_las_Pozas> .
+
+<http://www.wikidata.org/entity/Q28732994>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Alburquerque> .
+
+<http://www.wikidata.org/entity/Q28733276>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Jordán> .
+
+<http://www.wikidata.org/entity/Q28936774>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Máiquez> .
+
+<http://www.wikidata.org/entity/Q28740159>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Doctor_Fleming> .
+
+<http://www.wikidata.org/entity/Q30128019>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Campomanes> .
+
+<http://www.wikidata.org/entity/Q29919201>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Julián_Romea> .
+
+<http://www.wikidata.org/entity/Q29919947>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Marqués_de_Villamagna> .
+
+<http://www.wikidata.org/entity/Q29610799>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_San_Bernardino> .
+
+<http://www.wikidata.org/entity/Q29608725>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Limón> .
+
+<http://www.wikidata.org/entity/Q29352014>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Zorrilla> .
+
+<http://www.wikidata.org/entity/Q29413520>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Bárbara_de_Braganza> .
+
+<http://www.wikidata.org/entity/Q29518723>
+        owl:sameAs  <http://es.dbpedia.org/resource/Rambla_de_Brasil> .
+
+<http://www.wikidata.org/entity/Q29564346>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Augusto_Figueroa> .
+
+<http://www.wikidata.org/entity/Q29582299>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Salustiano_Olózaga> .
+
+<http://www.wikidata.org/entity/Q29550986>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Salitre> .
+
+<http://www.wikidata.org/entity/Q29525561>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Esparteros> .
+
+<http://www.wikidata.org/entity/Q29345542>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_los_Madrazo> .
+
+<http://www.wikidata.org/entity/Q29474599>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Santa_Ana_(Madrid)> .
+
+<http://www.wikidata.org/entity/Q29413544>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_General_Castaños> .
+
+<http://www.wikidata.org/entity/Q28987115>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Beatriz_Galindo> .
+
+<http://www.wikidata.org/entity/Q29001836>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Victoria_(Madrid)> .
+
+<http://www.wikidata.org/entity/Q29005894>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Cuchilleros> .
+
+<http://www.wikidata.org/entity/Q29050990>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Marqués_de_Toca> .
+
+<http://www.wikidata.org/entity/Q29051010>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Zurita> .
+
+<http://www.wikidata.org/entity/Q29051496>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Juan_de_Urbieta> .
+
+<http://www.wikidata.org/entity/Q29007055>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Lepanto_(Madrid)> .
+
+<http://www.wikidata.org/entity/Q30318197>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Luis_de_Góngora> .
+
+<http://www.wikidata.org/entity/Q30333314>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Regalado> .
+
+<http://www.wikidata.org/entity/Q30454326>
+        owl:sameAs  <http://es.dbpedia.org/resource/Avenida_de_Madrid_(Barcelona)> .
+
+<http://www.wikidata.org/entity/Q30332264>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_los_Héroes_de_Alcántara> .
+
+<http://www.wikidata.org/entity/Q31188922>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Autonomía_(San_Sebastián)> .
+
+<http://www.wikidata.org/entity/Q29951433>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Colón_(Madrid)> .
+
+<http://www.wikidata.org/entity/Q30788116>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_los_Milaneses> .
+
+<http://www.wikidata.org/entity/Q32193859>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Juan_Bravo_(Segovia)> .
+
+<http://www.wikidata.org/entity/Q32458483>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_San_Justo> .
+
+<http://www.wikidata.org/entity/Q32454791>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Cordón> .
+
+<http://www.wikidata.org/entity/Q32034538>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Águila> .
+
+<http://www.wikidata.org/entity/Q32054487>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Luciente> .
+
+<http://www.wikidata.org/entity/Q38366642>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_El_Salvador> .
+
+<http://www.wikidata.org/entity/Q34551259>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Ercilla> .
+
+<http://www.wikidata.org/entity/Q34400884>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Esteban_Illán> .
+
+<http://www.wikidata.org/entity/Q36479681>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Miguel_Íscar> .
+
+<http://www.wikidata.org/entity/Q42253408>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Concepción_Arenal> .
+
+<http://www.wikidata.org/entity/Q42908463>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Ventorrillo> .
+
+<http://www.wikidata.org/entity/Q42251452>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paseo_de_Camoens> .
+
+<http://www.wikidata.org/entity/Q42369479>
+        owl:sameAs  <http://es.dbpedia.org/resource/Gran_Vía_de_Colón> .
+
+<http://www.wikidata.org/entity/Q42908465>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Huerta_del_Bayo> .
+
+<http://www.wikidata.org/entity/Q41538408>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Ibáñez_de_Bilbao> .
+
+<http://www.wikidata.org/entity/Q44910881>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Arlabán> .
+
+<http://www.wikidata.org/entity/Q43449196>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Trujillos> .
+
+<http://www.wikidata.org/entity/Q43569543>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Betis> .
+
+<http://www.wikidata.org/entity/Q47020909>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Barbieri> .
+
+<http://www.wikidata.org/entity/Q45899861>
+        owl:sameAs  <http://es.dbpedia.org/resource/Travesía_del_Conde_Duque> .
+
+<http://www.wikidata.org/entity/Q45900653>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_las_Negras> .
+
+<http://www.wikidata.org/entity/Q45899292>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Manuel> .
+
+<http://www.wikidata.org/entity/Q47245421>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Máximo_Aguirre> .
+
+<http://www.wikidata.org/entity/Q47247546>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Juan_de_Ajuriaguerra> .
+
+<http://www.wikidata.org/entity/Q48781971>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paseo_de_Begoña> .
+
+<http://www.wikidata.org/entity/Q47494747>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Gobernador> .
+
+<http://www.wikidata.org/entity/Q48525407>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Casado_del_Alisal> .
+
+<http://www.wikidata.org/entity/Q50227806>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Jovellanos> .
+
+<http://www.wikidata.org/entity/Q50315543>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Nueva_de_la_Rambla> .
+
+<http://www.wikidata.org/entity/Q50177576>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Válgame_Dios> .
+
+<http://www.wikidata.org/entity/Q52562913>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Carnicerías> .
+
+<http://www.wikidata.org/entity/Q52158635>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Miguel_Servet> .
+
+<http://www.wikidata.org/entity/Q52669487>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Libreros_(Alcalá_de_Henares)> .
+
+<http://www.wikidata.org/entity/Q52664831>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Recoletos> .
+
+<http://www.wikidata.org/entity/Q52663723>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Marqués_del_Duero> .
+
+<http://www.wikidata.org/entity/Q52158093>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_los_Estudios> .
+
+<http://www.wikidata.org/entity/Q52665136>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Cid> .
+
+<http://www.wikidata.org/entity/Q52153441>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Jesús_y_María> .
+
+<http://www.wikidata.org/entity/Q52153099>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Juan_de_Herrera> .
+
+<http://www.wikidata.org/entity/Q52153046>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Lazo> .
+
+<http://www.wikidata.org/entity/Q54013642>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Conde> .
+
+<http://www.wikidata.org/entity/Q54164406>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Grafal> .
+
+<http://www.wikidata.org/entity/Q54823799>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Abades_(Sevilla)> .
+
+<http://www.wikidata.org/entity/Q55842593>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Herrería_(Vitoria)> .
+
+<http://www.wikidata.org/entity/Q55841426>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_los_Astrónomos> .
+
+<http://www.wikidata.org/entity/Q55227717>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Marqués_de_la_Ensenada> .
+
+<http://www.wikidata.org/entity/Q55929310>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Zapatería_(Vitoria)> .
+
+<http://www.wikidata.org/entity/Q56167860>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Juan_de_Dios> .
+
+<http://www.wikidata.org/entity/Q56571707>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Fray_Zacarías_Martínez> .
+
+<http://www.wikidata.org/entity/Q56598043>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_las_Escuelas_(Vitoria)> .
+
+<http://www.wikidata.org/entity/Q56650934>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Gasteiz> .
+
+<http://www.wikidata.org/entity/Q56604465>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Chiquita> .
+
+<http://www.wikidata.org/entity/Q56650929>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Sociedad_Vascongada> .
+
+<http://www.wikidata.org/entity/Q56650987>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_San_Ildefonso_(Vitoria)> .
+
+<http://www.wikidata.org/entity/Q56650939>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Santa_María_(Vitoria)> .
+
+<http://www.wikidata.org/entity/Q56661085>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Aldabe> .
+
+<http://www.wikidata.org/entity/Q56681668>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cuesta_de_San_Francisco> .
+
+<http://www.wikidata.org/entity/Q56604381>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Correría_(Vitoria)> .
+
+<http://www.wikidata.org/entity/Q56675930>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cuesta_de_San_Vicente_(Vitoria)> .
+
+<http://www.wikidata.org/entity/Q56508018>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_San_Antonio_(Vitoria)> .
+
+<http://www.wikidata.org/entity/Q56571900>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Cuchillería_(Vitoria)> .
+
+<http://www.wikidata.org/entity/Q56611337>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Palacio_(Vitoria)> .
+
+<http://www.wikidata.org/entity/Q60106987>
+        owl:sameAs  <http://es.dbpedia.org/resource/Carrera_(urbanismo)> .
+
+<http://www.wikidata.org/entity/Q57234536>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Pedro_Egaña> .
+
+<http://www.wikidata.org/entity/Q57442914>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Nueva_Fuera> .
+
+<http://www.wikidata.org/entity/Q57385174>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Colegio_de_San_Prudencio> .
+
+<http://www.wikidata.org/entity/Q56735965>
+        owl:sameAs  <http://es.dbpedia.org/resource/Escaleras_del_Machete> .
+
+<http://www.wikidata.org/entity/Q57154846>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Torno> .
+
+<http://www.wikidata.org/entity/Q57414285>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Nueva_Dentro> .
+
+<http://www.wikidata.org/entity/Q57496198>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Barrancal> .
+
+<http://www.wikidata.org/entity/Q56707353>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Abrevadero_(Vitoria)> .
+
+<http://www.wikidata.org/entity/Q61365279>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Santo_Domingo_(Vitoria)> .
+
+<http://www.wikidata.org/entity/Q61070064>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Matía> .
+
+<http://www.wikidata.org/entity/Q61365281>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Pintorería> .
+
+<http://www.wikidata.org/entity/Q61365324>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_General_Álava> .
+
+<http://www.wikidata.org/entity/Q62106016>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Fuente_del_Prado> .
+
+<http://www.wikidata.org/entity/Q62105978>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Fierro> .
+
+<http://www.wikidata.org/entity/Q62106012>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Fruela> .
+
+<http://www.wikidata.org/entity/Q62106034>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Gascona> .
+
+<http://www.wikidata.org/entity/Q62105480>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Ecce_Homo> .
+
+<http://www.wikidata.org/entity/Q62105984>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Foncalada> .
+
+<http://www.wikidata.org/entity/Q62106057>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Gil_de_Jaz> .
+
+<http://www.wikidata.org/entity/Q62105990>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Fontán> .
+
+<http://www.wikidata.org/entity/Q62106038>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_General_Elorza> .
+
+<http://www.wikidata.org/entity/Q62106063>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_González_del_Valle> .
+
+<http://www.wikidata.org/entity/Q62105456>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Doctor_Casal> .
+
+<http://www.wikidata.org/entity/Q62106107>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Ildefonso_Martínez> .
+
+<http://www.wikidata.org/entity/Q62106147>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Jesús_(Oviedo)> .
+
+<http://www.wikidata.org/entity/Q62106100>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Huertas_(Oviedo)> .
+
+<http://www.wikidata.org/entity/Q62106112>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Independencia_(Oviedo)> .
+
+<http://www.wikidata.org/entity/Q62106216>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Jovellanos_(Oviedo)> .
+
+<http://www.wikidata.org/entity/Q62106405>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Mon> .
+
+<http://www.wikidata.org/entity/Q62106326>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Magdalena_(Oviedo)> .
+
+<http://www.wikidata.org/entity/Q62106368>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Martínez_Marina> .
+
+<http://www.wikidata.org/entity/Q62106315>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Luna_(Oviedo)> .
+
+<http://www.wikidata.org/entity/Q62106366>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Marqués_de_Santa_Cruz_de_Marcenado> .
+
+<http://www.wikidata.org/entity/Q62106365>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Marqués_de_Pidal> .
+
+<http://www.wikidata.org/entity/Q62106386>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Mendizábal> .
+
+<http://www.wikidata.org/entity/Q62106471>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Oscura> .
+
+<http://www.wikidata.org/entity/Q62106565>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Posada_Herrera> .
+
+<http://www.wikidata.org/entity/Q62106567>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Postigo_Alto> .
+
+<http://www.wikidata.org/entity/Q62106538>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Peso> .
+
+<http://www.wikidata.org/entity/Q62106758>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_San_Bernabé> .
+
+<http://www.wikidata.org/entity/Q62106535>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Pérez_de_la_Sala> .
+
+<http://www.wikidata.org/entity/Q62106769>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_San_Juan_(Oviedo)> .
+
+<http://www.wikidata.org/entity/Q62106499>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Paraíso> .
+
+<http://www.wikidata.org/entity/Q62106521>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Pelayo_(Oviedo)> .
+
+<http://www.wikidata.org/entity/Q62106569>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Postigo_Bajo> .
+
+<http://www.wikidata.org/entity/Q62106568>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_San_Antonio_(Oviedo)> .
+
+<http://www.wikidata.org/entity/Q62106765>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_San_Isidoro_(Oviedo)> .
+
+<http://www.wikidata.org/entity/Q62106767>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_San_José_(Oviedo)> .
+
+<http://www.wikidata.org/entity/Q61743971>
+        owl:sameAs  <http://es.dbpedia.org/resource/Carretera_de_la_Bordeta> .
+
+<http://www.wikidata.org/entity/Q62106786>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Santa_Ana_(Oviedo)> .
+
+<http://www.wikidata.org/entity/Q62106802>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Schultz> .
+
+<http://www.wikidata.org/entity/Q62106789>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Santa_Susana> .
+
+<http://www.wikidata.org/entity/Q62106785>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_San_Vicente_(Oviedo)> .
+
+<http://www.wikidata.org/entity/Q62106780>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_San_Roque> .
+
+<http://www.wikidata.org/entity/Q62106787>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Santa_Clara_(Oviedo)> .
+
+<http://www.wikidata.org/entity/Q62026303>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Arco_de_los_Zapatos> .
+
+<http://www.wikidata.org/entity/Q62026279>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Álvaro_Flórez_Estrada> .
+
+<http://www.wikidata.org/entity/Q62026274>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Alonso_de_Quintanilla> .
+
+<http://www.wikidata.org/entity/Q62026305>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Argüelles> .
+
+<http://www.wikidata.org/entity/Q62026276>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Altamirano> .
+
+<http://www.wikidata.org/entity/Q62026320>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Asturias> .
+
+<http://www.wikidata.org/entity/Q62087736>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Conde_de_Toreno> .
+
+<http://www.wikidata.org/entity/Q62087751>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Covadonga_(Oviedo)> .
+
+<http://www.wikidata.org/entity/Q62087695>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Caveda> .
+
+<http://www.wikidata.org/entity/Q62087709>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Cimadevilla> .
+
+<http://www.wikidata.org/entity/Q62087649>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Campo_de_los_Patos> .
+
+<http://www.wikidata.org/entity/Q62087653>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Campomanes_(Oviedo)> .
+
+<http://www.wikidata.org/entity/Q62087656>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Canóniga> .
+
+<http://www.wikidata.org/entity/Q63247838>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Ibiza> .
+
+<http://www.wikidata.org/entity/Q65216750>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Sánchez_Toca> .
+
+<http://www.wikidata.org/entity/Q65675509>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Astarloa> .
+
+<http://www.wikidata.org/entity/Q66581868>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calleja_del_Pañuelo_(Córdoba)> .
+
+<http://www.wikidata.org/entity/Q66310849>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Carpio> .
+
+<http://www.wikidata.org/entity/Q66310853>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Quintana_(Oviedo)> .
+
+<http://www.wikidata.org/entity/Q72439301>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Marina_(Barcelona)> .
+
+<http://www.wikidata.org/entity/Q69400415>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_los_Latoneros> .
+
+<http://www.wikidata.org/entity/Q68986257>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Martín_de_Vargas> .
+
+<http://www.wikidata.org/entity/Q84050101>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Cervantes_(Segovia)> .
+
+<http://www.wikidata.org/entity/Q84154441>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Escuderos> .
+
+<http://www.wikidata.org/entity/Q84155920>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Velarde_(Segovia)> .
+
+<http://www.wikidata.org/entity/Q84025990>
+        owl:sameAs  <http://es.dbpedia.org/resource/Avenida_de_Villajoyosa> .
+
+<http://www.wikidata.org/entity/Q84249304>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Doctor_Castelo> .
+
+<http://www.wikidata.org/entity/Q93726438>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Cardenal_Rodrigo_de_Castro> .
+
+<http://www.wikidata.org/entity/Q91446030>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_los_Mártires_de_Alcalá> .
+
+<http://www.wikidata.org/entity/Q96213053>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Cruz_Conde> .
+
+<http://www.wikidata.org/entity/Q97101902>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Claudio_Marcelo> .
+
+<http://www.wikidata.org/entity/Q98462926>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_León_y_Castillo> .
+
+<http://www.wikidata.org/entity/Q100795607>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_San_Fernando_(Córdoba)> .
+
+<http://www.wikidata.org/entity/Q107352302>
+        owl:sameAs  <http://es.dbpedia.org/resource/Belena_de_Portalapea> .
+
+<http://www.wikidata.org/entity/Q107689443>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Hospital_(Barcelona)> .
+
+<http://www.wikidata.org/entity/Q109942025>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Navarro_Ledesma> .
+
+<http://www.wikidata.org/entity/Q110644981>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_San_Juan_(Segovia)> .
+
+<http://www.wikidata.org/entity/Q110645080>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Marqués_del_Arco> .
+
+<http://www.wikidata.org/entity/Q113331721>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Ciegos> .
+
+<http://www.wikidata.org/entity/Q113653572>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Juan_de_Mena> .
+
+<http://www.wikidata.org/entity/Q115490516>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Bizkaia_(Vitoria)> .
+
+<http://www.wikidata.org/entity/Q115472693>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Becerro_de_Bengoa> .
+
+<http://www.wikidata.org/entity/Q115470094>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Postas_(Vitoria)> .
+
+<http://www.wikidata.org/entity/Q115474899>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Lehendakari_Aguirre> .
+
+<http://www.wikidata.org/entity/Q115345924>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Olaguíbel> .
+
+<http://www.wikidata.org/entity/Q115403518>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Ricardo_Puga> .
+
+<http://www.wikidata.org/entity/Q115377240>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Benito_Guinea> .
+
+<http://www.wikidata.org/entity/Q115346380>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Domingo_Beltrán_de_Otazu> .
+
+<http://www.wikidata.org/entity/Q115402777>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_las_Tenerías_(Vitoria)> .
+
+<http://www.wikidata.org/entity/Q115425522>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_San_Prudencio> .
+
+<http://www.wikidata.org/entity/Q115346106>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Jacinto_Benavente_(Vitoria)> .
+
+<http://www.wikidata.org/entity/Q115346450>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Beato_Tomás_de_Zumárraga> .
+
+<http://www.wikidata.org/entity/Q115345661>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Francia_(Vitoria)> .
+
+<http://www.wikidata.org/entity/Q115339855>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Mateo_Benigno_de_Moraza> .
+
+<http://www.wikidata.org/entity/Q115306751>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Magdalena_(Vitoria)> .
+
+<http://www.wikidata.org/entity/Q115325675>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Paz_(Vitoria)> .
+
+<http://www.wikidata.org/entity/Q115340733>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_las_Cercas_Bajas> .
+
+<http://www.wikidata.org/entity/Q115112715>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Benito_Corbal> .
+
+<http://www.wikidata.org/entity/Q114795510>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Michelena> .
+
+<http://www.wikidata.org/entity/Q114796134>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Marqués_de_Riestra> .
+
+<http://www.wikidata.org/entity/Q114262131>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Gorgullón> .
+
+<http://www.wikidata.org/entity/Q114267646>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Virgen_del_Camino> .
+
+<http://www.wikidata.org/entity/Q115516374>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paseo_de_la_Florida_(Vitoria)> .
+
+<http://www.wikidata.org/entity/Q116482430>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_San_Francisco_(San_Sebastián)> .
+
+<http://www.wikidata.org/entity/Q116477087>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Preboste_del_Rey> .
+
+<http://www.wikidata.org/entity/Q116458404>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Gran_Vía> .
+
+<http://www.wikidata.org/entity/Q116486061>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Santa_María_(San_Sebastián)> .
+
+<http://www.wikidata.org/entity/Q116311966>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Rúa> .
+
+<http://www.wikidata.org/entity/Q116485894>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_San_Vicente_(San_Sebastián)> .
+
+<http://www.wikidata.org/entity/Q116471588>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Maestre_Lope> .
+
+<http://www.wikidata.org/entity/Q116618028>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Amasorrain> .
+
+<http://www.wikidata.org/entity/Q116618249>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Iguera> .
+
+<http://www.wikidata.org/entity/Q115934322>
+        owl:sameAs  <http://es.dbpedia.org/resource/Avenida_de_Pablo_Iglesias> .
+
+<http://www.wikidata.org/entity/Q115996407>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Arca> .
+
+<http://www.wikidata.org/entity/Q116193062>
+        owl:sameAs  <http://es.dbpedia.org/resource/Portal_de_Arriaga> .
+
+<http://www.wikidata.org/entity/Q116140489>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Manuel_Iradier> .
+
+<http://www.wikidata.org/entity/Q116120153>
+        owl:sameAs  <http://es.dbpedia.org/resource/Portal_de_Legutiano> .
+
+<http://www.wikidata.org/entity/Q116009406>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ronda_del_Mediodía_(Vitoria)> .
+
+<http://www.wikidata.org/entity/Q116045088>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_los_Fueros_(Vitoria)> .
+
+<http://www.wikidata.org/entity/Q116031421>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_García_de_Vinuesa> .
+
+<http://www.wikidata.org/entity/Q116118516>
+        owl:sameAs  <http://es.dbpedia.org/resource/Portal_del_Rey> .
+
+<http://www.wikidata.org/entity/Q116006551>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Independencia_(Vitoria)> .
+
+<http://www.wikidata.org/entity/Q115998591>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Comandante_Izarduy> .
+
+<http://www.wikidata.org/entity/Q116033432>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Florida_(Vitoria)> .
+
+<http://www.wikidata.org/entity/Q116167453>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Canciller_Ayala_(Vitoria)> .
+
+<http://www.wikidata.org/entity/Q116169521>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paseo_de_la_Universidad_(Vitoria)> .
+
+<http://www.wikidata.org/entity/Q116007799>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Ramón_Ortiz_de_Zárate> .
+
+<http://www.wikidata.org/entity/Q116045199>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Rioja_(Vitoria)> .
+
+<http://www.wikidata.org/entity/Q116266951>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Rosal> .
+
+<http://www.wikidata.org/entity/Q116186023>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Bueno_Monreal> .
+
+<http://www.wikidata.org/entity/Q116161179>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Fundadora_de_las_Siervas_de_Jesús> .
+
+<http://www.wikidata.org/entity/Q116192765>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Prado_(Vitoria)> .
+
+<http://www.wikidata.org/entity/Q116160793>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paseo_de_los_Arquillos> .
+
+<http://www.wikidata.org/entity/Q116159494>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Arana> .
+
+<http://www.wikidata.org/entity/Q116200031>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_San_Francisco_(Vitoria)> .
+
+<http://www.wikidata.org/entity/Q116295226>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Sol_(Oviedo)> .
+
+<http://www.wikidata.org/entity/Q116152825>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Alberca_Vieja> .
+
+<http://www.wikidata.org/entity/Q116197975>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Prudencio_María_de_Verástegui> .
+
+<http://www.wikidata.org/entity/Q116185035>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Vicente_Goicoechea> .
+
+<http://www.wikidata.org/entity/Q116267763>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Regla> .
+
+<http://www.wikidata.org/entity/Q116982189>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Almira> .
+
+<http://www.wikidata.org/entity/Q116982469>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Almuzara> .
+
+<http://www.wikidata.org/entity/Q116983997>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Angosta> .
+
+<http://www.wikidata.org/entity/Q116984030>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Anselmo_Carretero> .
+
+<http://www.wikidata.org/entity/Q116984068>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Antonio_Coronel> .
+
+<http://www.wikidata.org/entity/Q116986248>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Arias_Dávila> .
+
+<http://www.wikidata.org/entity/Q116986262>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Arquitecto_Escobedo> .
+
+<http://www.wikidata.org/entity/Q116986383>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_los_Arroyos> .
+
+<http://www.wikidata.org/entity/Q116987044>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Barranco> .
+
+<http://www.wikidata.org/entity/Q116988297>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_María_de_Pablos_Cerezo> .
+
+<http://www.wikidata.org/entity/Q116994531>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Barrionuevo_(Segovia)> .
+
+<http://www.wikidata.org/entity/Q116994706>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_los_Batanes> .
+
+<http://www.wikidata.org/entity/Q116994995>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Buitrago> .
+
+<http://www.wikidata.org/entity/Q116996104>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Cabritería> .
+
+<http://www.wikidata.org/entity/Q116996473>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Cronista_Lecea> .
+
+<http://www.wikidata.org/entity/Q117001325>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Herrería_(Segovia)> .
+
+<http://www.wikidata.org/entity/Q117001361>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Canaleja> .
+
+<http://www.wikidata.org/entity/Q117009971>
+        owl:sameAs  <http://es.dbpedia.org/resource/Travesía_de_las_Canonjías> .
+
+<http://www.wikidata.org/entity/Q117021436>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Cantarranas> .
+
+<http://www.wikidata.org/entity/Q117455389>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Vida_(Sevilla)> .
+
+<http://www.wikidata.org/entity/Q117455352>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Verde> .
+
+<http://www.wikidata.org/entity/Q117189168>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_García_Camba> .
+
+<http://www.wikidata.org/entity/Q117168347>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Oliva> .
+
+<http://www.wikidata.org/entity/Q118455499>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Cardenal_Zúñiga> .
+
+<http://www.wikidata.org/entity/Q118459571>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Doctor_Pichardo> .
+
+<http://www.wikidata.org/entity/Q118464584>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paseo_de_Ezequiel_González> .
+
+<http://www.wikidata.org/entity/Q118464674>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Escultor_Marinas> .
+
+<http://www.wikidata.org/entity/Q118465401>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_los_Estiradores> .
+
+<http://www.wikidata.org/entity/Q118465443>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Félix_Gila> .
+
+<http://www.wikidata.org/entity/Q118468683>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Carretas_(Segovia)> .
+
+<http://www.wikidata.org/entity/Q118482317>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Fernán_García> .
+
+<http://www.wikidata.org/entity/Q118482351>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_los_Gascos> .
+
+<http://www.wikidata.org/entity/Q118482384>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Grabador_Espinosa> .
+
+<http://www.wikidata.org/entity/Q118482825>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Hoya> .
+
+<http://www.wikidata.org/entity/Q118482930>
+        owl:sameAs  <http://es.dbpedia.org/resource/Bajada_de_la_Inclusa_Vieja> .
+
+<http://www.wikidata.org/entity/Q118483169>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Independencia_(Segovia)> .
+
+<http://www.wikidata.org/entity/Q118487778>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Jardín_Botánico> .
+
+<http://www.wikidata.org/entity/Q118488938>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Juan_de_Segovia> .
+
+<http://www.wikidata.org/entity/Q118482876>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Iglesia_(Segovia)> .
+
+<http://www.wikidata.org/entity/Q118512586>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Licenciado_Peralta> .
+
+<http://www.wikidata.org/entity/Q118512726>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Mal_Consejo> .
+
+<http://www.wikidata.org/entity/Q118512804>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Manuel_Entero> .
+
+<http://www.wikidata.org/entity/Q118512855>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Marqués_de_Mondéjar> .
+
+<http://www.wikidata.org/entity/Q118519289>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Ortiz_de_Paz> .
+
+<http://www.wikidata.org/entity/Q118519896>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Padre_Scio> .
+
+<http://www.wikidata.org/entity/Q118521670>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Parra> .
+
+<http://www.wikidata.org/entity/Q118521696>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Parral> .
+
+<http://www.wikidata.org/entity/Q118521714>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_las_Peñuelas_(Segovia)> .
+
+<http://www.wikidata.org/entity/Q118521763>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Perucho> .
+
+<http://www.wikidata.org/entity/Q118522788>
+        owl:sameAs  <http://es.dbpedia.org/resource/Camino_de_la_Piedad> .
+
+<http://www.wikidata.org/entity/Q118522829>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Pinilla> .
+
+<http://www.wikidata.org/entity/Q118484577>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Isabel_la_Católica_(Segovia)> .
+
+<http://www.wikidata.org/entity/Q118540812>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Puerta_de_la_Luna> .
+
+<http://www.wikidata.org/entity/Q118540830>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Puerta_del_Sol> .
+
+<http://www.wikidata.org/entity/Q118540866>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Puerta_de_Santiago> .
+
+<http://www.wikidata.org/entity/Q118540918>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Rivas_Orozco> .
+
+<http://www.wikidata.org/entity/Q118540951>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_San_Antonio_el_Real> .
+
+<http://www.wikidata.org/entity/Q118541313>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_San_Cristóbal> .
+
+<http://www.wikidata.org/entity/Q118541371>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Puente_de_Sancti_Spiritu> .
+
+<http://www.wikidata.org/entity/Q118547220>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Santa_Catalina_(Segovia)> .
+
+<http://www.wikidata.org/entity/Q118547531>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Santa_Columba> .
+
+<http://www.wikidata.org/entity/Q118548868>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_San_Roque> .
+
+<http://www.wikidata.org/entity/Q118550789>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Obispo_Gandásegui> .
+
+<http://www.wikidata.org/entity/Q118558509>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Victoria_(Segovia)> .
+
+<http://www.wikidata.org/entity/Q118607902>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Arango> .
+
+<http://www.wikidata.org/entity/Q118608262>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Ardemans> .
+
+<http://www.wikidata.org/entity/Q118629842>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Granado> .
+
+<http://www.wikidata.org/entity/Q118630230>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Guetaria_(Madrid)> .
+
+<http://www.wikidata.org/entity/Q118638350>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Isla_de_Cuba> .
+
+<http://www.wikidata.org/entity/Q118638752>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Istúriz> .
+
+<http://www.wikidata.org/entity/Q118640034>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cuesta_de_Javalquinto> .
+
+<http://www.wikidata.org/entity/Q118640073>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Jerte> .
+
+<http://www.wikidata.org/entity/Q118644768>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Juan_de_Mariana> .
+
+<http://www.wikidata.org/entity/Q118644991>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Juan_Pantoja> .
+
+<http://www.wikidata.org/entity/Q118652458>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Juan_de_Vera> .
+
+<http://www.wikidata.org/entity/Q118608664>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Juan_de_la_Hoz> .
+
+<http://www.wikidata.org/entity/Q118608481>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Martínez_Izquierdo> .
+
+<http://www.wikidata.org/entity/Q118637167>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Mediodía_Chica> .
+
+<http://www.wikidata.org/entity/Q118637225>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Mediodía_Grande> .
+
+<http://www.wikidata.org/entity/Q119402366>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Abad_Gordillo> .
+
+<http://www.wikidata.org/entity/Q119402775>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Aceituno> .
+
+<http://www.wikidata.org/entity/Q119403183>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Acetres> .
+
+<http://www.wikidata.org/entity/Q119410384>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Águilas_(Sevilla)> .
+
+<http://www.wikidata.org/entity/Q119410576>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Agujas> .
+
+<http://www.wikidata.org/entity/Q119437415>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Alfaqueque> .
+
+<http://www.wikidata.org/entity/Q119437516>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Amargura_(Sevilla)> .
+
+<http://www.wikidata.org/entity/Q119438573>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Amparo_(Sevilla)> .
+
+<http://www.wikidata.org/entity/Q119439693>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_San_Andrés_(Sevilla)> .
+
+<http://www.wikidata.org/entity/Q119438646>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Aposentadores> .
+
+<http://www.wikidata.org/entity/Q119440321>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Arrayán> .
+
+<http://www.wikidata.org/entity/Q119441260>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Barco_(Sevilla)> .
+
+<http://www.wikidata.org/entity/Q119441376>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_San_Bartolomé_(Sevilla)> .
+
+<http://www.wikidata.org/entity/Q119454237>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_San_Basilio_(Sevilla)> .
+
+<http://www.wikidata.org/entity/Q119471648>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Becas> .
+
+<http://www.wikidata.org/entity/Q5740848>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Marcelo_Usera> .
+
+<http://www.wikidata.org/entity/Q5740852>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Muntaner> .
+
+<http://www.wikidata.org/entity/Q5740879>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Serrano> .
+
+<http://www.wikidata.org/entity/Q5740855>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Málaga_(Valencia)> .
+
+<http://www.wikidata.org/entity/Q5740859>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_O'Donnell> .
+
+<http://www.wikidata.org/entity/Q5740868>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_San_Torcuato> .
+
+<http://www.wikidata.org/entity/Q5740861>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Ramon_Albó> .
+
+<http://www.wikidata.org/entity/Q5740864>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_San_Bernardo> .
+
+<http://www.wikidata.org/entity/Q5740871>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Santa_Clara> .
+
+<http://www.wikidata.org/entity/Q5740875>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Santiago> .
+
+<http://www.wikidata.org/entity/Q5740806>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Argumosa> .
+
+<http://www.wikidata.org/entity/Q5740809>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Arnau_d'Oms> .
+
+<http://www.wikidata.org/entity/Q5740845>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Leganitos> .
+
+<http://www.wikidata.org/entity/Q5740745>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_San_Miguel_(Torremolinos)> .
+
+<http://www.wikidata.org/entity/Q5740734>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_San_Juan_(Málaga)> .
+
+<http://www.wikidata.org/entity/Q5740769>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Trapería> .
+
+<http://www.wikidata.org/entity/Q5740811>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Bailén> .
+
+<http://www.wikidata.org/entity/Q5740815>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Bravo_Murillo> .
+
+<http://www.wikidata.org/entity/Q5740837>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Ferraz> .
+
+<http://www.wikidata.org/entity/Q5740826>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Embajadores> .
+
+<http://www.wikidata.org/entity/Q5740830>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Espoz_y_Mina> .
+
+<http://www.wikidata.org/entity/Q5740796>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Alberto_Aguilera> .
+
+<http://www.wikidata.org/entity/Q5740743>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_San_Miguel_(Palma_de_Mallorca)> .
+
+<http://www.wikidata.org/entity/Q5740820>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Desfar> .
+
+<http://www.wikidata.org/entity/Q5740840>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Fuencarral> .
+
+<http://www.wikidata.org/entity/Q5740728>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_San_Jaime> .
+
+<http://www.wikidata.org/entity/Q5740766>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Tetuán_(Sevilla)> .
+
+<http://www.wikidata.org/entity/Q5740833>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Espíritu_Santo_(Madrid)> .
+
+<http://www.wikidata.org/entity/Q5740938>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Ribera_de_Curtidores> .
+
+<http://www.wikidata.org/entity/Q5740928>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Montera> .
+
+<http://www.wikidata.org/entity/Q5740931>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Platería> .
+
+<http://www.wikidata.org/entity/Q5740952>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Carretas_(Madrid)> .
+
+<http://www.wikidata.org/entity/Q5740947>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Victoria_(Málaga)> .
+
+<http://www.wikidata.org/entity/Q5740935>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Princesa_(Madrid)> .
+
+<http://www.wikidata.org/entity/Q5740581>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Larga_(Jerez_de_la_Frontera)> .
+
+<http://www.wikidata.org/entity/Q5740592>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Libreros_(Salamanca)> .
+
+<http://www.wikidata.org/entity/Q5740601>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Madrid_(Getafe)> .
+
+<http://www.wikidata.org/entity/Q5740711>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_San_Agustín_(San_Cristóbal_de_La_Laguna)> .
+
+<http://www.wikidata.org/entity/Q5740610>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Magnus_Blikstad> .
+
+<http://www.wikidata.org/entity/Q5740617>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Mayor_(Alcalá_de_Henares)> .
+
+<http://www.wikidata.org/entity/Q5740633>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Molina_Lario> .
+
+<http://www.wikidata.org/entity/Q5740648>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Nueva_de_Porta> .
+
+<http://www.wikidata.org/entity/Q5740679>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Pozos_Dulces> .
+
+<http://www.wikidata.org/entity/Q5740692>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Reyes_Católicos_(Palma_de_Mallorca)> .
+
+<http://www.wikidata.org/entity/Q5740579>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Laraña> .
+
+<http://www.wikidata.org/entity/Q5740682>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Puerta_del_Mar> .
+
+<http://www.wikidata.org/entity/Q5740708>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_San_Agustín_(Málaga)> .
+
+<http://www.wikidata.org/entity/Q5740623>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Mayor_de_Palencia> .
+
+<http://www.wikidata.org/entity/Q5740685>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Real_(San_Fernando)> .
+
+<http://www.wikidata.org/entity/Q5740650>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Ollerías> .
+
+<http://www.wikidata.org/entity/Q5740671>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Portales_(Logroño)> .
+
+<http://www.wikidata.org/entity/Q5740627>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Mayor_de_Triana> .
+
+<http://www.wikidata.org/entity/Q5740675>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Porvera> .
+
+<http://www.wikidata.org/entity/Q5740643>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Nueva_(Málaga)> .
+
+<http://www.wikidata.org/entity/Q5740690>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Resolana> .
+
+<http://www.wikidata.org/entity/Q5740396>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Balborraz> .
+
+<http://www.wikidata.org/entity/Q5740434>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Camas> .
+
+<http://www.wikidata.org/entity/Q5740457>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Colón_(Palma_de_Mallorca)> .
+
+<http://www.wikidata.org/entity/Q5740493>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Doctor_Ferran> .
+
+<http://www.wikidata.org/entity/Q5740551>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Honda_(Cartagena)> .
+
+<http://www.wikidata.org/entity/Q5740411>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Bizcocheros> .
+
+<http://www.wikidata.org/entity/Q5740542>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_General_Ricardos> .
+
+<http://www.wikidata.org/entity/Q5740516>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Eusebio_Estada> .
+
+<http://www.wikidata.org/entity/Q5740534>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Fresca> .
+
+<http://www.wikidata.org/entity/Q5740461>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Compás_de_la_Victoria> .
+
+<http://www.wikidata.org/entity/Q5740474>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Cuna_(Sevilla)> .
+
+<http://www.wikidata.org/entity/Q5740545>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Granada> .
+
+<http://www.wikidata.org/entity/Q5740359>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Aduana_Vieja_(Soria)> .
+
+<http://www.wikidata.org/entity/Q5740361>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Alcazabilla> .
+
+<http://www.wikidata.org/entity/Q5740477>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Císter> .
+
+<http://www.wikidata.org/entity/Q5740429>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Caballeros_(Soria)> .
+
+<http://www.wikidata.org/entity/Q5740414>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Blanquerna> .
+
+<http://www.wikidata.org/entity/Q5740437>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Carretería> .
+
+<http://www.wikidata.org/entity/Q5740499>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Duquesa_Villahermosa_(Huesca)> .
+
+<http://www.wikidata.org/entity/Q5740557>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Héroe_Sostoa> .
+
+<http://www.wikidata.org/entity/Q5740382>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Asunción> .
+
+<http://www.wikidata.org/entity/Q5740480>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Córdoba_(Málaga)> .
+
+<http://www.wikidata.org/entity/Q5740432>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Calderería> .
+
+<http://www.wikidata.org/entity/Q5740506>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Echegaray> .
+
+<http://www.wikidata.org/entity/Q5740560>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Industria> .
+
+<http://www.wikidata.org/entity/Q5740573>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_La_Estación> .
+
+<http://www.wikidata.org/entity/Q5740406>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Batallón_Cazadores_de_Tarifa> .
+
+<http://www.wikidata.org/entity/Q5740497>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Doña_Blanca> .
+
+<http://www.wikidata.org/entity/Q5740511>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Especería> .
+
+<http://www.wikidata.org/entity/Q5740564>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Jacinto_Verdaguer> .
+
+<http://www.wikidata.org/entity/Q5740533>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Francos_(Jerez_de_la_Frontera)> .
+
+<http://www.wikidata.org/entity/Q5740905>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Compañía_(Salamanca)> .
+
+<http://www.wikidata.org/entity/Q5740896>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Almudena> .
+
+<http://www.wikidata.org/entity/Q5740881>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Tetuán> .
+
+<http://www.wikidata.org/entity/Q5740903>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Compañía_(Málaga)> .
+
+<http://www.wikidata.org/entity/Q5740890>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Uría> .
+
+<http://www.wikidata.org/entity/Q5740919>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Jota> .
+
+<http://www.wikidata.org/entity/Q5740893>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Acera_de_Recoletos> .
+
+<http://www.wikidata.org/entity/Q5740911>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Hortaleza> .
+
+<http://www.wikidata.org/entity/Q5740885>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Téllez> .
+
+<http://www.wikidata.org/entity/Q5740883>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Toledo> .
+
+<http://www.wikidata.org/entity/Q5740900>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Cava_Baja> .
+
+<http://www.wikidata.org/entity/Q5740916>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Jara_(Cartagena)> .
+
+<http://www.wikidata.org/entity/Q5740922>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Luna> .
+
+<http://www.wikidata.org/entity/Q5740925>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Madera> .
+
+<http://www.wikidata.org/entity/Q588970>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Manacor> .
+
+<http://www.wikidata.org/entity/Q615667>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_software_libre> .
+
+<http://www.wikidata.org/entity/Q542867>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Mateos_Gago> .
+
+<http://www.wikidata.org/entity/Q263293>
+        owl:sameAs  <http://es.dbpedia.org/resource/Gran_Vía_de_las_Cortes_Catalanas> .
+
+<http://www.wikidata.org/entity/Q649229>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Paz_(Valencia)> .
+
+<http://www.wikidata.org/entity/Q850593>
+        owl:sameAs  <http://es.dbpedia.org/resource/La_Rambla> .
+
+<http://www.wikidata.org/entity/Q920981>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Alfonso_el_Magnánimo> .
+
+<http://www.wikidata.org/entity/Q791045>
+        owl:sameAs  <http://es.dbpedia.org/resource/Avenida_Diagonal_(Barcelona)> .
+
+<http://www.wikidata.org/entity/Q960097>
+        owl:sameAs  <http://es.dbpedia.org/resource/Z-30> .
+
+<http://www.wikidata.org/entity/Q950331>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calleja_de_las_Flores_(Córdoba)> .
+
+<http://www.wikidata.org/entity/Q1149052>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Mayor_(Madrid)> .
+
+<http://www.wikidata.org/entity/Q1324163>
+        owl:sameAs  <http://es.dbpedia.org/resource/Gran_Vía> .
+
+<http://www.wikidata.org/entity/Q1419892>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paseo_de_Gracia> .
+
+<http://www.wikidata.org/entity/Q1473674>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paseo_de_la_Castellana> .
+
+<http://www.wikidata.org/entity/Q2079615>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paseo_del_Prado> .
+
+<http://www.wikidata.org/entity/Q2219832>
+        owl:sameAs  <http://es.dbpedia.org/resource/Avenida_Meridiana> .
+
+<http://www.wikidata.org/entity/Q2424746>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Alcalá> .
+
+<http://www.wikidata.org/entity/Q2456037>
+        owl:sameAs  <http://es.dbpedia.org/resource/Rambla_de_Cataluña> .
+
+<http://www.wikidata.org/entity/Q2364997>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_las_Huertas> .
+
+<http://www.wikidata.org/entity/Q2562014>
+        owl:sameAs  <http://es.dbpedia.org/resource/Vía_Layetana> .
+
+<http://www.wikidata.org/entity/Q2606591>
+        owl:sameAs  <http://es.dbpedia.org/resource/M-30> .
+
+<http://www.wikidata.org/entity/Q2600537>
+        owl:sameAs  <http://es.dbpedia.org/resource/Avenida_del_Paralelo> .
+
+<http://www.wikidata.org/entity/Q2550870>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paseo_de_Recoletos> .
+
+<http://www.wikidata.org/entity/Q2843188>
+        owl:sameAs  <http://es.dbpedia.org/resource/Pasaje_de_la_Esperanza> .
+
+<http://www.wikidata.org/entity/Q2838475>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paseo_de_Sagasta_(Zaragoza)> .
+
+<http://www.wikidata.org/entity/Q2841535>
+        owl:sameAs  <http://es.dbpedia.org/resource/Vía_Complutense> .
+
+<http://www.wikidata.org/entity/Q2884523>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_General_Riera> .
+
+<http://www.wikidata.org/entity/Q2835303>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Viana_(San_Cristóbal_de_La_Laguna)> .
+
+<http://www.wikidata.org/entity/Q2873850>
+        owl:sameAs  <http://es.dbpedia.org/resource/Puerta_del_Ángel_(Barcelona)> .
+
+<http://www.wikidata.org/entity/Q2882669>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Santa_Isabel_(Madrid)> .
+
+<http://www.wikidata.org/entity/Q3117447>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paseo_de_San_Juan> .
+
+<http://www.wikidata.org/entity/Q3129147>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Balmes> .
+
+<http://www.wikidata.org/entity/Q3449012>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Mallorca_(Barcelona)> .
+
+<http://www.wikidata.org/entity/Q3450991>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Provenza_(Barcelona)> .
+
+<http://www.wikidata.org/entity/Q3447905>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Ferran> .
+
+<http://www.wikidata.org/entity/Q3450434>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Consejo_de_Ciento> .
+
+<http://www.wikidata.org/entity/Q3297828>
+        owl:sameAs  <http://es.dbpedia.org/resource/Gran_Vía_de_Don_Diego_López_de_Haro> .
+
+<http://www.wikidata.org/entity/Q3756710>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paseo_de_Sarasate> .
+
+<http://www.wikidata.org/entity/Q3824017>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paseo_de_Colón_(Barcelona)> .
+
+<http://www.wikidata.org/entity/Q5046071>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Entenza> .
+
+<http://www.wikidata.org/entity/Q5046067>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Aragón_(Barcelona)> .
+
+<http://www.wikidata.org/entity/Q5046076>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Pelayo_(Barcelona)> .
+
+<http://www.wikidata.org/entity/Q5046074>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Lluís_Companys> .
+
+<http://www.wikidata.org/entity/Q5046078>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Carmen_(Barcelona)> .
+
+<http://www.wikidata.org/entity/Q4886808>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Sants> .
+
+<http://www.wikidata.org/entity/Q5046073>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Pujades> .
+
+<http://www.wikidata.org/entity/Q4828899>
+        owl:sameAs  <http://es.dbpedia.org/resource/Avenida_de_Cataluña> .
+
+<http://www.wikidata.org/entity/Q4828901>
+        owl:sameAs  <http://es.dbpedia.org/resource/Avenida_de_la_Reina_María_Cristina> .
+
+<http://www.wikidata.org/entity/Q4828897>
+        owl:sameAs  <http://es.dbpedia.org/resource/Avenida_Prat_de_la_Riba_(Lérida)> .
+
+<http://www.wikidata.org/entity/Q5413557>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_San_Fernando_(Sevilla)> .
+
+<http://www.wikidata.org/entity/Q5487920>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Évora> .
+
+<http://www.wikidata.org/entity/Q5492657>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Atocha> .
+
+<http://www.wikidata.org/entity/Q5491782>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_los_Mármoles_(Málaga)> .
+
+<http://www.wikidata.org/entity/Q5662162>
+        owl:sameAs  <http://es.dbpedia.org/resource/Alameda_Cristina_(Jerez_de_la_Frontera)> .
+
+<http://www.wikidata.org/entity/Q5662194>
+        owl:sameAs  <http://es.dbpedia.org/resource/Alameda_de_San_Antón> .
+
+<http://www.wikidata.org/entity/Q5662182>
+        owl:sameAs  <http://es.dbpedia.org/resource/Alameda_de_Colón> .
+
+<http://www.wikidata.org/entity/Q5651414>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Jacometrezo> .
+
+<http://www.wikidata.org/entity/Q5669486>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Sevilla_(Zafra)> .
+
+<http://www.wikidata.org/entity/Q5661416>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Beatas> .
+
+<http://www.wikidata.org/entity/Q5659170>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Alfonso_XII> .
+
+<http://www.wikidata.org/entity/Q5662168>
+        owl:sameAs  <http://es.dbpedia.org/resource/Alameda_Principal> .
+
+<http://www.wikidata.org/entity/Q5576961>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paseo_de_la_Florida_(Madrid)> .
+
+<http://www.wikidata.org/entity/Q5552155>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Preciados> .
+
+<http://www.wikidata.org/entity/Q5560165>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Vitoria_(Burgos)> .
+
+<http://www.wikidata.org/entity/Q5553104>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Méndez_Álvaro> .
+
+<http://www.wikidata.org/entity/Q5742554>
+        owl:sameAs  <http://es.dbpedia.org/resource/La_Campana_(calle_de_Sevilla)> .
+
+<http://www.wikidata.org/entity/Q5753611>
+        owl:sameAs  <http://es.dbpedia.org/resource/Carretera_de_Ribes> .
+
+<http://www.wikidata.org/entity/Q5742356>
+        owl:sameAs  <http://es.dbpedia.org/resource/Camino_de_Jesús> .
+
+<http://www.wikidata.org/entity/Q5741020>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Príncipe_de_Vergara> .
+
+<http://www.wikidata.org/entity/Q5740990>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Castillo_(Santa_Cruz_de_Tenerife)> .
+
+<http://www.wikidata.org/entity/Q5740959>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_los_Hermanos_García_Noblejas> .
+
+<http://www.wikidata.org/entity/Q5740961>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_los_Libreros> .
+
+<http://www.wikidata.org/entity/Q5741012>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Laurel_(Logroño)> .
+
+<http://www.wikidata.org/entity/Q5740976>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Aire_(Cartagena)> .
+
+<http://www.wikidata.org/entity/Q5741000>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Desengaño> .
+
+<http://www.wikidata.org/entity/Q5741017>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Pez> .
+
+<http://www.wikidata.org/entity/Q5740980>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Arenal> .
+
+<http://www.wikidata.org/entity/Q5741008>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Doctor_Pi_i_Molist> .
+
+<http://www.wikidata.org/entity/Q5741016>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Maestro_Victoria> .
+
+<http://www.wikidata.org/entity/Q5741005>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Doctor_Esquerdo> .
+
+<http://www.wikidata.org/entity/Q5740985>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Caballero_de_Gracia> .
+
+<http://www.wikidata.org/entity/Q5741011>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Duque_de_la_Victoria> .
+
+<http://www.wikidata.org/entity/Q5740983>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Barquillo> .
+
+<http://www.wikidata.org/entity/Q5740988>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Carmen_(Madrid)> .
+
+<http://www.wikidata.org/entity/Q5740993>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Collado_(Soria)> .
+
+<http://www.wikidata.org/entity/Q5740997>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Correo> .
+
+<http://www.wikidata.org/entity/Q5740973>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Agua_(Villafranca_del_Bierzo)> .
+
+<http://www.wikidata.org/entity/Q5740970>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_los_Besos> .
+
+<http://www.wikidata.org/entity/Q5714227>
+        owl:sameAs  <http://es.dbpedia.org/resource/Avenida_de_la_Ciudad_de_Barcelona> .
+
+<http://www.wikidata.org/entity/Q5684217>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Chancillería> .
+
+<http://www.wikidata.org/entity/Q5680226>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Serreta_(Cartagena)> .
+
+<http://www.wikidata.org/entity/Q5686332>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Mesón_de_Paredes> .
+
+<http://www.wikidata.org/entity/Q5714182>
+        owl:sameAs  <http://es.dbpedia.org/resource/Avenida_de_Andalucía_(Madrid)> .
+
+<http://www.wikidata.org/entity/Q5714023>
+        owl:sameAs  <http://es.dbpedia.org/resource/Avenida_Real_de_Pinto> .
+
+<http://www.wikidata.org/entity/Q5713285>
+        owl:sameAs  <http://es.dbpedia.org/resource/Avenida_Alcalde_Porqueras> .
+
+<http://www.wikidata.org/entity/Q5714243>
+        owl:sameAs  <http://es.dbpedia.org/resource/Avenida_de_la_Reina_Victoria_(Madrid)> .
+
+<http://www.wikidata.org/entity/Q5693674>
+        owl:sameAs  <http://es.dbpedia.org/resource/Avenida_de_la_Constitución_(Torrejón_de_Ardoz)> .
+
+<http://www.wikidata.org/entity/Q5714231>
+        owl:sameAs  <http://es.dbpedia.org/resource/Avenida_de_la_Constitución_(Sevilla)> .
+
+<http://www.wikidata.org/entity/Q5714221>
+        owl:sameAs  <http://es.dbpedia.org/resource/Avenida_de_la_Albufera> .
+
+<http://www.wikidata.org/entity/Q5714202>
+        owl:sameAs  <http://es.dbpedia.org/resource/Avenida_de_Madrid_(Lérida)> .
+
+<http://www.wikidata.org/entity/Q5790096>
+        owl:sameAs  <http://es.dbpedia.org/resource/Costanilla_de_San_Pedro> .
+
+<http://www.wikidata.org/entity/Q5794016>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cuesta_de_los_Chinos> .
+
+<http://www.wikidata.org/entity/Q5794006>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cuesta_de_San_Vicente> .
+
+<http://www.wikidata.org/entity/Q5794001>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cuesta_de_Moyano> .
+
+<http://www.wikidata.org/entity/Q5794008>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cuesta_de_Santo_Domingo> .
+
+<http://www.wikidata.org/entity/Q5836422>
+        owl:sameAs  <http://es.dbpedia.org/resource/Carrera_de_San_Jerónimo> .
+
+<http://www.wikidata.org/entity/Q5821604>
+        owl:sameAs  <http://es.dbpedia.org/resource/El_Coso_(Huesca)> .
+
+<http://www.wikidata.org/entity/Q5884577>
+        owl:sameAs  <http://es.dbpedia.org/resource/Gran_Vía_Escultor_Francisco_Salzillo> .
+
+<http://www.wikidata.org/entity/Q5884570>
+        owl:sameAs  <http://es.dbpedia.org/resource/Gran_Vía_(Salamanca)> .
+
+<http://www.wikidata.org/entity/Q5970739>
+        owl:sameAs  <http://es.dbpedia.org/resource/Las_Rondas> .
+
+<http://www.wikidata.org/entity/Q6065702>
+        owl:sameAs  <http://es.dbpedia.org/resource/Jardines_de_Pereda> .
+
+<http://www.wikidata.org/entity/Q6065627>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paseo_de_Pamplona_(Zaragoza)> .
+
+<http://www.wikidata.org/entity/Q6065619>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paseo_de_Extremadura> .
+
+<http://www.wikidata.org/entity/Q6065592>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paseo_Marítimo_Ciudad_de_Melilla> .
+
+<http://www.wikidata.org/entity/Q6065685>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paseo_del_Mercadal> .
+
+<http://www.wikidata.org/entity/Q6065630>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paseo_de_Santa_María_de_la_Cabeza> .
+
+<http://www.wikidata.org/entity/Q6065282>
+        owl:sameAs  <http://es.dbpedia.org/resource/Pasaje_Chinitas> .
+
+<http://www.wikidata.org/entity/Q6065635>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paseo_de_la_Constitución> .
+
+<http://www.wikidata.org/entity/Q6065308>
+        owl:sameAs  <http://es.dbpedia.org/resource/Pasaje_de_Matheu> .
+
+<http://www.wikidata.org/entity/Q6065311>
+        owl:sameAs  <http://es.dbpedia.org/resource/Pasaje_de_Porta_(Barcelona)> .
+
+<http://www.wikidata.org/entity/Q6065662>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paseo_de_las_Delicias_(Madrid)> .
+
+<http://www.wikidata.org/entity/Q6065659>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paseo_de_la_Virgen_del_Puerto> .
+
+<http://www.wikidata.org/entity/Q6065625>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paseo_de_Martiricos> .
+
+<http://www.wikidata.org/entity/Q6065691>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paseo_del_Pintor_Rosales> .
+
+<http://www.wikidata.org/entity/Q6099345>
+        owl:sameAs  <http://es.dbpedia.org/resource/Rampa_de_la_Aurora> .
+
+<http://www.wikidata.org/entity/Q6111949>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ronda_del_Ferrocarril> .
+
+<http://www.wikidata.org/entity/Q6099128>
+        owl:sameAs  <http://es.dbpedia.org/resource/Rambla_Nova> .
+
+<http://www.wikidata.org/entity/Q6108949>
+        owl:sameAs  <http://es.dbpedia.org/resource/Rincón_Malillo> .
+
+<http://www.wikidata.org/entity/Q6111946>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ronda_de_Toledo> .
+
+<http://www.wikidata.org/entity/Q6400566>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Algarve> .
+
+<http://www.wikidata.org/entity/Q6400592>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Bécquer_(Sevilla)> .
+
+<http://www.wikidata.org/entity/Q6400607>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Cortina_del_Muelle> .
+
+<http://www.wikidata.org/entity/Q6400678>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_San_Juan_(Logroño)> .
+
+<http://www.wikidata.org/entity/Q6165266>
+        owl:sameAs  <http://es.dbpedia.org/resource/Vía_Julia> .
+
+<http://www.wikidata.org/entity/Q6165297>
+        owl:sameAs  <http://es.dbpedia.org/resource/Vía_Roma> .
+
+<http://www.wikidata.org/entity/Q7289200>
+        owl:sameAs  <http://es.dbpedia.org/resource/Rambla_de_Aragón_(Lérida)> .
+
+<http://www.wikidata.org/entity/Q7142570>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paseo_de_Lluís_Companys> .
+
+<http://www.wikidata.org/entity/Q7365528>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ronda_de_San_Pedro> .
+
+<http://www.wikidata.org/entity/Q8255404>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Aragón_(Palma_de_Mallorca)> .
+
+<http://www.wikidata.org/entity/Q8255466>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Montcada> .
+
+<http://www.wikidata.org/entity/Q8255426>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Colón_(Valencia)> .
+
+<http://www.wikidata.org/entity/Q8255533>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_los_Olmos> .
+
+<http://www.wikidata.org/entity/Q8255430>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Don_Jaime_I_(Zaragoza)> .
+
+<http://www.wikidata.org/entity/Q8255353>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_31_de_diciembre> .
+
+<http://www.wikidata.org/entity/Q8255501>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Alfonso_I> .
+
+<http://www.wikidata.org/entity/Q8255503>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Xipreret> .
+
+<http://www.wikidata.org/entity/Q8255504>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Arturo_Soria> .
+
+<http://www.wikidata.org/entity/Q8255505>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Segovia_(Madrid)> .
+
+<http://www.wikidata.org/entity/Q8352451>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cuesta_del_Bailío_(Córdoba)> .
+
+<http://www.wikidata.org/entity/Q8339536>
+        owl:sameAs  <http://es.dbpedia.org/resource/Carrer_Major_(Seo_de_Urgel)> .
+
+<http://www.wikidata.org/entity/Q8772974>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Coso> .
+
+<http://www.wikidata.org/entity/Q8843006>
+        owl:sameAs  <http://es.dbpedia.org/resource/Estafeta_(calle)> .
+
+<http://www.wikidata.org/entity/Q9077065>
+        owl:sameAs  <http://es.dbpedia.org/resource/Sierpes_(Sevilla)> .
+
+<http://www.wikidata.org/entity/Q9056543>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paseo_Mallorca> .
+
+<http://www.wikidata.org/entity/Q9056547>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paseo_de_Echegaray_y_Caballero> .
+
+<http://www.wikidata.org/entity/Q9056560>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paseo_de_la_Independencia> .
+
+<http://www.wikidata.org/entity/Q9056551>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paseo_de_Maragall> .
+
+<http://www.wikidata.org/entity/Q9056555>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paseo_de_la_Bonanova> .
+
+<http://www.wikidata.org/entity/Q9056549>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paseo_de_Fabra_i_Puig> .
+
+<http://www.wikidata.org/entity/Q9095203>
+        owl:sameAs  <http://es.dbpedia.org/resource/Vía_Sindicato> .
+
+<http://www.wikidata.org/entity/Q11907392>
+        owl:sameAs  <http://es.dbpedia.org/resource/Avenida_de_Roma> .
+
+<http://www.wikidata.org/entity/Q10975785>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Avinyó> .
+
+<http://www.wikidata.org/entity/Q10975381>
+        owl:sameAs  <http://es.dbpedia.org/resource/Na_Jordana> .
+
+<http://www.wikidata.org/entity/Q11698243>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paseo_del_Valle_de_Hebrón> .
+
+<http://www.wikidata.org/entity/Q11680429>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Feria_(Sevilla)> .
+
+<http://www.wikidata.org/entity/Q11076359>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_San_José_M._Escrivá> .
+
+<http://www.wikidata.org/entity/Q11680432>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Marqués_de_Larios> .
+
+<http://www.wikidata.org/entity/Q11912598>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Caballeros_(Valencia)> .
+
+<http://www.wikidata.org/entity/Q11912577>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Serranos_(Valencia)> .
+
+<http://www.wikidata.org/entity/Q11924617>
+        owl:sameAs  <http://es.dbpedia.org/resource/Gran_Vía_del_Marqués_del_Turia> .
+
+<http://www.wikidata.org/entity/Q11946191>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ronda_de_San_Antonio> .
+
+<http://www.wikidata.org/entity/Q11944537>
+        owl:sameAs  <http://es.dbpedia.org/resource/Rambla_del_Raval> .
+
+<http://www.wikidata.org/entity/Q12254201>
+        owl:sameAs  <http://es.dbpedia.org/resource/Artecalle> .
+
+<http://www.wikidata.org/entity/Q12254796>
+        owl:sameAs  <http://es.dbpedia.org/resource/Barrenkale_Barrena> .
+
+<http://www.wikidata.org/entity/Q12254795>
+        owl:sameAs  <http://es.dbpedia.org/resource/Barrencalle> .
+
+<http://www.wikidata.org/entity/Q12253311>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Amara> .
+
+<http://www.wikidata.org/entity/Q12254967>
+        owl:sameAs  <http://es.dbpedia.org/resource/Belosticalle> .
+
+<http://www.wikidata.org/entity/Q12255459>
+        owl:sameAs  <http://es.dbpedia.org/resource/Alameda_del_Boulevard> .
+
+<http://www.wikidata.org/entity/Q11954574>
+        owl:sameAs  <http://es.dbpedia.org/resource/Vía_Augusta_(Barcelona)> .
+
+<http://www.wikidata.org/entity/Q12258602>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Somera> .
+
+<http://www.wikidata.org/entity/Q12258890>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Carnicería_Vieja> .
+
+<http://www.wikidata.org/entity/Q12256151>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Tendería> .
+
+<http://www.wikidata.org/entity/Q12261308>
+        owl:sameAs  <http://es.dbpedia.org/resource/Avenida_Carlos_III_(Pamplona)> .
+
+<http://www.wikidata.org/entity/Q12399392>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Reconquista_(Vigo)> .
+
+<http://www.wikidata.org/entity/Q16540548>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_José_Ortega_y_Gasset> .
+
+<http://www.wikidata.org/entity/Q16389845>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Prado> .
+
+<http://www.wikidata.org/entity/Q16540438>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Cabana> .
+
+<http://www.wikidata.org/entity/Q16540553>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Pedro_Bosch> .
+
+<http://www.wikidata.org/entity/Q16626200>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ronda_de_Valencia> .
+
+<http://www.wikidata.org/entity/Q16659214>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Cruz> .
+
+<http://www.wikidata.org/entity/Q16616818>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paseo_de_Yeserías> .
+
+<http://www.wikidata.org/entity/Q16749876>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Arganzuela> .
+
+<http://www.wikidata.org/entity/Q16707843>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Ancha> .
+
+<http://www.wikidata.org/entity/Q15788209>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Echegaray> .
+
+<http://www.wikidata.org/entity/Q15788175>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Príncipe> .
+
+<http://www.wikidata.org/entity/Q15839300>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_León> .
+
+<http://www.wikidata.org/entity/Q16060822>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Redondilla> .
+
+<http://www.wikidata.org/entity/Q16916044>
+        owl:sameAs  <http://es.dbpedia.org/resource/Avenida_de_España_(Albacete)> .
+
+<http://www.wikidata.org/entity/Q16867482>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Mesonero_Romanos> .
+
+<http://www.wikidata.org/entity/Q16916052>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paseo_de_la_Libertad> .
+
+<http://www.wikidata.org/entity/Q16915936>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Feria_(Albacete)> .
+
+<http://www.wikidata.org/entity/Q17181780>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Magdalena> .
+
+<http://www.wikidata.org/entity/Q16913228>
+        owl:sameAs  <http://es.dbpedia.org/resource/Avenida_de_la_Estación_(Albacete)> .
+
+<http://www.wikidata.org/entity/Q16916047>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Tejares> .
+
+<http://www.wikidata.org/entity/Q16916049>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paseo_de_la_Cuba> .
+
+<http://www.wikidata.org/entity/Q17421317>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Marqués_de_Urquijo> .
+
+<http://www.wikidata.org/entity/Q17335004>
+        owl:sameAs  <http://es.dbpedia.org/resource/Avenida_de_la_Granvia_de_Hospitalet> .
+
+<http://www.wikidata.org/entity/Q17335068>
+        owl:sameAs  <http://es.dbpedia.org/resource/Rambla_de_Badalona> .
+
+<http://www.wikidata.org/entity/Q17339926>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Palma> .
+
+<http://www.wikidata.org/entity/Q17315298>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paseo_del_Borne_(Barcelona)> .
+
+<http://www.wikidata.org/entity/Q17593202>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Quart> .
+
+<http://www.wikidata.org/entity/Q17622078>
+        owl:sameAs  <http://es.dbpedia.org/resource/Avenida_Abandoibarra> .
+
+<http://www.wikidata.org/entity/Q17623542>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Galdo> .
+
+<http://www.wikidata.org/entity/Q17623549>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Morería> .
+
+<http://www.wikidata.org/entity/Q17625904>
+        owl:sameAs  <http://es.dbpedia.org/resource/Pretil_de_los_Consejos> .
+
+<http://www.wikidata.org/entity/Q17622122>
+        owl:sameAs  <http://es.dbpedia.org/resource/Avenida_del_Planetario> .
+
+<http://www.wikidata.org/entity/Q17623525>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Arquitecto_Vandelvira> .
+
+<http://www.wikidata.org/entity/Q18003637>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Empedrat> .
+
+<http://www.wikidata.org/entity/Q18003633>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Avall> .
+
+<http://www.wikidata.org/entity/Q18003657>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Roser_(Reus)> .
+
+<http://www.wikidata.org/entity/Q18006098>
+        owl:sameAs  <http://es.dbpedia.org/resource/Rambla_de_Prim> .
+
+<http://www.wikidata.org/entity/Q18006432>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ronda_de_San_Pablo> .
+
+<http://www.wikidata.org/entity/Q18006431>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ronda_de_la_Universidad> .
+
+<http://www.wikidata.org/entity/Q18644320>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Londres_(Barcelona)> .
+
+<http://www.wikidata.org/entity/Q18644218>
+        owl:sameAs  <http://es.dbpedia.org/resource/Rambla_de_Guipúzcoa_(Barcelona)> .
+
+<http://www.wikidata.org/entity/Q18644199>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Gerona_(Barcelona)> .
+
+<http://www.wikidata.org/entity/Q18644309>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Lepanto_(Barcelona)> .
+
+<http://www.wikidata.org/entity/Q18644239>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Huelva_(Barcelona)> .
+
+<http://www.wikidata.org/entity/Q18286539>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Tudescos> .
+
+<http://www.wikidata.org/entity/Q18352979>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_General_Concha> .
+
+<http://www.wikidata.org/entity/Q18419127>
+        owl:sameAs  <http://es.dbpedia.org/resource/Costanilla_de_los_Ángeles> .
+
+<http://www.wikidata.org/entity/Q18643771>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paseo_de_la_Agrícola_(Barcelona)> .
+
+<http://www.wikidata.org/entity/Q18534412>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paseo_de_Sancha> .
+
+<http://www.wikidata.org/entity/Q18643914>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Buenos_Aires_(Barcelona)> .
+
+<http://www.wikidata.org/entity/Q18643781>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Alcalde_de_Móstoles_(Barcelona)> .
+
+<http://www.wikidata.org/entity/Q18643783>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Alcalá_de_Guadaíra_(Barcelona)> .
+
+<http://www.wikidata.org/entity/Q18644089>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Diputación_(Barcelona)> .
+
+<http://www.wikidata.org/entity/Q18644054>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Córcega_(Barcelona)> .
+
+<http://www.wikidata.org/entity/Q18643954>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Cantabria_(Barcelona)> .
+
+<http://www.wikidata.org/entity/Q18359324>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Henao> .
+
+<http://www.wikidata.org/entity/Q18417678>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Dos_de_Mayo_(Madrid)> .
+
+<http://www.wikidata.org/entity/Q18170648>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Luchana> .
+
+<http://www.wikidata.org/entity/Q18221470>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Buenos_Aires_(Bilbao)> .
+
+<http://www.wikidata.org/entity/Q18285611>
+        owl:sameAs  <http://es.dbpedia.org/resource/Avenida_Gregorio_Arcos> .
+
+<http://www.wikidata.org/entity/Q18224956>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Sendeja> .
+
+<http://www.wikidata.org/entity/Q18223642>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Iparraguirre> .
+
+<http://www.wikidata.org/entity/Q18223957>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Ledesma> .
+
+<http://www.wikidata.org/entity/Q18224572>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paseo_Simón_Abril> .
+
+<http://www.wikidata.org/entity/Q18224725>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Licenciado_Poza> .
+
+<http://www.wikidata.org/entity/Q18223016>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Elcano> .
+
+<http://www.wikidata.org/entity/Q18203204>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Hurtado_de_Amézaga> .
+
+<http://www.wikidata.org/entity/Q18285599>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Arbolantxa> .
+
+<http://www.wikidata.org/entity/Q18285771>
+        owl:sameAs  <http://es.dbpedia.org/resource/Costanilla_de_San_Andrés> .
+
+<http://www.wikidata.org/entity/Q19946961>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paseo_de_la_Explanada_(Barcelona)> .
+
+<http://www.wikidata.org/entity/Q19328723>
+        owl:sameAs  <http://es.dbpedia.org/resource/Gran_Vía_Juan_Carlos_I> .
+
+<http://www.wikidata.org/entity/Q19490514>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Eduardo_Dato_(Vitoria)> .
+
+<http://www.wikidata.org/entity/Q19304646>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Marqués_de_Cubas> .
+
+<http://www.wikidata.org/entity/Q19339182>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Marqués_de_San_Nicolás> .
+
+<http://www.wikidata.org/entity/Q19949653>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Andrade_(Barcelona)> .
+
+<http://www.wikidata.org/entity/Q19949690>
+        owl:sameAs  <http://es.dbpedia.org/resource/Avenida_de_Mistral> .
+
+<http://www.wikidata.org/entity/Q19950464>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_París_(Barcelona)> .
+
+<http://www.wikidata.org/entity/Q19950564>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Rosellón_(Barcelona)> .
+
+<http://www.wikidata.org/entity/Q19949766>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_San_Jacinto_(Sevilla)> .
+
+<http://www.wikidata.org/entity/Q19950447>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Paloma_(Burgos)> .
+
+<http://www.wikidata.org/entity/Q20014008>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Cervantes> .
+
+<http://www.wikidata.org/entity/Q19949831>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Concilio_de_Trento_(Barcelona)> .
+
+<http://www.wikidata.org/entity/Q20013697>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Sol_(Santander)> .
+
+<http://www.wikidata.org/entity/Q19969082>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Lavapiés> .
+
+<http://www.wikidata.org/entity/Q19950339>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Menorca_(Barcelona)> .
+
+<http://www.wikidata.org/entity/Q19950762>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Valencia_(Barcelona)> .
+
+<http://www.wikidata.org/entity/Q20021470>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Mira_el_Río> .
+
+<http://www.wikidata.org/entity/Q20021494>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Oso> .
+
+<http://www.wikidata.org/entity/Q20014268>
+        owl:sameAs  <http://es.dbpedia.org/resource/Costanilla_de_los_Capuchinos> .
+
+<http://www.wikidata.org/entity/Q20021619>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Sombrerete> .
+
+<http://www.wikidata.org/entity/Q20021071>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Olmo> .
+
+<http://www.wikidata.org/entity/Q20021648>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Tribulete> .
+
+<http://www.wikidata.org/entity/Q20031523>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Velázquez> .
+
+<http://www.wikidata.org/entity/Q20015474>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Cabestreros> .
+
+<http://www.wikidata.org/entity/Q20021469>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Ministriles> .
+
+<http://www.wikidata.org/entity/Q20021057>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Olivar> .
+
+<http://www.wikidata.org/entity/Q20104452>
+        owl:sameAs  <http://es.dbpedia.org/resource/Avenida_de_Sarriá> .
+
+<http://www.wikidata.org/entity/Q19798936>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Quevedo> .
+
+<http://www.wikidata.org/entity/Q19848811>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Princesa_(Barcelona)> .
+
+<http://www.wikidata.org/entity/Q19800989>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Lope_de_Vega> .
+
+<http://www.wikidata.org/entity/Q20492308>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Lehendakari_Leizaola> .
+
+<http://www.wikidata.org/entity/Q20432019>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paseo_Marítimo_Manuel_Puigvert_(Calella)> .
+
+<http://www.wikidata.org/entity/Q20492336>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Easo> .
+
+<http://www.wikidata.org/entity/Q20533623>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Acibechería> .
+
+<http://www.wikidata.org/entity/Q20492649>
+        owl:sameAs  <http://es.dbpedia.org/resource/Avenida_de_San_Ignacio_(Pamplona)> .
+
+<http://www.wikidata.org/entity/Q20908824>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Espejo> .
+
+<http://www.wikidata.org/entity/Q20890584>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paseo_de_Eduardo_Dato> .
+
+<http://www.wikidata.org/entity/Q20908816>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Cabeza> .
+
+<http://www.wikidata.org/entity/Q20908836>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Paloma_(Madrid)> .
+
+<http://www.wikidata.org/entity/Q20908829>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Libertad> .
+
+<http://www.wikidata.org/entity/Q20908825>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Fúcar> .
+
+<http://www.wikidata.org/entity/Q20908842>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Rompelanzas> .
+
+<http://www.wikidata.org/entity/Q20963379>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Capitán_Arenas> .
+
+<http://www.wikidata.org/entity/Q20908832>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Madrid> .
+
+<http://www.wikidata.org/entity/Q20908843>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Sevilla_(Madrid)> .
+
+<http://www.wikidata.org/entity/Q20908834>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Nuncio> .
+
+<http://www.wikidata.org/entity/Q20908840>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Reloj> .
+
+<http://www.wikidata.org/entity/Q20908833>
+        owl:sameAs  <http://es.dbpedia.org/resource/Travesía_de_Moriana> .
+
+<http://www.wikidata.org/entity/Q20908841>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_los_Reyes> .
+
+<http://www.wikidata.org/entity/Q20908820>
+        owl:sameAs  <http://es.dbpedia.org/resource/Corredera_Alta_de_San_Pablo> .
+
+<http://www.wikidata.org/entity/Q20908815>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Álvarez_Gato> .
+
+<http://www.wikidata.org/entity/Q20908821>
+        owl:sameAs  <http://es.dbpedia.org/resource/Corredera_Baja_de_San_Pablo> .
+
+<http://www.wikidata.org/entity/Q20987187>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Tentenecio_(Salamanca)> .
+
+<http://www.wikidata.org/entity/Q21029004>
+        owl:sameAs  <http://es.dbpedia.org/resource/Avenida_del_General_Marvá> .
+
+<http://www.wikidata.org/entity/Q21072221>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Concepción_Jerónima> .
+
+<http://www.wikidata.org/entity/Q21004010>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_las_Infantas> .
+
+<http://www.wikidata.org/entity/Q21011321>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Sor_Ángela_de_la_Cruz> .
+
+<http://www.wikidata.org/entity/Q20639924>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Valverde> .
+
+<http://www.wikidata.org/entity/Q21480624>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cerrofuerte_(Jerez_de_la_Frontera)> .
+
+<http://www.wikidata.org/entity/Q22222869>
+        owl:sameAs  <http://es.dbpedia.org/resource/Avenida_del_Doctor_Gadea> .
+
+<http://www.wikidata.org/entity/Q21559180>
+        owl:sameAs  <http://es.dbpedia.org/resource/Avenida_del_Tibidabo> .
+
+<http://www.wikidata.org/entity/Q22982700>
+        owl:sameAs  <http://es.dbpedia.org/resource/Rambla_del_Carmelo> .
+
+<http://www.wikidata.org/entity/Q22696499>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_San_Francisco_(Alicante)> .
+
+<http://www.wikidata.org/entity/Q23304772>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_María_Díaz_de_Haro> .
+
+<http://www.wikidata.org/entity/Q23072537>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Ramón_Rubial> .
+
+<http://www.wikidata.org/entity/Q23833908>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Colón_de_Larreátegui> .
+
+<http://www.wikidata.org/entity/Q23671818>
+        owl:sameAs  <http://es.dbpedia.org/resource/Gran_Vía_(Alicante)> .
+
+<http://www.wikidata.org/entity/Q23879968>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Autonomía> .
+
+<http://www.wikidata.org/entity/Q24023242>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paseo_de_Cánovas> .
+
+<http://www.wikidata.org/entity/Q25478930>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Moraza> .
+
+<http://www.wikidata.org/entity/Q25478793>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_San_Martín_(San_Sebastián)> .
+
+<http://www.wikidata.org/entity/Q25478894>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Alfonso_VIII_(San_Sebastián)> .
+
+<http://www.wikidata.org/entity/Q25478836>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Andía> .
+
+<http://www.wikidata.org/entity/Q25478922>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_San_Bartolomé_(San_Sebastián)> .
+
+<http://www.wikidata.org/entity/Q25478981>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_San_Lorenzo_(San_Sebastián)> .
+
+<http://www.wikidata.org/entity/Q25478876>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Echaide> .
+
+<http://www.wikidata.org/entity/Q25478883>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Hondarribia> .
+
+<http://www.wikidata.org/entity/Q25474379>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Miracruz> .
+
+<http://www.wikidata.org/entity/Q25478935>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_San_Juan_(San_Sebastián)> .
+
+<http://www.wikidata.org/entity/Q25478790>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Puerto_(San_Sebastián)> .
+
+<http://www.wikidata.org/entity/Q25478504>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Diputación> .
+
+<http://www.wikidata.org/entity/Q25478840>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Bengoechea> .
+
+<http://www.wikidata.org/entity/Q25474364>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Miramar> .
+
+<http://www.wikidata.org/entity/Q25478848>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Camino> .
+
+<http://www.wikidata.org/entity/Q25478851>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Santa_Catalina_(San_Sebastián)> .
+
+<http://www.wikidata.org/entity/Q25478904>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Zubieta> .
+
+<http://www.wikidata.org/entity/Q25478915>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Triunfo_(San_Sebastián)> .
+
+<http://www.wikidata.org/entity/Q25478892>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Prim_(San_Sebastián)> .
+
+<http://www.wikidata.org/entity/Q25474324>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Ángel> .
+
+<http://www.wikidata.org/entity/Q25478865>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_San_Marcial_(San_Sebastián)> .
+
+<http://www.wikidata.org/entity/Q25478885>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Vergara_(San_Sebastián)> .
+
+<http://www.wikidata.org/entity/Q25478803>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Hernani_(San_Sebastián)> .
+
+<http://www.wikidata.org/entity/Q25478880>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Guetaria_(San_Sebastián)> .
+
+<http://www.wikidata.org/entity/Q25478918>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Marina_(San_Sebastián)> .
+
+<http://www.wikidata.org/entity/Q25476607>
+        owl:sameAs  <http://es.dbpedia.org/resource/Muelle_Martzana> .
+
+<http://www.wikidata.org/entity/Q25475215>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_Chapitela_(Pamplona)> .
+
+<http://www.wikidata.org/entity/Q24944024>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Moratín> .
+
+<http://www.wikidata.org/entity/Q25413437>
+        owl:sameAs  <http://es.dbpedia.org/resource/Avenida_del_Mediterráneo_(Benidorm)> .
+
+<http://www.wikidata.org/entity/Q25410886>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Carlos_Arniches> .
+
+<http://www.wikidata.org/entity/Q25115523>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_las_Aguas> .
+
+<http://www.wikidata.org/entity/Q25118677>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Hernán_Cortés> .
+
+<http://www.wikidata.org/entity/Q24944176>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Pérez_Galdós> .
+
+<http://www.wikidata.org/entity/Q25265930>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Mira_el_Sol> .
+
+<http://www.wikidata.org/entity/Q25308384>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Flor_Alta> .
+
+<http://www.wikidata.org/entity/Q24294474>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Génova> .
+
+<http://www.wikidata.org/entity/Q24526469>
+        owl:sameAs  <http://es.dbpedia.org/resource/Carrera_de_San_Francisco> .
+
+<http://www.wikidata.org/entity/Q24537177>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_las_Tres_Cruces> .
+
+<http://www.wikidata.org/entity/Q24532121>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_San_Mateo> .
+
+<http://www.wikidata.org/entity/Q24527173>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Alfonso_VI> .
+
+<http://www.wikidata.org/entity/Q24527284>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Abada> .
+
+<http://www.wikidata.org/entity/Q24702367>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Colegiata> .
+
+<http://www.wikidata.org/entity/Q24656602>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Bordadores> .
+
+<http://www.wikidata.org/entity/Q24694982>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Amaniel> .
+
+<http://www.wikidata.org/entity/Q24695412>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Noviciado> .
+
+<http://www.wikidata.org/entity/Q24658361>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_los_Señores_de_Luzón> .
+
+<http://www.wikidata.org/entity/Q24940406>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_San_Sebastián> .
+
+<http://www.wikidata.org/entity/Q24666817>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Berenjena> .
+
+<http://www.wikidata.org/entity/Q24544234>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Ternera> .
+
+<http://www.wikidata.org/entity/Q24643014>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Ballesta> .
+
+<http://www.wikidata.org/entity/Q24647167>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Lechuga> .
+
+<http://www.wikidata.org/entity/Q24541576>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Marqués_de_Leganés> .
+
+<http://www.wikidata.org/entity/Q24546100>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_las_Navas_de_Tolosa> .
+
+<http://www.wikidata.org/entity/Q24560004>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Mejía_Lequerica> .
+
+<http://www.wikidata.org/entity/Q24646728>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Barco_(Madrid)> .
+
+<http://www.wikidata.org/entity/Q26248358>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Casino> .
+
+<http://www.wikidata.org/entity/Q26248347>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Gravina> .
+
+<http://www.wikidata.org/entity/Q26844339>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Almagro> .
+
+<http://www.wikidata.org/entity/Q26837594>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_Monte_Esquinza> .
+
+<http://www.wikidata.org/entity/Q26761632>
+        owl:sameAs  <http://es.dbpedia.org/resource/Avenida_del_General_Perón> .
+
+<http://www.wikidata.org/entity/Q26761687>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Orense> .
+
+<http://www.wikidata.org/entity/Q26741180>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Raimundo_Fernández_Villaverde> .
+
+<http://www.wikidata.org/entity/Q26736141>
+        owl:sameAs  <http://es.dbpedia.org/resource/Avenida_de_Portugal> .
+
+<http://www.wikidata.org/entity/Q26750807>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_San_Germán> .
+
+<http://www.wikidata.org/entity/Q26703849>
+        owl:sameAs  <http://es.dbpedia.org/resource/Avenida_de_Óscar_Esplá> .
+
+<http://www.wikidata.org/entity/Q26737707>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Ponzano> .
+
+<http://www.wikidata.org/entity/Q26737156>
+        owl:sameAs  <http://es.dbpedia.org/resource/Paseo_de_los_Pontones> .
+
+<http://www.wikidata.org/entity/Q26728109>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Santa_Engracia_(Madrid)> .
+
+<http://www.wikidata.org/entity/Q26812307>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Velarde_(Madrid)> .
+
+<http://www.wikidata.org/entity/Q26771757>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Eloy_Gonzalo> .
+
+<http://www.wikidata.org/entity/Q26777246>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Estrella> .
+
+<http://www.wikidata.org/entity/Q26777545>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_del_7_de_julio> .
+
+<http://www.wikidata.org/entity/Q26774731>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Fernández_de_los_Ríos> .
+
+<http://www.wikidata.org/entity/Q26761869>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Manzana> .
+
+<http://www.wikidata.org/entity/Q26761885>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_la_Escalinata> .
+
+<http://www.wikidata.org/entity/Q26831099>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Blasco_de_Garay> .
+
+<http://www.wikidata.org/entity/Q26833642>
+        owl:sameAs  <http://es.dbpedia.org/resource/Calle_de_Francisco_Silvela> .
+
+<http://www.wikidata.org/entity/Q108418263>
+        owl:sameAs  <http://es.dbpedia.org/resource/Santuario_de_las_Apariciones> .
+
+<http://www.wikidata.org/entity/Q108300460>
+        owl:sameAs  <http://es.dbpedia.org/resource/Santuario_de_Fátima_(El_Cuervo)> .
+
+<http://www.wikidata.org/entity/Q522170>
+        owl:sameAs  <http://es.dbpedia.org/resource/Santa_Cueva_de_Covadonga> .
+
+<http://www.wikidata.org/entity/Q301779>
+        owl:sameAs  <http://es.dbpedia.org/resource/Virgen_de_Montserrat> .
+
+<http://www.wikidata.org/entity/Q34485>
+        owl:sameAs  <http://es.dbpedia.org/resource/Basílica_de_Nuestra_Señora_de_la_Candelaria> .
+
+<http://www.wikidata.org/entity/Q810684>
+        owl:sameAs  <http://es.dbpedia.org/resource/Catedral_basílica_de_Nuestra_Señora_del_Pilar_(Zaragoza)> .
+
+<http://www.wikidata.org/entity/Q56370226>
+        owl:sameAs  <http://es.dbpedia.org/resource/Nuestra_Señora_de_la_Coronada> .
+
+<http://www.wikidata.org/entity/Q11693418>
+        owl:sameAs  <http://es.dbpedia.org/resource/Monasterio_de_Valvanera> .
+
+<http://www.wikidata.org/entity/Q15410456>
+        owl:sameAs  <http://es.dbpedia.org/resource/Santuario_de_la_Virgen_de_la_Barca> .
+
+<http://www.wikidata.org/entity/Q5684807>
+        owl:sameAs  <http://es.dbpedia.org/resource/Santuario_de_Montserrat> .
+
+<http://www.wikidata.org/entity/Q2402338>
+        owl:sameAs  <http://es.dbpedia.org/resource/Santuario_de_Nuestra_Señora_de_la_Peña_de_Francia> .
+
+<http://www.wikidata.org/entity/Q6102110>
+        owl:sameAs  <http://es.dbpedia.org/resource/Real_Santuario_de_Montesclaros> .
+
+<http://www.wikidata.org/entity/Q1125177>
+        owl:sameAs  <http://es.dbpedia.org/resource/Santuario_de_Torreciudad> .
+
+<http://www.wikidata.org/entity/Q3325000>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ermita_de_El_Rocío> .
+
+<http://www.wikidata.org/entity/Q6121581>
+        owl:sameAs  <http://es.dbpedia.org/resource/Santuario_de_la_Virgen_de_Gracia_(La_Fresneda)> .
+
+<http://www.wikidata.org/entity/Q6121536>
+        owl:sameAs  <http://es.dbpedia.org/resource/Santuario_de_Nuestra_Señora_de_las_Gracias_de_Onuva> .
+
+<http://www.wikidata.org/entity/Q5689779>
+        owl:sameAs  <http://es.dbpedia.org/resource/Santuario_de_Nuestra_Señora_de_Regla_de_Chipiona> .
+
+<http://www.wikidata.org/entity/Q8243761>
+        owl:sameAs  <http://es.dbpedia.org/resource/Basílica_de_Nuestra_Señora_de_la_Cabeza> .
+
+<http://www.wikidata.org/entity/Q3108092>
+        owl:sameAs  <http://es.dbpedia.org/resource/Santuario_de_Aránzazu> .
+
+<http://www.wikidata.org/entity/Q6120274>
+        owl:sameAs  <http://es.dbpedia.org/resource/Santa_Capilla_de_Nuestra_Señora_del_Pilar> .
+
+<http://www.wikidata.org/entity/Q6121538>
+        owl:sameAs  <http://es.dbpedia.org/resource/Santuario_de_Nuestra_Señora_de_los_Dolores_de_Chandavila> .
+
+<http://www.wikidata.org/entity/Q6121545>
+        owl:sameAs  <http://es.dbpedia.org/resource/Santuario_de_Nuestra_Señora_del_Rosario_(Hellín)> .
+
+<http://www.wikidata.org/entity/Q5763446>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cerro_del_Villar> .
+
+<http://www.wikidata.org/entity/Q6073978>
+        owl:sameAs  <http://es.dbpedia.org/resource/Peñalosa_(Baños_de_la_Encina)> .
+
+<http://www.wikidata.org/entity/Q5723871>
+        owl:sameAs  <http://es.dbpedia.org/resource/Baños_de_la_Reina_Mora> .
+
+<http://www.wikidata.org/entity/Q97628413>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cerro_del_Moro> .
+
+<http://www.wikidata.org/entity/Q97628347>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cueva_de_la_Mora> .
+
+<http://www.wikidata.org/entity/Q97628190>
+        owl:sameAs  <http://es.dbpedia.org/resource/Castillo_de_Santa_Olalla_del_Cala> .
+
+<http://www.wikidata.org/entity/Q97632468>
+        owl:sameAs  <http://es.dbpedia.org/resource/Necrópolis_prehistórica_del_Hacho> .
+
+<http://www.wikidata.org/entity/Q6160647>
+        owl:sameAs  <http://es.dbpedia.org/resource/Verraco_de_las_Cogotas> .
+
+<http://www.wikidata.org/entity/Q11748718>
+        owl:sameAs  <http://es.dbpedia.org/resource/Verraco_de_La_Torre> .
+
+<http://www.wikidata.org/entity/Q11748715>
+        owl:sameAs  <http://es.dbpedia.org/resource/Verraco_de_Chamartín> .
+
+<http://www.wikidata.org/entity/Q27431248>
+        owl:sameAs  <http://es.dbpedia.org/resource/Verraco_de_Villanueva_del_Campillo> .
+
+<http://www.wikidata.org/entity/Q27431281>
+        owl:sameAs  <http://es.dbpedia.org/resource/Verraco_del_puente_(Salamanca)> .
+
+<http://www.wikidata.org/entity/Q115425834>
+        owl:sameAs  <http://es.dbpedia.org/resource/Verraco_de_Toro> .
+
+<http://www.wikidata.org/entity/Q16641486>
+        owl:sameAs  <http://es.dbpedia.org/resource/Toro_de_Segura_de_Toro> .
+
+<http://www.wikidata.org/entity/Q2454775>
+        owl:sameAs  <http://es.dbpedia.org/resource/Toros_de_Guisando> .
+
+<http://www.wikidata.org/entity/Q16645878>
+        owl:sameAs  <http://es.dbpedia.org/resource/Verraco_de_Santa_María_del_Arroyo> .
+
+<http://www.wikidata.org/entity/Q6160646>
+        owl:sameAs  <http://es.dbpedia.org/resource/Verraco_de_Villaviciosa> .
+
+<http://www.wikidata.org/entity/Q9093054>
+        owl:sameAs  <http://es.dbpedia.org/resource/Verraco_de_Solosancho> .

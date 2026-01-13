@@ -1,0 +1,3422 @@
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://www.wikidata.org/entity/Q5884310>
+        owl:sameAs <http://es.dbpedia.org/resource/Gran_Dolina>.
+
+<http://www.wikidata.org/entity/Q6418547>
+        owl:sameAs <http://es.dbpedia.org/resource/Cova_dels_Rossegadors>.
+
+<http://www.wikidata.org/entity/Q6553574>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Pozalagua>.
+
+<http://www.wikidata.org/entity/Q5834443>
+        owl:sameAs <http://es.dbpedia.org/resource/Entrecueves>.
+
+<http://www.wikidata.org/entity/Q6132042>
+        owl:sameAs <http://es.dbpedia.org/resource/Son_Boronat_(yacimiento)>.
+
+<http://www.wikidata.org/entity/Q5794336>
+        owl:sameAs <http://es.dbpedia.org/resource/Cuevas_del_Águila>.
+
+<http://www.wikidata.org/entity/Q2043156>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Valle>.
+
+<http://www.wikidata.org/entity/Q3393299>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_Eirós>.
+
+<http://www.wikidata.org/entity/Q3817712>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_La_Loja>.
+
+<http://www.wikidata.org/entity/Q3218219>
+        owl:sameAs <http://es.dbpedia.org/resource/Las_Güixas>.
+
+<http://www.wikidata.org/entity/Q3817016>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Salnitre>.
+
+<http://www.wikidata.org/entity/Q5054954>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Niño>.
+
+<http://www.wikidata.org/entity/Q2480874>
+        owl:sameAs <http://es.dbpedia.org/resource/Cuevas_de_Canelobre>.
+
+<http://www.wikidata.org/entity/Q3755292>
+        owl:sameAs <http://es.dbpedia.org/resource/Axlor>.
+
+<http://www.wikidata.org/entity/Q3398239>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Rei_Cintolo>.
+
+<http://www.wikidata.org/entity/Q3696329>
+        owl:sameAs <http://es.dbpedia.org/resource/Covetes_dels_Moros>.
+
+<http://www.wikidata.org/entity/Q3813753>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Maltravieso>.
+
+<http://www.wikidata.org/entity/Q4461116>
+        owl:sameAs <http://es.dbpedia.org/resource/Sistema_del_Cerro_del_Cuevón>.
+
+<http://www.wikidata.org/entity/Q2968640>
+        owl:sameAs <http://es.dbpedia.org/resource/Gruta_de_Casteret>.
+
+<http://www.wikidata.org/entity/Q2599455>
+        owl:sameAs <http://es.dbpedia.org/resource/Sima_de_San_Martín>.
+
+<http://www.wikidata.org/entity/Q4896573>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_los_Marranos>.
+
+<http://www.wikidata.org/entity/Q5055104>
+        owl:sameAs <http://es.dbpedia.org/resource/Cuevas_de_Cantabria>.
+
+<http://www.wikidata.org/entity/Q5192639>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Montesinos>.
+
+<http://www.wikidata.org/entity/Q5562019>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_las_Majadillas>.
+
+<http://www.wikidata.org/entity/Q5794234>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_los_Franceses>.
+
+<http://www.wikidata.org/entity/Q5794138>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Conde>.
+
+<http://www.wikidata.org/entity/Q5794208>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_la_Victoria>.
+
+<http://www.wikidata.org/entity/Q5794257>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Gato>.
+
+<http://www.wikidata.org/entity/Q5794146>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Guahedum>.
+
+<http://www.wikidata.org/entity/Q5794250>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Boquete_de_Zafarraya>.
+
+<http://www.wikidata.org/entity/Q5794255>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Cochino>.
+
+<http://www.wikidata.org/entity/Q5794112>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_Rosa>.
+
+<http://www.wikidata.org/entity/Q5794243>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Agua_(Tabernes)>.
+
+<http://www.wikidata.org/entity/Q5794119>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_Santa_del_Cabriel>.
+
+<http://www.wikidata.org/entity/Q5794122>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_Victoria>.
+
+<http://www.wikidata.org/entity/Q5612352>
+        owl:sameAs <http://es.dbpedia.org/resource/Gruta_de_las_Maravillas>.
+
+<http://www.wikidata.org/entity/Q5794205>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_la_Riera>.
+
+<http://www.wikidata.org/entity/Q5794222>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_las_Maravillas_de_Alcira>.
+
+<http://www.wikidata.org/entity/Q5794225>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Las_Mestas>.
+
+<http://www.wikidata.org/entity/Q5794261>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Lagrimal>.
+
+<http://www.wikidata.org/entity/Q5794275>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Reguerillo>.
+
+<http://www.wikidata.org/entity/Q5401214>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Ardales>.
+
+<http://www.wikidata.org/entity/Q5491902>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_Negra>.
+
+<http://www.wikidata.org/entity/Q5637120>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_la_Vieja>.
+
+<http://www.wikidata.org/entity/Q5794127>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Arlanpe>.
+
+<http://www.wikidata.org/entity/Q5794193>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_la_Hoz>.
+
+<http://www.wikidata.org/entity/Q5794186>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_la_Coberiza>.
+
+<http://www.wikidata.org/entity/Q5794252>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Cobre>.
+
+<http://www.wikidata.org/entity/Q5794109>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_Huerta>.
+
+<http://www.wikidata.org/entity/Q5794097>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_Bonita>.
+
+<http://www.wikidata.org/entity/Q5794268>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Quintanal>.
+
+<http://www.wikidata.org/entity/Q5390875>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_As_Choias>.
+
+<http://www.wikidata.org/entity/Q1323820>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_El_Sidrón>.
+
+<http://www.wikidata.org/entity/Q798648>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_El_Soplao>.
+
+<http://www.wikidata.org/entity/Q899513>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_los_Verdes>.
+
+<http://www.wikidata.org/entity/Q955184>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Fuentemolinos>.
+
+<http://www.wikidata.org/entity/Q1137970>
+        owl:sameAs <http://es.dbpedia.org/resource/Cova_de_l'Or>.
+
+<http://www.wikidata.org/entity/Q1137953>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_Fosca>.
+
+<http://www.wikidata.org/entity/Q1143252>
+        owl:sameAs <http://es.dbpedia.org/resource/Cuevas_de_la_Araña>.
+
+<http://www.wikidata.org/entity/Q1137967>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Agua_(Denia)>.
+
+<http://www.wikidata.org/entity/Q508889>
+        owl:sameAs <http://es.dbpedia.org/resource/Cuevas_de_Campanet>.
+
+<http://www.wikidata.org/entity/Q447952>
+        owl:sameAs <http://es.dbpedia.org/resource/Jameos_del_Agua>.
+
+<http://www.wikidata.org/entity/Q522170>
+        owl:sameAs <http://es.dbpedia.org/resource/Santa_Cueva_de_Covadonga>.
+
+<http://www.wikidata.org/entity/Q579585>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_los_Casares>.
+
+<http://www.wikidata.org/entity/Q478482>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Praileaitz>.
+
+<http://www.wikidata.org/entity/Q11915915>
+        owl:sameAs <http://es.dbpedia.org/resource/Cova_d'en_Xoroi>.
+
+<http://www.wikidata.org/entity/Q11699077>
+        owl:sameAs <http://es.dbpedia.org/resource/Peña_Escrita_(Tárbena)>.
+
+<http://www.wikidata.org/entity/Q10955341>
+        owl:sameAs <http://es.dbpedia.org/resource/Cuevas_de_Zugarramurdi>.
+
+<http://www.wikidata.org/entity/Q12268072>
+        owl:sameAs <http://es.dbpedia.org/resource/Torca_del_Carlista>.
+
+<http://www.wikidata.org/entity/Q12254744>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Balzola>.
+
+<http://www.wikidata.org/entity/Q12267744>
+        owl:sameAs <http://es.dbpedia.org/resource/Supelegor>.
+
+<http://www.wikidata.org/entity/Q11915985>
+        owl:sameAs <http://es.dbpedia.org/resource/Cuevas_de_Seriñá>.
+
+<http://www.wikidata.org/entity/Q11915959>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Gegant>.
+
+<http://www.wikidata.org/entity/Q8965214>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_natural_de_las_Grutas_de_Cristal_de_Molinos>.
+
+<http://www.wikidata.org/entity/Q8352486>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_les_Encantades>.
+
+<http://www.wikidata.org/entity/Q9022131>
+        owl:sameAs <http://es.dbpedia.org/resource/Lezetxiki>.
+
+<http://www.wikidata.org/entity/Q8352459>
+        owl:sameAs <http://es.dbpedia.org/resource/Cuetu_de_la_Mina>.
+
+<http://www.wikidata.org/entity/Q8352471>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Los_Toscones>.
+
+<http://www.wikidata.org/entity/Q8352480>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_la_Higuera_(Cartagena)>.
+
+<http://www.wikidata.org/entity/Q8352504>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_hospital_de_Santa_Llúcia_(La_Bisbal_de_Falset)>.
+
+<http://www.wikidata.org/entity/Q8352512>
+        owl:sameAs <http://es.dbpedia.org/resource/Cuevas_del_Toll>.
+
+<http://www.wikidata.org/entity/Q8464929>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Parpalló>.
+
+<http://www.wikidata.org/entity/Q8470314>
+        owl:sameAs <http://es.dbpedia.org/resource/Esplugallonga>.
+
+<http://www.wikidata.org/entity/Q9006138>
+        owl:sameAs <http://es.dbpedia.org/resource/Hábitat_troglodítico_de_la_cueva_del_Espluguell>.
+
+<http://www.wikidata.org/entity/Q9018453>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Cova_Negra>.
+
+<http://www.wikidata.org/entity/Q8349865>
+        owl:sameAs <http://es.dbpedia.org/resource/Sorta>.
+
+<http://www.wikidata.org/entity/Q8464915>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Las_Grajas>.
+
+<http://www.wikidata.org/entity/Q20970789>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_Negra_de_Montanejos>.
+
+<http://www.wikidata.org/entity/Q20922282>
+        owl:sameAs <http://es.dbpedia.org/resource/Cova_Bonica>.
+
+<http://www.wikidata.org/entity/Q16554260>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Lezaundi>.
+
+<http://www.wikidata.org/entity/Q16554301>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_los_Burros>.
+
+<http://www.wikidata.org/entity/Q16516289>
+        owl:sameAs <http://es.dbpedia.org/resource/Arrillor>.
+
+<http://www.wikidata.org/entity/Q16554320>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Latonero>.
+
+<http://www.wikidata.org/entity/Q16554326>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_El_Mirón>.
+
+<http://www.wikidata.org/entity/Q16483384>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_los_Ángeles_(Villamalea)>.
+
+<http://www.wikidata.org/entity/Q16572946>
+        owl:sameAs <http://es.dbpedia.org/resource/Grutas_de_San_José>.
+
+<http://www.wikidata.org/entity/Q16190024>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_des_Coloms>.
+
+<http://www.wikidata.org/entity/Q15617969>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Penches>.
+
+<http://www.wikidata.org/entity/Q16553441>
+        owl:sameAs <http://es.dbpedia.org/resource/Cova_del_Manel>.
+
+<http://www.wikidata.org/entity/Q17599745>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Cova_dels_Gats>.
+
+<http://www.wikidata.org/entity/Q19899736>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_los_Enebralejos>.
+
+<http://www.wikidata.org/entity/Q20021380>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Toro>.
+
+<http://www.wikidata.org/entity/Q20104965>
+        owl:sameAs <http://es.dbpedia.org/resource/Cova_de_la_Guineu>.
+
+<http://www.wikidata.org/entity/Q18199152>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva-prisión_de_Medrano>.
+
+<http://www.wikidata.org/entity/Q18285806>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Palomas_IV>.
+
+<http://www.wikidata.org/entity/Q18285803>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Palomas_III>.
+
+<http://www.wikidata.org/entity/Q19721980>
+        owl:sameAs <http://es.dbpedia.org/resource/Abrigo_y_cueva_de_Benzú>.
+
+<http://www.wikidata.org/entity/Q24936304>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Puerto>.
+
+<http://www.wikidata.org/entity/Q26839949>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_los_Siete_Palacios_(Almuñécar)>.
+
+<http://www.wikidata.org/entity/Q30905058>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_la_Zorrera>.
+
+<http://www.wikidata.org/entity/Q28370933>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_de_Kukuma>.
+
+<http://www.wikidata.org/entity/Q28952348>
+        owl:sameAs <http://es.dbpedia.org/resource/Sima_de_los_Huesos>.
+
+<http://www.wikidata.org/entity/Q27826609>
+        owl:sameAs <http://es.dbpedia.org/resource/Cova_del_Frare>.
+
+<http://www.wikidata.org/entity/Q30158079>
+        owl:sameAs <http://es.dbpedia.org/resource/Sima_de_Baldó>.
+
+<http://www.wikidata.org/entity/Q30905037>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_los_Botijos>.
+
+<http://www.wikidata.org/entity/Q28466583>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Zubialde>.
+
+<http://www.wikidata.org/entity/Q28681273>
+        owl:sameAs <http://es.dbpedia.org/resource/Las_Gobas>.
+
+<http://www.wikidata.org/entity/Q30158475>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_Borja>.
+
+<http://www.wikidata.org/entity/Q30909092>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Sahara>.
+
+<http://www.wikidata.org/entity/Q59393038>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_des_Càrritx>.
+
+<http://www.wikidata.org/entity/Q53844976>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_La_Bonita>.
+
+<http://www.wikidata.org/entity/Q53844975>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_los_Ingleses>.
+
+<http://www.wikidata.org/entity/Q58484211>
+        owl:sameAs <http://es.dbpedia.org/resource/Cuevas_de_los_Cien_Pilares>.
+
+<http://www.wikidata.org/entity/Q56317435>
+        owl:sameAs <http://es.dbpedia.org/resource/Cuevas_del_Rayo>.
+
+<http://www.wikidata.org/entity/Q33523580>
+        owl:sameAs <http://es.dbpedia.org/resource/Cuevas_de_la_Florentina>.
+
+<http://www.wikidata.org/entity/Q41670584>
+        owl:sameAs <http://es.dbpedia.org/resource/Cuevas_del_General>.
+
+<http://www.wikidata.org/entity/Q41115878>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_la_Encantada>.
+
+<http://www.wikidata.org/entity/Q33012936>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_les_Bruixes>.
+
+<http://www.wikidata.org/entity/Q32825652>
+        owl:sameAs <http://es.dbpedia.org/resource/Cuevas_del_Conventico>.
+
+<http://www.wikidata.org/entity/Q47323398>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Chaves>.
+
+<http://www.wikidata.org/entity/Q43178169>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_El_Cuco>.
+
+<http://www.wikidata.org/entity/Q43154072>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_los_Murciélagos_(Ribera_de_Arriba)>.
+
+<http://www.wikidata.org/entity/Q85867078>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Esquilléu>.
+
+<http://www.wikidata.org/entity/Q87392861>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Sapo>.
+
+<http://www.wikidata.org/entity/Q64524604>
+        owl:sameAs <http://es.dbpedia.org/resource/Cuevas_de_Fuentes_de_León>.
+
+<http://www.wikidata.org/entity/Q78805361>
+        owl:sameAs <http://es.dbpedia.org/resource/Kiputz_IX>.
+
+<http://www.wikidata.org/entity/Q98546066>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_El_Tendal>.
+
+<http://www.wikidata.org/entity/Q97624866>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_los_Murciélagos>.
+
+<http://www.wikidata.org/entity/Q97620324>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_la_Laja_Alta>.
+
+<http://www.wikidata.org/entity/Q98461253>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Llamazares>.
+
+<http://www.wikidata.org/entity/Q96464211>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Agua_de_Tíscar>.
+
+<http://www.wikidata.org/entity/Q97604815>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_las_Ventanas>.
+
+<http://www.wikidata.org/entity/Q97620299>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Palomas_I>.
+
+<http://www.wikidata.org/entity/Q97616823>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Palomas_II>.
+
+<http://www.wikidata.org/entity/Q97620302>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Moro>.
+
+<http://www.wikidata.org/entity/Q97688683>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_la_Pileta>.
+
+<http://www.wikidata.org/entity/Q115869546>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Guesalza>.
+
+<http://www.wikidata.org/entity/Q107256228>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Hundidero>.
+
+<http://www.wikidata.org/entity/Q115867397>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Hoyo_Guardia>.
+
+<http://www.wikidata.org/entity/Q115869525>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Urnieta>.
+
+<http://www.wikidata.org/entity/Q115859267>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Aizquirri>.
+
+<http://www.wikidata.org/entity/Q115862751>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Guillarte>.
+
+<http://www.wikidata.org/entity/Q115869639>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Andrebot>.
+
+<http://www.wikidata.org/entity/Q115867328>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_los_Moros_(Corro)>.
+
+<http://www.wikidata.org/entity/Q108394490>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_natural_de_la_Cueva_de_los_Naturalistas>.
+
+<http://www.wikidata.org/entity/Q115793810>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_los_Gentiles>.
+
+<http://www.wikidata.org/entity/Q115869581>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_San_Valerio>.
+
+<http://www.wikidata.org/entity/Q115868544>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Jávea>.
+
+<http://www.wikidata.org/entity/Q118547244>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Recuenco>.
+
+<http://www.wikidata.org/entity/Q119290005>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Urrecázulo>.
+
+<http://www.wikidata.org/entity/Q117308831>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_la_Vaquera>.
+
+<http://www.wikidata.org/entity/Q97625507>
+        owl:sameAs <http://es.dbpedia.org/resource/Cisternas_romanas_de_Monturque>.
+
+<http://www.wikidata.org/entity/Q3957105>
+        owl:sameAs <http://es.dbpedia.org/resource/Aljibe_de_la_Estación_(Puerto_Lumbreras)>.
+
+<http://www.wikidata.org/entity/Q5789709>
+        owl:sameAs <http://es.dbpedia.org/resource/Cortijo_de_Aparicio_el_Grande>.
+
+<http://www.wikidata.org/entity/Q5968727>
+        owl:sameAs <http://es.dbpedia.org/resource/Laderas_de_Morana>.
+
+<http://www.wikidata.org/entity/Q97604562>
+        owl:sameAs <http://es.dbpedia.org/resource/Baño_del_Piojo>.
+
+<http://www.wikidata.org/entity/Q97604561>
+        owl:sameAs <http://es.dbpedia.org/resource/Cortijo_de_los_Arcos>.
+
+<http://www.wikidata.org/entity/Q5173303>
+        owl:sameAs <http://es.dbpedia.org/resource/Cortijo_de_Miraflores>.
+
+<http://www.wikidata.org/entity/Q5173302>
+        owl:sameAs <http://es.dbpedia.org/resource/Cortijo_Jurado>.
+
+<http://www.wikidata.org/entity/Q5789709>
+        owl:sameAs <http://es.dbpedia.org/resource/Cortijo_de_Aparicio_el_Grande>.
+
+<http://www.wikidata.org/entity/Q5789719>
+        owl:sameAs <http://es.dbpedia.org/resource/Cortijo_de_las_Mezquitas>.
+
+<http://www.wikidata.org/entity/Q5982532>
+        owl:sameAs <http://es.dbpedia.org/resource/Lugar_del_fusilamiento_de_Blas_Infante>.
+
+<http://www.wikidata.org/entity/Q8342425>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Melgarejo>.
+
+<http://www.wikidata.org/entity/Q56044255>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_del_Cortijo_de_Miraflores_y_Huerta_de_la_Albarrana>.
+
+<http://www.wikidata.org/entity/Q5686256>
+        owl:sameAs <http://es.dbpedia.org/resource/Cortijo_de_los_Cipreses>.
+
+<http://www.wikidata.org/entity/Q5789711>
+        owl:sameAs <http://es.dbpedia.org/resource/Cortijo_de_El_Marrufo>.
+
+<http://www.wikidata.org/entity/Q5789731>
+        owl:sameAs <http://es.dbpedia.org/resource/Cortijo_del_Fraile>.
+
+<http://www.wikidata.org/entity/Q5789679>
+        owl:sameAs <http://es.dbpedia.org/resource/Cortijo_Bacardí>.
+
+<http://www.wikidata.org/entity/Q5789707>
+        owl:sameAs <http://es.dbpedia.org/resource/Cortijo_de_Alventu>.
+
+<http://www.wikidata.org/entity/Q962117>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_del_Buen_Retiro>.
+
+<http://www.wikidata.org/entity/Q892083>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_toros_de_la_Fuente_del_Berro>.
+
+<http://www.wikidata.org/entity/Q207626>
+        owl:sameAs <http://es.dbpedia.org/resource/Estadio_Vicente_Calderón>.
+
+<http://www.wikidata.org/entity/Q6140014>
+        owl:sameAs <http://es.dbpedia.org/resource/Teatro_del_Príncipe>.
+
+<http://www.wikidata.org/entity/Q6139849>
+        owl:sameAs <http://es.dbpedia.org/resource/Teatro_Pereda>.
+
+<http://www.wikidata.org/entity/Q6129054>
+        owl:sameAs <http://es.dbpedia.org/resource/Sinagoga_Mayor_(Tudela)>.
+
+<http://www.wikidata.org/entity/Q6171447>
+        owl:sameAs <http://es.dbpedia.org/resource/Zoco_Grande_de_Córdoba>.
+
+<http://www.wikidata.org/entity/Q2886280>
+        owl:sameAs <http://es.dbpedia.org/resource/Cruz_del_Coso>.
+
+<http://www.wikidata.org/entity/Q5786092>
+        owl:sameAs <http://es.dbpedia.org/resource/Convento_del_Carmen_Calzado_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q6091895>
+        owl:sameAs <http://es.dbpedia.org/resource/Puerta_del_Ángel_(puerta_de_la_Casa_de_Campo)>.
+
+<http://www.wikidata.org/entity/Q2832241>
+        owl:sameAs <http://es.dbpedia.org/resource/Real_Alcázar_de_Madrid>.
+
+<http://www.wikidata.org/entity/Q4219212>
+        owl:sameAs <http://es.dbpedia.org/resource/Quemadero_de_San_Diego>.
+
+<http://www.wikidata.org/entity/Q5785743>
+        owl:sameAs <http://es.dbpedia.org/resource/Convento_de_San_Francisco_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q5785775>
+        owl:sameAs <http://es.dbpedia.org/resource/Convento_de_San_José_de_Padres_Capuchinos>.
+
+<http://www.wikidata.org/entity/Q5785793>
+        owl:sameAs <http://es.dbpedia.org/resource/Convento_de_San_Pablo_(Burgos)>.
+
+<http://www.wikidata.org/entity/Q5840048>
+        owl:sameAs <http://es.dbpedia.org/resource/Teatro_Fontalba>.
+
+<http://www.wikidata.org/entity/Q2917322>
+        owl:sameAs <http://es.dbpedia.org/resource/Puerta_del_Ángel_(Zaragoza)>.
+
+<http://www.wikidata.org/entity/Q5785667>
+        owl:sameAs <http://es.dbpedia.org/resource/Convento_de_la_Victoria_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q6091473>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Barcas_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q2885294>
+        owl:sameAs <http://es.dbpedia.org/resource/Convento_de_las_Siervas_(Cartagena)>.
+
+<http://www.wikidata.org/entity/Q2969860>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Maya>.
+
+<http://www.wikidata.org/entity/Q3533603>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_la_Parada>.
+
+<http://www.wikidata.org/entity/Q5903100>
+        owl:sameAs <http://es.dbpedia.org/resource/Hospital_de_Santa_Cristina_(Soria)>.
+
+<http://www.wikidata.org/entity/Q5912701>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_del_Buen_Suceso_(Puerta_del_Sol)>.
+
+<http://www.wikidata.org/entity/Q2835102>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_de_Torrecilla>.
+
+<http://www.wikidata.org/entity/Q5195517>
+        owl:sameAs <http://es.dbpedia.org/resource/Teatro_Apolo_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q5777020>
+        owl:sameAs <http://es.dbpedia.org/resource/Colegio_de_los_Manchegos>.
+
+<http://www.wikidata.org/entity/Q13048640>
+        owl:sameAs <http://es.dbpedia.org/resource/Casas_del_Puente>.
+
+<http://www.wikidata.org/entity/Q26186444>
+        owl:sameAs <http://es.dbpedia.org/resource/Cine_Palacio>.
+
+<http://www.wikidata.org/entity/Q28114426>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_Mateu>.
+
+<http://www.wikidata.org/entity/Q30905057>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_de_Torreflorida>.
+
+<http://www.wikidata.org/entity/Q16572457>
+        owl:sameAs <http://es.dbpedia.org/resource/Teatro_Lírico_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q23927372>
+        owl:sameAs <http://es.dbpedia.org/resource/Ruinas_del_Castillo_(Castell_de_Cabres)>.
+
+<http://www.wikidata.org/entity/Q8352202>
+        owl:sameAs <http://es.dbpedia.org/resource/Cuartel_de_la_Montaña_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q13048642>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_de_la_Diputación_del_Reino_de_Aragón>.
+
+<http://www.wikidata.org/entity/Q25619946>
+        owl:sameAs <http://es.dbpedia.org/resource/Estadio_de_Torrero>.
+
+<http://www.wikidata.org/entity/Q11925158>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_del_Virrey_(Barcelona)>.
+
+<http://www.wikidata.org/entity/Q16544867>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Arrola>.
+
+<http://www.wikidata.org/entity/Q16964585>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_toros_de_la_Puerta_de_Alcalá>.
+
+<http://www.wikidata.org/entity/Q17631095>
+        owl:sameAs <http://es.dbpedia.org/resource/Teatro_Romea_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q28033071>
+        owl:sameAs <http://es.dbpedia.org/resource/Colegio_de_los_Manriques>.
+
+<http://www.wikidata.org/entity/Q9054408>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_del_Real_de_Valencia>.
+
+<http://www.wikidata.org/entity/Q9067097>
+        owl:sameAs <http://es.dbpedia.org/resource/Real_Sitio_de_la_Florida>.
+
+<http://www.wikidata.org/entity/Q29433582>
+        owl:sameAs <http://es.dbpedia.org/resource/Colegio-Convento_de_los_Mercedarios_Calzados>.
+
+<http://www.wikidata.org/entity/Q22947415>
+        owl:sameAs <http://es.dbpedia.org/resource/Real_Sitio_de_la_Moncloa>.
+
+<http://www.wikidata.org/entity/Q9034510>
+        owl:sameAs <http://es.dbpedia.org/resource/Monasterio_de_la_Zaidía>.
+
+<http://www.wikidata.org/entity/Q16868774>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_Real_Menor_de_Barcelona>.
+
+<http://www.wikidata.org/entity/Q25339976>
+        owl:sameAs <http://es.dbpedia.org/resource/Puerta_de_Toledo_(Zaragoza)>.
+
+<http://www.wikidata.org/entity/Q30919265>
+        owl:sameAs <http://es.dbpedia.org/resource/Oratorio_de_San_Felipe_Neri_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q8464750>
+        owl:sameAs <http://es.dbpedia.org/resource/Cuartel_de_Monteleón>.
+
+<http://www.wikidata.org/entity/Q16143993>
+        owl:sameAs <http://es.dbpedia.org/resource/Aeródromo_Barberán_y_Collar>.
+
+<http://www.wikidata.org/entity/Q42912683>
+        owl:sameAs <http://es.dbpedia.org/resource/Salas_Capitulares_de_Santa_María_de_la_Estrella>.
+
+<http://www.wikidata.org/entity/Q54803644>
+        owl:sameAs <http://es.dbpedia.org/resource/Velódromo_de_Torrero>.
+
+<http://www.wikidata.org/entity/Q50422690>
+        owl:sameAs <http://es.dbpedia.org/resource/General_Marina,_16>.
+
+<http://www.wikidata.org/entity/Q57166125>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_real_y_bosque_del_Abrojo>.
+
+<http://www.wikidata.org/entity/Q56062312>
+        owl:sameAs <http://es.dbpedia.org/resource/Henayo>.
+
+<http://www.wikidata.org/entity/Q52828833>
+        owl:sameAs <http://es.dbpedia.org/resource/Puerta_de_Santa_Engracia>.
+
+<http://www.wikidata.org/entity/Q52829208>
+        owl:sameAs <http://es.dbpedia.org/resource/Puerta_del_Duque>.
+
+<http://www.wikidata.org/entity/Q52830205>
+        owl:sameAs <http://es.dbpedia.org/resource/Puerta_Quemada>.
+
+<http://www.wikidata.org/entity/Q52829307>
+        owl:sameAs <http://es.dbpedia.org/resource/Puerta_del_Sol_(Zaragoza)>.
+
+<http://www.wikidata.org/entity/Q52828133>
+        owl:sameAs <http://es.dbpedia.org/resource/Puerta_de_Sancho>.
+
+<http://www.wikidata.org/entity/Q52827968>
+        owl:sameAs <http://es.dbpedia.org/resource/Puerta_del_Portillo>.
+
+<http://www.wikidata.org/entity/Q45748854>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_de_Lorite>.
+
+<http://www.wikidata.org/entity/Q108732505>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Pío_X_(Todoque)>.
+
+<http://www.wikidata.org/entity/Q110310474>
+        owl:sameAs <http://es.dbpedia.org/resource/Capilla_del_Real_Alcázar_de_Madrid>.
+
+<http://www.wikidata.org/entity/Q115326238>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_de_los_Larios>.
+
+<http://www.wikidata.org/entity/Q64963517>
+        owl:sameAs <http://es.dbpedia.org/resource/Canódromo_Parque_Sol_de_Baix>.
+
+<http://www.wikidata.org/entity/Q75144355>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_de_Gabriel_Zaporta>.
+
+<http://www.wikidata.org/entity/Q64442981>
+        owl:sameAs <http://es.dbpedia.org/resource/Hospital_de_San_Lucas_y_San_Nicolás>.
+
+<http://www.wikidata.org/entity/Q97249257>
+        owl:sameAs <http://es.dbpedia.org/resource/Sinagoga_Mayor_de_Zaragoza>.
+
+<http://www.wikidata.org/entity/Q98603400>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_los_Diputados_del_Reino_de_Aragón>.
+
+<http://www.wikidata.org/entity/Q76824240>
+        owl:sameAs <http://es.dbpedia.org/resource/Muralla_carlista_de_Gijón>.
+
+<http://www.wikidata.org/entity/Q67642040>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Penicilino>.
+
+<http://www.wikidata.org/entity/Q63862106>
+        owl:sameAs <http://es.dbpedia.org/resource/Cárcel_celular>.
+
+<http://www.wikidata.org/entity/Q124749964>
+        owl:sameAs <http://es.dbpedia.org/resource/Kiosco_Mundial>.
+
+<http://www.wikidata.org/entity/Q124310150>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_La_Horma>.
+
+<http://www.wikidata.org/entity/Q531761>
+        owl:sameAs <http://es.dbpedia.org/resource/Convento_de_Santo_Domingo_(Zaragoza)>.
+
+<http://www.wikidata.org/entity/Q115769777>
+        owl:sameAs <http://es.dbpedia.org/resource/Convento_de_Santa_Cruz_de_Tabladilla>.
+
+<http://www.wikidata.org/entity/Q5785683>
+        owl:sameAs <http://es.dbpedia.org/resource/Convento_de_San_Agustín_(Zaragoza)>.
+
+<http://www.wikidata.org/entity/Q109925514>
+        owl:sameAs <http://es.dbpedia.org/resource/Convento_de_la_Concepción_de_San_Miguel>.
+
+<http://www.wikidata.org/entity/Q5785782>
+        owl:sameAs <http://es.dbpedia.org/resource/Convento_de_San_Lamberto>.
+
+<http://www.wikidata.org/entity/Q109925594>
+        owl:sameAs <http://es.dbpedia.org/resource/Convento_de_la_Encarnación_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q5785651>
+        owl:sameAs <http://es.dbpedia.org/resource/Convento_de_Nuestra_Señora_de_Altabás>.
+
+<http://www.wikidata.org/entity/Q5785757>
+        owl:sameAs <http://es.dbpedia.org/resource/Convento_de_San_Hermenegildo_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q5785784>
+        owl:sameAs <http://es.dbpedia.org/resource/Convento_de_San_Lázaro>.
+
+<http://www.wikidata.org/entity/Q109925379>
+        owl:sameAs <http://es.dbpedia.org/resource/Convento_de_la_Concepción_de_San_Juan_de_la_Palma>.
+
+<http://www.wikidata.org/entity/Q109925476>
+        owl:sameAs <http://es.dbpedia.org/resource/Convento_de_las_Vírgenes>.
+
+<http://www.wikidata.org/entity/Q109925648>
+        owl:sameAs <http://es.dbpedia.org/resource/Convento_de_la_Asunción_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q109925566>
+        owl:sameAs <http://es.dbpedia.org/resource/Convento_de_Nuestra_Señora_de_la_Paz>.
+
+<http://www.wikidata.org/entity/Q28226306>
+        owl:sameAs <http://es.dbpedia.org/resource/Convento_de_San_José_de_los_Carmelitas_Descalzos_(Zaragoza)>.
+
+<http://www.wikidata.org/entity/Q109925539>
+        owl:sameAs <http://es.dbpedia.org/resource/Convento_de_la_Encarnación_de_Belén>.
+
+<http://www.wikidata.org/entity/Q5483001>
+        owl:sameAs <http://es.dbpedia.org/resource/Convento_de_San_Francisco_(Zaragoza)>.
+
+<http://www.wikidata.org/entity/Q5785760>
+        owl:sameAs <http://es.dbpedia.org/resource/Convento_de_San_Ildefonso_(Zaragoza)>.
+
+<http://www.wikidata.org/entity/Q109925449>
+        owl:sameAs <http://es.dbpedia.org/resource/Convento_de_Santa_María_de_Gracia_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q109925430>
+        owl:sameAs <http://es.dbpedia.org/resource/Convento_de_Santa_María_de_la_Pasión_de_Nuestro_Señor_Jesucristo>.
+
+<http://www.wikidata.org/entity/Q121856521>
+        owl:sameAs <http://es.dbpedia.org/resource/Convento_de_San_Ildefonso_(Burgos)>.
+
+<http://www.wikidata.org/entity/Q18696225>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_del_León>.
+
+<http://www.wikidata.org/entity/Q5789709>
+        owl:sameAs <http://es.dbpedia.org/resource/Cortijo_de_Aparicio_el_Grande>.
+
+<http://www.wikidata.org/entity/Q5938445>
+        owl:sameAs <http://es.dbpedia.org/resource/Termas_romanas_de_Las_Bóvedas>.
+
+<http://www.wikidata.org/entity/Q6142725>
+        owl:sameAs <http://es.dbpedia.org/resource/Termas_romanas_de_Lecrín>.
+
+<http://www.wikidata.org/entity/Q6162517>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_del_Rincón_de_la_Victoria>.
+
+<http://www.wikidata.org/entity/Q5870155>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_Santa>.
+
+<http://www.wikidata.org/entity/Q97632386>
+        owl:sameAs <http://es.dbpedia.org/resource/Caviclum>.
+
+<http://www.wikidata.org/entity/Q97634205>
+        owl:sameAs <http://es.dbpedia.org/resource/Termas_romanas_de_Alameda>.
+
+<http://www.wikidata.org/entity/Q6033755>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Taller_Litográfico>.
+
+<http://www.wikidata.org/entity/Q6033742>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Sefardí>.
+
+<http://www.wikidata.org/entity/Q6033747>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Sierra_Pambley>.
+
+<http://www.wikidata.org/entity/Q6033692>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Guadalajara>.
+
+<http://www.wikidata.org/entity/Q6033760>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Taurino_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q6033699>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Ralli_(Marbella)>.
+
+<http://www.wikidata.org/entity/Q6033729>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Revello_de_Toro>.
+
+<http://www.wikidata.org/entity/Q6033449>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Interactivo_de_la_Música_de_Málaga>.
+
+<http://www.wikidata.org/entity/Q6033525>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Minero_de_Escucha>.
+
+<http://www.wikidata.org/entity/Q6033548>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Municipal_de_Requena>.
+
+<http://www.wikidata.org/entity/Q6033536>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Chiclana>.
+
+<http://www.wikidata.org/entity/Q6033270>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Didáctico_e_Interactivo_de_Ciencias_de_Orihuela>.
+
+<http://www.wikidata.org/entity/Q6033396>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Histórico_Etnológico_de_Mijas>.
+
+<http://www.wikidata.org/entity/Q6033517>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Micológico_de_Molinicos>.
+
+<http://www.wikidata.org/entity/Q6033552>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Municipal_de_Siete_Aguas>.
+
+<http://www.wikidata.org/entity/Q6033634>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Nueva_Tabarca>.
+
+<http://www.wikidata.org/entity/Q6033164>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Automovilístico_de_Málaga>.
+
+<http://www.wikidata.org/entity/Q6033184>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Bodegas_Carmelitano>.
+
+<http://www.wikidata.org/entity/Q6033233>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Catedralicio_de_Jaén>.
+
+<http://www.wikidata.org/entity/Q6033236>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Catedralicio_de_Zamora>.
+
+<http://www.wikidata.org/entity/Q6033258>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Conventual_de_las_Descalzas>.
+
+<http://www.wikidata.org/entity/Q6033481>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Loringiano>.
+
+<http://www.wikidata.org/entity/Q6033494>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Marceliano_Santa_María>.
+
+<http://www.wikidata.org/entity/Q6033657>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Parroquial_San_Juan_Bautista_(Alcalá_de_Chivert)>.
+
+<http://www.wikidata.org/entity/Q6033672>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Pilarista>.
+
+<http://www.wikidata.org/entity/Q6033305>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Elder_de_la_Ciencia_y_la_Tecnología>.
+
+<http://www.wikidata.org/entity/Q6033472>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Lara>.
+
+<http://www.wikidata.org/entity/Q6033479>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Lladró>.
+
+<http://www.wikidata.org/entity/Q6033316>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Escuela>.
+
+<http://www.wikidata.org/entity/Q6033464>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Julio_Romero_de_Torres>.
+
+<http://www.wikidata.org/entity/Q6033628>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Nino_Bravo>.
+
+<http://www.wikidata.org/entity/Q6033663>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Pedagógico_de_Aragón>.
+
+<http://www.wikidata.org/entity/Q6033180>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Berrocal>.
+
+<http://www.wikidata.org/entity/Q6033346>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Evaristo_Valle>.
+
+<http://www.wikidata.org/entity/Q6033527>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Morisco_de_Sayalonga>.
+
+<http://www.wikidata.org/entity/Q6033543>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Municipal_de_Estepona>.
+
+<http://www.wikidata.org/entity/Q6033167>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Baltasar_Lobo>.
+
+<http://www.wikidata.org/entity/Q6033355>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Libro_Fadrique_de_Basilea>.
+
+<http://www.wikidata.org/entity/Q6033417>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Histórico-Arqueológico_de_Almedinilla>.
+
+<http://www.wikidata.org/entity/Q6033603>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Energía>.
+
+<http://www.wikidata.org/entity/Q6033364>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Festero>.
+
+<http://www.wikidata.org/entity/Q6033406>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Histórico_Municipal_de_Teba>.
+
+<http://www.wikidata.org/entity/Q6033638>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Pablo_Serrano>.
+
+<http://www.wikidata.org/entity/Q5761601>
+        owl:sameAs <http://es.dbpedia.org/resource/Centro_de_Biodiversidad_de_Euskadi>.
+
+<http://www.wikidata.org/entity/Q5912257>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santo_Tomé_(Zamora)>.
+
+<http://www.wikidata.org/entity/Q5754418>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Museo_de_Martín_Alonso_Pinzón>.
+
+<http://www.wikidata.org/entity/Q5978226>
+        owl:sameAs <http://es.dbpedia.org/resource/Loceras_de_El_Cercado>.
+
+<http://www.wikidata.org/entity/Q6033131>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Huesca>.
+
+<http://www.wikidata.org/entity/Q5761169>
+        owl:sameAs <http://es.dbpedia.org/resource/Centro_Cultural_María_Victoria_Atencia>.
+
+<http://www.wikidata.org/entity/Q5761794>
+        owl:sameAs <http://es.dbpedia.org/resource/Centro_de_Historia_(Zaragoza)>.
+
+<http://www.wikidata.org/entity/Q5762062>
+        owl:sameAs <http://es.dbpedia.org/resource/Centro_de_interpretación_de_la_cultura_andalusí>.
+
+<http://www.wikidata.org/entity/Q5776731>
+        owl:sameAs <http://es.dbpedia.org/resource/Colección_Museográfica_de_Arte_e_Historia_de_Gilena>.
+
+<http://www.wikidata.org/entity/Q5839725>
+        owl:sameAs <http://es.dbpedia.org/resource/Centro_de_Creación_Contemporánea_de_Andalucía>.
+
+<http://www.wikidata.org/entity/Q5904202>
+        owl:sameAs <http://es.dbpedia.org/resource/Huerta_de_San_Vicente>.
+
+<http://www.wikidata.org/entity/Q5785784>
+        owl:sameAs <http://es.dbpedia.org/resource/Convento_de_San_Lázaro>.
+
+<http://www.wikidata.org/entity/Q5817129>
+        owl:sameAs <http://es.dbpedia.org/resource/Ecomuseo_de_Somiedo>.
+
+<http://www.wikidata.org/entity/Q5918434>
+        owl:sameAs <http://es.dbpedia.org/resource/Instituto_Óscar_Domínguez>.
+
+<http://www.wikidata.org/entity/Q6033100>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Aguilar_y_Eslava>.
+
+<http://www.wikidata.org/entity/Q5761603>
+        owl:sameAs <http://es.dbpedia.org/resource/Centro_de_Ciencia_Principia>.
+
+<http://www.wikidata.org/entity/Q5761397>
+        owl:sameAs <http://es.dbpedia.org/resource/Centro_Nacional_de_Arte_Flamenco>.
+
+<http://www.wikidata.org/entity/Q5778167>
+        owl:sameAs <http://es.dbpedia.org/resource/Comandancia_Militar_de_La_Línea_de_la_Concepción>.
+
+<http://www.wikidata.org/entity/Q5761578>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Arte_de_Almería>.
+
+<http://www.wikidata.org/entity/Q5762045>
+        owl:sameAs <http://es.dbpedia.org/resource/Centro_de_Escultura_de_Candás_Museo_Antón>.
+
+<http://www.wikidata.org/entity/Q6021411>
+        owl:sameAs <http://es.dbpedia.org/resource/Monasterio_de_Santa_Clara_la_Real_(Murcia)>.
+
+<http://www.wikidata.org/entity/Q5755218>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_las_Ciencias_(Logroño)>.
+
+<http://www.wikidata.org/entity/Q5754424>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Museo_de_las_Cofradías_(Puerto_Lumbreras)>.
+
+<http://www.wikidata.org/entity/Q5755631>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_natal_de_Blas_Infante>.
+
+<http://www.wikidata.org/entity/Q5761834>
+        owl:sameAs <http://es.dbpedia.org/resource/Centro_de_Interpretación_de_Molinos_de_Agua>.
+
+<http://www.wikidata.org/entity/Q5836466>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Concepción_(Iniesta)>.
+
+<http://www.wikidata.org/entity/Q5871419>
+        owl:sameAs <http://es.dbpedia.org/resource/Fundación_Parque_Aeronáutico_de_Cataluña>.
+
+<http://www.wikidata.org/entity/Q5982530>
+        owl:sameAs <http://es.dbpedia.org/resource/Lugar_de_los_sucesos_de_Casas_Viejas>.
+
+<http://www.wikidata.org/entity/Q6033097>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Agbar_de_las_Aguas>.
+
+<http://www.wikidata.org/entity/Q5761570>
+        owl:sameAs <http://es.dbpedia.org/resource/Centro_de_Arte_Contemporáneo_de_Burgos>.
+
+<http://www.wikidata.org/entity/Q5912934>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_museo_de_San_Antolín_(Tordesillas)>.
+
+<http://www.wikidata.org/entity/Q5755161>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_la_Memoria_de_al-Ándalus>.
+
+<http://www.wikidata.org/entity/Q5400378>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Naturaleza_de_Cantabria>.
+
+<http://www.wikidata.org/entity/Q5480977>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Carruajes_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q5754016>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa-Convento_de_Santa_Teresa>.
+
+<http://www.wikidata.org/entity/Q5551740>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Aloe_de_Lanzarote>.
+
+<http://www.wikidata.org/entity/Q5561955>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Art_Nouveau_y_Art_Déco>.
+
+<http://www.wikidata.org/entity/Q5692174>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Museo_Verdaguer>.
+
+<http://www.wikidata.org/entity/Q5658732>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_las_Mariposas_de_Cataluña>.
+
+<http://www.wikidata.org/entity/Q5754415>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Museo_Zenobia_y_Juan_Ramón_Jiménez>.
+
+<http://www.wikidata.org/entity/Q5398843>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Alfarería_de_Quart>.
+
+<http://www.wikidata.org/entity/Q5407312>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_de_Elsedo>.
+
+<http://www.wikidata.org/entity/Q5556798>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_San_Isidro>.
+
+<http://www.wikidata.org/entity/Q5557789>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Unicaja_Joaquín_Peinado>.
+
+<http://www.wikidata.org/entity/Q5694599>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Miel_(Colmenar)>.
+
+<http://www.wikidata.org/entity/Q5398891>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Iglesia_de_Oviedo>.
+
+<http://www.wikidata.org/entity/Q5480691>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_de_Guevara>.
+
+<http://www.wikidata.org/entity/Q5652553>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Ronda>.
+
+<http://www.wikidata.org/entity/Q5711821>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Alborania>.
+
+<http://www.wikidata.org/entity/Q5654672>
+        owl:sameAs <http://es.dbpedia.org/resource/Abadía_del_Sacromonte>.
+
+<http://www.wikidata.org/entity/Q5681246>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Cerámica_Nacional_(Chinchilla_de_Montearagón)>.
+
+<http://www.wikidata.org/entity/Q5397946>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_San_Martín_Sarroca>.
+
+<http://www.wikidata.org/entity/Q5406194>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Calzado>.
+
+<http://www.wikidata.org/entity/Q5476145>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Arte_Jaime_Morera>.
+
+<http://www.wikidata.org/entity/Q5482950>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Paz_de_Guernica>.
+
+<http://www.wikidata.org/entity/Q5641718>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Catedralicio_Diocesano_de_Valencia>.
+
+<http://www.wikidata.org/entity/Q5669708>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Almazara_del_Conde>.
+
+<http://www.wikidata.org/entity/Q6033809>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Albarracín>.
+
+<http://www.wikidata.org/entity/Q6033812>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Antonio_Marco>.
+
+<http://www.wikidata.org/entity/Q6033815>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Antropología_de_Tenerife>.
+
+<http://www.wikidata.org/entity/Q6034016>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Heráldica_(Caspe)>.
+
+<http://www.wikidata.org/entity/Q6034068>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Instrumentos_de_Tortura_(Guadalest)>.
+
+<http://www.wikidata.org/entity/Q6034115>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_San_Clemente_(Mezquita-catedral_de_Córdoba)>.
+
+<http://www.wikidata.org/entity/Q6034121>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Santianes_(Pravia)>.
+
+<http://www.wikidata.org/entity/Q6034102>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Orfebrería_de_Lucena_del_Cid>.
+
+<http://www.wikidata.org/entity/Q6033946>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Bellas_Artes_de_Murcia>.
+
+<http://www.wikidata.org/entity/Q6033956>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Calatayud>.
+
+<http://www.wikidata.org/entity/Q6033961>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Carruajes_Zamar>.
+
+<http://www.wikidata.org/entity/Q6033971>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Cetáceos_de_Canarias>.
+
+<http://www.wikidata.org/entity/Q6034083>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_La_Rioja>.
+
+<http://www.wikidata.org/entity/Q6034088>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_León>.
+
+<http://www.wikidata.org/entity/Q6034140>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Usos_y_Costumbres_de_San_Benito>.
+
+<http://www.wikidata.org/entity/Q6033993>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Cáceres>.
+
+<http://www.wikidata.org/entity/Q6033969>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Cerámica_de_Paterna>.
+
+<http://www.wikidata.org/entity/Q6033980>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Ciencias_del_Instituto_Padre_Suárez_de_Granada>.
+
+<http://www.wikidata.org/entity/Q6034142>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Valladolid>.
+
+<http://www.wikidata.org/entity/Q6033763>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Taurino_Municipal_de_Córdoba>.
+
+<http://www.wikidata.org/entity/Q6033789>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Valenciano_del_Papel>.
+
+<http://www.wikidata.org/entity/Q6033953>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Burgos>.
+
+<http://www.wikidata.org/entity/Q6033965>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Cerámica_Ruiz_de_Luna>.
+
+<http://www.wikidata.org/entity/Q6034094>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Medina_Azahara>.
+
+<http://www.wikidata.org/entity/Q6034124>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Semana_Santa_de_Zamora>.
+
+<http://www.wikidata.org/entity/Q6034133>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Telas_Medievales_de_Burgos>.
+
+<http://www.wikidata.org/entity/Q6033925>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Artes_y_Costumbres_Populares_(Málaga)>.
+
+<http://www.wikidata.org/entity/Q6033991>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Cuenca>.
+
+<http://www.wikidata.org/entity/Q6034074>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Jaén>.
+
+<http://www.wikidata.org/entity/Q6034097>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Microminiaturas_(Guadalest)>.
+
+<http://www.wikidata.org/entity/Q6034105>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Palenzuela>.
+
+<http://www.wikidata.org/entity/Q6034176>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Alhambra>.
+
+<http://www.wikidata.org/entity/Q6034234>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Educación_de_la_Universidad_de_La_Laguna>.
+
+<http://www.wikidata.org/entity/Q6034283>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Real_Colegiata_de_San_Isidoro>.
+
+<http://www.wikidata.org/entity/Q6034296>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Semana_Santa_Marinera>.
+
+<http://www.wikidata.org/entity/Q6034197>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Azulejo_Manolo_Safont>.
+
+<http://www.wikidata.org/entity/Q6034305>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Siderurgia_y_la_Minería_de_Castilla_y_León>.
+
+<http://www.wikidata.org/entity/Q6034383>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Belén>.
+
+<http://www.wikidata.org/entity/Q6034395>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Botijo_(Toral_de_los_Guzmanes)>.
+
+<http://www.wikidata.org/entity/Q6034194>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Catedral_de_Segorbe>.
+
+<http://www.wikidata.org/entity/Q6034213>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Ciudad_(Villarreal)>.
+
+<http://www.wikidata.org/entity/Q6034236>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Festa_(Elche)>.
+
+<http://www.wikidata.org/entity/Q6034294>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Semana_Santa_(Málaga)>.
+
+<http://www.wikidata.org/entity/Q6034298>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Semana_Santa_(Villaviciosa)>.
+
+<http://www.wikidata.org/entity/Q6034348>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_las_Ferias>.
+
+<http://www.wikidata.org/entity/Q6034189>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Catedral_de_Barcelona>.
+
+<http://www.wikidata.org/entity/Q6034222>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Ciudad_de_Torrejón_de_Ardoz>.
+
+<http://www.wikidata.org/entity/Q6034353>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_las_Termas_Públicas_de_Caesaraugusta>.
+
+<http://www.wikidata.org/entity/Q6034290>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Remolacha_Azucarera>.
+
+<http://www.wikidata.org/entity/Q6034301>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Semana_Santa_(Orihuela)>.
+
+<http://www.wikidata.org/entity/Q6034342>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_las_Cortes_de_Cádiz>.
+
+<http://www.wikidata.org/entity/Q6034145>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Zamora>.
+
+<http://www.wikidata.org/entity/Q6034381>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Bandolero>.
+
+<http://www.wikidata.org/entity/Q6034401>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Carnaval_(Isla_Cristina)>.
+
+<http://www.wikidata.org/entity/Q6034268>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Palabra_(España)>.
+
+<http://www.wikidata.org/entity/Q6034339>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_las_Ciencias_de_Castilla-La_Mancha>.
+
+<http://www.wikidata.org/entity/Q6034368>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Aceite_(Antequera)>.
+
+<http://www.wikidata.org/entity/Q6034392>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Bonsái_(Marbella)>.
+
+<http://www.wikidata.org/entity/Q6034192>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Catedral_de_Murcia>.
+
+<http://www.wikidata.org/entity/Q6034202>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Ciudad_(Almería)>.
+
+<http://www.wikidata.org/entity/Q6034216>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Ciudad_de_Antequera>.
+
+<http://www.wikidata.org/entity/Q6034351>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_las_Fiestas_de_la_Reconquista_(Orihuela)>.
+
+<http://www.wikidata.org/entity/Q6034274>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Pasa>.
+
+<http://www.wikidata.org/entity/Q6034355>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_los_Faroles_y_Rosario_de_Cristal>.
+
+<http://www.wikidata.org/entity/Q6034397>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Botijo_(Villena)>.
+
+<http://www.wikidata.org/entity/Q6034477>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Palmeral>.
+
+<http://www.wikidata.org/entity/Q6034480>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Patrimonio_Municipal>.
+
+<http://www.wikidata.org/entity/Q6034500>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Teatro_de_Caesaraugusta>.
+
+<http://www.wikidata.org/entity/Q6034591>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_prerrománico_de_San_Martín_de_Salas>.
+
+<http://www.wikidata.org/entity/Q6034421>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Císter>.
+
+<http://www.wikidata.org/entity/Q6034415>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Comercio_y_la_Industria>.
+
+<http://www.wikidata.org/entity/Q6034442>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Grabado_Español_Contemporáneo>.
+
+<http://www.wikidata.org/entity/Q6034557>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Geológico_del_Seminario_de_Barcelona>.
+
+<http://www.wikidata.org/entity/Q6034590>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Parroquial_de_Jérica>.
+
+<http://www.wikidata.org/entity/Q6034418>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Convento_de_Santa_Clara_de_Zafra>.
+
+<http://www.wikidata.org/entity/Q6034445>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Herraje_de_Palazuelos>.
+
+<http://www.wikidata.org/entity/Q6034482>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Pimentón_de_Jaraíz_de_la_Vera>.
+
+<http://www.wikidata.org/entity/Q6034523>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_chocolate_Valor>.
+
+<http://www.wikidata.org/entity/Q6034529>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_palacio_de_Cervellón>.
+
+<http://www.wikidata.org/entity/Q6034520>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Calzado_de_Barcelona>.
+
+<http://www.wikidata.org/entity/Q6034457>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Mar_(Santa_Pola)>.
+
+<http://www.wikidata.org/entity/Q6034594>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Huelva>.
+
+<http://www.wikidata.org/entity/Q6034463>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Melón>.
+
+<http://www.wikidata.org/entity/Q6034484>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Puerto_Fluvial_de_Caesaraugusta>.
+
+<http://www.wikidata.org/entity/Q6034492>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Río_Genil>.
+
+<http://www.wikidata.org/entity/Q6034578>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Municipal_de_Jérica>.
+
+<http://www.wikidata.org/entity/Q6034460>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Mar_y_de_la_Sal>.
+
+<http://www.wikidata.org/entity/Q6034488>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Retablo_(Burgos)>.
+
+<http://www.wikidata.org/entity/Q6034542>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Vino_de_Ronda>.
+
+<http://www.wikidata.org/entity/Q6034638>
+        owl:sameAs <http://es.dbpedia.org/resource/Museos_de_la_Atalaya>.
+
+<http://www.wikidata.org/entity/Q6034413>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Cobre>.
+
+<http://www.wikidata.org/entity/Q6034433>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Ferrocarril_de_Aranda_de_Duero>.
+
+<http://www.wikidata.org/entity/Q284916>
+        owl:sameAs <http://es.dbpedia.org/resource/Gabinete_de_las_Artes_Gráficas>.
+
+<http://www.wikidata.org/entity/Q256777>
+        owl:sameAs <http://es.dbpedia.org/resource/Fundación_NMAC>.
+
+<http://www.wikidata.org/entity/Q429192>
+        owl:sameAs <http://es.dbpedia.org/resource/Capilla_Real_de_Granada>.
+
+<http://www.wikidata.org/entity/Q32776>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Piel_de_Igualada>.
+
+<http://www.wikidata.org/entity/Q560041>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Diocesano_de_Tarragona>.
+
+<http://www.wikidata.org/entity/Q239935>
+        owl:sameAs <http://es.dbpedia.org/resource/Ciudad_de_las_Artes_y_las_Ciencias>.
+
+<http://www.wikidata.org/entity/Q179199>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Guggenheim_Bilbao>.
+
+<http://www.wikidata.org/entity/Q2274725>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Santa_Cruz>.
+
+<http://www.wikidata.org/entity/Q2104074>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Arte_Contemporáneo_de_Castilla_y_León>.
+
+<http://www.wikidata.org/entity/Q2163496>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Bellas_Artes_de_Sevilla>.
+
+<http://www.wikidata.org/entity/Q2096776>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Capricho_(Gaudí)>.
+
+<http://www.wikidata.org/entity/Q3329346>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_San_Telmo>.
+
+<http://www.wikidata.org/entity/Q3560239>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Museo_Canario>.
+
+<http://www.wikidata.org/entity/Q3329982>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Valltorta>.
+
+<http://www.wikidata.org/entity/Q3394488>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Catedral_de_Santiago_de_Compostela>.
+
+<http://www.wikidata.org/entity/Q3664802>
+        owl:sameAs <http://es.dbpedia.org/resource/Centro_de_Arte_Contemporáneo_de_Málaga>.
+
+<http://www.wikidata.org/entity/Q3699202>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_y_Parque_Arqueológico_Cueva_Pintada>.
+
+<http://www.wikidata.org/entity/Q3330437>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Foro_de_Caesaraugusta>.
+
+<http://www.wikidata.org/entity/Q3399276>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Quiñones_de_León>.
+
+<http://www.wikidata.org/entity/Q3410548>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Pueblo_de_Asturias>.
+
+<http://www.wikidata.org/entity/Q3558939>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Albacete>.
+
+<http://www.wikidata.org/entity/Q3330238>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Creencias_y_Religiosidad_Popular_del_Pirineo_Central>.
+
+<http://www.wikidata.org/entity/Q3357262>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Hospitalet_de_Llobregat>.
+
+<http://www.wikidata.org/entity/Q1049197>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Gibralfaro>.
+
+<http://www.wikidata.org/entity/Q1064212>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_de_la_condesa_de_Lebrija_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q1049274>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_la_Luz>.
+
+<http://www.wikidata.org/entity/Q1072981>
+        owl:sameAs <http://es.dbpedia.org/resource/Chillida-Leku>.
+
+<http://www.wikidata.org/entity/Q1054252>
+        owl:sameAs <http://es.dbpedia.org/resource/Centro_Atlántico_de_Arte_Moderno>.
+
+<http://www.wikidata.org/entity/Q1062480>
+        owl:sameAs <http://es.dbpedia.org/resource/Pueblo_Español_de_Barcelona>.
+
+<http://www.wikidata.org/entity/Q1143722>
+        owl:sameAs <http://es.dbpedia.org/resource/Teatro-Museo_Dalí>.
+
+<http://www.wikidata.org/entity/Q1026041>
+        owl:sameAs <http://es.dbpedia.org/resource/CaixaForum_Madrid>.
+
+<http://www.wikidata.org/entity/Q616329>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Grabado_de_Goya>.
+
+<http://www.wikidata.org/entity/Q944404>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Juguetes_y_Autómatas>.
+
+<http://www.wikidata.org/entity/Q634421>
+        owl:sameAs <http://es.dbpedia.org/resource/Centro_de_Documentación_y_Museo_de_las_Artes_Escénicas_del_Instituto_del_Teatro>.
+
+<http://www.wikidata.org/entity/Q944049>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Guardias_Viejas>.
+
+<http://www.wikidata.org/entity/Q969308>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_de_los_Condes_de_Buenavista>.
+
+<http://www.wikidata.org/entity/Q670077>
+        owl:sameAs <http://es.dbpedia.org/resource/Real_Academia_de_Bellas_Artes_de_Santa_Isabel_de_Hungría>.
+
+<http://www.wikidata.org/entity/Q597912>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Sidra>.
+
+<http://www.wikidata.org/entity/Q720740>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Vida_Rural>.
+
+<http://www.wikidata.org/entity/Q876794>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Cera_de_Barcelona>.
+
+<http://www.wikidata.org/entity/Q976019>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Cerralbo>.
+
+<http://www.wikidata.org/entity/Q974750>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Pedagógico_Nacional>.
+
+<http://www.wikidata.org/entity/Q3321174>
+        owl:sameAs <http://es.dbpedia.org/resource/Casón_del_Buen_Retiro>.
+
+<http://www.wikidata.org/entity/Q3300602>
+        owl:sameAs <http://es.dbpedia.org/resource/Colegio_de_Nuestra_Señora_de_la_Antigua_(Monforte_de_Lemos)>.
+
+<http://www.wikidata.org/entity/Q3328423>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Romántico_Can_Llopis>.
+
+<http://www.wikidata.org/entity/Q2887569>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Navarra>.
+
+<http://www.wikidata.org/entity/Q2890127>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Chocolate_(Barcelona)>.
+
+<http://www.wikidata.org/entity/Q3036438>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Fournier_de_Naipes>.
+
+<http://www.wikidata.org/entity/Q3198233>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_San_Miguel_(Garachico)>.
+
+<http://www.wikidata.org/entity/Q2888526>
+        owl:sameAs <http://es.dbpedia.org/resource/Foro_de_la_Biodiversidad_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q2919256>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Sor_María_Jesús_de_Ágreda>.
+
+<http://www.wikidata.org/entity/Q2919927>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo-Biblioteca_Casa_de_los_Frailes>.
+
+<http://www.wikidata.org/entity/Q3089563>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Pueblo_Gallego>.
+
+<http://www.wikidata.org/entity/Q2894514>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Cerdanyola>.
+
+<http://www.wikidata.org/entity/Q3285202>
+        owl:sameAs <http://es.dbpedia.org/resource/Azkuna_Zentroa>.
+
+<http://www.wikidata.org/entity/Q3076389>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Mataró>.
+
+<http://www.wikidata.org/entity/Q3276868>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Histórico_Municipal_de_San_Fernando>.
+
+<http://www.wikidata.org/entity/Q2887186>
+        owl:sameAs <http://es.dbpedia.org/resource/Centro_de_Interpretación_de_la_Minería_(Barruelo_de_Santullán)>.
+
+<http://www.wikidata.org/entity/Q3278563>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Púbol>.
+
+<http://www.wikidata.org/entity/Q2882620>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Gavá_y_Parque_Arqueológico_Minas_de_Gavá>.
+
+<http://www.wikidata.org/entity/Q2478458>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Arqueológico_Nacional_de_Tarragona>.
+
+<http://www.wikidata.org/entity/Q2601937>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa-Museo_Salvador_Dalí>.
+
+<http://www.wikidata.org/entity/Q2625747>
+        owl:sameAs <http://es.dbpedia.org/resource/CosmoCaixa_Barcelona>.
+
+<http://www.wikidata.org/entity/Q2884470>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Néstor>.
+
+<http://www.wikidata.org/entity/Q2364085>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Prehistoria_y_Arqueología_de_Cantabria>.
+
+<http://www.wikidata.org/entity/Q2701512>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Prehistoria_de_Valencia>.
+
+<http://www.wikidata.org/entity/Q2785004>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Corcho_de_Palafrugell>.
+
+<http://www.wikidata.org/entity/Q2486431>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Baile_Flamenco_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q2559688>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Ferrocarril_de_Cataluña>.
+
+<http://www.wikidata.org/entity/Q2813530>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_Colón_(Las_Palmas_de_Gran_Canaria)>.
+
+<http://www.wikidata.org/entity/Q2397861>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Salamanca>.
+
+<http://www.wikidata.org/entity/Q2837755>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Zaragoza>.
+
+<http://www.wikidata.org/entity/Q2842192>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Vaqueiro_de_Asturias>.
+
+<http://www.wikidata.org/entity/Q1670070>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimientos_de_Torralba_y_Ambrona>.
+
+<http://www.wikidata.org/entity/Q1630272>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Frederic_Marès>.
+
+<http://www.wikidata.org/entity/Q1322403>
+        owl:sameAs <http://es.dbpedia.org/resource/Real_Academia_de_Bellas_Artes_de_San_Fernando>.
+
+<http://www.wikidata.org/entity/Q1431438>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Taurino_de_Valencia>.
+
+<http://www.wikidata.org/entity/Q1421776>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Vostell_Malpartida>.
+
+<http://www.wikidata.org/entity/Q1451968>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Naturaleza_y_la_Arqueología>.
+
+<http://www.wikidata.org/entity/Q1442199>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Cambre>.
+
+<http://www.wikidata.org/entity/Q1310820>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Mar_(Lloret_de_Mar)>.
+
+<http://www.wikidata.org/entity/Q1577723>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Valenciano_de_Etnología>.
+
+<http://www.wikidata.org/entity/Q3820914>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Abelló>.
+
+<http://www.wikidata.org/entity/Q3821596>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Municipal_de_Montmeló>.
+
+<http://www.wikidata.org/entity/Q3821222>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Romántico_Can_Papiol>.
+
+<http://www.wikidata.org/entity/Q3822502>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Arriero._Colección_Antoni_Ros>.
+
+<http://www.wikidata.org/entity/Q3824294>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Arte_de_Cerdanyola>.
+
+<http://www.wikidata.org/entity/Q3821843>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Badalona>.
+
+<http://www.wikidata.org/entity/Q4269628>
+        owl:sameAs <http://es.dbpedia.org/resource/Ecomuseo-Harinera_de_Castellón_de_Ampurias>.
+
+<http://www.wikidata.org/entity/Q3826150>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Arenys_de_Mar>.
+
+<http://www.wikidata.org/entity/Q3891623>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_de_Velázquez>.
+
+<http://www.wikidata.org/entity/Q4155876>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_de_la_Aduana_(Málaga)>.
+
+<http://www.wikidata.org/entity/Q3822143>
+        owl:sameAs <http://es.dbpedia.org/resource/Fundación_Palau>.
+
+<http://www.wikidata.org/entity/Q4266586>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Municipal_de_Algeciras>.
+
+<http://www.wikidata.org/entity/Q4274351>
+        owl:sameAs <http://es.dbpedia.org/resource/Real_Observatorio_de_Madrid>.
+
+<http://www.wikidata.org/entity/Q3822521>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Arqueológico_de_La_Esquerda>.
+
+<http://www.wikidata.org/entity/Q3821701>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_las_Artes_Decorativas_de_Barcelona>.
+
+<http://www.wikidata.org/entity/Q4262253>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_Hippolytus>.
+
+<http://www.wikidata.org/entity/Q3820864>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_las_Minas_de_Serchs>.
+
+<http://www.wikidata.org/entity/Q3816465>
+        owl:sameAs <http://es.dbpedia.org/resource/Fundación_Arranz-Bravo>.
+
+<http://www.wikidata.org/entity/Q3816478>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo-Archivo_de_Vilasar_de_Dalt>.
+
+<http://www.wikidata.org/entity/Q3819476>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Archivo_Municipal_de_Calella_Josep_M._Codina_i_Bagué>.
+
+<http://www.wikidata.org/entity/Q3816595>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Ciencias_Naturales_de_Granollers>.
+
+<http://www.wikidata.org/entity/Q3819416>
+        owl:sameAs <http://es.dbpedia.org/resource/CaixaForum_Lérida>.
+
+<http://www.wikidata.org/entity/Q3816452>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Museo_Lluís_Domènech_i_Montaner>.
+
+<http://www.wikidata.org/entity/Q3816682>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Prat>.
+
+<http://www.wikidata.org/entity/Q3816321>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Municipal_de_Montcada>.
+
+<http://www.wikidata.org/entity/Q3817345>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Sant_Cugat>.
+
+<http://www.wikidata.org/entity/Q3819038>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Palacio_Mercader>.
+
+<http://www.wikidata.org/entity/Q3817499>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Payesía>.
+
+<http://www.wikidata.org/entity/Q3816500>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_San_Baudilio_de_Llobregat>.
+
+<http://www.wikidata.org/entity/Q3816565>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Municipal_de_Náutica_de_Masnou>.
+
+<http://www.wikidata.org/entity/Q3820398>
+        owl:sameAs <http://es.dbpedia.org/resource/Thermalia._Museo_de_Caldes_de_Montbui>.
+
+<http://www.wikidata.org/entity/Q3818506>
+        owl:sameAs <http://es.dbpedia.org/resource/Espacio_de_Interpretación_de_Berga>.
+
+<http://www.wikidata.org/entity/Q3816331>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Archivo_de_Sant_Andreu_de_Llavaneres>.
+
+<http://www.wikidata.org/entity/Q3816555>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Can_Tinturé>.
+
+<http://www.wikidata.org/entity/Q3816488>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Municipal_de_Molins_de_Rey>.
+
+<http://www.wikidata.org/entity/Q3816504>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Torre_Balldovina>.
+
+<http://www.wikidata.org/entity/Q3816087>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Evolución_Humana>.
+
+<http://www.wikidata.org/entity/Q3817339>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Municipal_de_Vilasar_de_Mar>.
+
+<http://www.wikidata.org/entity/Q3816481>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Municipal._El_Castillo-Ecomuseo_Urbano>.
+
+<http://www.wikidata.org/entity/Q5120741>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Cine_-_Colección_Tomàs_Mallol>.
+
+<http://www.wikidata.org/entity/Q5062779>
+        owl:sameAs <http://es.dbpedia.org/resource/Centro_Andaluz_de_la_Fotografía>.
+
+<http://www.wikidata.org/entity/Q5112147>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Museo_de_Colón_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q5047934>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_la_Apicultura>.
+
+<http://www.wikidata.org/entity/Q5047938>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_los_Balcones>.
+
+<http://www.wikidata.org/entity/Q5047920>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_Murillo>.
+
+<http://www.wikidata.org/entity/Q4886818>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Arte_de_Sabadell>.
+
+<http://www.wikidata.org/entity/Q4894452>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Tarrasa>.
+
+<http://www.wikidata.org/entity/Q4867854>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Vasco_de_Historia_de_la_Medicina_y_de_las_Ciencias>.
+
+<http://www.wikidata.org/entity/Q4951190>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_los_Bolos_de_Asturias>.
+
+<http://www.wikidata.org/entity/Q5043601>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Carmen_Thyssen_Málaga>.
+
+<http://www.wikidata.org/entity/Q4721897>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Alfercam_(Avilés)>.
+
+<http://www.wikidata.org/entity/Q4921493>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_cerámica_negra>.
+
+<http://www.wikidata.org/entity/Q4811768>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Oro_de_Asturias>.
+
+<http://www.wikidata.org/entity/Q4890691>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Arte_de_la_Piel>.
+
+<http://www.wikidata.org/entity/Q4785407>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Arqueológico_y_Etnológico_de_Granada>.
+
+<http://www.wikidata.org/entity/Q4895245>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Ciencia_y_de_la_Técnica_de_Cataluña>.
+
+<http://www.wikidata.org/entity/Q4890779>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Textil_y_de_la_Indumentaria>.
+
+<http://www.wikidata.org/entity/Q4810237>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Internacional_de_la_Gaita>.
+
+<http://www.wikidata.org/entity/Q4888759>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Garrocha>.
+
+<http://www.wikidata.org/entity/Q4892674>
+        owl:sameAs <http://es.dbpedia.org/resource/Vinseum>.
+
+<http://www.wikidata.org/entity/Q4893729>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Lérida>.
+
+<http://www.wikidata.org/entity/Q6058135>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_de_Nájera>.
+
+<http://www.wikidata.org/entity/Q6103589>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo-Refugio_de_la_Guerra_Civil>.
+
+<http://www.wikidata.org/entity/Q6745892>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Estampación_de_Premiá_de_Mar>.
+
+<http://www.wikidata.org/entity/Q6798637>
+        owl:sameAs <http://es.dbpedia.org/resource/Mazonovo>.
+
+<http://www.wikidata.org/entity/Q6940733>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Almería>.
+
+<http://www.wikidata.org/entity/Q6150447>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Pero_Niño>.
+
+<http://www.wikidata.org/entity/Q6941131>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Siderurgia_de_Asturias>.
+
+<http://www.wikidata.org/entity/Q7069054>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Numantino_de_Soria>.
+
+<http://www.wikidata.org/entity/Q6169897>
+        owl:sameAs <http://es.dbpedia.org/resource/Yeguada_del_Hierro_del_Bocado>.
+
+<http://www.wikidata.org/entity/Q6062790>
+        owl:sameAs <http://es.dbpedia.org/resource/Parque_de_las_Ciencias_(Granada)>.
+
+<http://www.wikidata.org/entity/Q6940778>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Artes_y_Costumbres_Populares_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q6169577>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_de_Cerro_de_la_Ermita>.
+
+<http://www.wikidata.org/entity/Q6940458>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Municipal_de_El_Puerto_de_Santa_María>.
+
+<http://www.wikidata.org/entity/Q6076055>
+        owl:sameAs <http://es.dbpedia.org/resource/Pinacoteca_Rivero>.
+
+<http://www.wikidata.org/entity/Q6057626>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_ducal_de_Medinaceli>.
+
+<http://www.wikidata.org/entity/Q9047066>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Industria_Armera_de_Éibar>.
+
+<http://www.wikidata.org/entity/Q9047075>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Naranja>.
+
+<http://www.wikidata.org/entity/Q9047081>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_los_Almadieros>.
+
+<http://www.wikidata.org/entity/Q9047045>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo-Taller_de_Cerámica_de_Casabermeja>.
+
+<http://www.wikidata.org/entity/Q9064319>
+        owl:sameAs <http://es.dbpedia.org/resource/Pueblo_Español_de_Palma_de_Mallorca>.
+
+<http://www.wikidata.org/entity/Q9054559>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_de_Sobrellano>.
+
+<http://www.wikidata.org/entity/Q9047036>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Alfarería_(Agost)>.
+
+<http://www.wikidata.org/entity/Q9047028>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Soldaditos_de_Plomo_L%E2%80%99Iber>.
+
+<http://www.wikidata.org/entity/Q9047090>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Agua_de_Sobrón>.
+
+<http://www.wikidata.org/entity/Q9047144>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Valenciano_del_Juguete>.
+
+<http://www.wikidata.org/entity/Q9074431>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_de_San_Pascual_Baylón>.
+
+<http://www.wikidata.org/entity/Q9047061>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Cuchillería_de_Albacete>.
+
+<http://www.wikidata.org/entity/Q9047041>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Artes_y_Costumbres_Populares_de_Begíjar>.
+
+<http://www.wikidata.org/entity/Q9047115>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Pan_(Mayorga)>.
+
+<http://www.wikidata.org/entity/Q9047156>
+        owl:sameAs <http://es.dbpedia.org/resource/Museum_Cemento_Rezola>.
+
+<http://www.wikidata.org/entity/Q9008669>
+        owl:sameAs <http://es.dbpedia.org/resource/Instituto_Amatller_de_Arte_Hispánico>.
+
+<http://www.wikidata.org/entity/Q9046810>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Diocesano_y_Comarcal_de_Solsona>.
+
+<http://www.wikidata.org/entity/Q9046886>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Nacional_de_Cerámica_y_Artes_Suntuarias_Gonz��lez_Martí>.
+
+<http://www.wikidata.org/entity/Q7433493>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Casa_de_la_Ciencia_de_Sevilla>.
+
+<http://www.wikidata.org/entity/Q7883975>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Valenciano_de_la_Ilustración_y_la_Modernidad>.
+
+<http://www.wikidata.org/entity/Q8342544>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_San_Vicente_de_la_Barquera>.
+
+<http://www.wikidata.org/entity/Q9046767>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Arqueológico_Municipal_de_Crevillente>.
+
+<http://www.wikidata.org/entity/Q9046960>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Arqueología_de_Cataluña_(Gerona)>.
+
+<http://www.wikidata.org/entity/Q9046853>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Internacional_de_Arte_Naïf_de_Jaén>.
+
+<http://www.wikidata.org/entity/Q8343608>
+        owl:sameAs <http://es.dbpedia.org/resource/Centro_Internacional_de_la_Estampa_Contemporánea>.
+
+<http://www.wikidata.org/entity/Q9046991>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Arte_Precolombino_Felipe_Orlando_de_Benalmádena>.
+
+<http://www.wikidata.org/entity/Q9046854>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Íbero>.
+
+<http://www.wikidata.org/entity/Q9046999>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Carruajes_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q9047012>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Ciencias_Naturales_de_Valencia>.
+
+<http://www.wikidata.org/entity/Q9047027>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Mallorca>.
+
+<http://www.wikidata.org/entity/Q9046914>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Teruel>.
+
+<http://www.wikidata.org/entity/Q9004856>
+        owl:sameAs <http://es.dbpedia.org/resource/Hospital_Bazán>.
+
+<http://www.wikidata.org/entity/Q9046855>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Jovellanos>.
+
+<http://www.wikidata.org/entity/Q9046912>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Patio_Herreriano_de_Arte_Contemporáneo_Español>.
+
+<http://www.wikidata.org/entity/Q8187792>
+        owl:sameAs <http://es.dbpedia.org/resource/Acuario_de_Gijón>.
+
+<http://www.wikidata.org/entity/Q8203266>
+        owl:sameAs <http://es.dbpedia.org/resource/Arboretum_de_Cataluña>.
+
+<http://www.wikidata.org/entity/Q10940875>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Artes_y_Costumbres_Populares_de_Jaén>.
+
+<http://www.wikidata.org/entity/Q11026049>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Santa_Catalina>.
+
+<http://www.wikidata.org/entity/Q10940709>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Zabaleta>.
+
+<http://www.wikidata.org/entity/Q11938088>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Muñeca_de_Castillo_de_Aro>.
+
+<http://www.wikidata.org/entity/Q11938080>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Automoción_de_Lérida>.
+
+<http://www.wikidata.org/entity/Q11938083>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Empordà>.
+
+<http://www.wikidata.org/entity/Q11946663>
+        owl:sameAs <http://es.dbpedia.org/resource/Sala_Rusiñol>.
+
+<http://www.wikidata.org/entity/Q11938073>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Curiosidades_Marineras_Roig_Toqués>.
+
+<http://www.wikidata.org/entity/Q11938091>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Alcantarillado>.
+
+<http://www.wikidata.org/entity/Q11938074>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Menorca>.
+
+<http://www.wikidata.org/entity/Q11938064>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Arte_Contemporáneo_de_Ibiza>.
+
+<http://www.wikidata.org/entity/Q11938068>
+        owl:sameAs <http://es.dbpedia.org/resource/Fundació_Stämpfli>.
+
+<http://www.wikidata.org/entity/Q11682430>
+        owl:sameAs <http://es.dbpedia.org/resource/Hemp_Museum_Gallery_de_Barcelona>.
+
+<http://www.wikidata.org/entity/Q11938043>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Archivo_Municipal_de_Cabrils>.
+
+<http://www.wikidata.org/entity/Q11938052>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Etnológico_del_Montseny>.
+
+<http://www.wikidata.org/entity/Q11938057>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Municipal_de_Alcira>.
+
+<http://www.wikidata.org/entity/Q11694564>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Cerámica_de_Barcelona>.
+
+<http://www.wikidata.org/entity/Q11923259>
+        owl:sameAs <http://es.dbpedia.org/resource/Fundación_Cuixart>.
+
+<http://www.wikidata.org/entity/Q11323320>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Pablo_Gargallo>.
+
+<http://www.wikidata.org/entity/Q11694558>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Arte_de_Gerona>.
+
+<http://www.wikidata.org/entity/Q11694582>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Miel_de_Murguía>.
+
+<http://www.wikidata.org/entity/Q11938061>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Pau_Casals>.
+
+<http://www.wikidata.org/entity/Q11694568>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Cádiz>.
+
+<http://www.wikidata.org/entity/Q11694507>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Balenciaga>.
+
+<http://www.wikidata.org/entity/Q11681997>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Casa_Natal_Picasso>.
+
+<http://www.wikidata.org/entity/Q11694542>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Salzillo>.
+
+<http://www.wikidata.org/entity/Q11938045>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Casteller_de_Cataluña>.
+
+<http://www.wikidata.org/entity/Q11694577>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Cerámica_(Alcora)>.
+
+<http://www.wikidata.org/entity/Q11913470>
+        owl:sameAs <http://es.dbpedia.org/resource/IVAM_Centre_d'Art_d'Alcoi>.
+
+<http://www.wikidata.org/entity/Q12402365>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_Romana_de_Toralla>.
+
+<http://www.wikidata.org/entity/Q12184921>
+        owl:sameAs <http://es.dbpedia.org/resource/Museum_Jorge_Rando>.
+
+<http://www.wikidata.org/entity/Q12198135>
+        owl:sameAs <http://es.dbpedia.org/resource/Pabellón_de_la_Navegación_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q12265359>
+        owl:sameAs <http://es.dbpedia.org/resource/Fundación_Museo_Jorge_Oteiza>.
+
+<http://www.wikidata.org/entity/Q12255401>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Encartada>.
+
+<http://www.wikidata.org/entity/Q12254077>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Pescador>.
+
+<http://www.wikidata.org/entity/Q12393758>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Diocesano_y_Catedralicio_de_Lugo>.
+
+<http://www.wikidata.org/entity/Q12259074>
+        owl:sameAs <http://es.dbpedia.org/resource/Soinuenea>.
+
+<http://www.wikidata.org/entity/Q12393770>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Electricidad_(La_Coruña)>.
+
+<http://www.wikidata.org/entity/Q12401787>
+        owl:sameAs <http://es.dbpedia.org/resource/Verbum_-_Casa_de_las_Palabras>.
+
+<http://www.wikidata.org/entity/Q12265878>
+        owl:sameAs <http://es.dbpedia.org/resource/Photomuseum>.
+
+<http://www.wikidata.org/entity/Q12393775>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Ferrocarril_de_Galicia>.
+
+<http://www.wikidata.org/entity/Q12393767>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Pedagógico_de_Galicia>.
+
+<http://www.wikidata.org/entity/Q12393769>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Provincial_de_Lugo>.
+
+<http://www.wikidata.org/entity/Q12156510>
+        owl:sameAs <http://es.dbpedia.org/resource/Centro_de_Interpretación_del_Cementerio_de_La_Carriona>.
+
+<http://www.wikidata.org/entity/Q12393763>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Interactivo_de_la_Historia_de_Lugo>.
+
+<http://www.wikidata.org/entity/Q12343984>
+        owl:sameAs <http://es.dbpedia.org/resource/Real_Gabinete_de_Máquinas>.
+
+<http://www.wikidata.org/entity/Q12257480>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Minería_del_País_Vasco>.
+
+<http://www.wikidata.org/entity/Q16577870>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santa_María_(Becerril_de_Campos)>.
+
+<http://www.wikidata.org/entity/Q16609699>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Carretero>.
+
+<http://www.wikidata.org/entity/Q16609868>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Abengibre>.
+
+<http://www.wikidata.org/entity/Q16644871>
+        owl:sameAs <http://es.dbpedia.org/resource/Urdaibai_Bird_Center>.
+
+<http://www.wikidata.org/entity/Q16609880>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Antigüedades_La_Gamella>.
+
+<http://www.wikidata.org/entity/Q16538232>
+        owl:sameAs <http://es.dbpedia.org/resource/Bodega_-_Aula_de_Interpretación_de_Mucientes>.
+
+<http://www.wikidata.org/entity/Q16609668>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Aquagraria>.
+
+<http://www.wikidata.org/entity/Q16609954>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Fauna_Salvaje>.
+
+<http://www.wikidata.org/entity/Q16609939>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Salas>.
+
+<http://www.wikidata.org/entity/Q16609997>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Traje_Andaluz>.
+
+<http://www.wikidata.org/entity/Q16609909>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Ciudad_Real>.
+
+<http://www.wikidata.org/entity/Q16609912>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Escultura_al_Aire_Libre_de_Cáceres>.
+
+<http://www.wikidata.org/entity/Q16609792>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Iberoamericano_del_Títere>.
+
+<http://www.wikidata.org/entity/Q16483339>
+        owl:sameAs <http://es.dbpedia.org/resource/Andén_0>.
+
+<http://www.wikidata.org/entity/Q16609815>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Municipal_Luque_Tierra_de_Fronteras>.
+
+<http://www.wikidata.org/entity/Q15981823>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Ciudad_de_Murcia>.
+
+<http://www.wikidata.org/entity/Q16609957>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Historia_de_la_Radio>.
+
+<http://www.wikidata.org/entity/Q15943410>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_las_Peregrinaciones_y_de_Santiago>.
+
+<http://www.wikidata.org/entity/Q16609968>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Piedra_de_Campaspero>.
+
+<http://www.wikidata.org/entity/Q13147791>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Historia_Urbana_de_Avilés>.
+
+<http://www.wikidata.org/entity/Q15260348>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_José_Cruz_Herrera>.
+
+<http://www.wikidata.org/entity/Q15627196>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Can_Mario>.
+
+<http://www.wikidata.org/entity/Q15735772>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Modernismo_Catalán>.
+
+<http://www.wikidata.org/entity/Q18047912>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Pesca>.
+
+<http://www.wikidata.org/entity/Q18224363>
+        owl:sameAs <http://es.dbpedia.org/resource/Centro_Cerámica_Triana>.
+
+<http://www.wikidata.org/entity/Q18170768>
+        owl:sameAs <http://es.dbpedia.org/resource/Mercado_de_Mayoristas_de_Málaga>.
+
+<http://www.wikidata.org/entity/Q18224365>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Radio>.
+
+<http://www.wikidata.org/entity/Q18224374>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_The_Ocean_Race>.
+
+<http://www.wikidata.org/entity/Q18286245>
+        owl:sameAs <http://es.dbpedia.org/resource/MWINAS>.
+
+<http://www.wikidata.org/entity/Q18005099>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Arqueológico_y_Etnográfico_Soler_Blasco>.
+
+<http://www.wikidata.org/entity/Q18005089>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Sóller>.
+
+<http://www.wikidata.org/entity/Q18005092>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Valle_de_Arán>.
+
+<http://www.wikidata.org/entity/Q17187006>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Bierzo>.
+
+<http://www.wikidata.org/entity/Q18005084>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Ciudad_de_Valencia>.
+
+<http://www.wikidata.org/entity/Q18005085>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Confitura>.
+
+<http://www.wikidata.org/entity/Q17043319>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Comarcal_de_L'Horta_Sud>.
+
+<http://www.wikidata.org/entity/Q17624864>
+        owl:sameAs <http://es.dbpedia.org/resource/Centro_de_Interpretación_Olivar_y_Aceite>.
+
+<http://www.wikidata.org/entity/Q17615552>
+        owl:sameAs <http://es.dbpedia.org/resource/Espacio_Carmen_Thyssen>.
+
+<http://www.wikidata.org/entity/Q17602388>
+        owl:sameAs <http://es.dbpedia.org/resource/Espai_Guinovart>.
+
+<http://www.wikidata.org/entity/Q17043411>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Arqueológico_Comarcal_de_Bañolas>.
+
+<http://www.wikidata.org/entity/Q17996052>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Pedagógico_y_del_Niño_de_Castilla-La_Mancha>.
+
+<http://www.wikidata.org/entity/Q17043805>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_los_Santos>.
+
+<http://www.wikidata.org/entity/Q18005083>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Anchoa_y_de_la_Sal>.
+
+<http://www.wikidata.org/entity/Q18005086>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_las_Tierras_del_Ebro>.
+
+<http://www.wikidata.org/entity/Q17043703>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Comarcal_del_Urgel>.
+
+<http://www.wikidata.org/entity/Q17187008>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Municipal_de_Albacete>.
+
+<http://www.wikidata.org/entity/Q17043713>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Mediterráneo>.
+
+<http://www.wikidata.org/entity/Q17379625>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_las_Alhajas_en_la_Vía_de_la_Plata>.
+
+<http://www.wikidata.org/entity/Q18005082>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Darder>.
+
+<http://www.wikidata.org/entity/Q17043321>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Mamut>.
+
+<http://www.wikidata.org/entity/Q18681698>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Taurino_(Jerez_de_la_Frontera)>.
+
+<http://www.wikidata.org/entity/Q19453318>
+        owl:sameAs <http://es.dbpedia.org/resource/Imprenta_Municipal-Artes_del_Libro>.
+
+<http://www.wikidata.org/entity/Q19830155>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Historia_de_los_Judíos>.
+
+<http://www.wikidata.org/entity/Q19887475>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Catedralicio_de_Orense>.
+
+<http://www.wikidata.org/entity/Q19366112>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Cerámica_de_Manises>.
+
+<http://www.wikidata.org/entity/Q20018968>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Hidráulico_de_los_Molinos_del_Río_Segura>.
+
+<http://www.wikidata.org/entity/Q19948140>
+        owl:sameAs <http://es.dbpedia.org/resource/Centro_Internacional_del_Títere_de_Tolosa_(TOPIC)>.
+
+<http://www.wikidata.org/entity/Q19368117>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Historia_del_Juguete>.
+
+<http://www.wikidata.org/entity/Q19861133>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Molino_(Puente_la_Reina_de_Jaca)>.
+
+<http://www.wikidata.org/entity/Q20016787>
+        owl:sameAs <http://es.dbpedia.org/resource/Colección_del_Museo_Ruso_San_Petersburgo_Málaga>.
+
+<http://www.wikidata.org/entity/Q19776162>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Torre_del_Vino>.
+
+<http://www.wikidata.org/entity/Q19949853>
+        owl:sameAs <http://es.dbpedia.org/resource/DA2_Domus_Artium_2002>.
+
+<http://www.wikidata.org/entity/Q19950376>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Goya_-_Colección_Ibercaja_-_Museo_Camón_Aznar>.
+
+<http://www.wikidata.org/entity/Q18712027>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Municipal_Josep_Aragay>.
+
+<http://www.wikidata.org/entity/Q20021479>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Taurino_Emilio_Casares_Herrero>.
+
+<http://www.wikidata.org/entity/Q20021478>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Textil_de_la_Comunidad_Valenciana>.
+
+<http://www.wikidata.org/entity/Q18753284>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_la_Torre_del_Reloj_(Puente_Tocinos)>;
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_la_Torre_del_Reloj_(Puente_Tocinos)>.
+
+<http://www.wikidata.org/entity/Q20108973>
+        owl:sameAs <http://es.dbpedia.org/resource/Terracotta_Museo>.
+
+<http://www.wikidata.org/entity/Q21651690>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Agrícola_de_Cambrils>.
+
+<http://www.wikidata.org/entity/Q22004362>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Turismo_(Calella)>.
+
+<http://www.wikidata.org/entity/Q20822920>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Prehistoria_de_Orce>.
+
+<http://www.wikidata.org/entity/Q21480851>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Adolfo_Suárez_y_la_Transición>.
+
+<http://www.wikidata.org/entity/Q21651691>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Comarcal_de_Berga>.
+
+<http://www.wikidata.org/entity/Q20949793>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Fran_Daurel>.
+
+<http://www.wikidata.org/entity/Q21564330>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_ABC>.
+
+<http://www.wikidata.org/entity/Q21083400>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Palau_Solterra>.
+
+<http://www.wikidata.org/entity/Q21496216>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Cántaro_(Valoria_la_Buena)>.
+
+<http://www.wikidata.org/entity/Q21622737>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Municipal_de_Llivia>.
+
+<http://www.wikidata.org/entity/Q20106354>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Historia_de_Gerona>.
+
+<http://www.wikidata.org/entity/Q20101285>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Municipal_de_Ciudadela>.
+
+<http://www.wikidata.org/entity/Q20968893>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Arqueológico_Municipal_de_Moncada>.
+
+<http://www.wikidata.org/entity/Q21651693>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Valls>.
+
+<http://www.wikidata.org/entity/Q21086182>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Historia_de_Sant_Feliu_de_Guíxols>.
+
+<http://www.wikidata.org/entity/Q21094945>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Universidad_de_Navarra>.
+
+<http://www.wikidata.org/entity/Q20551300>
+        owl:sameAs <http://es.dbpedia.org/resource/Centro_Arqueológico_de_Salinae>.
+
+<http://www.wikidata.org/entity/Q20876454>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_los_Volcanes>.
+
+<http://www.wikidata.org/entity/Q20968890>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_La_Alcudia>.
+
+<http://www.wikidata.org/entity/Q20968887>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Provincial_del_Traje_Popular_(Soria)>.
+
+<http://www.wikidata.org/entity/Q20547687>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_las_Mariñas>.
+
+<http://www.wikidata.org/entity/Q24050379>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_las_Artes>.
+
+<http://www.wikidata.org/entity/Q24939797>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Memoria_de_San_Martín_del_Rey_Aurelio>.
+
+<http://www.wikidata.org/entity/Q24055000>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Tortosa>.
+
+<http://www.wikidata.org/entity/Q24961060>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Harinera>.
+
+<http://www.wikidata.org/entity/Q22970047>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Tinajería_de_Villarrobledo>.
+
+<http://www.wikidata.org/entity/Q24036885>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Salamanca>.
+
+<http://www.wikidata.org/entity/Q24940812>
+        owl:sameAs <http://es.dbpedia.org/resource/Espacio_etnográfico_Ciudadela_de_Celestino_Solar>.
+
+<http://www.wikidata.org/entity/Q24566183>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Arte_Sacro_de_Bilbao>.
+
+<http://www.wikidata.org/entity/Q22970043>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Sal_de_Cardona>.
+
+<http://www.wikidata.org/entity/Q22970050>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Vino_de_Pagos_del_Rey>.
+
+<http://www.wikidata.org/entity/Q24933007>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Dinosaurios>.
+
+<http://www.wikidata.org/entity/Q24941797>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Colegiata_de_Borja>.
+
+<http://www.wikidata.org/entity/Q25475845>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_las_Brujas_de_Zugarramurdi>.
+
+<http://www.wikidata.org/entity/Q27732235>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Ávila>.
+
+<http://www.wikidata.org/entity/Q28051218>
+        owl:sameAs <http://es.dbpedia.org/resource/Centro_Memorial_de_las_Víctimas_del_Terrorismo>.
+
+<http://www.wikidata.org/entity/Q26266052>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Segovia>.
+
+<http://www.wikidata.org/entity/Q27309108>
+        owl:sameAs <http://es.dbpedia.org/resource/Centro_José_Guerrero>.
+
+<http://www.wikidata.org/entity/Q25411108>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Miniaturas_de_Mijas>.
+
+<http://www.wikidata.org/entity/Q27643259>
+        owl:sameAs <http://es.dbpedia.org/resource/Ferrería_de_Cades>.
+
+<http://www.wikidata.org/entity/Q25411098>
+        owl:sameAs <http://es.dbpedia.org/resource/Vilamuseu>.
+
+<http://www.wikidata.org/entity/Q26218850>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Oriental>.
+
+<http://www.wikidata.org/entity/Q27924428>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Fallero>.
+
+<http://www.wikidata.org/entity/Q26839949>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_los_Siete_Palacios_(Almuñécar)>.
+
+<http://www.wikidata.org/entity/Q25477147>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Pablo_Sarasate_(Pamplona)>.
+
+<http://www.wikidata.org/entity/Q30250486>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Carlismo_(Estella)>.
+
+<http://www.wikidata.org/entity/Q30899606>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Ponte-Ecomuséu>.
+
+<http://www.wikidata.org/entity/Q28871251>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Arqueológico_de_Cabra>.
+
+<http://www.wikidata.org/entity/Q28865309>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Granito>.
+
+<http://www.wikidata.org/entity/Q29275803>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Casa_de_las_Bolas>.
+
+<http://www.wikidata.org/entity/Q30076932>
+        owl:sameAs <http://es.dbpedia.org/resource/Espai_Subirachs>.
+
+<http://www.wikidata.org/entity/Q31145308>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_del_Carnaval_(Santa_Cruz_de_Tenerife)>.
+
+<http://www.wikidata.org/entity/Q33120456>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_mar_(La_Guardia)>.
+
+<http://www.wikidata.org/entity/Q29654659>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Histórico_Municipal_de_Écija>.
+
+<http://www.wikidata.org/entity/Q32985073>
+        owl:sameAs <http://es.dbpedia.org/resource/Almacén_de_las_Peñuelas>.
+
+<http://www.wikidata.org/entity/Q28518286>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Bonsái_(Villagonzalo_Pedernales)>.
+
+<http://www.wikidata.org/entity/Q28517417>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Pan_(Mas_del_Olmo)>.
+
+<http://www.wikidata.org/entity/Q28363000>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Comarcal_de_Hellín>.
+
+<http://www.wikidata.org/entity/Q28662780>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Carnaval_de_Badajoz>.
+
+<http://www.wikidata.org/entity/Q29059190>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_El_Val>.
+
+<http://www.wikidata.org/entity/Q29961102>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_los_Caminos>.
+
+<http://www.wikidata.org/entity/Q29044472>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Pelota>.
+
+<http://www.wikidata.org/entity/Q29936427>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Historia_y_Antropología_de_Tenerife>.
+
+<http://www.wikidata.org/entity/Q29907723>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Internacional_de_Arte_Contemporáneo>.
+
+<http://www.wikidata.org/entity/Q28664145>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Zuloaga_(Segovia)>.
+
+<http://www.wikidata.org/entity/Q30278259>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Mesa_Roldán>.
+
+<http://www.wikidata.org/entity/Q47486877>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Etnográfico_de_Melilla>.
+
+<http://www.wikidata.org/entity/Q47766922>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Taurino_de_Badajoz>.
+
+<http://www.wikidata.org/entity/Q47904309>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Veterinario_de_Badajoz>.
+
+<http://www.wikidata.org/entity/Q47487002>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Gaselec_de_la_Electricidad>.
+
+<http://www.wikidata.org/entity/Q47487000>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Melilla>.
+
+<http://www.wikidata.org/entity/Q39802061>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Calzado_y_de_la_Industria>.
+
+<http://www.wikidata.org/entity/Q40551020>
+        owl:sameAs <http://es.dbpedia.org/resource/Refugio-Museo_de_Cervantes>.
+
+<http://www.wikidata.org/entity/Q43120398>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Cuevas_del_Almanzora>.
+
+<http://www.wikidata.org/entity/Q43143820>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Anchieta>.
+
+<http://www.wikidata.org/entity/Q44434607>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Ibérico_de_Ca_n'Oliver>.
+
+<http://www.wikidata.org/entity/Q47486785>
+        owl:sameAs <http://es.dbpedia.org/resource/Colección_Museográfica_de_Arte_Sacro>.
+
+<http://www.wikidata.org/entity/Q43238379>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Guitarra>.
+
+<http://www.wikidata.org/entity/Q47483891>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Automóvil_de_Melilla>.
+
+<http://www.wikidata.org/entity/Q41097834>
+        owl:sameAs <http://es.dbpedia.org/resource/Museu_Alcoià_de_la_Festa>.
+
+<http://www.wikidata.org/entity/Q41171687>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Bomberos_de_Alcoy>.
+
+<http://www.wikidata.org/entity/Q42295686>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Arriería_Maragata>.
+
+<http://www.wikidata.org/entity/Q43174653>
+        owl:sameAs <http://es.dbpedia.org/resource/Baelo_Claudia>.
+
+<http://www.wikidata.org/entity/Q45847809>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Industria_Harinera_de_Castilla_y_León>.
+
+<http://www.wikidata.org/entity/Q47463938>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Ciudad_de_Vélez-Málaga>.
+
+<http://www.wikidata.org/entity/Q58010174>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_las_Cabezas_(Córdoba)>.
+
+<http://www.wikidata.org/entity/Q57548543>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Bellver>.
+
+<http://www.wikidata.org/entity/Q57269240>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_la_Danza>.
+
+<http://www.wikidata.org/entity/Q51803089>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Pintor_Amalio>.
+
+<http://www.wikidata.org/entity/Q53997723>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Histórico-Minero_Don_Felipe_de_Borbón_y_Grecia>.
+
+<http://www.wikidata.org/entity/Q53954454>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Histórico_Local_de_Puente_Genil>.
+
+<http://www.wikidata.org/entity/Q49451068>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa-Museo_Modernista_de_Novelda>.
+
+<http://www.wikidata.org/entity/Q52920519>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Histórico_y_Arqueológico_de_Baena>.
+
+<http://www.wikidata.org/entity/Q55236611>
+        owl:sameAs <http://es.dbpedia.org/resource/Can_Marfà._Museo_del_Género_de_Punto>.
+
+<http://www.wikidata.org/entity/Q52129543>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Alfarería_Vasca>.
+
+<http://www.wikidata.org/entity/Q61069946>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_los_Faroles_(Vitoria)>.
+
+<http://www.wikidata.org/entity/Q61197203>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Internacional_de_Títeres_de_Albaida>.
+
+<http://www.wikidata.org/entity/Q61364081>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Arceniega>.
+
+<http://www.wikidata.org/entity/Q60828506>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Fundación_Gregorio_Prieto>.
+
+<http://www.wikidata.org/entity/Q61364218>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_municipal_de_Plencia>.
+
+<http://www.wikidata.org/entity/Q58856721>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_las_Momias_de_Quinto>.
+
+<http://www.wikidata.org/entity/Q60380480>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa-Museo_Benlliure>.
+
+<http://www.wikidata.org/entity/Q61069901>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Simón_Bolívar>.
+
+<http://www.wikidata.org/entity/Q61390454>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Numismático_de_Lovios>.
+
+<http://www.wikidata.org/entity/Q58931389>
+        owl:sameAs <http://es.dbpedia.org/resource/Espacio_Caritel>.
+
+<http://www.wikidata.org/entity/Q60990193>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Comarcal_Velezano_Miguel_Guirao>.
+
+<http://www.wikidata.org/entity/Q60647391>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_romana_de_Las_Musas>.
+
+<http://www.wikidata.org/entity/Q56273637>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Alto_Bierzo>.
+
+<http://www.wikidata.org/entity/Q56670434>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_La_Celestina>.
+
+<http://www.wikidata.org/entity/Q55821427>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Juan_Cabré>.
+
+<http://www.wikidata.org/entity/Q56160946>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Arte_Sacro_de_Bembibre>.
+
+<http://www.wikidata.org/entity/Q56400467>
+        owl:sameAs <http://es.dbpedia.org/resource/Espai_Far>.
+
+<http://www.wikidata.org/entity/Q56650542>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Orinal>.
+
+<http://www.wikidata.org/entity/Q63928580>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Monográfico_de_Tiermes>.
+
+<http://www.wikidata.org/entity/Q61696557>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Taurino_(La_Línea_de_la_Concepción)>.
+
+<http://www.wikidata.org/entity/Q63951277>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Boca_del_Calvari>.
+
+<http://www.wikidata.org/entity/Q63927279>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Histórico-Artístico_de_Novelda>.
+
+<http://www.wikidata.org/entity/Q66023631>
+        owl:sameAs <http://es.dbpedia.org/resource/Liedtke_Museum>.
+
+<http://www.wikidata.org/entity/Q63930739>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Arqueológico_de_Espera>.
+
+<http://www.wikidata.org/entity/Q63869344>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Universitario_A_Domus_do_Mitreo>.
+
+<http://www.wikidata.org/entity/Q63226518>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_conserva_de_San_Adrián>.
+
+<http://www.wikidata.org/entity/Q63928694>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Cárcel_Real>.
+
+<http://www.wikidata.org/entity/Q72006827>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Ciclismo>.
+
+<http://www.wikidata.org/entity/Q72858096>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Casa_Ibáñez>.
+
+<http://www.wikidata.org/entity/Q85875282>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Cerrato_Castellano>.
+
+<http://www.wikidata.org/entity/Q97630529>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Arqueológico_de_Linares>.
+
+<http://www.wikidata.org/entity/Q97626354>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_del_Moral>.
+
+<http://www.wikidata.org/entity/Q97628259>
+        owl:sameAs <http://es.dbpedia.org/resource/Monasterio_de_Santa_Clara_(Moguer)>.
+
+<http://www.wikidata.org/entity/Q97628315>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Minero_de_Riotinto>.
+
+<http://www.wikidata.org/entity/Q97626390>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_Mocha_del_antiguo_Palacio_de_los_Marqueses_de_Guadalcázar>.
+
+<http://www.wikidata.org/entity/Q100995577>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Museo_Niceto_Alcalá-Zamora>.
+
+<http://www.wikidata.org/entity/Q96216608>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Chocolate_de_Astorga>.
+
+<http://www.wikidata.org/entity/Q96196677>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Municipal_de_Alcalá_la_Real>.
+
+<http://www.wikidata.org/entity/Q96749118>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Vivanco_de_la_Cultura_del_Vino>.
+
+<http://www.wikidata.org/entity/Q97620844>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Arqueológico_Municipal_de_Jerez_de_la_Frontera>.
+
+<http://www.wikidata.org/entity/Q95997197>
+        owl:sameAs <http://es.dbpedia.org/resource/Casona_de_Tudanca>.
+
+<http://www.wikidata.org/entity/Q96631864>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Sefardí_de_Granada>.
+
+<http://www.wikidata.org/entity/Q96101456>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Neomudéjar>.
+
+<http://www.wikidata.org/entity/Q97616376>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_José_(Puerto_Real)>.
+
+<http://www.wikidata.org/entity/Q96621754>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_sal_de_Léniz>.
+
+<http://www.wikidata.org/entity/Q96621164>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Toro>.
+
+<http://www.wikidata.org/entity/Q97605864>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Bellas_Artes_de_Granada>.
+
+<http://www.wikidata.org/entity/Q96520909>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Biodiversidad_(España)>.
+
+<http://www.wikidata.org/entity/Q96771696>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Provincial_del_Vino>.
+
+<http://www.wikidata.org/entity/Q96747439>
+        owl:sameAs <http://es.dbpedia.org/resource/Centro_de_interpretación_de_la_mujer_en_el_flamenco>.
+
+<http://www.wikidata.org/entity/Q97633196>
+        owl:sameAs <http://es.dbpedia.org/resource/Capilla_de_Calle_Agua_(Málaga)>.
+
+<http://www.wikidata.org/entity/Q98225707>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Ángel_Mateos>.
+
+<http://www.wikidata.org/entity/Q98060751>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_minero_de_Tharsis>.
+
+<http://www.wikidata.org/entity/Q98435209>
+        owl:sameAs <http://es.dbpedia.org/resource/Centro_de_Arte_Faro_de_Cabo_Mayor>.
+
+<http://www.wikidata.org/entity/Q99229600>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Hist��rico_de_las_Merindades>.
+
+<http://www.wikidata.org/entity/Q98497909>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_los_Ingleses>.
+
+<http://www.wikidata.org/entity/Q98059709>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Arqueológico_de_Galera>.
+
+<http://www.wikidata.org/entity/Q98060344>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Vázquez_Díaz>.
+
+<http://www.wikidata.org/entity/Q92454291>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa-museo_de_Pizarro>.
+
+<http://www.wikidata.org/entity/Q92111903>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Arqueológico_de_Úbeda>.
+
+<http://www.wikidata.org/entity/Q92279882>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Ulía>.
+
+<http://www.wikidata.org/entity/Q92206214>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Histórico_Local_de_Montilla>.
+
+<http://www.wikidata.org/entity/Q90259142>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Arqueológico_Municipal_de_Montoro>.
+
+<http://www.wikidata.org/entity/Q90283822>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Arqueológico_de_Medina_Sidonia>.
+
+<http://www.wikidata.org/entity/Q90272186>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Ciudad_de_Carmona>.
+
+<http://www.wikidata.org/entity/Q93380471>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Histórico-Arqueológico_de_Doña_Mencía>.
+
+<http://www.wikidata.org/entity/Q93380208>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Histórico_Municipal_de_Priego_de_Córdoba>.
+
+<http://www.wikidata.org/entity/Q91804110>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Arte_Sacro_El_Tesoro_de_la_Concepción>.
+
+<http://www.wikidata.org/entity/Q92278291>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Histórico_Municipal_de_Santaella>.
+
+<http://www.wikidata.org/entity/Q95113614>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Nicanor_Piñole>.
+
+<http://www.wikidata.org/entity/Q77610196>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Cine_-_Colección_Carlos_Jiménez>.
+
+<http://www.wikidata.org/entity/Q83806645>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Fundación_Cristóbal_Gabarrón>.
+
+<http://www.wikidata.org/entity/Q76762819>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_museo_Salaguti>.
+
+<http://www.wikidata.org/entity/Q105992189>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Atlántico_de_Lanzarote>.
+
+<http://www.wikidata.org/entity/Q105884543>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Tortura>.
+
+<http://www.wikidata.org/entity/Q106282891>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa-Museo_Victorio_Macho>.
+
+<http://www.wikidata.org/entity/Q106029520>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Huella_del_Hombre_en_Monfragüe>.
+
+<http://www.wikidata.org/entity/Q106484958>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Colegiata_de_Torrijos>.
+
+<http://www.wikidata.org/entity/Q106907751>
+        owl:sameAs <http://es.dbpedia.org/resource/Centro_de_Interpretación_Alcalá_Medieval>.
+
+<http://www.wikidata.org/entity/Q106155292>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Verdura>.
+
+<http://www.wikidata.org/entity/Q106632724>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_los_Condestables_de_Castilla>.
+
+<http://www.wikidata.org/entity/Q106318654>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_la_Cultura_Odón_Betanzos_Palacios>.
+
+<http://www.wikidata.org/entity/Q107611900>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Ignacio_Zuloaga>.
+
+<http://www.wikidata.org/entity/Q107611909>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_anatomía_comparada_de_vertebrados>.
+
+<http://www.wikidata.org/entity/Q107611929>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Hermandad_de_la_Esperanza_de_Triana>.
+
+<http://www.wikidata.org/entity/Q107863464>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Artes_Gráficas_del_Grupo_Alzamora>.
+
+<http://www.wikidata.org/entity/Q108351247>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_grano_La_Cilla>.
+
+<http://www.wikidata.org/entity/Q107611885>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Historia_de_la_Computación>.
+
+<http://www.wikidata.org/entity/Q107611898>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Catedral_de_la_Almudena>.
+
+<http://www.wikidata.org/entity/Q107363670>
+        owl:sameAs <http://es.dbpedia.org/resource/Bibat>.
+
+<http://www.wikidata.org/entity/Q107456451>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Municipal_de_Palma_del_Río>.
+
+<http://www.wikidata.org/entity/Q107381403>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Máquina-Herramienta>.
+
+<http://www.wikidata.org/entity/Q107267468>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Las_Amas_de_Cría_Pasiegas>.
+
+<http://www.wikidata.org/entity/Q107456390>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Vidrio_y_Cristal>.
+
+<http://www.wikidata.org/entity/Q107113169>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_dulce>.
+
+<http://www.wikidata.org/entity/Q107078273>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_etnográfico_de_Navalcán>.
+
+<http://www.wikidata.org/entity/Q107456434>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Arqueológico_Profesor_Sotomayor>.
+
+<http://www.wikidata.org/entity/Q107205644>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Semana_Santa_de_Cuenca>.
+
+<http://www.wikidata.org/entity/Q107456466>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Histórico_Municipal_de_Carcabuey>.
+
+<http://www.wikidata.org/entity/Q111688833>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Casa_de_Dulcinea>.
+
+<http://www.wikidata.org/entity/Q111687376>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_López_Villaseñor>.
+
+<http://www.wikidata.org/entity/Q111272023>
+        owl:sameAs <http://es.dbpedia.org/resource/Espacio_Burges>.
+
+<http://www.wikidata.org/entity/Q111420063>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_natal_de_Ramón_y_Cajal>.
+
+<http://www.wikidata.org/entity/Q109985402>
+        owl:sameAs <http://es.dbpedia.org/resource/Centro_Nacional_de_Fotografía>.
+
+<http://www.wikidata.org/entity/Q111192646>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Preindustrial_de_la_Caña_de_Azúcar>.
+
+<http://www.wikidata.org/entity/Q111902970>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Arte_Contemporáneo_Mayte_Spínola>.
+
+<http://www.wikidata.org/entity/Q124944556>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Gas_(Sabadell)>.
+
+<http://www.wikidata.org/entity/Q115618669>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Jarramplas>.
+
+<http://www.wikidata.org/entity/Q115618670>
+        owl:sameAs <http://es.dbpedia.org/resource/NoguerasBlanchard>.
+
+<http://www.wikidata.org/entity/Q116185703>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Bonsái_Luis_Vallejo>.
+
+<http://www.wikidata.org/entity/Q115618665>
+        owl:sameAs <http://es.dbpedia.org/resource/Colección_de_Títeres_Francisco_Peralta>.
+
+<http://www.wikidata.org/entity/Q115618666>
+        owl:sameAs <http://es.dbpedia.org/resource/Galería_Novart>.
+
+<http://www.wikidata.org/entity/Q113505111>
+        owl:sameAs <http://es.dbpedia.org/resource/Espacio_de_Arte_Contemporáneo_de_Castellón>.
+
+<http://www.wikidata.org/entity/Q116729982>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Maison_d'Eros_(Museo)>.
+
+<http://www.wikidata.org/entity/Q113536528>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Ciudad_de_Castellón>.
+
+<http://www.wikidata.org/entity/Q118838131>
+        owl:sameAs <http://es.dbpedia.org/resource/Antigua_Imprenta_Sur>.
+
+<http://www.wikidata.org/entity/Q119133089>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Etnográfico_de_Valencia_de_Alcántara>.
+
+<http://www.wikidata.org/entity/Q121505013>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Municipal_de_Alcázar_de_San_Juan>.
+
+<http://www.wikidata.org/entity/Q121596856>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Zapadores,_Ciudad_del_Arte>.
+
+<http://www.wikidata.org/entity/Q123475919>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_la_Rajoleria_de_Paiporta>.
+
+<http://www.wikidata.org/entity/Q120762929>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Fallero_de_Gandía>.
+
+<http://www.wikidata.org/entity/Q123501724>
+        owl:sameAs <http://es.dbpedia.org/resource/Ecomuseo_de_Bicorp>.
+
+<http://www.wikidata.org/entity/Q124253478>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Internacional_del_Toque_Manual_de_Campanas>.
+
+<http://www.wikidata.org/entity/Q124258115>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Egipcio_de_Melilla>.
+
+<http://www.wikidata.org/entity/Q124250039>
+        owl:sameAs <http://es.dbpedia.org/resource/Museu_Etnològic_Cassoleria_d'Ángel_Domínguez>.
+
+<http://www.wikidata.org/entity/Q26856865>
+        owl:sameAs <http://es.dbpedia.org/resource/Abrigos_de_las_Peñas_de_Castro>.
+
+<http://www.wikidata.org/entity/Q27004540>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Encajero>.
+
+<http://www.wikidata.org/entity/Q18285841>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Sumidero_II>.
+
+<http://www.wikidata.org/entity/Q18419243>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_los_números>.
+
+<http://www.wikidata.org/entity/Q18285825>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Helechar_II>.
+
+<http://www.wikidata.org/entity/Q20016744>
+        owl:sameAs <http://es.dbpedia.org/resource/Arte_rupestre_de_Terras_de_Pontevedra>.
+
+<http://www.wikidata.org/entity/Q20021380>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Toro>.
+
+<http://www.wikidata.org/entity/Q18285806>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Palomas_IV>.
+
+<http://www.wikidata.org/entity/Q18285817>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Cancho>.
+
+<http://www.wikidata.org/entity/Q18285828>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Magro>.
+
+<http://www.wikidata.org/entity/Q18285839>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Sumidero_I>.
+
+<http://www.wikidata.org/entity/Q18285803>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Palomas_III>.
+
+<http://www.wikidata.org/entity/Q18285834>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Realillo>.
+
+<http://www.wikidata.org/entity/Q18285785>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_la_Horadada>.
+
+<http://www.wikidata.org/entity/Q18285795>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_los_Arrieros>.
+
+<http://www.wikidata.org/entity/Q18327081>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Cambulló>.
+
+<http://www.wikidata.org/entity/Q18285823>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Helechar_I>.
+
+<http://www.wikidata.org/entity/Q18285843>
+        owl:sameAs <http://es.dbpedia.org/resource/Cuevas_de_Chinchilla>.
+
+<http://www.wikidata.org/entity/Q18285847>
+        owl:sameAs <http://es.dbpedia.org/resource/Cuevas_del_Chorreón_Salado>.
+
+<http://www.wikidata.org/entity/Q5812504>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_de_Soto>.
+
+<http://www.wikidata.org/entity/Q5493799>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Tajo_de_las_Figuras>.
+
+<http://www.wikidata.org/entity/Q5794208>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_la_Victoria>.
+
+<http://www.wikidata.org/entity/Q6073999>
+        owl:sameAs <http://es.dbpedia.org/resource/Peñas_de_Cabrera>.
+
+<http://www.wikidata.org/entity/Q5794250>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Boquete_de_Zafarraya>.
+
+<http://www.wikidata.org/entity/Q18285782>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_la_Carrahola>.
+
+<http://www.wikidata.org/entity/Q5821142>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Calvario_(Cabra)>.
+
+<http://www.wikidata.org/entity/Q16482391>
+        owl:sameAs <http://es.dbpedia.org/resource/Abrigos_El_Peñón_de_la_Virgen>.
+
+<http://www.wikidata.org/entity/Q5706721>
+        owl:sameAs <http://es.dbpedia.org/resource/Arte_rupestre_de_los_valles_de_Otíñar>.
+
+<http://www.wikidata.org/entity/Q5706727>
+        owl:sameAs <http://es.dbpedia.org/resource/Arte_rupestre_del_arco_mediterráneo_de_la_península_ibérica_en_Almería>.
+
+<http://www.wikidata.org/entity/Q15109106>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_los_Letreros>.
+
+<http://www.wikidata.org/entity/Q18285776>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_Abejera>.
+
+<http://www.wikidata.org/entity/Q5401214>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Ardales>.
+
+<http://www.wikidata.org/entity/Q6023312>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Ambrosio>.
+
+<http://www.wikidata.org/entity/Q16564553>
+        owl:sameAs <http://es.dbpedia.org/resource/Estación_de_arte_rupestre_al_aire_libre_de_Domingo_García>.
+
+<http://www.wikidata.org/entity/Q18285583>
+        owl:sameAs <http://es.dbpedia.org/resource/Abrigo_de_la_Huerta_de_las_Pilas>.
+
+<http://www.wikidata.org/entity/Q5794281>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Sol>.
+
+<http://www.wikidata.org/entity/Q8464915>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Las_Grajas>.
+
+<http://www.wikidata.org/entity/Q56233508>
+        owl:sameAs <http://es.dbpedia.org/resource/Peña_del_Escrito>.
+
+<http://www.wikidata.org/entity/Q65162463>
+        owl:sameAs <http://es.dbpedia.org/resource/Jinete_andaluz_del_Neolítico>.
+
+<http://www.wikidata.org/entity/Q97616818>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Betín>.
+
+<http://www.wikidata.org/entity/Q97618785>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_la_Taconera>.
+
+<http://www.wikidata.org/entity/Q97616819>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Ranchiles_I>.
+
+<http://www.wikidata.org/entity/Q97604815>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_las_Ventanas>.
+
+<http://www.wikidata.org/entity/Q97616823>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Palomas_II>.
+
+<http://www.wikidata.org/entity/Q97618801>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Roca_con_Letras>.
+
+<http://www.wikidata.org/entity/Q97631415>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_los_Muñecos>.
+
+<http://www.wikidata.org/entity/Q97620305>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_la_Mesa_del_Helechoso>.
+
+<http://www.wikidata.org/entity/Q97624866>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_los_Murciélagos>.
+
+<http://www.wikidata.org/entity/Q97620304>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Barranco_del_Arca>.
+
+<http://www.wikidata.org/entity/Q97620357>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Caballo>.
+
+<http://www.wikidata.org/entity/Q97620354>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Bacinete>.
+
+<http://www.wikidata.org/entity/Q97620324>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_la_Laja_Alta>.
+
+<http://www.wikidata.org/entity/Q97620323>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_la_Motilla>.
+
+<http://www.wikidata.org/entity/Q97620325>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Risco_del_Tajo_Gordo>.
+
+<http://www.wikidata.org/entity/Q97620335>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_los_Ladrones>.
+
+<http://www.wikidata.org/entity/Q97620336>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Mediano>.
+
+<http://www.wikidata.org/entity/Q97620299>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Palomas_I>.
+
+<http://www.wikidata.org/entity/Q97620326>
+        owl:sameAs <http://es.dbpedia.org/resource/Abrigo_Rancho_de_Valdechuelo>.
+
+<http://www.wikidata.org/entity/Q97620315>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Extremo_Sur>.
+
+<http://www.wikidata.org/entity/Q97620302>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Moro>.
+
+<http://www.wikidata.org/entity/Q97620351>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_las_Bailadoras>.
+
+<http://www.wikidata.org/entity/Q97620359>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Pajarraco>.
+
+<http://www.wikidata.org/entity/Q97634052>
+        owl:sameAs <http://es.dbpedia.org/resource/Cerro_de_la_Tortuga>.
+
+<http://www.wikidata.org/entity/Q97688683>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_la_Pileta>.
+
+<http://www.wikidata.org/entity/Q97688688>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Atlanterra>.
+
+<http://www.wikidata.org/entity/Q113110658>
+        owl:sameAs <http://es.dbpedia.org/resource/Forau_de_la_Tuta>.
+
+<http://www.wikidata.org/entity/Q29580163>
+        owl:sameAs <http://es.dbpedia.org/resource/Amallobriga>.
+
+<http://www.wikidata.org/entity/Q29579565>
+        owl:sameAs <http://es.dbpedia.org/resource/Cauca_(Hispania)>.
+
+<http://www.wikidata.org/entity/Q48781610>
+        owl:sameAs <http://es.dbpedia.org/resource/Santa_Criz_de_Eslava>.
+
+<http://www.wikidata.org/entity/Q53588187>
+        owl:sameAs <http://es.dbpedia.org/resource/Regina_Turdulorum>.
+
+<http://www.wikidata.org/entity/Q115783071>
+        owl:sameAs <http://es.dbpedia.org/resource/Anistorgi>.
+
+<http://www.wikidata.org/entity/Q29574826>
+        owl:sameAs <http://es.dbpedia.org/resource/Turgalium>.
+
+<http://www.wikidata.org/entity/Q25414096>
+        owl:sameAs <http://es.dbpedia.org/resource/Augustóbriga_(Muro_de_Ágreda)>.
+
+<http://www.wikidata.org/entity/Q29652490>
+        owl:sameAs <http://es.dbpedia.org/resource/Segontia_Lanka>.
+
+<http://www.wikidata.org/entity/Q42907493>
+        owl:sameAs <http://es.dbpedia.org/resource/Saiti>.
+
+<http://www.wikidata.org/entity/Q28820634>
+        owl:sameAs <http://es.dbpedia.org/resource/Caraca>.
+
+<http://www.wikidata.org/entity/Q11926303>
+        owl:sameAs <http://es.dbpedia.org/resource/Iaca>.
+
+<http://www.wikidata.org/entity/Q16516765>
+        owl:sameAs <http://es.dbpedia.org/resource/Cascantum>.
+
+<http://www.wikidata.org/entity/Q16516755>
+        owl:sameAs <http://es.dbpedia.org/resource/Cara_(ciudad)>.
+
+<http://www.wikidata.org/entity/Q13077238>
+        owl:sameAs <http://es.dbpedia.org/resource/Lancia_(ciudad)>.
+
+<http://www.wikidata.org/entity/Q5485281>
+        owl:sameAs <http://es.dbpedia.org/resource/Urci>.
+
+<http://www.wikidata.org/entity/Q5972536>
+        owl:sameAs <http://es.dbpedia.org/resource/Legio_(ciudad)>.
+
+<http://www.wikidata.org/entity/Q6073313>
+        owl:sameAs <http://es.dbpedia.org/resource/Petavonium>.
+
+<http://www.wikidata.org/entity/Q8354994>
+        owl:sameAs <http://es.dbpedia.org/resource/Dertosa>.
+
+<http://www.wikidata.org/entity/Q9077914>
+        owl:sameAs <http://es.dbpedia.org/resource/Sisapo>.
+
+<http://www.wikidata.org/entity/Q3615328>
+        owl:sameAs <http://es.dbpedia.org/resource/Andelo>.
+
+<http://www.wikidata.org/entity/Q5769328>
+        owl:sameAs <http://es.dbpedia.org/resource/Cilniana>.
+
+<http://www.wikidata.org/entity/Q6153974>
+        owl:sameAs <http://es.dbpedia.org/resource/Turissa>.
+
+<http://www.wikidata.org/entity/Q8196258>
+        owl:sameAs <http://es.dbpedia.org/resource/Alonis>.
+
+<http://www.wikidata.org/entity/Q8354761>
+        owl:sameAs <http://es.dbpedia.org/resource/Deobriga>.
+
+<http://www.wikidata.org/entity/Q4894734>
+        owl:sameAs <http://es.dbpedia.org/resource/Vareia>.
+
+<http://www.wikidata.org/entity/Q5785332>
+        owl:sameAs <http://es.dbpedia.org/resource/Contrebia_Carbica>.
+
+<http://www.wikidata.org/entity/Q6158926>
+        owl:sameAs <http://es.dbpedia.org/resource/Valeria_(ciudad_romana)>.
+
+<http://www.wikidata.org/entity/Q8239659>
+        owl:sameAs <http://es.dbpedia.org/resource/Baetulo>.
+
+<http://www.wikidata.org/entity/Q5198832>
+        owl:sameAs <http://es.dbpedia.org/resource/Gijón_romano>.
+
+<http://www.wikidata.org/entity/Q5395523>
+        owl:sameAs <http://es.dbpedia.org/resource/Saqunda>.
+
+<http://www.wikidata.org/entity/Q6033063>
+        owl:sameAs <http://es.dbpedia.org/resource/Muscaria>.
+
+<http://www.wikidata.org/entity/Q5396275>
+        owl:sameAs <http://es.dbpedia.org/resource/Nertobriga_(Tarraconense)>.
+
+<http://www.wikidata.org/entity/Q11907044>
+        owl:sameAs <http://es.dbpedia.org/resource/Astigi>.
+
+<http://www.wikidata.org/entity/Q4890277>
+        owl:sameAs <http://es.dbpedia.org/resource/Tritium_Autrigonum>.
+
+<http://www.wikidata.org/entity/Q6083282>
+        owl:sameAs <http://es.dbpedia.org/resource/Portus_Ilicitanus>.
+
+<http://www.wikidata.org/entity/Q11904243>
+        owl:sameAs <http://es.dbpedia.org/resource/Aeso>.
+
+<http://www.wikidata.org/entity/Q455933>
+        owl:sameAs <http://es.dbpedia.org/resource/Amaya_(ciudad)>.
+
+<http://www.wikidata.org/entity/Q511481>
+        owl:sameAs <http://es.dbpedia.org/resource/Asturica_Augusta>.
+
+<http://www.wikidata.org/entity/Q2995995>
+        owl:sameAs <http://es.dbpedia.org/resource/Contrebia_Leucade>.
+
+<http://www.wikidata.org/entity/Q653443>
+        owl:sameAs <http://es.dbpedia.org/resource/Oiasso>.
+
+<http://www.wikidata.org/entity/Q2838393>
+        owl:sameAs <http://es.dbpedia.org/resource/Iulia_Traducta>.
+
+<http://www.wikidata.org/entity/Q3189896>
+        owl:sameAs <http://es.dbpedia.org/resource/Julióbriga>.
+
+<http://www.wikidata.org/entity/Q899513>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_los_Verdes>.
+
+<http://www.wikidata.org/entity/Q798648>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_El_Soplao>.
+
+<http://www.wikidata.org/entity/Q40697>
+        owl:sameAs <http://es.dbpedia.org/resource/Cuevas_dels_Hams>.
+
+<http://www.wikidata.org/entity/Q429431>
+        owl:sameAs <http://es.dbpedia.org/resource/Cuevas_del_Drach>.
+
+<http://www.wikidata.org/entity/Q770666>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_El_Castillo>.
+
+<http://www.wikidata.org/entity/Q899302>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Altamira_y_arte_rupestre_paleolítico_de_la_cornisa_cantábrica>.
+
+<http://www.wikidata.org/entity/Q2169018>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Nerja>.
+
+<http://www.wikidata.org/entity/Q2480874>
+        owl:sameAs <http://es.dbpedia.org/resource/Cuevas_de_Canelobre>.
+
+<http://www.wikidata.org/entity/Q97604815>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_las_Ventanas>.
+
+<http://www.wikidata.org/entity/Q5760449>
+        owl:sameAs <http://es.dbpedia.org/resource/Cenobio_de_Valerón>.
+
+<http://www.wikidata.org/entity/Q6169507>
+        owl:sameAs <http://es.dbpedia.org/resource/Cuatro_Puertas>.
+
+<http://www.wikidata.org/entity/Q5612352>
+        owl:sameAs <http://es.dbpedia.org/resource/Gruta_de_las_Maravillas>.
+
+<http://www.wikidata.org/entity/Q5794306>
+        owl:sameAs <http://es.dbpedia.org/resource/Cuevas_de_Génova>.
+
+<http://www.wikidata.org/entity/Q3394264>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Valporquero>.
+
+<http://www.wikidata.org/entity/Q5054949>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Chufín>.
+
+<http://www.wikidata.org/entity/Q3110515>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_Tormella>.
+
+<http://www.wikidata.org/entity/Q5863636>
+        owl:sameAs <http://es.dbpedia.org/resource/Font_Agudes>.
+
+<http://www.wikidata.org/entity/Q6083781>
+        owl:sameAs <http://es.dbpedia.org/resource/Pozo_Azul>.
+
+<http://www.wikidata.org/entity/Q5980500>
+        owl:sameAs <http://es.dbpedia.org/resource/Los_Ullets>.
+
+<http://www.wikidata.org/entity/Q10340445>
+        owl:sameAs <http://es.dbpedia.org/resource/Ojos_del_Guadiana>.
+
+<http://www.wikidata.org/entity/Q11922564>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuentes_del_Llobregat>.
+
+<http://www.wikidata.org/entity/Q20971504>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_los_Baños_de_Montanejos>.
+
+<http://www.wikidata.org/entity/Q18696225>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_del_León>.
+
+<http://www.wikidata.org/entity/Q30071168>
+        owl:sameAs <http://es.dbpedia.org/resource/Manantial_de_la_Salud_del_arroyo_de_San_Bernardino>.
+
+<http://www.wikidata.org/entity/Q48781598>
+        owl:sameAs <http://es.dbpedia.org/resource/Manantial_del_Tempul>.
+
+<http://www.wikidata.org/entity/Q102178155>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_Salada>.
+
+<http://www.wikidata.org/entity/Q109349932>
+        owl:sameAs <http://es.dbpedia.org/resource/Siete_Valles>.

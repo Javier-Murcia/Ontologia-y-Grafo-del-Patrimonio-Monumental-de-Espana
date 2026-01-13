@@ -1,0 +1,1669 @@
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://www.wikidata.org/entity/Q244947>
+        owl:sameAs <http://es.dbpedia.org/resource/Acueducto_de_Segovia>.
+
+<http://www.wikidata.org/entity/Q1337325>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_del_Diablo_(Cardona)>.
+
+<http://www.wikidata.org/entity/Q1311536>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_los_Franceses>.
+
+<http://www.wikidata.org/entity/Q1518670>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_San_Martín_(Toledo)>.
+
+<http://www.wikidata.org/entity/Q781458>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_la_Barqueta>.
+
+<http://www.wikidata.org/entity/Q2117364>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Piedra_(Soria)>.
+
+<http://www.wikidata.org/entity/Q2004707>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Nuevo_(Ronda)>.
+
+<http://www.wikidata.org/entity/Q2117352>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Itero>.
+
+<http://www.wikidata.org/entity/Q115689559>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_San_Lázaro_(Plasencia)>.
+
+<http://www.wikidata.org/entity/Q115663987>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Taboada>.
+
+<http://www.wikidata.org/entity/Q115689781>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Nuevo_(Plasencia)>.
+
+<http://www.wikidata.org/entity/Q108002091>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Quintos>.
+
+<http://www.wikidata.org/entity/Q108109844>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Manzanal_del_Barco_de_1929>.
+
+<http://www.wikidata.org/entity/Q109331424>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Puente_Sampayo>.
+
+<http://www.wikidata.org/entity/Q6091429>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_San_Lorenzo>.
+
+<http://www.wikidata.org/entity/Q6091426>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_San_Fernando>.
+
+<http://www.wikidata.org/entity/Q6091545>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_los_Cobos>.
+
+<http://www.wikidata.org/entity/Q6091435>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_San_Rafael_(Córdoba)>.
+
+<http://www.wikidata.org/entity/Q6091412>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Piedra_(Logroño)>.
+
+<http://www.wikidata.org/entity/Q6091441>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Santa_Quiteria>.
+
+<http://www.wikidata.org/entity/Q2638325>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Piedra_(Zaragoza)>.
+
+<http://www.wikidata.org/entity/Q2840297>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Alfonso_XII_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q2918940>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_San_Isidro>.
+
+<http://www.wikidata.org/entity/Q5793289>
+        owl:sameAs <http://es.dbpedia.org/resource/Cuarto_Puente_(Logroño)>.
+
+<http://www.wikidata.org/entity/Q5802913>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Carlos_III>.
+
+<http://www.wikidata.org/entity/Q6091185>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_La_Vidre>.
+
+<http://www.wikidata.org/entity/Q6091214>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Mayor_de_Valladolid>.
+
+<http://www.wikidata.org/entity/Q4966434>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_del_Henares_(Guadalajara)>.
+
+<http://www.wikidata.org/entity/Q6091223>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Mocho_(río_Guadalimar)>.
+
+<http://www.wikidata.org/entity/Q3368267>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Vistabella>.
+
+<http://www.wikidata.org/entity/Q3774528>
+        owl:sameAs <http://es.dbpedia.org/resource/Acueducto_de_los_Milagros>.
+
+<http://www.wikidata.org/entity/Q6091355>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Capurnos>.
+
+<http://www.wikidata.org/entity/Q4994352>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Besalú>.
+
+<http://www.wikidata.org/entity/Q3845616>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Toledo>.
+
+<http://www.wikidata.org/entity/Q2838423>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Segovia>.
+
+<http://www.wikidata.org/entity/Q6091390>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Jaraicejo>.
+
+<http://www.wikidata.org/entity/Q6091280>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_romano_(Velilla_del_Río_Carrión)>.
+
+<http://www.wikidata.org/entity/Q21661443>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Bujaruelo>.
+
+<http://www.wikidata.org/entity/Q28517900>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Nelson_Mandela_(El_Prat_de_Llobregat)>.
+
+<http://www.wikidata.org/entity/Q59504097>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Villanueva-Rampalay>.
+
+<http://www.wikidata.org/entity/Q96602510>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Puente_Duero>.
+
+<http://www.wikidata.org/entity/Q60827494>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_San_Pablo_(Covarrubias)>.
+
+<http://www.wikidata.org/entity/Q97625652>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_romano_de_Córdoba>.
+
+<http://www.wikidata.org/entity/Q60852996>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Barbadillo_del_Mercado>.
+
+<http://www.wikidata.org/entity/Q6091571>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_del_Batán_(Colmenar_Viejo)>.
+
+<http://www.wikidata.org/entity/Q10351452>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_del_Burgo>.
+
+<http://www.wikidata.org/entity/Q6091607>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_del_Rey>.
+
+<http://www.wikidata.org/entity/Q6160840>
+        owl:sameAs <http://es.dbpedia.org/resource/Viaducto_Martín_Gil>.
+
+<http://www.wikidata.org/entity/Q9064411>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Palmas>.
+
+<http://www.wikidata.org/entity/Q6091688>
+        owl:sameAs <http://es.dbpedia.org/resource/Puentecillas>.
+
+<http://www.wikidata.org/entity/Q6091605>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_del_Poniente>.
+
+<http://www.wikidata.org/entity/Q9064452>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Vadollano>.
+
+<http://www.wikidata.org/entity/Q20195918>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Cabezón_de_Pisuerga>.
+
+<http://www.wikidata.org/entity/Q6091654>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_románico_de_Capella>.
+
+<http://www.wikidata.org/entity/Q7332295>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Arco_de_Ricobayo>.
+
+<http://www.wikidata.org/entity/Q9064469>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_la_Reina_Victoria_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q12200879>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Barrancales>.
+
+<http://www.wikidata.org/entity/Q6091583>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_del_Ebro_de_Tudela>.
+
+<http://www.wikidata.org/entity/Q6091595>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_del_Grajal_(Colmenar_Viejo)>.
+
+<http://www.wikidata.org/entity/Q6091678>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_y_calzada_romana_de_Becilla_de_Valderaduey>.
+
+<http://www.wikidata.org/entity/Q12397861>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_romano_de_Lugo>.
+
+<http://www.wikidata.org/entity/Q16623072>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Castrogonzalo>.
+
+<http://www.wikidata.org/entity/Q17626291>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Mercadillo>.
+
+<http://www.wikidata.org/entity/Q18681586>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Simancas>.
+
+<http://www.wikidata.org/entity/Q19859419>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Larrasoaña>.
+
+<http://www.wikidata.org/entity/Q6091580>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_del_Cubo>.
+
+<http://www.wikidata.org/entity/Q6091601>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_del_Pasadero>.
+
+<http://www.wikidata.org/entity/Q12397866>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Viejo_(Monforte_de_Lemos)>.
+
+<http://www.wikidata.org/entity/Q9064489>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_medieval_de_Cangas_de_Onís>.
+
+<http://www.wikidata.org/entity/Q97641872>
+        owl:sameAs <http://es.dbpedia.org/resource/Monasterio_de_la_Cartuja_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q97641219>
+        owl:sameAs <http://es.dbpedia.org/resource/Cartuja_de_Cazalla_de_la_Sierra>.
+
+<http://www.wikidata.org/entity/Q1045980>
+        owl:sameAs <http://es.dbpedia.org/resource/Cartuja_de_Escaladei>.
+
+<http://www.wikidata.org/entity/Q821204>
+        owl:sameAs <http://es.dbpedia.org/resource/Cartuja_de_Nuestra_Señora_de_las_Fuentes>.
+
+<http://www.wikidata.org/entity/Q1335931>
+        owl:sameAs <http://es.dbpedia.org/resource/Cartuja_de_Aula_Dei>.
+
+<http://www.wikidata.org/entity/Q1603055>
+        owl:sameAs <http://es.dbpedia.org/resource/Monasterio_de_Santa_María_(Puebla_de_Benifasar)>.
+
+<http://www.wikidata.org/entity/Q1752772>
+        owl:sameAs <http://es.dbpedia.org/resource/Monasterio_de_Santa_María_de_El_Paular>.
+
+<http://www.wikidata.org/entity/Q2551859>
+        owl:sameAs <http://es.dbpedia.org/resource/Cartuja_de_Miraflores>.
+
+<http://www.wikidata.org/entity/Q1494326>
+        owl:sameAs <http://es.dbpedia.org/resource/Cartuja_de_Valldemosa>.
+
+<http://www.wikidata.org/entity/Q8341481>
+        owl:sameAs <http://es.dbpedia.org/resource/Cartuja_de_Ara_Christi>.
+
+<http://www.wikidata.org/entity/Q8342152>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_cartuja_de_Vallparadís>.
+
+<http://www.wikidata.org/entity/Q5086881>
+        owl:sameAs <http://es.dbpedia.org/resource/Cartuja_de_Jerez_de_la_Frontera>.
+
+<http://www.wikidata.org/entity/Q5753955>
+        owl:sameAs <http://es.dbpedia.org/resource/Cartuja_de_Viaceli>.
+
+<http://www.wikidata.org/entity/Q8341486>
+        owl:sameAs <http://es.dbpedia.org/resource/Cartuja_de_Porta_Coeli>.
+
+<http://www.wikidata.org/entity/Q5576444>
+        owl:sameAs <http://es.dbpedia.org/resource/Cartuja_de_Montealegre>.
+
+<http://www.wikidata.org/entity/Q8341495>
+        owl:sameAs <http://es.dbpedia.org/resource/Cartuja_de_Vall_de_Cristo>.
+
+<http://www.wikidata.org/entity/Q20963049>
+        owl:sameAs <http://es.dbpedia.org/resource/Cartuja_de_Nuestra_Señora_de_Aniago>.
+
+<http://www.wikidata.org/entity/Q2942904>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_del_Buen_Pastor_(San_Sebastián)>.
+
+<http://www.wikidata.org/entity/Q2942543>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_Albarracín>.
+
+<http://www.wikidata.org/entity/Q2942524>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_Santa_María_(Vitoria)>.
+
+<http://www.wikidata.org/entity/Q2942496>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_Astorga>.
+
+<http://www.wikidata.org/entity/Q2942509>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_Santa_María_(Solsona)>.
+
+<http://www.wikidata.org/entity/Q2942521>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_Palencia>.
+
+<http://www.wikidata.org/entity/Q2942449>
+        owl:sameAs <http://es.dbpedia.org/resource/Concatedral_de_Soria>.
+
+<http://www.wikidata.org/entity/Q2942864>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_Zamora>.
+
+<http://www.wikidata.org/entity/Q2942832>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_Tarazona>.
+
+<http://www.wikidata.org/entity/Q2942824>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_Santa_María_(Sigüenza)>.
+
+<http://www.wikidata.org/entity/Q2942858>
+        owl:sameAs <http://es.dbpedia.org/resource/Concatedral_de_Santa_María_(Vigo)>.
+
+<http://www.wikidata.org/entity/Q2942804>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_del_Salvador_(Santo_Domingo_de_la_Calzada)>.
+
+<http://www.wikidata.org/entity/Q2942840>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_Santa_María_(Tortosa)>.
+
+<http://www.wikidata.org/entity/Q2942843>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_Santa_María_de_Tudela>.
+
+<http://www.wikidata.org/entity/Q2942608>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_Calahorra>.
+
+<http://www.wikidata.org/entity/Q2942584>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_Barbastro>.
+
+<http://www.wikidata.org/entity/Q2942592>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_San_Juan_Bautista_de_Badajoz>.
+
+<http://www.wikidata.org/entity/Q2942635>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_la_Asunción_(Ceuta)>.
+
+<http://www.wikidata.org/entity/Q2942638>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_Santa_María_del_Prado_(Ciudad_Real)>.
+
+<http://www.wikidata.org/entity/Q2942573>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_del_Salvador_y_Santa_María_(Orihuela)>.
+
+<http://www.wikidata.org/entity/Q2942639>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_Santa_María_de_Ciudad_Rodrigo>.
+
+<http://www.wikidata.org/entity/Q2942691>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_Huesca>.
+
+<http://www.wikidata.org/entity/Q2942709>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_María_Inmaculada_(Vitoria)>.
+
+<http://www.wikidata.org/entity/Q2942662>
+        owl:sameAs <http://es.dbpedia.org/resource/Concatedral_de_Ferrol>.
+
+<http://www.wikidata.org/entity/Q2942708>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_Lugo>.
+
+<http://www.wikidata.org/entity/Q2942676>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_La_Magdalena_(Getafe)>.
+
+<http://www.wikidata.org/entity/Q2942729>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_Mondoñedo>.
+
+<http://www.wikidata.org/entity/Q2942734>
+        owl:sameAs <http://es.dbpedia.org/resource/Concatedral_de_Santa_María_del_Romeral_(Monzón)>.
+
+<http://www.wikidata.org/entity/Q650007>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_la_Santa_Cruz_(Cádiz)>.
+
+<http://www.wikidata.org/entity/Q33200>
+        owl:sameAs <http://es.dbpedia.org/resource/Mezquita-catedral_de_Córdoba>.
+
+<http://www.wikidata.org/entity/Q17155>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_la_Santa_Cruz_y_Santa_Eulalia_(Barcelona)>.
+
+<http://www.wikidata.org/entity/Q605621>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_San_Vicente_de_Roda_de_Isábena>.
+
+<http://www.wikidata.org/entity/Q231606>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_Sevilla>.
+
+<http://www.wikidata.org/entity/Q509931>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_El_Burgo_de_Osma>.
+
+<http://www.wikidata.org/entity/Q513893>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_Teruel>.
+
+<http://www.wikidata.org/entity/Q389210>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_Pamplona_(España)>.
+
+<http://www.wikidata.org/entity/Q425898>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_la_Asunción_(Jaén)>.
+
+<http://www.wikidata.org/entity/Q34562>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_San_Cristóbal_de_La_Laguna>.
+
+<http://www.wikidata.org/entity/Q175874>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_León>.
+
+<http://www.wikidata.org/entity/Q205136>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_Santiago_de_Compostela>.
+
+<http://www.wikidata.org/entity/Q2462558>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_Nueva_de_Salamanca>.
+
+<http://www.wikidata.org/entity/Q2509421>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_San_Pedro_(Vic)>.
+
+<http://www.wikidata.org/entity/Q2722123>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_la_Asunción_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q1582758>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_Málaga>.
+
+<http://www.wikidata.org/entity/Q1826864>
+        owl:sameAs <http://es.dbpedia.org/resource/Concatedral_de_Guadalajara>.
+
+<http://www.wikidata.org/entity/Q1627991>
+        owl:sameAs <http://es.dbpedia.org/resource/Concatedral_de_Logroño>.
+
+<http://www.wikidata.org/entity/Q1575647>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_Santa_María_(Tuy)>.
+
+<http://www.wikidata.org/entity/Q2196869>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_del_Salvador_(Zaragoza)>.
+
+<http://www.wikidata.org/entity/Q2419290>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_Murcia>.
+
+<http://www.wikidata.org/entity/Q2380092>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_Almería>.
+
+<http://www.wikidata.org/entity/Q2410105>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_San_Pedro_de_Jaca>.
+
+<http://www.wikidata.org/entity/Q2365820>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_los_Santos_Justo_y_Pastor_(Alcalá_de_Henares)>.
+
+<http://www.wikidata.org/entity/Q2350964>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_Santiago_(Bilbao)>.
+
+<http://www.wikidata.org/entity/Q3047420>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_Vieja_de_Salamanca>.
+
+<http://www.wikidata.org/entity/Q1534288>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_Oviedo>.
+
+<http://www.wikidata.org/entity/Q974716>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_Santa_Tecla_(Tarragona)>.
+
+<http://www.wikidata.org/entity/Q744420>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_Burgos>.
+
+<http://www.wikidata.org/entity/Q810684>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_basílica_de_Nuestra_Señora_del_Pilar_(Zaragoza)>.
+
+<http://www.wikidata.org/entity/Q1123180>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_Toledo>.
+
+<http://www.wikidata.org/entity/Q1298819>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_Palma_de_Mallorca>.
+
+<http://www.wikidata.org/entity/Q849711>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_la_Almudena>.
+
+<http://www.wikidata.org/entity/Q923396>
+        owl:sameAs <http://es.dbpedia.org/resource/Concatedral_de_Mérida>.
+
+<http://www.wikidata.org/entity/Q951104>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_Santa_María_(Urgel)>.
+
+<http://www.wikidata.org/entity/Q922172>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_la_Asunción_(Santander)>.
+
+<http://www.wikidata.org/entity/Q1361548>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_Orense>.
+
+<http://www.wikidata.org/entity/Q1402296>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_Ávila>.
+
+<http://www.wikidata.org/entity/Q1499912>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_Segovia>.
+
+<http://www.wikidata.org/entity/Q1466926>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_Santa_María_(Valencia)>.
+
+<http://www.wikidata.org/entity/Q5758543>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_Plasencia>.
+
+<http://www.wikidata.org/entity/Q5419362>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_Granada>.
+
+<http://www.wikidata.org/entity/Q5911549>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santa_Cruz_(Cádiz)>.
+
+<http://www.wikidata.org/entity/Q5117018>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_del_Sacramento_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q1140249>
+        owl:sameAs <http://es.dbpedia.org/resource/Templo_de_Debod>.
+
+<http://www.wikidata.org/entity/Q5870565>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuerte_de_Juviles>.
+
+<http://www.wikidata.org/entity/Q6140279>
+        owl:sameAs <http://es.dbpedia.org/resource/Tejada_la_Vieja>.
+
+<http://www.wikidata.org/entity/Q6032861>
+        owl:sameAs <http://es.dbpedia.org/resource/Muralla_de_Úbeda>.
+
+<http://www.wikidata.org/entity/Q6150320>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_atalaya_del_Cautor>.
+
+<http://www.wikidata.org/entity/Q5898691>
+        owl:sameAs <http://es.dbpedia.org/resource/Hisn_Yakka>.
+
+<http://www.wikidata.org/entity/Q5970568>
+        owl:sameAs <http://es.dbpedia.org/resource/Las_Matas_(posición_fortificada)>.
+
+<http://www.wikidata.org/entity/Q6150485>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Santa_Ana_(Las_Palmas_de_Gran_Canaria)>.
+
+<http://www.wikidata.org/entity/Q6150653>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Cubo>.
+
+<http://www.wikidata.org/entity/Q5864180>
+        owl:sameAs <http://es.dbpedia.org/resource/Fortaleza_de_la_Zahara_ibérica>.
+
+<http://www.wikidata.org/entity/Q6154444>
+        owl:sameAs <http://es.dbpedia.org/resource/Tájara>.
+
+<http://www.wikidata.org/entity/Q6001787>
+        owl:sameAs <http://es.dbpedia.org/resource/Marroquíes_Bajos>.
+
+<http://www.wikidata.org/entity/Q6020996>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_del_Cubo_(Torredonjimeno)>.
+
+<http://www.wikidata.org/entity/Q5870576>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuerte_de_Punta_Carnero>.
+
+<http://www.wikidata.org/entity/Q6091834>
+        owl:sameAs <http://es.dbpedia.org/resource/Puerta_de_Tierra>.
+
+<http://www.wikidata.org/entity/Q4997137>
+        owl:sameAs <http://es.dbpedia.org/resource/Murallas_Reales_de_Ceuta>.
+
+<http://www.wikidata.org/entity/Q5680515>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillejo_de_Zumel>.
+
+<http://www.wikidata.org/entity/Q5785846>
+        owl:sameAs <http://es.dbpedia.org/resource/Convento_de_Santa_Clara_(Soria)>.
+
+<http://www.wikidata.org/entity/Q5864171>
+        owl:sameAs <http://es.dbpedia.org/resource/Fortaleza_de_Santa_Catalina_(Las_Palmas_de_Gran_Canaria)>.
+
+<http://www.wikidata.org/entity/Q5710444>
+        owl:sameAs <http://es.dbpedia.org/resource/Atarazanas_de_Sevilla>.
+
+<http://www.wikidata.org/entity/Q5527024>
+        owl:sameAs <http://es.dbpedia.org/resource/Puerta_de_Sevilla_(Carmona)>.
+
+<http://www.wikidata.org/entity/Q5723524>
+        owl:sameAs <http://es.dbpedia.org/resource/Batería_napoleónica_de_Gabarda>.
+
+<http://www.wikidata.org/entity/Q5757992>
+        owl:sameAs <http://es.dbpedia.org/resource/Castro_de_Noega>.
+
+<http://www.wikidata.org/entity/Q5821285>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Castillejo_de_Nívar_y_Güevéjar>.
+
+<http://www.wikidata.org/entity/Q5042524>
+        owl:sameAs <http://es.dbpedia.org/resource/Alcazaba_Cadima>.
+
+<http://www.wikidata.org/entity/Q5664267>
+        owl:sameAs <http://es.dbpedia.org/resource/Alcázar_de_Úbeda>.
+
+<http://www.wikidata.org/entity/Q5717693>
+        owl:sameAs <http://es.dbpedia.org/resource/Baluarte_de_las_Angustias>.
+
+<http://www.wikidata.org/entity/Q5757574>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_San_Miguel_(Almuñécar)>.
+
+<http://www.wikidata.org/entity/Q5404840>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuerte_de_El_Tolmo>.
+
+<http://www.wikidata.org/entity/Q5664252>
+        owl:sameAs <http://es.dbpedia.org/resource/Alcázar_andalusí_de_Córdoba>.
+
+<http://www.wikidata.org/entity/Q5717687>
+        owl:sameAs <http://es.dbpedia.org/resource/Baluarte_de_la_Candelaria_(Cádiz)>.
+
+<http://www.wikidata.org/entity/Q2919889>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Luna_(Mairena_del_Alcor)>.
+
+<http://www.wikidata.org/entity/Q2879744>
+        owl:sameAs <http://es.dbpedia.org/resource/Recinto_fortificado_de_San_Celoni>.
+
+<http://www.wikidata.org/entity/Q2841945>
+        owl:sameAs <http://es.dbpedia.org/resource/Ányera>.
+
+<http://www.wikidata.org/entity/Q4266592>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuerte_de_San_García>.
+
+<http://www.wikidata.org/entity/Q8346544>
+        owl:sameAs <http://es.dbpedia.org/resource/Ciudadela_de_Valencia>.
+
+<http://www.wikidata.org/entity/Q9275787>
+        owl:sameAs <http://es.dbpedia.org/resource/Línea_de_Contravalación_de_Gibraltar>.
+
+<http://www.wikidata.org/entity/Q8342344>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Gaztelu_Zahar>.
+
+<http://www.wikidata.org/entity/Q11952298>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_la_Isla_de_Ses_Sargantanes>.
+
+<http://www.wikidata.org/entity/Q8342552>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Santa_Catalina_(Cádiz)>.
+
+<http://www.wikidata.org/entity/Q10861762>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Alcalá_de_Guadaíra>.
+
+<http://www.wikidata.org/entity/Q11690018>
+        owl:sameAs <http://es.dbpedia.org/resource/Línea_XYZ>.
+
+<http://www.wikidata.org/entity/Q9067235>
+        owl:sameAs <http://es.dbpedia.org/resource/Recinto_fortificado_de_Calatayud>.
+
+<http://www.wikidata.org/entity/Q9089023>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Conde_(San_Sebastián_de_La_Gomera)>.
+
+<http://www.wikidata.org/entity/Q97632456>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Ojén>.
+
+<http://www.wikidata.org/entity/Q98059148>
+        owl:sameAs <http://es.dbpedia.org/resource/Batería_de_Zuazo>.
+
+<http://www.wikidata.org/entity/Q98059232>
+        owl:sameAs <http://es.dbpedia.org/resource/Búnkeres_del_Cerro_del_Aceitunillo>.
+
+<http://www.wikidata.org/entity/Q97617140>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuerte_de_Santa_Bárbara_(España)>.
+
+<http://www.wikidata.org/entity/Q59155748>
+        owl:sameAs <http://es.dbpedia.org/resource/Torreón_de_Gando>.
+
+<http://www.wikidata.org/entity/Q56247515>
+        owl:sameAs <http://es.dbpedia.org/resource/Alcazaba_de_Loja>.
+
+<http://www.wikidata.org/entity/Q85749995>
+        owl:sameAs <http://es.dbpedia.org/resource/Cabezo_Juré>.
+
+<http://www.wikidata.org/entity/Q56512368>
+        owl:sameAs <http://es.dbpedia.org/resource/Almudaina_de_Gomera>.
+
+<http://www.wikidata.org/entity/Q97617251>
+        owl:sameAs <http://es.dbpedia.org/resource/Arco_de_la_Villa>.
+
+<http://www.wikidata.org/entity/Q97628413>
+        owl:sameAs <http://es.dbpedia.org/resource/Cerro_del_Moro>.
+
+<http://www.wikidata.org/entity/Q97628190>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Santa_Olalla_del_Cala>.
+
+<http://www.wikidata.org/entity/Q97627501>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Antonio_Abad_(Trigueros)>.
+
+<http://www.wikidata.org/entity/Q97628648>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Palos_de_la_Frontera>.
+
+<http://www.wikidata.org/entity/Q116693748>
+        owl:sameAs <http://es.dbpedia.org/resource/Reducto_de_Peñafroufe>.
+
+<http://www.wikidata.org/entity/Q112083596>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Fernando_VI>.
+
+<http://www.wikidata.org/entity/Q98497483>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Tempul>.
+
+<http://www.wikidata.org/entity/Q98501260>
+        owl:sameAs <http://es.dbpedia.org/resource/Torres_Bermejas>.
+
+<http://www.wikidata.org/entity/Q43161874>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Benzalema>.
+
+<http://www.wikidata.org/entity/Q43154264>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Isabel_II>.
+
+<http://www.wikidata.org/entity/Q32351379>
+        owl:sameAs <http://es.dbpedia.org/resource/Conjunto_fortificado_de_Mascarell>.
+
+<http://www.wikidata.org/entity/Q36589845>
+        owl:sameAs <http://es.dbpedia.org/resource/Frente_de_La_Almina>.
+
+<http://www.wikidata.org/entity/Q43133120>
+        owl:sameAs <http://es.dbpedia.org/resource/Faro_de_Punta_de_la_Polacra>.
+
+<http://www.wikidata.org/entity/Q30912117>
+        owl:sameAs <http://es.dbpedia.org/resource/Baluarte_de_la_Concepción_Alta>.
+
+<http://www.wikidata.org/entity/Q30905728>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Santa_Catalina_del_Puerto>.
+
+<http://www.wikidata.org/entity/Q27902070>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Babiloni-Bardoll>.
+
+<http://www.wikidata.org/entity/Q29971127>
+        owl:sameAs <http://es.dbpedia.org/resource/Conjunto_fortificado_de_Haza>.
+
+<http://www.wikidata.org/entity/Q24938198>
+        owl:sameAs <http://es.dbpedia.org/resource/Vértice_Parapetos>.
+
+<http://www.wikidata.org/entity/Q26792862>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_la_Laguna>.
+
+<http://www.wikidata.org/entity/Q26911203>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Bujarcáiz>.
+
+<http://www.wikidata.org/entity/Q28484020>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_San_Fernando_(Moguer)>.
+
+<http://www.wikidata.org/entity/Q25926489>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Risquillo>.
+
+<http://www.wikidata.org/entity/Q27077628>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Lucero>.
+
+<http://www.wikidata.org/entity/Q26708571>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_La_Guardia_de_Jaén>.
+
+<http://www.wikidata.org/entity/Q27020588>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillejo_del_Cortijo_Neblín>.
+
+<http://www.wikidata.org/entity/Q27429330>
+        owl:sameAs <http://es.dbpedia.org/resource/Alcázar_de_Luis_de_Chaves_el_Viejo>.
+
+<http://www.wikidata.org/entity/Q29367836>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_fortificado_del_Prior>.
+
+<http://www.wikidata.org/entity/Q29441125>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_fortificado_de_los_Desvalls>.
+
+<http://www.wikidata.org/entity/Q30907298>
+        owl:sameAs <http://es.dbpedia.org/resource/Coracha_de_Moya_(Cuenca)>.
+
+<http://www.wikidata.org/entity/Q14565752>
+        owl:sameAs <http://es.dbpedia.org/resource/Murallas_de_Villajoyosa>.
+
+<http://www.wikidata.org/entity/Q12258758>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuerte_de_Nuestra_Señora_de_Guadalupe>.
+
+<http://www.wikidata.org/entity/Q19256683>
+        owl:sameAs <http://es.dbpedia.org/resource/Fortín_de_la_Torreta>.
+
+<http://www.wikidata.org/entity/Q20492459>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia-fortaleza_de_Santa_María_de_Ujué>.
+
+<http://www.wikidata.org/entity/Q16999789>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_y_murallas_de_Chodos/Xodos>.
+
+<http://www.wikidata.org/entity/Q18696072>
+        owl:sameAs <http://es.dbpedia.org/resource/Fortín_de_San_Mauricio>.
+
+<http://www.wikidata.org/entity/Q24023406>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_San_Marcial_de_Rubicón_de_Femés>.
+
+<http://www.wikidata.org/entity/Q24024872>
+        owl:sameAs <http://es.dbpedia.org/resource/Alcazaba_y_Murallas_del_Cerro_de_San_Cristóbal>.
+
+<http://www.wikidata.org/entity/Q24023881>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_La_Herradura>.
+
+<http://www.wikidata.org/entity/Q23901281>
+        owl:sameAs <http://es.dbpedia.org/resource/Vértice_de_Sierra_Gorda>.
+
+<http://www.wikidata.org/entity/Q15707775>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_Beltrans>.
+
+<http://www.wikidata.org/entity/Q17631864>
+        owl:sameAs <http://es.dbpedia.org/resource/Torrechantre>.
+
+<http://www.wikidata.org/entity/Q21480605>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Término>.
+
+<http://www.wikidata.org/entity/Q18008431>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_la_Sierra_de_la_Petita>.
+
+<http://www.wikidata.org/entity/Q19594056>
+        owl:sameAs <http://es.dbpedia.org/resource/Portal_de_Mar>.
+
+<http://www.wikidata.org/entity/Q22261679>
+        owl:sameAs <http://es.dbpedia.org/resource/Torremocha_(Jaén)>.
+
+<http://www.wikidata.org/entity/Q23055014>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Bartolomé_(Villalba_del_Alcor)>.
+
+<http://www.wikidata.org/entity/Q52008139>
+        owl:sameAs <http://es.dbpedia.org/resource/Contraguardia_de_San_Francisco_Javier>.
+
+<http://www.wikidata.org/entity/Q53734194>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Renegado>.
+
+<http://www.wikidata.org/entity/Q6150534>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_Atalayola>.
+
+<http://www.wikidata.org/entity/Q6150561>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_la_Quintana>.
+
+<http://www.wikidata.org/entity/Q6150568>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_la_Vega_(Comillas)>.
+
+<http://www.wikidata.org/entity/Q6150570>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_la_Vega_(Torrelavega)>.
+
+<http://www.wikidata.org/entity/Q6150422>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Loja>.
+
+<http://www.wikidata.org/entity/Q6150586>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_los_Bustamante>.
+
+<http://www.wikidata.org/entity/Q6150457>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Proaño>.
+
+<http://www.wikidata.org/entity/Q6150585>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_los_Barreda>.
+
+<http://www.wikidata.org/entity/Q6150642>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Castillo_de_Yabio>.
+
+<http://www.wikidata.org/entity/Q6150536>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_la_Calahorra_(Elche)>.
+
+<http://www.wikidata.org/entity/Q6150542>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_la_Casota>.
+
+<http://www.wikidata.org/entity/Q6150418>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_La_Mata>.
+
+<http://www.wikidata.org/entity/Q6150560>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_la_Puerta_del_Rincón_(Córdoba)>.
+
+<http://www.wikidata.org/entity/Q6150591>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_los_Guzmanes>.
+
+<http://www.wikidata.org/entity/Q6150447>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Pero_Niño>.
+
+<http://www.wikidata.org/entity/Q6150501>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Tronquedo>.
+
+<http://www.wikidata.org/entity/Q6150514>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Venero>.
+
+<http://www.wikidata.org/entity/Q6150547>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_la_Gallina>.
+
+<http://www.wikidata.org/entity/Q6150458>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Ruerrero>.
+
+<http://www.wikidata.org/entity/Q6150656>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Infantado>.
+
+<http://www.wikidata.org/entity/Q6150609>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_los_Velasco>.
+
+<http://www.wikidata.org/entity/Q6150439>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Mogrovejo>.
+
+<http://www.wikidata.org/entity/Q6150444>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Oliva>.
+
+<http://www.wikidata.org/entity/Q6150450>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Peñerudes>.
+
+<http://www.wikidata.org/entity/Q6150455>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Proaza>.
+
+<http://www.wikidata.org/entity/Q6150477>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_San_Telmo_(Cantabria)>.
+
+<http://www.wikidata.org/entity/Q6150512>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Velo_(Arce)>.
+
+<http://www.wikidata.org/entity/Q6150428>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Malamoneda>.
+
+<http://www.wikidata.org/entity/Q6150524>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_don_Beltrán_de_la_Cueva>.
+
+<http://www.wikidata.org/entity/Q6150483>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Santa_Ana_(Cullera)>.
+
+<http://www.wikidata.org/entity/Q6150503>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Trullás>.
+
+<http://www.wikidata.org/entity/Q6150640>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Castillo_de_Torrente>.
+
+<http://www.wikidata.org/entity/Q6058548>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_del_Condestable_(Colindres)>.
+
+<http://www.wikidata.org/entity/Q6150344>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Berdeja>.
+
+<http://www.wikidata.org/entity/Q6150351>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Cabanzón>.
+
+<http://www.wikidata.org/entity/Q6150359>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Casa_Botigué>.
+
+<http://www.wikidata.org/entity/Q6150401>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Gabia_la_Grande>.
+
+<http://www.wikidata.org/entity/Q6150413>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_La_Atalaya>.
+
+<http://www.wikidata.org/entity/Q6150318>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_atalaya_de_la_Porqueriza>.
+
+<http://www.wikidata.org/entity/Q6150370>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Ceballos_(Alceda)>.
+
+<http://www.wikidata.org/entity/Q6150381>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Coloms>.
+
+<http://www.wikidata.org/entity/Q6150389>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Embergoñes_(Orihuela)>.
+
+<http://www.wikidata.org/entity/Q6150407>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Hoz>.
+
+<http://www.wikidata.org/entity/Q6150142>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_García>.
+
+<http://www.wikidata.org/entity/Q6150111>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_Cuadrada_(Argelita)>.
+
+<http://www.wikidata.org/entity/Q6150327>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Acereda>.
+
+<http://www.wikidata.org/entity/Q6150331>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Aguas>.
+
+<http://www.wikidata.org/entity/Q6150260>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_Redonda_(Argelita)>.
+
+<http://www.wikidata.org/entity/Q6150314>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_atalaya_de_La_Solana>.
+
+<http://www.wikidata.org/entity/Q6150345>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Bonifaz_(Lomana)>.
+
+<http://www.wikidata.org/entity/Q6150366>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Casa_el_Arrendador>.
+
+<http://www.wikidata.org/entity/Q6150133>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_Espioca>.
+
+<http://www.wikidata.org/entity/Q6150213>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_Mussa>.
+
+<http://www.wikidata.org/entity/Q6149996>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_Abd_el_Aziz_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q6150384>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Cálig>.
+
+<http://www.wikidata.org/entity/Q6150368>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Caviedes>.
+
+<http://www.wikidata.org/entity/Q6150399>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Fiscal>.
+
+<http://www.wikidata.org/entity/Q6150247>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_Punta_del_Cavall>.
+
+<http://www.wikidata.org/entity/Q5965343>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Torrecilla_(Chelva)>.
+
+<http://www.wikidata.org/entity/Q6150353>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Cabo_Roig>.
+
+<http://www.wikidata.org/entity/Q6150355>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Cadalso>.
+
+<http://www.wikidata.org/entity/Q6150358>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Carasa>.
+
+<http://www.wikidata.org/entity/Q6150395>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Escanilla>.
+
+<http://www.wikidata.org/entity/Q6058175>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_de_Riva-Herrera>.
+
+<http://www.wikidata.org/entity/Q6150316>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_atalaya_de_Mingoandrés>.
+
+<http://www.wikidata.org/entity/Q6150333>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Alfahuir>.
+
+<http://www.wikidata.org/entity/Q6150354>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Cabrahigo>.
+
+<http://www.wikidata.org/entity/Q6150393>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Escaletes>.
+
+<http://www.wikidata.org/entity/Q6150411>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_L'Oró>.
+
+<http://www.wikidata.org/entity/Q5756588>
+        owl:sameAs <http://es.dbpedia.org/resource/Casona_de_Espina_con_su_torre_y_portalada>.
+
+<http://www.wikidata.org/entity/Q5757633>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Torre_Venzala>.
+
+<http://www.wikidata.org/entity/Q5680579>
+        owl:sameAs <http://es.dbpedia.org/resource/Torreón_de_San_Miguel>.
+
+<http://www.wikidata.org/entity/Q5836589>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_los_Santos_Mártires_(Medina-Sidonia)>.
+
+<http://www.wikidata.org/entity/Q5710309>
+        owl:sameAs <http://es.dbpedia.org/resource/Atalaya_de_Saleres>.
+
+<http://www.wikidata.org/entity/Q5710303>
+        owl:sameAs <http://es.dbpedia.org/resource/Atalaya_de_Cúllar>.
+
+<http://www.wikidata.org/entity/Q5710333>
+        owl:sameAs <http://es.dbpedia.org/resource/Atalaya_del_Cortijuelo>.
+
+<http://www.wikidata.org/entity/Q5710444>
+        owl:sameAs <http://es.dbpedia.org/resource/Atarazanas_de_Sevilla>.
+
+<http://www.wikidata.org/entity/Q5684741>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_la_Font_Bona>.
+
+<http://www.wikidata.org/entity/Q5754046>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa-torre_de_los_Calderón_de_La_Barca>.
+
+<http://www.wikidata.org/entity/Q5802333>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre-atalaya_de_los_Guzmanes>.
+
+<http://www.wikidata.org/entity/Q4896489>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Benejama>.
+
+<http://www.wikidata.org/entity/Q5551404>
+        owl:sameAs <http://es.dbpedia.org/resource/Torreón_de_Lodeña>.
+
+<http://www.wikidata.org/entity/Q5710328>
+        owl:sameAs <http://es.dbpedia.org/resource/Atalaya_de_los_Anillos>.
+
+<http://www.wikidata.org/entity/Q5754043>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa-torre_de_Alvarado>.
+
+<http://www.wikidata.org/entity/Q5757012>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Agüero_(Cantabria)>.
+
+<http://www.wikidata.org/entity/Q5757063>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Allendelagua>.
+
+<http://www.wikidata.org/entity/Q5792552>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_medieval_de_San_Martín_de_Hoyos>.
+
+<http://www.wikidata.org/entity/Q5042524>
+        owl:sameAs <http://es.dbpedia.org/resource/Alcazaba_Cadima>.
+
+<http://www.wikidata.org/entity/Q5823580>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Torreón_(El_Condado)>.
+
+<http://www.wikidata.org/entity/Q5788582>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Carabassí_(Santa_Pola)>.
+
+<http://www.wikidata.org/entity/Q5487209>
+        owl:sameAs <http://es.dbpedia.org/resource/Atalaya_de_la_Mesa>.
+
+<http://www.wikidata.org/entity/Q11704642>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Cap_i_Corb>.
+
+<http://www.wikidata.org/entity/Q9089041>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Valledor>.
+
+<http://www.wikidata.org/entity/Q11704646>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_San_Vicente_(Benicasim)>.
+
+<http://www.wikidata.org/entity/Q9089126>
+        owl:sameAs <http://es.dbpedia.org/resource/Torreta_de_Elda>.
+
+<http://www.wikidata.org/entity/Q11704653>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Gerro>.
+
+<http://www.wikidata.org/entity/Q11704648>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_don_Borja>.
+
+<http://www.wikidata.org/entity/Q9089031>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Negret>.
+
+<http://www.wikidata.org/entity/Q9089123>
+        owl:sameAs <http://es.dbpedia.org/resource/Torreta_de_Canor>.
+
+<http://www.wikidata.org/entity/Q6150658>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Merino>.
+
+<http://www.wikidata.org/entity/Q9088970>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_la_Almofala>.
+
+<http://www.wikidata.org/entity/Q9088988>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_los_Valdés>.
+
+<http://www.wikidata.org/entity/Q9088855>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_Vieja_de_Salou>.
+
+<http://www.wikidata.org/entity/Q6150657>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Marqués>.
+
+<http://www.wikidata.org/entity/Q6150660>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Moro_(Torrevieja)>.
+
+<http://www.wikidata.org/entity/Q6150670>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Pontón>.
+
+<http://www.wikidata.org/entity/Q6150688>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Tío_Bayo>.
+
+<http://www.wikidata.org/entity/Q6150914>
+        owl:sameAs <http://es.dbpedia.org/resource/Torreón_de_Cartes>.
+
+<http://www.wikidata.org/entity/Q6150866>
+        owl:sameAs <http://es.dbpedia.org/resource/Torres_de_Bores>.
+
+<http://www.wikidata.org/entity/Q6150774>
+        owl:sameAs <http://es.dbpedia.org/resource/Torrejón_de_las_Henestrosas>.
+
+<http://www.wikidata.org/entity/Q9088891>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Cárdenas>.
+
+<http://www.wikidata.org/entity/Q9088991>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_los_Moros_(Cinctorres)>.
+
+<http://www.wikidata.org/entity/Q9088925>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_San_Julián>.
+
+<http://www.wikidata.org/entity/Q6150681>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Casa_Rins>.
+
+<http://www.wikidata.org/entity/Q6150895>
+        owl:sameAs <http://es.dbpedia.org/resource/Torres_del_Seminario_(Orihuela)>.
+
+<http://www.wikidata.org/entity/Q6150875>
+        owl:sameAs <http://es.dbpedia.org/resource/Torres_de_Monserrate_(Orihuela)>.
+
+<http://www.wikidata.org/entity/Q9089008>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Aguiló>.
+
+<http://www.wikidata.org/entity/Q6150669>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Pilón>.
+
+<http://www.wikidata.org/entity/Q7829796>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_los_Varona>.
+
+<http://www.wikidata.org/entity/Q9088920>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Punta_Prima>.
+
+<http://www.wikidata.org/entity/Q9088896>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Ebrí>.
+
+<http://www.wikidata.org/entity/Q9088978>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_la_Garrofa_(Almería)>.
+
+<http://www.wikidata.org/entity/Q9089018>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Cap_d'Or>.
+
+<http://www.wikidata.org/entity/Q6150716>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_Águilas>.
+
+<http://www.wikidata.org/entity/Q7829779>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Mendoza>.
+
+<http://www.wikidata.org/entity/Q9088946>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Tamarit>.
+
+<http://www.wikidata.org/entity/Q7829782>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_y_Cuevas_de_Paterna>.
+
+<http://www.wikidata.org/entity/Q810902>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_Racef>.
+
+<http://www.wikidata.org/entity/Q34411>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Gilet>.
+
+<http://www.wikidata.org/entity/Q245151>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Hércules>.
+
+<http://www.wikidata.org/entity/Q55820>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Satareña>.
+
+<http://www.wikidata.org/entity/Q121469>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Ría>.
+
+<http://www.wikidata.org/entity/Q10836>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_musulmana_de_Silla>.
+
+<http://www.wikidata.org/entity/Q1042740>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_San_Andrés>.
+
+<http://www.wikidata.org/entity/Q1962124>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_fortificado_Torre_Gausa>.
+
+<http://www.wikidata.org/entity/Q3896966>
+        owl:sameAs <http://es.dbpedia.org/resource/Torreón_de_Llanes>.
+
+<http://www.wikidata.org/entity/Q2444564>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Hércules_(Villajoyosa)>.
+
+<http://www.wikidata.org/entity/Q2606632>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_la_Plata>.
+
+<http://www.wikidata.org/entity/Q3813308>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Torrechiva>.
+
+<http://www.wikidata.org/entity/Q3798088>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Alcalalí>.
+
+<http://www.wikidata.org/entity/Q2894773>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_la_Plaza_(Benifayó)>.
+
+<http://www.wikidata.org/entity/Q3604782>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Mal_Paso>.
+
+<http://www.wikidata.org/entity/Q2343754>
+        owl:sameAs <http://es.dbpedia.org/resource/Torres_de_Quart>.
+
+<http://www.wikidata.org/entity/Q3798011>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Molino_(Caudiel)>.
+
+<http://www.wikidata.org/entity/Q2455550>
+        owl:sameAs <http://es.dbpedia.org/resource/Torres_de_Serranos>.
+
+<http://www.wikidata.org/entity/Q15719481>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Barón>.
+
+<http://www.wikidata.org/entity/Q14395929>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Blanc_de_Morell>.
+
+<http://www.wikidata.org/entity/Q11952268>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_d'en_Penjat>.
+
+<http://www.wikidata.org/entity/Q12221029>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Rejas>.
+
+<http://www.wikidata.org/entity/Q11952324>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Palacio_de_los_Condes_de_Cirat>.
+
+<http://www.wikidata.org/entity/Q12221028>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Santa_Faz>.
+
+<http://www.wikidata.org/entity/Q15627893>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_la_Fonteta>.
+
+<http://www.wikidata.org/entity/Q15628887>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_La_Falsa>.
+
+<http://www.wikidata.org/entity/Q11952275>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Millena>.
+
+<http://www.wikidata.org/entity/Q12221031>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Conde_(Alicante)>.
+
+<http://www.wikidata.org/entity/Q12221025>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_Rizo>.
+
+<http://www.wikidata.org/entity/Q12221024>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_El_Ciprés>.
+
+<http://www.wikidata.org/entity/Q16641705>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_la_Isleta>.
+
+<http://www.wikidata.org/entity/Q19758774>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Alcaufar>.
+
+<http://www.wikidata.org/entity/Q11952293>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_la_Alfándiga>.
+
+<http://www.wikidata.org/entity/Q21031179>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_do_Castro>.
+
+<http://www.wikidata.org/entity/Q24354684>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_María_Martín>.
+
+<http://www.wikidata.org/entity/Q28045091>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Medina_de_las_Torres>.
+
+<http://www.wikidata.org/entity/Q29982228>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_los_Velasco_(Espinosa_de_los_Monteros)>.
+
+<http://www.wikidata.org/entity/Q33518376>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Atalaya_(Cubel)>.
+
+<http://www.wikidata.org/entity/Q34461612>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_los_Huevos>.
+
+<http://www.wikidata.org/entity/Q34505496>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_las_Cinco_Esquinas>.
+
+<http://www.wikidata.org/entity/Q34503871>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Palo>.
+
+<http://www.wikidata.org/entity/Q37124408>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_Alba>.
+
+<http://www.wikidata.org/entity/Q43135519>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Romilla>.
+
+<http://www.wikidata.org/entity/Q28501257>
+        owl:sameAs <http://es.dbpedia.org/resource/Atalaya_de_los_Casares>.
+
+<http://www.wikidata.org/entity/Q34470550>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_la_Espuela>.
+
+<http://www.wikidata.org/entity/Q34784070>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Casaza>.
+
+<http://www.wikidata.org/entity/Q35465003>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Samanes>.
+
+<http://www.wikidata.org/entity/Q43138057>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_la_Sal_(Casares)>.
+
+<http://www.wikidata.org/entity/Q43137874>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_la_Leonera>.
+
+<http://www.wikidata.org/entity/Q33093111>
+        owl:sameAs <http://es.dbpedia.org/resource/Torreón_del_Bonete>.
+
+<http://www.wikidata.org/entity/Q43146787>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_Bombarda>.
+
+<http://www.wikidata.org/entity/Q29169525>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Andador_(Albarracín)>.
+
+<http://www.wikidata.org/entity/Q34500028>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Jaque>.
+
+<http://www.wikidata.org/entity/Q43146215>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_Horadada>.
+
+<http://www.wikidata.org/entity/Q43129186>
+        owl:sameAs <http://es.dbpedia.org/resource/Torreón_del_Gran_Prior>.
+
+<http://www.wikidata.org/entity/Q29345504>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_los_Condes_de_Bureta>.
+
+<http://www.wikidata.org/entity/Q29367709>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Palomar>.
+
+<http://www.wikidata.org/entity/Q34488908>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_la_Sisa>.
+
+<http://www.wikidata.org/entity/Q29508755>
+        owl:sameAs <http://es.dbpedia.org/resource/Masía_Fortificada_Torre_de_la_Regenta>.
+
+<http://www.wikidata.org/entity/Q33093491>
+        owl:sameAs <http://es.dbpedia.org/resource/Torreón_de_los_Bolaños>.
+
+<http://www.wikidata.org/entity/Q33043481>
+        owl:sameAs <http://es.dbpedia.org/resource/Torreón_de_Florentina>.
+
+<http://www.wikidata.org/entity/Q34506227>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Águila>.
+
+<http://www.wikidata.org/entity/Q35220611>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_la_Carretería>.
+
+<http://www.wikidata.org/entity/Q88271431>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Enmedio_(Almuñécar)>.
+
+<http://www.wikidata.org/entity/Q55847287>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_la_Pardina_de_Larbesa>.
+
+<http://www.wikidata.org/entity/Q43163013>
+        owl:sameAs <http://es.dbpedia.org/resource/Atalaya_de_Cónchar>.
+
+<http://www.wikidata.org/entity/Q56640852>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_los_Fernández_Velasco>.
+
+<http://www.wikidata.org/entity/Q86841974>
+        owl:sameAs <http://es.dbpedia.org/resource/Atalaya_del_Infante_Don_Enrique>.
+
+<http://www.wikidata.org/entity/Q89401344>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Cambrón>.
+
+<http://www.wikidata.org/entity/Q43162333>
+        owl:sameAs <http://es.dbpedia.org/resource/Atalaya_de_Sierra_Encantada>.
+
+<http://www.wikidata.org/entity/Q56150257>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Almenara>.
+
+<http://www.wikidata.org/entity/Q50123931>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Sordo>.
+
+<http://www.wikidata.org/entity/Q67915379>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Rigada>.
+
+<http://www.wikidata.org/entity/Q97618889>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Botafuegos>.
+
+<http://www.wikidata.org/entity/Q97628704>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_San_Bartolomé_(Huelva)>.
+
+<http://www.wikidata.org/entity/Q97630431>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Homenaje_del_Castillo_de_Sorihuela_del_Guadalimar>.
+
+<http://www.wikidata.org/entity/Q97688627>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_Derecha>.
+
+<http://www.wikidata.org/entity/Q97632444>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_vigía_de_Benagalbón>.
+
+<http://www.wikidata.org/entity/Q97625506>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Monturque>.
+
+<http://www.wikidata.org/entity/Q97635044>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Lopera>.
+
+<http://www.wikidata.org/entity/Q97626181>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Canuto_(Rute)>.
+
+<http://www.wikidata.org/entity/Q97623871>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Garci-Méndez>.
+
+<http://www.wikidata.org/entity/Q29574305>
+        owl:sameAs <http://es.dbpedia.org/resource/Segontia_(Zaragoza)>.
+
+<http://www.wikidata.org/entity/Q29651638>
+        owl:sameAs <http://es.dbpedia.org/resource/Nivaria_(Hispania)>.
+
+<http://www.wikidata.org/entity/Q6012627>
+        owl:sameAs <http://es.dbpedia.org/resource/Miaccum>.
+
+<http://www.wikidata.org/entity/Q29574171>
+        owl:sameAs <http://es.dbpedia.org/resource/Aquae_Bilbilitanorum>.
+
+<http://www.wikidata.org/entity/Q933164>
+        owl:sameAs <http://es.dbpedia.org/resource/Lucus_Asturum>.
+
+<http://www.wikidata.org/entity/Q5735862>
+        owl:sameAs <http://es.dbpedia.org/resource/Bursau>.
+
+<http://www.wikidata.org/entity/Q6153902>
+        owl:sameAs <http://es.dbpedia.org/resource/Turiasu>.
+
+<http://www.wikidata.org/entity/Q12383187>
+        owl:sameAs <http://es.dbpedia.org/resource/Aquis_Originis>.
+
+<http://www.wikidata.org/entity/Q39080814>
+        owl:sameAs <http://es.dbpedia.org/resource/Caecilius_Vicus>.
+
+<http://www.wikidata.org/entity/Q5705405>
+        owl:sameAs <http://es.dbpedia.org/resource/Arriaca>.
+
+<http://www.wikidata.org/entity/Q29651528>
+        owl:sameAs <http://es.dbpedia.org/resource/Septimanca>.
+
+<http://www.wikidata.org/entity/Q29517089>
+        owl:sameAs <http://es.dbpedia.org/resource/Alces_(Carpetania)>.
+
+<http://www.wikidata.org/entity/Q29574688>
+        owl:sameAs <http://es.dbpedia.org/resource/Lacipea>.
+
+<http://www.wikidata.org/entity/Q29573709>
+        owl:sameAs <http://es.dbpedia.org/resource/Caesada>.
+
+<http://www.wikidata.org/entity/Q29574684>
+        owl:sameAs <http://es.dbpedia.org/resource/Leuciana>.
+
+<http://www.wikidata.org/entity/Q29575107>
+        owl:sameAs <http://es.dbpedia.org/resource/Segontia_(Sigüenza)>.
+
+<http://www.wikidata.org/entity/Q29574526>
+        owl:sameAs <http://es.dbpedia.org/resource/Titulcia_(municipio_romano)>.
+
+<http://www.wikidata.org/entity/Q3392505>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_medieval_de_Orense>.
+
+<http://www.wikidata.org/entity/Q4966441>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Masegoso>.
+
+<http://www.wikidata.org/entity/Q4709426>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_romano_sobre_el_río_Albarregas>.
+
+<http://www.wikidata.org/entity/Q2638325>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Piedra_(Zaragoza)>.
+
+<http://www.wikidata.org/entity/Q581532>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Alcántara_(Toledo)>.
+
+<http://www.wikidata.org/entity/Q588535>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_romano_de_Mérida>.
+
+<http://www.wikidata.org/entity/Q250523>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_del_Diablo_(Martorell)>.
+
+<http://www.wikidata.org/entity/Q967119>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Alconétar>.
+
+<http://www.wikidata.org/entity/Q996197>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Alcántara>.
+
+<http://www.wikidata.org/entity/Q6091642>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_romano_de_Salamanca>.
+
+<http://www.wikidata.org/entity/Q9064452>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Vadollano>.
+
+<http://www.wikidata.org/entity/Q6091648>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_romano_de_Ávila>.
+
+<http://www.wikidata.org/entity/Q7228143>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Segura>.
+
+<http://www.wikidata.org/entity/Q6091678>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_y_calzada_romana_de_Becilla_de_Valderaduey>.
+
+<http://www.wikidata.org/entity/Q97625652>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_romano_de_Córdoba>.
+
+<http://www.wikidata.org/entity/Q20545460>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Cernadela>.
+
+<http://www.wikidata.org/entity/Q3819019>
+        owl:sameAs <http://es.dbpedia.org/resource/Templo_de_Augusto_(Barcelona)>.
+
+<http://www.wikidata.org/entity/Q2294240>
+        owl:sameAs <http://es.dbpedia.org/resource/Templo_romano_de_Vich>.
+
+<http://www.wikidata.org/entity/Q3517581>
+        owl:sameAs <http://es.dbpedia.org/resource/Templo_de_Hércules_Gaditano>.
+
+<http://www.wikidata.org/entity/Q7362337>
+        owl:sameAs <http://es.dbpedia.org/resource/Templo_romano_de_Alcántara>.
+
+<http://www.wikidata.org/entity/Q107507288>
+        owl:sameAs <http://es.dbpedia.org/resource/Templo_de_Isis_(Baelo_Claudia)>.
+
+<http://www.wikidata.org/entity/Q98061585>
+        owl:sameAs <http://es.dbpedia.org/resource/Teatro_romano_de_Guadix>.
+
+<http://www.wikidata.org/entity/Q11704271>
+        owl:sameAs <http://es.dbpedia.org/resource/Teatro_romano_de_Itálica>.
+
+<http://www.wikidata.org/entity/Q2700544>
+        owl:sameAs <http://es.dbpedia.org/resource/Teatro_romano_de_Mérida>.
+
+<http://www.wikidata.org/entity/Q3896297>
+        owl:sameAs <http://es.dbpedia.org/resource/Teatro_romano_de_Sagunto>.
+
+<http://www.wikidata.org/entity/Q583459>
+        owl:sameAs <http://es.dbpedia.org/resource/Teatro_romano_de_Zaragoza>.
+
+<http://www.wikidata.org/entity/Q7777503>
+        owl:sameAs <http://es.dbpedia.org/resource/Teatro_romano_de_Clunia_Sulpicia>.
+
+<http://www.wikidata.org/entity/Q1526659>
+        owl:sameAs <http://es.dbpedia.org/resource/Teatro_romano_de_Cádiz>.
+
+<http://www.wikidata.org/entity/Q2627735>
+        owl:sameAs <http://es.dbpedia.org/resource/Teatro_romano_de_Cartagena>.
+
+<http://www.wikidata.org/entity/Q3079841>
+        owl:sameAs <http://es.dbpedia.org/resource/Teatro_romano_de_Tarraco>.
+
+<http://www.wikidata.org/entity/Q3849447>
+        owl:sameAs <http://es.dbpedia.org/resource/Teatro_romano_de_Málaga>.
+
+<http://www.wikidata.org/entity/Q3527913>
+        owl:sameAs <http://es.dbpedia.org/resource/Teatro_romano_de_Córdoba>.
+
+<http://www.wikidata.org/entity/Q1518670>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_San_Martín_(Toledo)>.
+
+<http://www.wikidata.org/entity/Q967119>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Alconétar>.
+
+<http://www.wikidata.org/entity/Q996197>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Alcántara>.
+
+<http://www.wikidata.org/entity/Q244947>
+        owl:sameAs <http://es.dbpedia.org/resource/Acueducto_de_Segovia>.
+
+<http://www.wikidata.org/entity/Q588535>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_romano_de_Mérida>.
+
+<http://www.wikidata.org/entity/Q250523>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_del_Diablo_(Martorell)>.
+
+<http://www.wikidata.org/entity/Q2117364>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Piedra_(Soria)>.
+
+<http://www.wikidata.org/entity/Q2004707>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Nuevo_(Ronda)>.
+
+<http://www.wikidata.org/entity/Q2117352>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Itero>.
+
+<http://www.wikidata.org/entity/Q3774528>
+        owl:sameAs <http://es.dbpedia.org/resource/Acueducto_de_los_Milagros>.
+
+<http://www.wikidata.org/entity/Q9064452>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Vadollano>.
+
+<http://www.wikidata.org/entity/Q6091412>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Piedra_(Logroño)>.
+
+<http://www.wikidata.org/entity/Q97625652>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_romano_de_Córdoba>.
+
+<http://www.wikidata.org/entity/Q3517581>
+        owl:sameAs <http://es.dbpedia.org/resource/Templo_de_Hércules_Gaditano>.
+
+<http://www.wikidata.org/entity/Q3819019>
+        owl:sameAs <http://es.dbpedia.org/resource/Templo_de_Augusto_(Barcelona)>.
+
+<http://www.wikidata.org/entity/Q65159108>
+        owl:sameAs <http://es.dbpedia.org/resource/Capilla_de_las_Esclavas_del_Sagrado_Corazón_de_Jesús_(Oviedo)>.
+
+<http://www.wikidata.org/entity/Q105131491>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Miguel_(Cabanillas_del_Monte)>.
+
+<http://www.wikidata.org/entity/Q5761135>
+        owl:sameAs <http://es.dbpedia.org/resource/Centro_Cultural_Clavijero>.
+
+<http://www.wikidata.org/entity/Q6117075>
+        owl:sameAs <http://es.dbpedia.org/resource/Sala_Compañía>.
+
+<http://www.wikidata.org/entity/Q6106660>
+        owl:sameAs <http://es.dbpedia.org/resource/Retablo_mayor_de_la_catedral_de_Sevilla>.
+
+<http://www.wikidata.org/entity/Q5705269>
+        owl:sameAs <http://es.dbpedia.org/resource/Arquitectura_religiosa_de_Sevilla>.
+
+<http://www.wikidata.org/entity/Q5839105>
+        owl:sameAs <http://es.dbpedia.org/resource/Escuela_de_Cristo_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q6141053>
+        owl:sameAs <http://es.dbpedia.org/resource/Templo_de_Trajano_de_Itálica>.
+
+<http://www.wikidata.org/entity/Q6086813>
+        owl:sameAs <http://es.dbpedia.org/resource/Priorato_de_San_Marcos_de_León>.
+
+<http://www.wikidata.org/entity/Q20021492>
+        owl:sameAs <http://es.dbpedia.org/resource/Oratorio_de_Santa_María_Reina_y_Madre>.
+
+<http://www.wikidata.org/entity/Q15410456>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_de_la_Virgen_de_la_Barca>.
+
+<http://www.wikidata.org/entity/Q56316930>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santa_Eulalia_(Brañosera)>.
+
+<http://www.wikidata.org/entity/Q49510521>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Metropolitano_de_la_Catedral_de_Badajoz>.
+
+<http://www.wikidata.org/entity/Q55443161>
+        owl:sameAs <http://es.dbpedia.org/resource/Convento_de_las_Madres_Agustinas_(Huelva)>.
+
+<http://www.wikidata.org/entity/Q56318345>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Juan_de_Ávila_(Jerez_de_la_Frontera)>.
+
+<http://www.wikidata.org/entity/Q48781400>
+        owl:sameAs <http://es.dbpedia.org/resource/Los_Valientes>.
+
+<http://www.wikidata.org/entity/Q56318017>
+        owl:sameAs <http://es.dbpedia.org/resource/Parroquia_de_Nuestra_Señora_de_los_Dolores_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q56316874>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Nuestra_Señora_de_la_Asunción_(Parla)>.
+
+<http://www.wikidata.org/entity/Q56319061>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Salvador_(Fuente_Encalada)>.
+
+<http://www.wikidata.org/entity/Q56316612>
+        owl:sameAs <http://es.dbpedia.org/resource/Monasterio_de_la_Purísima_Concepción_(Jerez_de_la_Frontera)>.
+
+<http://www.wikidata.org/entity/Q28501224>
+        owl:sameAs <http://es.dbpedia.org/resource/Priorato_de_Santa_María_de_Duero>.
+
+<http://www.wikidata.org/entity/Q26963573>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Nuestra_Señora_del_Carmen_(Córdoba)>.
+
+<http://www.wikidata.org/entity/Q105459675>
+        owl:sameAs <http://es.dbpedia.org/resource/Convento_de_Santa_María_La_Bella>.

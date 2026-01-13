@@ -1,0 +1,2956 @@
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://www.wikidata.org/entity/Q12156739>
+        owl:sameAs <http://es.dbpedia.org/resource/Convento_de_San_Martín>.
+
+<http://www.wikidata.org/entity/Q11693418>
+        owl:sameAs <http://es.dbpedia.org/resource/Monasterio_de_Valvanera>.
+
+<http://www.wikidata.org/entity/Q9034461>
+        owl:sameAs <http://es.dbpedia.org/resource/Monasterio_de_Santa_María_(Amer)>.
+
+<http://www.wikidata.org/entity/Q669194>
+        owl:sameAs <http://es.dbpedia.org/resource/Monasterio_de_Leyre>.
+
+<http://www.wikidata.org/entity/Q771935>
+        owl:sameAs <http://es.dbpedia.org/resource/Monasterio_de_Montserrat>.
+
+<http://www.wikidata.org/entity/Q798606>
+        owl:sameAs <http://es.dbpedia.org/resource/Monasterio_de_San_Pedro_de_Roda>.
+
+<http://www.wikidata.org/entity/Q1249989>
+        owl:sameAs <http://es.dbpedia.org/resource/Monasterio_de_San_Esteban_(Ribas_del_Sil)>.
+
+<http://www.wikidata.org/entity/Q1340405>
+        owl:sameAs <http://es.dbpedia.org/resource/Monasterio_de_Santo_Domingo_de_Silos>.
+
+<http://www.wikidata.org/entity/Q1226855>
+        owl:sameAs <http://es.dbpedia.org/resource/Monasterio_de_San_Salvador_(Oña)>.
+
+<http://www.wikidata.org/entity/Q1389060>
+        owl:sameAs <http://es.dbpedia.org/resource/Real_Monasterio_de_San_Juan_de_la_Peña>.
+
+<http://www.wikidata.org/entity/Q1554179>
+        owl:sameAs <http://es.dbpedia.org/resource/Monasterio_de_Santa_María_de_la_Sierra>.
+
+<http://www.wikidata.org/entity/Q2750400>
+        owl:sameAs <http://es.dbpedia.org/resource/Monasterio_de_San_Pedro_el_Viejo_(Huesca)>.
+
+<http://www.wikidata.org/entity/Q1776246>
+        owl:sameAs <http://es.dbpedia.org/resource/Monasterio_de_Santa_María_de_Villanueva_de_Oscos>.
+
+<http://www.wikidata.org/entity/Q3326666>
+        owl:sameAs <http://es.dbpedia.org/resource/Monasterio_de_San_Benito_de_Bages>.
+
+<http://www.wikidata.org/entity/Q1752772>
+        owl:sameAs <http://es.dbpedia.org/resource/Monasterio_de_Santa_María_de_El_Paular>.
+
+<http://www.wikidata.org/entity/Q5550569>
+        owl:sameAs <http://es.dbpedia.org/resource/Monasterio_de_San_Pedro_de_Arlanza>.
+
+<http://www.wikidata.org/entity/Q2116598>
+        owl:sameAs <http://es.dbpedia.org/resource/Monasterio_de_Santa_María_(Ripoll)>.
+
+<http://www.wikidata.org/entity/Q6091371>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Fuentidueña_de_Tajo>.
+
+<http://www.wikidata.org/entity/Q6091383>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Hierro_(Zamora)>.
+
+<http://www.wikidata.org/entity/Q6091404>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Nuestra_Señora_del_Pilar>.
+
+<http://www.wikidata.org/entity/Q6091457>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Tablate>.
+
+<http://www.wikidata.org/entity/Q6091415>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Piedra_(Zamora)>.
+
+<http://www.wikidata.org/entity/Q6091447>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Santo_Domingo_(Covaleda)>.
+
+<http://www.wikidata.org/entity/Q6091473>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Barcas_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q6091487>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_la_Aurora_(Málaga)>.
+
+<http://www.wikidata.org/entity/Q6091398>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Miraflores_(Córdoba)>.
+
+<http://www.wikidata.org/entity/Q6091432>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_San_Miguel_(Isuela)>.
+
+<http://www.wikidata.org/entity/Q6091438>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Santa_Isabel>.
+
+<http://www.wikidata.org/entity/Q6091444>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Santiago>.
+
+<http://www.wikidata.org/entity/Q6091373>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Golbardo>.
+
+<http://www.wikidata.org/entity/Q6091482>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_la_Alcanzorla_(Galapagar)>.
+
+<http://www.wikidata.org/entity/Q6091461>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Treto>.
+
+<http://www.wikidata.org/entity/Q6091421>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Requejo>.
+
+<http://www.wikidata.org/entity/Q6091453>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Soria_(Covaleda)>.
+
+<http://www.wikidata.org/entity/Q6091582>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Jorao>.
+
+<http://www.wikidata.org/entity/Q6091577>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_del_Cadí>.
+
+<http://www.wikidata.org/entity/Q6091586>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_del_Emperador_Augusto>.
+
+<http://www.wikidata.org/entity/Q6091505>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_la_Culebra>.
+
+<http://www.wikidata.org/entity/Q6091567>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_del_Arenal_(Córdoba)>.
+
+<http://www.wikidata.org/entity/Q6091639>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_romano_de_Luco_de_Jiloca>.
+
+<http://www.wikidata.org/entity/Q6091664>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_sobre_el_río_Genil_(Benamejí)>.
+
+<http://www.wikidata.org/entity/Q6091668>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_sobre_el_río_Henares_(Espinosa_de_Henares)>.
+
+<http://www.wikidata.org/entity/Q6091672>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_sobre_el_río_Tajo_(Trillo)>.
+
+<http://www.wikidata.org/entity/Q6091538>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_las_Infantas>.
+
+<http://www.wikidata.org/entity/Q6091554>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_los_Nogales_(Córdoba)>.
+
+<http://www.wikidata.org/entity/Q6091560>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_señales_de_la_estación_de_Barcelona-Francia>.
+
+<http://www.wikidata.org/entity/Q6091675>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_sobre_el_río_Víboras>.
+
+<http://www.wikidata.org/entity/Q6292680>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_José_León_de_Carranza>.
+
+<http://www.wikidata.org/entity/Q6092398>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_San_Juan_(río_Alberche)>.
+
+<http://www.wikidata.org/entity/Q6091613>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_del_Tortorio>.
+
+<http://www.wikidata.org/entity/Q6091648>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_romano_de_Ávila>.
+
+<http://www.wikidata.org/entity/Q6091651>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_romano_sobre_el_arroyo_Pedroches_(Córdoba)>.
+
+<http://www.wikidata.org/entity/Q6091588>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_del_Ferrocarril_(Zamora)>.
+
+<http://www.wikidata.org/entity/Q6091493>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_la_CEA>.
+
+<http://www.wikidata.org/entity/Q6091524>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_la_Unión_(Zaragoza)>.
+
+<http://www.wikidata.org/entity/Q6091569>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_del_Barrio>.
+
+<http://www.wikidata.org/entity/Q6091665>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_sobre_el_río_Genil_(Granada)>.
+
+<http://www.wikidata.org/entity/Q6216479>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Viejo_de_Zamora>.
+
+<http://www.wikidata.org/entity/Q6091118>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Colgante_de_Valladolid>.
+
+<http://www.wikidata.org/entity/Q6091368>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Enrique_Estevan>.
+
+<http://www.wikidata.org/entity/Q6091078>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Ariza>.
+
+<http://www.wikidata.org/entity/Q6091346>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Briñas>.
+
+<http://www.wikidata.org/entity/Q6091304>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_los_Cantautores>.
+
+<http://www.wikidata.org/entity/Q6091200>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Lusitania>.
+
+<http://www.wikidata.org/entity/Q6091331>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_América>.
+
+<http://www.wikidata.org/entity/Q6091169>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Infanta_Cristina>.
+
+<http://www.wikidata.org/entity/Q6091321>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Abbas_Ibn_Firnás_(Córdoba)>.
+
+<http://www.wikidata.org/entity/Q6091339>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Arganda>.
+
+<http://www.wikidata.org/entity/Q6091360>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Carlos_III_(Alcalá_de_Guadaíra)>.
+
+<http://www.wikidata.org/entity/Q6091154>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_General_Serrador>.
+
+<http://www.wikidata.org/entity/Q6091364>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Colloto>.
+
+<http://www.wikidata.org/entity/Q6091219>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Mocha_(Valdemaqueda)>.
+
+<http://www.wikidata.org/entity/Q6091231>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Noguerol>.
+
+<http://www.wikidata.org/entity/Q6065340>
+        owl:sameAs <http://es.dbpedia.org/resource/Pasarela_colgante_de_Polvorines>.
+
+<http://www.wikidata.org/entity/Q6091352>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Cantarranas_(Córdoba)>.
+
+<http://www.wikidata.org/entity/Q6091212>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Mayor_(Palencia)>.
+
+<http://www.wikidata.org/entity/Q6091329>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Alfocea>.
+
+<http://www.wikidata.org/entity/Q6091343>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Arriaca>.
+
+<http://www.wikidata.org/entity/Q6091152>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Galcerán>.
+
+<http://www.wikidata.org/entity/Q6091205>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Manuel_Giménez_Abad>.
+
+<http://www.wikidata.org/entity/Q6091256>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Puerta_de_Las_Rozas>.
+
+<http://www.wikidata.org/entity/Q6091309>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Viejo_(Abarán)>.
+
+<http://www.wikidata.org/entity/Q6016871>
+        owl:sameAs <http://es.dbpedia.org/resource/Minas_de_Alquife>.
+
+<http://www.wikidata.org/entity/Q6091216>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_medieval_de_Sonella>.
+
+<http://www.wikidata.org/entity/Q6091241>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Nuevo_(Galapagar)>.
+
+<http://www.wikidata.org/entity/Q581532>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Alcántara_(Toledo)>.
+
+<http://www.wikidata.org/entity/Q1824133>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_los_Alemanes>.
+
+<http://www.wikidata.org/entity/Q1337325>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_del_Diablo_(Cardona)>.
+
+<http://www.wikidata.org/entity/Q1862973>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Isabel_II>.
+
+<http://www.wikidata.org/entity/Q250523>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_del_Diablo_(Martorell)>.
+
+<http://www.wikidata.org/entity/Q282619>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Alfonso_XIII_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q521124>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Viejo_(Lérida)>.
+
+<http://www.wikidata.org/entity/Q623448>
+        owl:sameAs <http://es.dbpedia.org/resource/Acueducto_de_les_Ferreres>.
+
+<http://www.wikidata.org/entity/Q967119>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Alconétar>.
+
+<http://www.wikidata.org/entity/Q2162366>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_San_Telmo>.
+
+<http://www.wikidata.org/entity/Q2367010>
+        owl:sameAs <http://es.dbpedia.org/resource/Pabellón_Puente>.
+
+<http://www.wikidata.org/entity/Q2532720>
+        owl:sameAs <http://es.dbpedia.org/resource/Pasarela_de_la_Cartuja_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q2055623>
+        owl:sameAs <http://es.dbpedia.org/resource/Paso_honroso>.
+
+<http://www.wikidata.org/entity/Q1983772>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_la_Exposición>.
+
+<http://www.wikidata.org/entity/Q2002728>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Viejo_(Ronda)>.
+
+<http://www.wikidata.org/entity/Q2104872>
+        owl:sameAs <http://es.dbpedia.org/resource/Porta_d'Europa>.
+
+<http://www.wikidata.org/entity/Q1996276>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_las_Flores-Rita_Barberá>.
+
+<http://www.wikidata.org/entity/Q4788941>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_del_Arenal>.
+
+<http://www.wikidata.org/entity/Q4441204>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_los_Peligros>.
+
+<http://www.wikidata.org/entity/Q5393756>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_la_playa>.
+
+<http://www.wikidata.org/entity/Q5668592>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Carlos_IV_(Soria)>.
+
+<http://www.wikidata.org/entity/Q5477976>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Hierro_(Soria)>.
+
+<http://www.wikidata.org/entity/Q5495612>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Hierro_(Talavera_de_la_Reina)>.
+
+<http://www.wikidata.org/entity/Q5560986>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Pinos_Puente>.
+
+<http://www.wikidata.org/entity/Q5476973>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_romano_de_Calamocha>.
+
+<http://www.wikidata.org/entity/Q5861318>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_del_Ajolí>.
+
+<http://www.wikidata.org/entity/Q5673842>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_la_Z-40_sobre_el_Gállego>.
+
+<http://www.wikidata.org/entity/Q5391113>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Mocho>.
+
+<http://www.wikidata.org/entity/Q5657051>
+        owl:sameAs <http://es.dbpedia.org/resource/Acueducto_de_Los_Arcos_(Calanda)>.
+
+<http://www.wikidata.org/entity/Q5672573>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Románico_de_La_Ramallosa>.
+
+<http://www.wikidata.org/entity/Q5549060>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_califal_del_arroyo_Palancar>.
+
+<http://www.wikidata.org/entity/Q5847374>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_romano_de_Villarta_de_San_Juan>.
+
+<http://www.wikidata.org/entity/Q11942344>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_del_Reino_de_Valencia>.
+
+<http://www.wikidata.org/entity/Q11942309>
+        owl:sameAs <http://es.dbpedia.org/resource/Pont_de_fusta>.
+
+<http://www.wikidata.org/entity/Q11942300>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Aragón_(Valencia)>.
+
+<http://www.wikidata.org/entity/Q11942340>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_del_Petróleo>.
+
+<http://www.wikidata.org/entity/Q11942349>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_colgante_de_Amposta>.
+
+<http://www.wikidata.org/entity/Q11942346>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Serranos>.
+
+<http://www.wikidata.org/entity/Q12262837>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_la_Magdalena_(Pamplona)>.
+
+<http://www.wikidata.org/entity/Q12256108>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_del_diablo_(Lumbier)>.
+
+<http://www.wikidata.org/entity/Q11954582>
+        owl:sameAs <http://es.dbpedia.org/resource/Viaducto_de_Canalejas>.
+
+<http://www.wikidata.org/entity/Q13049936>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_San_Úrbez>.
+
+<http://www.wikidata.org/entity/Q2881286>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Cantillana_(Badajoz)>.
+
+<http://www.wikidata.org/entity/Q3397140>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_San_Juan>.
+
+<http://www.wikidata.org/entity/Q2892406>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Toro>.
+
+<http://www.wikidata.org/entity/Q3314572>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Itsas_Aurre>.
+
+<http://www.wikidata.org/entity/Q3314601>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Udondo>.
+
+<http://www.wikidata.org/entity/Q3396708>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Rey_Juan_Carlos_I>.
+
+<http://www.wikidata.org/entity/Q3277345>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Zuazo>.
+
+<http://www.wikidata.org/entity/Q3397440>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_del_Diablo_(San_Miguel_de_Pedroso)>.
+
+<http://www.wikidata.org/entity/Q3397332>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_las_Delicias_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q3396530>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Euskalduna>.
+
+<http://www.wikidata.org/entity/Q3396457>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Bac_de_Roda>.
+
+<http://www.wikidata.org/entity/Q3068062>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Castrejana>.
+
+<http://www.wikidata.org/entity/Q3276559>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Marqués_de_Ureña>.
+
+<http://www.wikidata.org/entity/Q3397264>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_la_Corta_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q2781943>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_del_Bibey>.
+
+<http://www.wikidata.org/entity/Q3396958>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Deusto>.
+
+<http://www.wikidata.org/entity/Q3397486>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_del_Patrocinio_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q18005859>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_del_Mar_(Valencia)>.
+
+<http://www.wikidata.org/entity/Q18005892>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_nuevo_de_Camprodón>.
+
+<http://www.wikidata.org/entity/Q19019172>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Navaluenga>.
+
+<http://www.wikidata.org/entity/Q18696751>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_San_Pedro_(Tarrasa)>.
+
+<http://www.wikidata.org/entity/Q19368173>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Santa_María_(Onteniente)>.
+
+<http://www.wikidata.org/entity/Q18006942>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_San_Jorge_(Alcoy)>.
+
+<http://www.wikidata.org/entity/Q18696753>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_del_Paseo>.
+
+<http://www.wikidata.org/entity/Q18729835>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_hierro_sobre_el_Júcar_en_Alcira>.
+
+<http://www.wikidata.org/entity/Q11701244>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_San_Antón_(Cuenca)>.
+
+<http://www.wikidata.org/entity/Q11701241>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Príncipe_de_Viana>.
+
+<http://www.wikidata.org/entity/Q11701249>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_hierro_del_parque_de_El_Capricho>.
+
+<http://www.wikidata.org/entity/Q9064466>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_la_Merced>.
+
+<http://www.wikidata.org/entity/Q9064479>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_del_Perdón_(Rascafría)>.
+
+<http://www.wikidata.org/entity/Q10297111>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_La_Vicaria>.
+
+<http://www.wikidata.org/entity/Q9064467>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_la_Misericordia>.
+
+<http://www.wikidata.org/entity/Q9064468>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_la_Ribera>.
+
+<http://www.wikidata.org/entity/Q9064452>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Vadollano>.
+
+<http://www.wikidata.org/entity/Q9064460>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_la_Almozara>.
+
+<http://www.wikidata.org/entity/Q9064472>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_la_Universidad_(Lérida)>.
+
+<http://www.wikidata.org/entity/Q9064478>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_del_Real_(Valencia)>.
+
+<http://www.wikidata.org/entity/Q11152032>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Medina>.
+
+<http://www.wikidata.org/entity/Q9064474>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_del_Arrabal_(Buitrago_del_Lozoya)>.
+
+<http://www.wikidata.org/entity/Q9064476>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_del_Dragón>.
+
+<http://www.wikidata.org/entity/Q11206780>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Viejo_de_Manresa>.
+
+<http://www.wikidata.org/entity/Q11151922>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Camas>.
+
+<http://www.wikidata.org/entity/Q9093145>
+        owl:sameAs <http://es.dbpedia.org/resource/Viaducto_de_Ormáiztegui>.
+
+<http://www.wikidata.org/entity/Q8187805>
+        owl:sameAs <http://es.dbpedia.org/resource/Acueducto_de_Morella>.
+
+<http://www.wikidata.org/entity/Q9064378>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Ajuda>.
+
+<http://www.wikidata.org/entity/Q9064436>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_San_Salvador>.
+
+<http://www.wikidata.org/entity/Q7258514>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_la_Pólvora>.
+
+<http://www.wikidata.org/entity/Q9064384>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Can_Vernet>.
+
+<http://www.wikidata.org/entity/Q9064417>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Róntegui>.
+
+<http://www.wikidata.org/entity/Q9064396>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Hierro_de_Don_Pablo_Alzola>.
+
+<http://www.wikidata.org/entity/Q9061677>
+        owl:sameAs <http://es.dbpedia.org/resource/Pont_Nou>.
+
+<http://www.wikidata.org/entity/Q9064394>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Hierro_(Logroño)>.
+
+<http://www.wikidata.org/entity/Q9056513>
+        owl:sameAs <http://es.dbpedia.org/resource/Pasarela_Pedro_Arrupe>.
+
+<http://www.wikidata.org/entity/Q9064406>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Miraflores_(Bilbao)>.
+
+<http://www.wikidata.org/entity/Q9064441>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Sánchez_Fabrés>.
+
+<http://www.wikidata.org/entity/Q9064435>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_San_Pablo_(Cuenca)>.
+
+<http://www.wikidata.org/entity/Q6464357>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_la_Constitución_de_1812>.
+
+<http://www.wikidata.org/entity/Q6465160>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_La_Salve>.
+
+<http://www.wikidata.org/entity/Q9064361>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Nuevo_(Lérida)>.
+
+<http://www.wikidata.org/entity/Q7361603>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_romano_(Talamanca_de_Jarama)>.
+
+<http://www.wikidata.org/entity/Q7924452>
+        owl:sameAs <http://es.dbpedia.org/resource/Viaducto_de_Montabliz>.
+
+<http://www.wikidata.org/entity/Q9064380>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Bruguer>.
+
+<http://www.wikidata.org/entity/Q9064446>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Trespuentes>.
+
+<http://www.wikidata.org/entity/Q9064357>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Lubiáns>.
+
+<http://www.wikidata.org/entity/Q17182065>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_del_Rey_(Bausén)>.
+
+<http://www.wikidata.org/entity/Q16623016>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_ferroviario_de_Montijo>.
+
+<http://www.wikidata.org/entity/Q17234436>
+        owl:sameAs <http://es.dbpedia.org/resource/Viaducto_de_Osormort>.
+
+<http://www.wikidata.org/entity/Q16616733>
+        owl:sameAs <http://es.dbpedia.org/resource/Pasarela_del_Malecón>.
+
+<http://www.wikidata.org/entity/Q16623048>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_romano_de_Cáparra>.
+
+<http://www.wikidata.org/entity/Q16623061>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Viveros>.
+
+<http://www.wikidata.org/entity/Q14664860>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_la_Galvanera>.
+
+<http://www.wikidata.org/entity/Q16623012>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Eiffel_(Láchar)>.
+
+<http://www.wikidata.org/entity/Q17331047>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Albalat_sobre_el_Júcar>.
+
+<http://www.wikidata.org/entity/Q15627806>
+        owl:sameAs <http://es.dbpedia.org/resource/Pont_Nou_sobre_el_río_Mijares>.
+
+<http://www.wikidata.org/entity/Q16623082>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_San_Bernardo_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q17255200>
+        owl:sameAs <http://es.dbpedia.org/resource/Viaducto_de_las_Fosas>.
+
+<http://www.wikidata.org/entity/Q16623074>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Deustamben>.
+
+<http://www.wikidata.org/entity/Q21003498>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_los_Tres_Árboles>.
+
+<http://www.wikidata.org/entity/Q20901350>
+        owl:sameAs <http://es.dbpedia.org/resource/Viaducto_del_Lladoner>.
+
+<http://www.wikidata.org/entity/Q20968287>
+        owl:sameAs <http://es.dbpedia.org/resource/Acueducto_del_Puente_de_San_José_de_Montanejos>.
+
+<http://www.wikidata.org/entity/Q19845717>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_la_Rabia>.
+
+<http://www.wikidata.org/entity/Q19883146>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_del_Milenio_(Orense)>.
+
+<http://www.wikidata.org/entity/Q20493009>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Frank_Gehry>.
+
+<http://www.wikidata.org/entity/Q20545444>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Castrelos>.
+
+<http://www.wikidata.org/entity/Q20545558>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_del_Eume>.
+
+<http://www.wikidata.org/entity/Q20872368>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_los_Poetas>.
+
+<http://www.wikidata.org/entity/Q19368178>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Viejo_(Onteniente)>.
+
+<http://www.wikidata.org/entity/Q20108692>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_gótico_de_Vilumara>.
+
+<http://www.wikidata.org/entity/Q20018854>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Cid_(Calanda)>.
+
+<http://www.wikidata.org/entity/Q20492196>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_la_Cárcel>.
+
+<http://www.wikidata.org/entity/Q20018855>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Madera>.
+
+<http://www.wikidata.org/entity/Q20545460>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Cernadela>.
+
+<http://www.wikidata.org/entity/Q17626305>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_romano_sobre_el_río_Iregua>.
+
+<http://www.wikidata.org/entity/Q17562191>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_hierro_sobre_el_Júcar_entre_Alcira_y_Carcagente>.
+
+<http://www.wikidata.org/entity/Q17626277>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Mantible>.
+
+<http://www.wikidata.org/entity/Q24941920>
+        owl:sameAs <http://es.dbpedia.org/resource/Pasarela_de_Sant_Pere>.
+
+<http://www.wikidata.org/entity/Q24036576>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Lata>.
+
+<http://www.wikidata.org/entity/Q25474173>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Deva-Motrico>.
+
+<http://www.wikidata.org/entity/Q24016095>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_los_Gallegos>.
+
+<http://www.wikidata.org/entity/Q24941687>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Solía>.
+
+<http://www.wikidata.org/entity/Q24016059>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_del_Miramar_(Blimea)>.
+
+<http://www.wikidata.org/entity/Q26878968>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Viejo_(Talavera_de_la_Reina)>.
+
+<http://www.wikidata.org/entity/Q29363723>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Torrijo_de_la_Cañada>.
+
+<http://www.wikidata.org/entity/Q27652581>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Liérganes>.
+
+<http://www.wikidata.org/entity/Q27077944>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_del_Tiétar>.
+
+<http://www.wikidata.org/entity/Q28501292>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Guerrero>.
+
+<http://www.wikidata.org/entity/Q29921663>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Cordovilla_la_Real>.
+
+<http://www.wikidata.org/entity/Q30014655>
+        owl:sameAs <http://es.dbpedia.org/resource/Viaducto_de_Tosa>.
+
+<http://www.wikidata.org/entity/Q28503380>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Arrobi>.
+
+<http://www.wikidata.org/entity/Q28501804>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Salime>.
+
+<http://www.wikidata.org/entity/Q29460539>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_romano_(La_Iglesuela)>.
+
+<http://www.wikidata.org/entity/Q37727753>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_románico_de_Roda_de_Isábena>.
+
+<http://www.wikidata.org/entity/Q42448083>
+        owl:sameAs <http://es.dbpedia.org/resource/Pontecilla_(Talavera_la_Real)>.
+
+<http://www.wikidata.org/entity/Q35536061>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_del_Mineral>.
+
+<http://www.wikidata.org/entity/Q41127443>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Almaraz>.
+
+<http://www.wikidata.org/entity/Q41125298>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_del_Cardenal>.
+
+<http://www.wikidata.org/entity/Q42154698>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_del_General_Marina>.
+
+<http://www.wikidata.org/entity/Q30917708>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Hierro_de_la_Riera_de_Aubi>.
+
+<http://www.wikidata.org/entity/Q41113794>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_del_Arzobispo_(puente)>.
+
+<http://www.wikidata.org/entity/Q42434779>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Viejo_(Talavera_la_Real)>.
+
+<http://www.wikidata.org/entity/Q42889732>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_María_Cristina_(Alcoy)>.
+
+<http://www.wikidata.org/entity/Q30909068>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Can_Peixauet>.
+
+<http://www.wikidata.org/entity/Q39082019>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Cristinas_(Pajaroncillo)>.
+
+<http://www.wikidata.org/entity/Q30908972>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_románico_de_Queralt>.
+
+<http://www.wikidata.org/entity/Q38693833>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_los_Peregrinos_(Canfranc)>.
+
+<http://www.wikidata.org/entity/Q54241150>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Puente_(Torres)>.
+
+<http://www.wikidata.org/entity/Q60827446>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Villalonquéjar>.
+
+<http://www.wikidata.org/entity/Q60827539>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Roa-Riaza>.
+
+<http://www.wikidata.org/entity/Q58826930>
+        owl:sameAs <http://es.dbpedia.org/resource/Antiguo_puente_de_San_Pablo_(Cuenca)>.
+
+<http://www.wikidata.org/entity/Q60770796>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Arlanzón>.
+
+<http://www.wikidata.org/entity/Q60827553>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Castilla>.
+
+<http://www.wikidata.org/entity/Q60853102>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Frías>.
+
+<http://www.wikidata.org/entity/Q60853107>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Vadocondes_(siglo_XIX)>.
+
+<http://www.wikidata.org/entity/Q61998911>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_los_Imposibles>.
+
+<http://www.wikidata.org/entity/Q60853027>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Peral_de_Arlanza_I>.
+
+<http://www.wikidata.org/entity/Q59515072>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Coruña_del_Conde>.
+
+<http://www.wikidata.org/entity/Q60853092>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Pampliega>.
+
+<http://www.wikidata.org/entity/Q61695003>
+        owl:sameAs <http://es.dbpedia.org/resource/Viaducto_de_Erques>.
+
+<http://www.wikidata.org/entity/Q59517353>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Puentedura>.
+
+<http://www.wikidata.org/entity/Q59537217>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_San_Pablo_(Burgos)>.
+
+<http://www.wikidata.org/entity/Q59521449>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Vadocondes>.
+
+<http://www.wikidata.org/entity/Q59484191>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Rodríguez_De_La_Borbolla>.
+
+<http://www.wikidata.org/entity/Q59521226>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Bessón>.
+
+<http://www.wikidata.org/entity/Q59537317>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Santa_María>.
+
+<http://www.wikidata.org/entity/Q56400790>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_del_Milenario>.
+
+<http://www.wikidata.org/entity/Q55755072>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Santa_Cruz_de_Moya>.
+
+<http://www.wikidata.org/entity/Q55089292>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Verde_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q97623711>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_las_Donadas>.
+
+<http://www.wikidata.org/entity/Q96483008>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Ricovanca>.
+
+<http://www.wikidata.org/entity/Q97620126>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Hierro_(San_Fernando)>.
+
+<http://www.wikidata.org/entity/Q97619107>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_San_Miguel_(Arcos_de_la_Frontera)>.
+
+<http://www.wikidata.org/entity/Q96983676>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Puente_del_Congosto>.
+
+<http://www.wikidata.org/entity/Q97619829>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_hierro_de_La_Barca>.
+
+<http://www.wikidata.org/entity/Q48998149>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_romano_de_Cercedilla>.
+
+<http://www.wikidata.org/entity/Q50300277>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_San_Ignacio-Zorrozaurre>.
+
+<http://www.wikidata.org/entity/Q47766587>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Valencia_de_Don_Juan>.
+
+<http://www.wikidata.org/entity/Q47766385>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_del_VIII_Centenario>.
+
+<http://www.wikidata.org/entity/Q43086566>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_la_Pechina>.
+
+<http://www.wikidata.org/entity/Q43099202>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_San_Roque>.
+
+<http://www.wikidata.org/entity/Q84701417>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_medieval_de_Auñón>.
+
+<http://www.wikidata.org/entity/Q68841487>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_las_Cabras>.
+
+<http://www.wikidata.org/entity/Q76823905>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Otazu>.
+
+<http://www.wikidata.org/entity/Q69503192>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Viejo_de_Molina_de_Aragón>.
+
+<http://www.wikidata.org/entity/Q98060725>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Cascabelero>.
+
+<http://www.wikidata.org/entity/Q98057758>
+        owl:sameAs <http://es.dbpedia.org/resource/Acueducto_y_aljibe_de_Las_Cumbres>.
+
+<http://www.wikidata.org/entity/Q98060377>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Gurugú>.
+
+<http://www.wikidata.org/entity/Q97630143>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Andújar>.
+
+<http://www.wikidata.org/entity/Q97625652>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_romano_de_Córdoba>.
+
+<http://www.wikidata.org/entity/Q97628376>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Túnel_Naya>.
+
+<http://www.wikidata.org/entity/Q98503500>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Manzano>.
+
+<http://www.wikidata.org/entity/Q98502685>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_La_Cartuja>.
+
+<http://www.wikidata.org/entity/Q98503546>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Niebla>.
+
+<http://www.wikidata.org/entity/Q98503554>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_la_Tavirona>.
+
+<http://www.wikidata.org/entity/Q98503376>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_ferroviario_sobre_la_rivera_del_Jarrama>.
+
+<http://www.wikidata.org/entity/Q98502896>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Salomón>.
+
+<http://www.wikidata.org/entity/Q98503494>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Cachán>.
+
+<http://www.wikidata.org/entity/Q98503530>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Manantiales>.
+
+<http://www.wikidata.org/entity/Q110258305>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_del_Conde_(río_Almonte)>.
+
+<http://www.wikidata.org/entity/Q98505055>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Povedano>.
+
+<http://www.wikidata.org/entity/Q108128256>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Manzanal_del_Barco_de_1933>.
+
+<http://www.wikidata.org/entity/Q108367391>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Castrotorafe>.
+
+<http://www.wikidata.org/entity/Q108150905>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_la_Pesquera>.
+
+<http://www.wikidata.org/entity/Q108197217>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_antiguo_de_Ricobayo>.
+
+<http://www.wikidata.org/entity/Q108588062>
+        owl:sameAs <http://es.dbpedia.org/resource/Pontarrón_de_los_Garabíos>.
+
+<http://www.wikidata.org/entity/Q108138532>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Manzanal_del_Barco_de_2007>.
+
+<http://www.wikidata.org/entity/Q107342392>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Puente_(Alhama_de_Almería)>.
+
+<http://www.wikidata.org/entity/Q112731177>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_la_Mesta>.
+
+<http://www.wikidata.org/entity/Q104641953>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Fraga>.
+
+<http://www.wikidata.org/entity/Q106489853>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Cruzul>.
+
+<http://www.wikidata.org/entity/Q104230782>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_San_Patricio>.
+
+<http://www.wikidata.org/entity/Q119241694>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Genil>.
+
+<http://www.wikidata.org/entity/Q121087178>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_La_Perra>.
+
+<http://www.wikidata.org/entity/Q115942378>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Almada>.
+
+<http://www.wikidata.org/entity/Q114889779>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Sarandón>.
+
+<http://www.wikidata.org/entity/Q115771644>
+        owl:sameAs <http://es.dbpedia.org/resource/Acueducto_de_Abánades>.
+
+<http://www.wikidata.org/entity/Q116001065>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Carrecalzada>.
+
+<http://www.wikidata.org/entity/Q115920731>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_la_Mesta_(río_Huso)>.
+
+<http://www.wikidata.org/entity/Q123732544>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_La_Barca>.
+
+<http://www.wikidata.org/entity/Q124553252>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_del_VII_Centenario>.
+
+<http://www.wikidata.org/entity/Q1139113>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_de_Nuestra_Señora_de_Estíbaliz>.
+
+<http://www.wikidata.org/entity/Q2167317>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_de_Loyola>.
+
+<http://www.wikidata.org/entity/Q458166>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_de_Cura>.
+
+<http://www.wikidata.org/entity/Q63368>
+        owl:sameAs <http://es.dbpedia.org/resource/Real_Santuario_del_Santísimo_Cristo_de_La_Laguna>.
+
+<http://www.wikidata.org/entity/Q1018048>
+        owl:sameAs <http://es.dbpedia.org/resource/Covadonga>.
+
+<http://www.wikidata.org/entity/Q205136>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_Santiago_de_Compostela>.
+
+<http://www.wikidata.org/entity/Q124157522>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_de_Nuestra_Señora_la_Virgen_de_la_Aliaga>.
+
+<http://www.wikidata.org/entity/Q5488842>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_de_Misericordia_(Borja)>.
+
+<http://www.wikidata.org/entity/Q5681865>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_de_la_Tuiza>.
+
+<http://www.wikidata.org/entity/Q5912900>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_de_los_Gitanos_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q6121594>
+        owl:sameAs <http://es.dbpedia.org/resource/Real_Santuario_de_la_Virgen_de_la_Salud>.
+
+<http://www.wikidata.org/entity/Q3819287>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_de_Nuestra_Señora_de_Bellmunt>.
+
+<http://www.wikidata.org/entity/Q5397362>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_Virgen_de_la_Peña_(Congosto)>.
+
+<http://www.wikidata.org/entity/Q9074431>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_de_San_Pascual_Baylón>.
+
+<http://www.wikidata.org/entity/Q6121600>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_de_la_Virgen_del_Campo_(Camarillas)>.
+
+<http://www.wikidata.org/entity/Q12390598>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_de_Nuestra_Señora_de_la_Esclavitud>.
+
+<http://www.wikidata.org/entity/Q9074414>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_de_Nuestra_Señora_de_las_Ermitas_(Orense)>.
+
+<http://www.wikidata.org/entity/Q12400104>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_de_San_Andrés_de_Teixido>.
+
+<http://www.wikidata.org/entity/Q6121540>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_de_Nuestra_Señora_de_los_Milagros_(Orense)>.
+
+<http://www.wikidata.org/entity/Q16629035>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_de_la_Virgen_de_la_Salud_(Lieres)>.
+
+<http://www.wikidata.org/entity/Q2882352>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_de_la_Virgen_del_Cid>.
+
+<http://www.wikidata.org/entity/Q3752768>
+        owl:sameAs <http://es.dbpedia.org/resource/Virgen_de_Nuria>.
+
+<http://www.wikidata.org/entity/Q5836521>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_de_Nuestra_Señora_de_la_Muela_(Corral_de_Almaguer)>.
+
+<http://www.wikidata.org/entity/Q66605006>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_de_Nuestra_Señora_de_las_Ermitas>.
+
+<http://www.wikidata.org/entity/Q90417247>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_de_Nuestra_Señora_de_Escolumbe>.
+
+<http://www.wikidata.org/entity/Q20126659>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_de_la_Virgen_de_Arcos>.
+
+<http://www.wikidata.org/entity/Q21569139>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_de_la_Fontcalda>.
+
+<http://www.wikidata.org/entity/Q43167098>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_de_la_Montaña>.
+
+<http://www.wikidata.org/entity/Q20977832>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_de_Nuestra_Señora_de_la_Peña_(Calatayud)>.
+
+<http://www.wikidata.org/entity/Q30021354>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_de_Nuestra_Señora_de_El_Pueyo>.
+
+<http://www.wikidata.org/entity/Q97632737>
+        owl:sameAs <http://es.dbpedia.org/resource/Columbario_romano_del_Cortijo_del_Moro_(Benalauría)>.
+
+<http://www.wikidata.org/entity/Q26197883>
+        owl:sameAs <http://es.dbpedia.org/resource/Columbario_romano_Antoniano_Rufo>.
+
+<http://www.wikidata.org/entity/Q25340774>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Monje>.
+
+<http://www.wikidata.org/entity/Q5818437>
+        owl:sameAs <http://es.dbpedia.org/resource/Edificio_del_reloj_(Santibáñez_de_Béjar)>.
+
+<http://www.wikidata.org/entity/Q18325508>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Reloj_(Barceloneta)>.
+
+<http://www.wikidata.org/entity/Q6150677>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Reloj_de_Peñafiel>.
+
+<http://www.wikidata.org/entity/Q6150671>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Reloj_(Ayerbe)>.
+
+<http://www.wikidata.org/entity/Q6509815>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_Nueva>.
+
+<http://www.wikidata.org/entity/Q7724853>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Reloj_(Gijón)>.
+
+<http://www.wikidata.org/entity/Q6150674>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Reloj_(Lastres)>.
+
+<http://www.wikidata.org/entity/Q16641757>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Reloj_(Zahara_de_la_Sierra)>.
+
+<http://www.wikidata.org/entity/Q6150676>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Reloj_(Luanco)>.
+
+<http://www.wikidata.org/entity/Q27230616>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Reloj_(Ateca)>.
+
+<http://www.wikidata.org/entity/Q43079001>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Reloj_(Belchite_Viejo)>.
+
+<http://www.wikidata.org/entity/Q55848226>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Reloj_(Jaca)>.
+
+<http://www.wikidata.org/entity/Q3397886>
+        owl:sameAs <http://es.dbpedia.org/resource/Fachada_de_las_Platerías>.
+
+<http://www.wikidata.org/entity/Q22970003>
+        owl:sameAs <http://es.dbpedia.org/resource/Fachada_de_la_Universidad_de_Salamanca>.
+
+<http://www.wikidata.org/entity/Q6033027>
+        owl:sameAs <http://es.dbpedia.org/resource/Muro_de_la_Parroquieta_de_la_Seo>.
+
+<http://www.wikidata.org/entity/Q5869808>
+        owl:sameAs <http://es.dbpedia.org/resource/Frontispicio_de_la_Seo>.
+
+<http://www.wikidata.org/entity/Q5836136>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Lázaro_(Plasencia)>.
+
+<http://www.wikidata.org/entity/Q5836151>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Miguel_(Olea)>.
+
+<http://www.wikidata.org/entity/Q5836162>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Miguel_Arcángel_(San_Cristóbal_de_La_Laguna)>.
+
+<http://www.wikidata.org/entity/Q5836166>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Miguel_Arcángel_(Val_de_la_Sabina)>.
+
+<http://www.wikidata.org/entity/Q5836145>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Mamés_(Campo_de_Cuéllar)>.
+
+<http://www.wikidata.org/entity/Q5836149>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Matías_(Castilblanco)>.
+
+<http://www.wikidata.org/entity/Q5836177>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Pedro_del_Barco>.
+
+<http://www.wikidata.org/entity/Q5836148>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Marcos_(Narros_de_Cuéllar)>.
+
+<http://www.wikidata.org/entity/Q5836172>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Miguel_de_Párraces>.
+
+<http://www.wikidata.org/entity/Q5836138>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Macario_(Andorra)>.
+
+<http://www.wikidata.org/entity/Q5836126>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Juan_Gregorio_Ostiense_(Tudela)>.
+
+<http://www.wikidata.org/entity/Q5836156>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Miguel_(San_Vicente_de_Labuerda)>.
+
+<http://www.wikidata.org/entity/Q5836250>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Vicente_(Lucena_del_Cid)>.
+
+<http://www.wikidata.org/entity/Q5836350>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Águeda_(Villalba_del_Alcor)>.
+
+<http://www.wikidata.org/entity/Q5836276>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Bárbara_(Muro_de_Roda)>.
+
+<http://www.wikidata.org/entity/Q5836243>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Sebastián_(Villanueva_de_Córdoba)>.
+
+<http://www.wikidata.org/entity/Q5836186>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Pelayo_y_San_Isidoro>.
+
+<http://www.wikidata.org/entity/Q5836188>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Polo_(Aldea_del_Fresno)>.
+
+<http://www.wikidata.org/entity/Q5836226>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Sebastián_(Granada)>.
+
+<http://www.wikidata.org/entity/Q5836241>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Sebastián_(Sanlúcar_de_Barrameda)>.
+
+<http://www.wikidata.org/entity/Q5836298>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Clara_(El_Puerto_de_Santa_María)>.
+
+<http://www.wikidata.org/entity/Q5836220>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Sebastián_(Carenas)>.
+
+<http://www.wikidata.org/entity/Q5836224>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Sebastián_(Fernán_Núñez)>.
+
+<http://www.wikidata.org/entity/Q5836265>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Ana_(Santo_Domingo-Caudilla)>.
+
+<http://www.wikidata.org/entity/Q5836269>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Ana_(Valverde_de_Mérida)>.
+
+<http://www.wikidata.org/entity/Q5836334>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_María_de_la_Huerta>.
+
+<http://www.wikidata.org/entity/Q5836229>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Sebastián_(Huelma)>.
+
+<http://www.wikidata.org/entity/Q5836303>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Cristina_(Arcones)>.
+
+<http://www.wikidata.org/entity/Q5836307>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Eulalia_(Almonaster_la_Real)>.
+
+<http://www.wikidata.org/entity/Q5836192>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Pío_V_(Adamuz)>.
+
+<http://www.wikidata.org/entity/Q5836237>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Sebastián_(Puebla_de_Vallbona)>.
+
+<http://www.wikidata.org/entity/Q5836245>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Telmo_(Jerez_de_la_Frontera)>.
+
+<http://www.wikidata.org/entity/Q5836259>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Ana_(Alfambra)>.
+
+<http://www.wikidata.org/entity/Q5836283>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Bárbara_(Soria)>.
+
+<http://www.wikidata.org/entity/Q5836346>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Quiteria_(Argente)>.
+
+<http://www.wikidata.org/entity/Q5836194>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Rafael_(Teguise)>.
+
+<http://www.wikidata.org/entity/Q5836214>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Saturio_(Soria)>.
+
+<http://www.wikidata.org/entity/Q5836233>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Sebastián_(Mondéjar)>.
+
+<http://www.wikidata.org/entity/Q5836252>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Visorio_(San_Vicente_de_Labuerda)>.
+
+<http://www.wikidata.org/entity/Q5836271>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Brígida_(Sanlúcar_de_Barrameda)>.
+
+<http://www.wikidata.org/entity/Q5836199>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Roque_(Arcones)>.
+
+<http://www.wikidata.org/entity/Q5836201>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Roque_(Blancas)>.
+
+<http://www.wikidata.org/entity/Q5836218>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Sebastián_(Ayamonte)>.
+
+<http://www.wikidata.org/entity/Q5836231>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Sebastián_(Mairena_del_Alcor)>.
+
+<http://www.wikidata.org/entity/Q5836248>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Telmo_(Santa_Cruz_de_Tenerife)>.
+
+<http://www.wikidata.org/entity/Q5836292>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Catalina_(Hinojosa)>.
+
+<http://www.wikidata.org/entity/Q5836331>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_María_de_la_Blanca_(Rubalcaba)>.
+
+<http://www.wikidata.org/entity/Q5836337>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_María_de_la_Vega_(Toro)>.
+
+<http://www.wikidata.org/entity/Q5836181>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Pelayo_(Perazancas)>.
+
+<http://www.wikidata.org/entity/Q5836197>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Román_de_Moroso>.
+
+<http://www.wikidata.org/entity/Q5836205>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Roque_(Sanlúcar_de_Barrameda)>.
+
+<http://www.wikidata.org/entity/Q5836216>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Sebastián_(Arroyomolinos)>.
+
+<http://www.wikidata.org/entity/Q5836235>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Sebastián_(Montehermoso)>.
+
+<http://www.wikidata.org/entity/Q5836305>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Cruz_(Tudela)>.
+
+<http://www.wikidata.org/entity/Q5836343>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_María_del_Monte>.
+
+<http://www.wikidata.org/entity/Q5835964>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_la_Caridad_(Tindaya)>.
+
+<http://www.wikidata.org/entity/Q5835968>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_la_Estrella_(Toledo)>.
+
+<http://www.wikidata.org/entity/Q5836024>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_del_Val_(Alcalá_de_Henares)>.
+
+<http://www.wikidata.org/entity/Q5836031>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Agustín_(San_Agustín)>.
+
+<http://www.wikidata.org/entity/Q5835997>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_los_Remedios_(Zamora)>.
+
+<http://www.wikidata.org/entity/Q5836005>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_del_Cubillo>.
+
+<http://www.wikidata.org/entity/Q5836010>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_del_Mirón>.
+
+<http://www.wikidata.org/entity/Q5836124>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Juan_Bautista_(Palencia)>.
+
+<http://www.wikidata.org/entity/Q5835990>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_los_Remedios_(Colmenar_Viejo)>.
+
+<http://www.wikidata.org/entity/Q5835958>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_Regla_(Santa_Cruz_de_Tenerife)>.
+
+<http://www.wikidata.org/entity/Q5835960>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_Rihondo>.
+
+<http://www.wikidata.org/entity/Q5836022>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_del_Soto_(Revenga)>.
+
+<http://www.wikidata.org/entity/Q5836047>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Antonio_Abad_(Las_Palmas_de_Gran_Canaria)>.
+
+<http://www.wikidata.org/entity/Q5836085>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Felipe_y_Santiago>.
+
+<http://www.wikidata.org/entity/Q5836120>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Juan_Bautista_(Coria_del_Río)>.
+
+<http://www.wikidata.org/entity/Q5835962>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_la_Asunción_(Caloca)>.
+
+<http://www.wikidata.org/entity/Q5835954>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_Piedras_Albas_(El_Almendro)>.
+
+<http://www.wikidata.org/entity/Q5836033>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Agustín_(Tefía)>.
+
+<http://www.wikidata.org/entity/Q5836053>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Antón_(La_Nave)>.
+
+<http://www.wikidata.org/entity/Q5836055>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Antón_(Villena)>.
+
+<http://www.wikidata.org/entity/Q5836041>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Antonio_(Montehermoso)>.
+
+<http://www.wikidata.org/entity/Q5836049>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Antonio_de_Padua_(Robledo_de_Chavela)>.
+
+<http://www.wikidata.org/entity/Q5835999>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_del_Amparo_(Cumbres_Mayores)>.
+
+<http://www.wikidata.org/entity/Q5836001>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_del_Canto>.
+
+<http://www.wikidata.org/entity/Q5836019>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_del_Soto_(La_Aldehuela)>.
+
+<http://www.wikidata.org/entity/Q5836044>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Antonio_Abad_(Alcoy)>.
+
+<http://www.wikidata.org/entity/Q5835970>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_la_Lastra>.
+
+<http://www.wikidata.org/entity/Q5835978>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_la_Torre>.
+
+<http://www.wikidata.org/entity/Q5835981>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_las_Cuevas_(Sanlúcar_de_Barrameda)>.
+
+<http://www.wikidata.org/entity/Q5836059>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Bartolomé_(Bergua)>.
+
+<http://www.wikidata.org/entity/Q5836101>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Isidro_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q5835983>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_las_Fuentes>.
+
+<http://www.wikidata.org/entity/Q5836027>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_Valparaíso_(Santibáñez_de_Béjar)>.
+
+<http://www.wikidata.org/entity/Q5836036>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Ambrosio>.
+
+<http://www.wikidata.org/entity/Q5836038>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Antonio_(Almazora)>.
+
+<http://www.wikidata.org/entity/Q5836073>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Blas_(Sanlúcar_de_Barrameda)>.
+
+<http://www.wikidata.org/entity/Q5836082>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Diego_del_Monte_(San_Cristóbal_de_La_Laguna)>.
+
+<http://www.wikidata.org/entity/Q5836088>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Formerio_(Pangua)>.
+
+<http://www.wikidata.org/entity/Q5836095>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Gregorio_(Villanueva_de_Córdoba)>.
+
+<http://www.wikidata.org/entity/Q5836110>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Joaquín_(Aibar)>.
+
+<http://www.wikidata.org/entity/Q5836014>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_del_Río_(Talaván)>.
+
+<http://www.wikidata.org/entity/Q5836061>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Bartolomé_(Comunidad_de_Herrera_de_Soria,_Nafría_de_Ucero_y_Ucero)>.
+
+<http://www.wikidata.org/entity/Q5836063>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Bartolomé_y_San_Blas_(Montehermoso)>.
+
+<http://www.wikidata.org/entity/Q5836108>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Isidro_Labrador_(La_Salada)>.
+
+<http://www.wikidata.org/entity/Q5836090>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Frutos>.
+
+<http://www.wikidata.org/entity/Q5836661>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Santísimo_Cristo_de_la_Veracruz_(Consuegra)>.
+
+<http://www.wikidata.org/entity/Q5836650>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Santo_Ángel_de_la_Guarda>.
+
+<http://www.wikidata.org/entity/Q5836675>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_mozárabe_de_la_Virgen_de_la_Cabeza>.
+
+<http://www.wikidata.org/entity/Q5836589>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_los_Santos_Mártires_(Medina-Sidonia)>.
+
+<http://www.wikidata.org/entity/Q5836593>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Calvario_(Icod_de_los_Vinos)>.
+
+<http://www.wikidata.org/entity/Q5836625>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Cristo_del_Llano_(Baños_de_la_Encina)>.
+
+<http://www.wikidata.org/entity/Q5836654>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Santísimo_Cristo_de_Gracia>.
+
+<http://www.wikidata.org/entity/Q5836641>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Santo_Cristo_del_Humilladero_(Villalba_de_los_Alcores)>.
+
+<http://www.wikidata.org/entity/Q5836585>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_los_Pepones>.
+
+<http://www.wikidata.org/entity/Q5836656>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Santísimo_Cristo_de_Torre_Marte_(Astudillo)>.
+
+<http://www.wikidata.org/entity/Q5836648>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Santo_Ángel_Custodio>.
+
+<http://www.wikidata.org/entity/Q5836644>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Santo_Rostro_(Honrubia)>.
+
+<http://www.wikidata.org/entity/Q5836591>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Calvario_(Fernán_Núñez)>.
+
+<http://www.wikidata.org/entity/Q5836598>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Carmen_(Campanario)>.
+
+<http://www.wikidata.org/entity/Q5836619>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Cristo_de_los_Remedios>.
+
+<http://www.wikidata.org/entity/Q5836652>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Santísimo_Cristo_(Miguelturra)>.
+
+<http://www.wikidata.org/entity/Q5836577>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_del_Rosario_de_Pastores>.
+
+<http://www.wikidata.org/entity/Q5836582>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_los_Mártires_(Campanario)>.
+
+<http://www.wikidata.org/entity/Q5836616>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Cristo_de_los_Doctrinos>.
+
+<http://www.wikidata.org/entity/Q5836633>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Pópul>.
+
+<http://www.wikidata.org/entity/Q5836580>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_del_Valle_(Cenicero)>.
+
+<http://www.wikidata.org/entity/Q5836622>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Cristo_del_Humilladero_(Gata)>.
+
+<http://www.wikidata.org/entity/Q5836671>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Tremedal_(Tronchón)>.
+
+<http://www.wikidata.org/entity/Q8777258>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_de_la_Soledad_(Badajoz)>.
+
+<http://www.wikidata.org/entity/Q8777282>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Calvario_(Canet_lo_Roig)>.
+
+<http://www.wikidata.org/entity/Q8777227>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Divina_Aurora_(Benejama)>.
+
+<http://www.wikidata.org/entity/Q8777261>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_del_Castillo_(Rivert)>.
+
+<http://www.wikidata.org/entity/Q8777231>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Divina_Pastora_(Teulada)>.
+
+<http://www.wikidata.org/entity/Q8777248>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_de_la_Fuente_(Castellfort)>.
+
+<http://www.wikidata.org/entity/Q8777271>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_del_Sargar>.
+
+<http://www.wikidata.org/entity/Q8777277>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_las_Santas_Justa_y_Rufina_(Agost)>.
+
+<http://www.wikidata.org/entity/Q5836566>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_del_Pinarejo_(Aldeanueva_del_Codonal)>.
+
+<http://www.wikidata.org/entity/Q5836569>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_del_Plu_(Marcilla)>.
+
+<http://www.wikidata.org/entity/Q5836456>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_del_Pueyo>.
+
+<http://www.wikidata.org/entity/Q5836509>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Archidona>.
+
+<http://www.wikidata.org/entity/Q5836502>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Soledad_(Fuente_el_Saz_de_Jarama)>.
+
+<http://www.wikidata.org/entity/Q5836555>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_del_Mar_(Santander)>.
+
+<http://www.wikidata.org/entity/Q5836559>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_del_Pilar_(El_Castellar)>.
+
+<http://www.wikidata.org/entity/Q5836486>
+        owl:sameAs <http://es.dbpedia.org/resource/Monasterio_de_la_Monjía>.
+
+<http://www.wikidata.org/entity/Q5836543>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_de_los_Enebrales_(Tamajón)>.
+
+<http://www.wikidata.org/entity/Q5836549>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_de_los_Remedios_(Canena)>.
+
+<http://www.wikidata.org/entity/Q5836459>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Zamarrilla>.
+
+<http://www.wikidata.org/entity/Q5836473>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Fuensanta_(Coín)>.
+
+<http://www.wikidata.org/entity/Q5836479>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Inmaculada_Concepción_(La_Algaba)>.
+
+<http://www.wikidata.org/entity/Q5836497>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Santa_Cruz_(Roquetas_de_Mar)>.
+
+<http://www.wikidata.org/entity/Q5836523>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_de_la_Oliva_(Patones)>.
+
+<http://www.wikidata.org/entity/Q5836511>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_La_Jara_de_Pozoblanco>.
+
+<http://www.wikidata.org/entity/Q5836492>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Purísima_Concepción_(El_Esparragal)>.
+
+<http://www.wikidata.org/entity/Q5836506>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Soledad_(Somaén)>.
+
+<http://www.wikidata.org/entity/Q5836531>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_de_la_Pradas_(San_Agustín)>.
+
+<http://www.wikidata.org/entity/Q5836561>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_del_Pilar_(Hinojosa_de_Jarque)>.
+
+<http://www.wikidata.org/entity/Q5836504>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_la_Soledad_(Huelva)>.
+
+<http://www.wikidata.org/entity/Q5836453>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Torregarcía>.
+
+<http://www.wikidata.org/entity/Q5836475>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Ina>.
+
+<http://www.wikidata.org/entity/Q5836488>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Paz_(Cáceres)>.
+
+<http://www.wikidata.org/entity/Q5836494>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Sangre_(Castalla)>.
+
+<http://www.wikidata.org/entity/Q5836514>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_de_la_Calzada>.
+
+<http://www.wikidata.org/entity/Q5836461>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Candelaria_(Colmenar)>.
+
+<http://www.wikidata.org/entity/Q5836466>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Concepción_(Iniesta)>.
+
+<http://www.wikidata.org/entity/Q5836468>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Concepción_(San_Vicentejo)>.
+
+<http://www.wikidata.org/entity/Q5836499>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Santísima_Trinidad_(Fuentespina)>.
+
+<http://www.wikidata.org/entity/Q5836557>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_del_Pilar_(Andorra)>.
+
+<http://www.wikidata.org/entity/Q5836390>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Miguel_(Enviny)>.
+
+<http://www.wikidata.org/entity/Q8777107>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Miguel_de_Zuméchaga>.
+
+<http://www.wikidata.org/entity/Q8777138>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Vicente_de_Pospozuelo_(Fuentesoto)>.
+
+<http://www.wikidata.org/entity/Q8777118>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Pelayo_(Baquio)>.
+
+<http://www.wikidata.org/entity/Q8777197>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Margarita_(Peranera)>.
+
+<http://www.wikidata.org/entity/Q8777172>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Catalina_(Vergara)>.
+
+<http://www.wikidata.org/entity/Q8777126>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Roque_(Sot_de_Chera)>.
+
+<http://www.wikidata.org/entity/Q8777224>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santo_Tomé_(Plasencia)>.
+
+<http://www.wikidata.org/entity/Q8777135>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Vicente_Ferrer_(Teulada)>.
+
+<http://www.wikidata.org/entity/Q8777174>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Cruz_de_Olorde>.
+
+<http://www.wikidata.org/entity/Q8777215>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_María_de_Paretdelgada>.
+
+<http://www.wikidata.org/entity/Q5836679>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermitas_del_monte_Miral>.
+
+<http://www.wikidata.org/entity/Q6121593>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_de_la_Virgen_de_la_Luz_(Tarifa)>.
+
+<http://www.wikidata.org/entity/Q6946853>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Font_Santa_(Teulada)>.
+
+<http://www.wikidata.org/entity/Q8777084>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Joaquín_(Ademuz)>.
+
+<http://www.wikidata.org/entity/Q5911206>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Pedro_de_Echano>.
+
+<http://www.wikidata.org/entity/Q8009617>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_los_Santos>.
+
+<http://www.wikidata.org/entity/Q8777077>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Isidro_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q6121504>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_de_Nuestra_Señora_de_Alarcos>.
+
+<http://www.wikidata.org/entity/Q5909998>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Benito_(Porcuna)>.
+
+<http://www.wikidata.org/entity/Q6121600>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_de_la_Virgen_del_Campo_(Camarillas)>.
+
+<http://www.wikidata.org/entity/Q7415155>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Pedro_de_la_Mata_(Sonseca)>.
+
+<http://www.wikidata.org/entity/Q6007260>
+        owl:sameAs <http://es.dbpedia.org/resource/Mausoleo_romano_de_Abla>.
+
+<http://www.wikidata.org/entity/Q6121534>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_de_Nuestra_Señora_de_la_Sierra_(Cabra)>.
+
+<http://www.wikidata.org/entity/Q6150647>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Cerro_de_la_Ermita>.
+
+<http://www.wikidata.org/entity/Q6169628>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimientos_arqueológicos_del_Cerro_del_Espíritu_Santo>.
+
+<http://www.wikidata.org/entity/Q8273057>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Aventín_(Bonansa)>.
+
+<http://www.wikidata.org/entity/Q8777089>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Juan_(Marquínez)>.
+
+<http://www.wikidata.org/entity/Q5836677>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_y_Cortijo_de_Los_Manchones>.
+
+<http://www.wikidata.org/entity/Q6419435>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Berrús>.
+
+<http://www.wikidata.org/entity/Q6121514>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_de_Nuestra_Señora_de_Las_Fuentes>.
+
+<http://www.wikidata.org/entity/Q6430725>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Humilladero_(Calanda)>.
+
+<http://www.wikidata.org/entity/Q6430726>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Humilladero_(Guadalupe)>.
+
+<http://www.wikidata.org/entity/Q6150709>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_y_ermita_de_Castro_Rubio>.
+
+<http://www.wikidata.org/entity/Q8777065>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Antonio_(Alcalá_de_Chivert)>.
+
+<http://www.wikidata.org/entity/Q8777040>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_Talako_Ama>.
+
+<http://www.wikidata.org/entity/Q8777072>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Cristóbal_(Oveix)>.
+
+<http://www.wikidata.org/entity/Q337633>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Gregorio_(Benicarló)>.
+
+<http://www.wikidata.org/entity/Q337637>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Calvario_(Alcalá_de_Chivert)>.
+
+<http://www.wikidata.org/entity/Q665154>
+        owl:sameAs <http://es.dbpedia.org/resource/Santa_Cristina_de_Lena>.
+
+<http://www.wikidata.org/entity/Q760173>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Divina_Pastora_(Bétera)>.
+
+<http://www.wikidata.org/entity/Q977675>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Cortegana>.
+
+<http://www.wikidata.org/entity/Q507932>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_dels_Peixets>.
+
+<http://www.wikidata.org/entity/Q543667>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Santo_Cristo_de_la_Vera_Cruz_(Marbella)>.
+
+<http://www.wikidata.org/entity/Q536144>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_la_Natividad>.
+
+<http://www.wikidata.org/entity/Q1324080>
+        owl:sameAs <http://es.dbpedia.org/resource/Cristo_de_la_Luz>.
+
+<http://www.wikidata.org/entity/Q615025>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Roque_(Jérica)>.
+
+<http://www.wikidata.org/entity/Q142565>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_María_(Quintanilla_de_las_Viñas)>.
+
+<http://www.wikidata.org/entity/Q321855>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Juan_de_la_Montaña>.
+
+<http://www.wikidata.org/entity/Q544336>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Quiteria_(Almazora)>.
+
+<http://www.wikidata.org/entity/Q920742>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Isidro_(Alcalá_de_Henares)>.
+
+<http://www.wikidata.org/entity/Q924654>
+        owl:sameAs <http://es.dbpedia.org/resource/Nuestra_Señora_de_Turbidé>.
+
+<http://www.wikidata.org/entity/Q1126981>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Baudelio_de_Berlanga>.
+
+<http://www.wikidata.org/entity/Q2527632>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_de_Gracia_(El_Run)>.
+
+<http://www.wikidata.org/entity/Q3109752>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Antonio_de_la_Florida>.
+
+<http://www.wikidata.org/entity/Q1638981>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Roque_(Bonansa)>.
+
+<http://www.wikidata.org/entity/Q2894359>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Blas_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q1355978>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_La_Lugareja>.
+
+<http://www.wikidata.org/entity/Q1496690>
+        owl:sameAs <http://es.dbpedia.org/resource/Gaztelugache>.
+
+<http://www.wikidata.org/entity/Q2881078>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Ana_(Játiva)>.
+
+<http://www.wikidata.org/entity/Q1501595>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_de_Roca_Mora>.
+
+<http://www.wikidata.org/entity/Q2889762>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Antón_(Almería)>.
+
+<http://www.wikidata.org/entity/Q2220075>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Telmo_(Puerto_de_la_Cruz)>.
+
+<http://www.wikidata.org/entity/Q1657172>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Marcial_de_Limoges_(Femés)>.
+
+<http://www.wikidata.org/entity/Q1799014>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Piedad_de_Santa_Liestra>.
+
+<http://www.wikidata.org/entity/Q2882352>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_de_la_Virgen_del_Cid>.
+
+<http://www.wikidata.org/entity/Q5835928>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Navahonda>.
+
+<http://www.wikidata.org/entity/Q5690355>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Roque_(Sotoscueva)>.
+
+<http://www.wikidata.org/entity/Q5741881>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Coloma_(Albendiego)>.
+
+<http://www.wikidata.org/entity/Q5835901>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Castilleja_de_Talhara_(Benacazón)>.
+
+<http://www.wikidata.org/entity/Q5835908>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_El_Salto_al_Cielo>.
+
+<http://www.wikidata.org/entity/Q5835922>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Los_Cristos_(Mascaraque)>.
+
+<http://www.wikidata.org/entity/Q5679175>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Miguel_(Nules)>.
+
+<http://www.wikidata.org/entity/Q5791711>
+        owl:sameAs <http://es.dbpedia.org/resource/Cristo_del_Caloco>.
+
+<http://www.wikidata.org/entity/Q5741905>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_del_Val_(Pedro)>.
+
+<http://www.wikidata.org/entity/Q5809559>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Pedro_(Castellfort)>.
+
+<http://www.wikidata.org/entity/Q5835920>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Jesús_de_las_Penas>.
+
+<http://www.wikidata.org/entity/Q5835941>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_Guía_(Camas)>.
+
+<http://www.wikidata.org/entity/Q5835952>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_Piedraescrita>.
+
+<http://www.wikidata.org/entity/Q5835902>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Castilviejo>.
+
+<http://www.wikidata.org/entity/Q5835891>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Madre_de_Dios_(Montalbán_de_Córdoba)>.
+
+<http://www.wikidata.org/entity/Q5821142>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Calvario_(Cabra)>.
+
+<http://www.wikidata.org/entity/Q5788749>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Isidro_(Erdoizta)>.
+
+<http://www.wikidata.org/entity/Q5741889>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Miguel_(Gormaz)>.
+
+<http://www.wikidata.org/entity/Q5757792>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_del_Águila>.
+
+<http://www.wikidata.org/entity/Q5835943>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_Guía_(Sanlúcar_de_Barrameda)>.
+
+<http://www.wikidata.org/entity/Q5814813>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Elena_(Biescas)>.
+
+<http://www.wikidata.org/entity/Q5681575>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_María_Magdalena_(Épila)>.
+
+<http://www.wikidata.org/entity/Q5674369>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Santísimo_Cristo_del_Humilladero_(Colmenar_de_Oreja)>.
+
+<http://www.wikidata.org/entity/Q5748342>
+        owl:sameAs <http://es.dbpedia.org/resource/Capilla_de_San_Cristóbal_(Lepe)>.
+
+<http://www.wikidata.org/entity/Q5835930>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_Bonanza_(Sanlúcar_de_Barrameda)>.
+
+<http://www.wikidata.org/entity/Q5835894>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_Mausoleo_de_Llanes>.
+
+<http://www.wikidata.org/entity/Q5835904>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Consolación_(Herrera_del_Duque)>.
+
+<http://www.wikidata.org/entity/Q5835906>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_El_Buen_Jesús_(Tijarafe)>.
+
+<http://www.wikidata.org/entity/Q5835918>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Jesús_(Villanueva_de_Córdoba)>.
+
+<http://www.wikidata.org/entity/Q5835910>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_Gañarul>.
+
+<http://www.wikidata.org/entity/Q5835936>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_Gracia_(San_Cristóbal_de_La_Laguna)>.
+
+<http://www.wikidata.org/entity/Q5835896>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_rupestre_de_la_Oscuridad>.
+
+<http://www.wikidata.org/entity/Q5835939>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_Guadalupe_(La_Gomera)>.
+
+<http://www.wikidata.org/entity/Q5835899>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_Azitain>.
+
+<http://www.wikidata.org/entity/Q3561036>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Antonio_Abad_(Lucena_del_Cid)>.
+
+<http://www.wikidata.org/entity/Q5482748>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Cristo_de_la_Agonía_(Potríes)>.
+
+<http://www.wikidata.org/entity/Q5391222>
+        owl:sameAs <http://es.dbpedia.org/resource/Capilla_de_la_Santa_Cruz_de_Arriba_(Lucena_del_Puerto)>.
+
+<http://www.wikidata.org/entity/Q5391208>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Blas_(Cebolla)>.
+
+<http://www.wikidata.org/entity/Q5475317>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_los_Dolores_(Monflorite)>.
+
+<http://www.wikidata.org/entity/Q5476575>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita-convento_de_Nuestra_Señora_de_la_Estrella>.
+
+<http://www.wikidata.org/entity/Q5559057>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Quiteria_(Tudela)>.
+
+<http://www.wikidata.org/entity/Q5654037>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_María_de_Torremut>.
+
+<http://www.wikidata.org/entity/Q5493079>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_de_la_Cabeza_(Tudela)>.
+
+<http://www.wikidata.org/entity/Q5552822>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Purísima_Concepción_(Tuéjar)>.
+
+<http://www.wikidata.org/entity/Q3813365>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_del_Puerto_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q5409509>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Roque_(Vallanca)>.
+
+<http://www.wikidata.org/entity/Q5643184>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Isidro_(Miguel_Esteban)>.
+
+<http://www.wikidata.org/entity/Q5647176>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_del_Campo_(Argente)>.
+
+<http://www.wikidata.org/entity/Q5656956>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_Luciana>.
+
+<http://www.wikidata.org/entity/Q3573326>
+        owl:sameAs <http://es.dbpedia.org/resource/Monasterio_de_Santa_María_de_Iguácel>.
+
+<http://www.wikidata.org/entity/Q5117151>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santa_Eulalia_(La_Lloraza)>.
+
+<http://www.wikidata.org/entity/Q5392518>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Ana_(Chiclana_de_la_Frontera)>.
+
+<http://www.wikidata.org/entity/Q5561720>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_la_Soledad_(Soria)>.
+
+<http://www.wikidata.org/entity/Q5640136>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santiago_de_Sesoliveres>.
+
+<http://www.wikidata.org/entity/Q5391314>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Sebastián_(Moguer)>.
+
+<http://www.wikidata.org/entity/Q5396302>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Ana_(La_Torre_de_Esteban_Hambrán)>.
+
+<http://www.wikidata.org/entity/Q5392521>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santiago_(Marbella)>.
+
+<http://www.wikidata.org/entity/Q5659611>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Cristo_de_la_Providencia_(Anna)>.
+
+<http://www.wikidata.org/entity/Q3276585>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Cerro_de_los_Mártires>.
+
+<http://www.wikidata.org/entity/Q5391656>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_María_del_Espino>.
+
+<http://www.wikidata.org/entity/Q5645451>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_los_Tres_Juanes>.
+
+<http://www.wikidata.org/entity/Q5644650>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Calvario_(Montalbán_de_Córdoba)>.
+
+<http://www.wikidata.org/entity/Q5641954>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_los_Santos_Justo_y_Pastor_(Olleros_de_Pisuerga)>.
+
+<http://www.wikidata.org/entity/Q8777294>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Santo_Cristo_de_la_Salud_(Valdemoro)>.
+
+<http://www.wikidata.org/entity/Q8777296>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Santísimo_Cristo_del_Calvario>.
+
+<http://www.wikidata.org/entity/Q12258757>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_de_la_Virgen_de_Guadalupe_(Fuenterrabía)>.
+
+<http://www.wikidata.org/entity/Q12265099>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_Olatz>.
+
+<http://www.wikidata.org/entity/Q12261101>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_Jugachi>.
+
+<http://www.wikidata.org/entity/Q12253628>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_Santa_María_de_la_Antigua>.
+
+<http://www.wikidata.org/entity/Q11947127>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Juan_(Montañana)>.
+
+<http://www.wikidata.org/entity/Q11681533>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Gregorio_(Vinaroz)>.
+
+<http://www.wikidata.org/entity/Q11681540>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Salvador_(Casós)>.
+
+<http://www.wikidata.org/entity/Q11946917>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Antón_(Pano)>.
+
+<http://www.wikidata.org/entity/Q10966617>
+        owl:sameAs <http://es.dbpedia.org/resource/Sinagoga_de_San_Antón_(Híjar)>.
+
+<http://www.wikidata.org/entity/Q11681532>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_Bienvenida_(Monteagudo_de_las_Vicarías)>.
+
+<http://www.wikidata.org/entity/Q11681536>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Miguel_(Vergara)>.
+
+<http://www.wikidata.org/entity/Q11681546>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Magdalena_(Azpeitia)>.
+
+<http://www.wikidata.org/entity/Q11946920>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Antonio_de_Padua_(Albiñana)>.
+
+<http://www.wikidata.org/entity/Q11681537>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Pedro_(Abrisketa)>.
+
+<http://www.wikidata.org/entity/Q11681538>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Quiri_(Ancs_y_Pobellá)>.
+
+<http://www.wikidata.org/entity/Q11681542>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Vicente_(Catí)>.
+
+<http://www.wikidata.org/entity/Q93243012>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Catalina_(Garrovillas_de_Alconétar)>.
+
+<http://www.wikidata.org/entity/Q87267748>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Antonio_Abad_(Oliva)>.
+
+<http://www.wikidata.org/entity/Q97173863>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_Gracia_(Ronda)>.
+
+<http://www.wikidata.org/entity/Q90414005>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Valsordo>.
+
+<http://www.wikidata.org/entity/Q93273102>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_de_Altagracia_(Garrovillas_de_Alconétar)>.
+
+<http://www.wikidata.org/entity/Q95984410>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_los_Mártires_(Cáceres)>.
+
+<http://www.wikidata.org/entity/Q96692867>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Juan_de_la_Montañeta_(Santa_María_de_Guía)>.
+
+<http://www.wikidata.org/entity/Q90417247>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_de_Nuestra_Señora_de_Escolumbe>.
+
+<http://www.wikidata.org/entity/Q18003997>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Roque_(Vilopriu)>.
+
+<http://www.wikidata.org/entity/Q17630784>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Andrés_(Rabanera_del_Pinar)>.
+
+<http://www.wikidata.org/entity/Q18002006>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Cristóbal_(Camporrobles)>.
+
+<http://www.wikidata.org/entity/Q17630792>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Cristóbal_(Sotresgudo)>.
+
+<http://www.wikidata.org/entity/Q18003995>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Trinidad_(Sitges)>.
+
+<http://www.wikidata.org/entity/Q17601383>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Gil>.
+
+<http://www.wikidata.org/entity/Q16562893>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Nicolás_de_Bari_(Velilla_de_Ebro)>.
+
+<http://www.wikidata.org/entity/Q17601342>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Estrella_(Lloréns)>.
+
+<http://www.wikidata.org/entity/Q16562972>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_del_Castillo_(Vilvestre)>.
+
+<http://www.wikidata.org/entity/Q16562844>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Benito_de_Gallegos>.
+
+<http://www.wikidata.org/entity/Q17404972>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Cristóbal_(Alboraya)>.
+
+<http://www.wikidata.org/entity/Q17405076>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Bárbara_(Alboraya)>.
+
+<http://www.wikidata.org/entity/Q16562852>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Emeterio_y_San_Celedonio_(Samitier)>.
+
+<http://www.wikidata.org/entity/Q16562927>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Juliana_(Navalmanzano)>.
+
+<http://www.wikidata.org/entity/Q16563013>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Santo_Cristo_(Talaván)>.
+
+<http://www.wikidata.org/entity/Q17165719>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_José_de_Ador>.
+
+<http://www.wikidata.org/entity/Q16562990>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgencita_(Algodonales)>.
+
+<http://www.wikidata.org/entity/Q17165720>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Roque_(Ademuz)>.
+
+<http://www.wikidata.org/entity/Q16562953>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Magdalena_(Erandio)>.
+
+<http://www.wikidata.org/entity/Q16562878>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Martín_de_la_Bal_d'Onsera>.
+
+<http://www.wikidata.org/entity/Q17276506>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_vieja_de_San_Vicente_Ferrer_de_Agullent>.
+
+<http://www.wikidata.org/entity/Q16562838>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Bartolomé_(Lejona)>.
+
+<http://www.wikidata.org/entity/Q16915962>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_Viloria_(Cigales)>.
+
+<http://www.wikidata.org/entity/Q16562846>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Cristóbal_(Erandio)>.
+
+<http://www.wikidata.org/entity/Q16562849>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Cristóbal_(Jaca)>.
+
+<http://www.wikidata.org/entity/Q17276504>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_nueva_de_San_Vicente_Ferrer_(Agullent)>.
+
+<http://www.wikidata.org/entity/Q17278884>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_del_Remedio>.
+
+<http://www.wikidata.org/entity/Q16787418>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Calvario_(Cabanes)>.
+
+<http://www.wikidata.org/entity/Q13048947>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_de_la_Bella>.
+
+<http://www.wikidata.org/entity/Q16301543>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Humilladero_(Atienza)>.
+
+<http://www.wikidata.org/entity/Q16562775>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Andra_Mari_de_Agirre_y_de_las_Nieves>.
+
+<http://www.wikidata.org/entity/Q15077701>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santa_María_de_Baldós>.
+
+<http://www.wikidata.org/entity/Q15199260>
+        owl:sameAs <http://es.dbpedia.org/resource/Humilladero_del_Cristo_(Ventosa_de_la_Cuesta)>.
+
+<http://www.wikidata.org/entity/Q16562817>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_las_Viñas_(Soria)>.
+
+<http://www.wikidata.org/entity/Q16562773>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_Torre_de_los_Santos>.
+
+<http://www.wikidata.org/entity/Q13048674>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Santa_Bárbara_(Zaragoza)>.
+
+<http://www.wikidata.org/entity/Q13048948>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Úrbez_(Fanlo)>.
+
+<http://www.wikidata.org/entity/Q16562778>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Andra_Mari_de_Ondiz>.
+
+<http://www.wikidata.org/entity/Q14530185>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Cecilia_(Vallespinoso_de_Aguilar)>.
+
+<http://www.wikidata.org/entity/Q12266978>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Bárbara_(Zarauz)>.
+
+<http://www.wikidata.org/entity/Q13048949>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Fuensanta>.
+
+<http://www.wikidata.org/entity/Q13048950>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Catalina_de_los_Molinos>.
+
+<http://www.wikidata.org/entity/Q14615841>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_Muskilda>.
+
+<http://www.wikidata.org/entity/Q14633729>
+        owl:sameAs <http://es.dbpedia.org/resource/Oratorio_de_los_Borja>.
+
+<http://www.wikidata.org/entity/Q12267019>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Mamés_(Erandio)>.
+
+<http://www.wikidata.org/entity/Q14707756>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Lucía_(Alcalá_de_Henares)>.
+
+<http://www.wikidata.org/entity/Q16562789>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_Consolación>.
+
+<http://www.wikidata.org/entity/Q97620946>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_la_Oliva_(Vejer_de_la_Frontera)>.
+
+<http://www.wikidata.org/entity/Q97620846>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Guía_(Jerez_de_la_Frontera)>.
+
+<http://www.wikidata.org/entity/Q97598669>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Reina_de_los_Ángeles>.
+
+<http://www.wikidata.org/entity/Q97626342>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_de_Nuestra_Señora_de_Araceli>.
+
+<http://www.wikidata.org/entity/Q97626410>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Caridad_(Fernán_Núñez)>.
+
+<http://www.wikidata.org/entity/Q97626268>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Don_Lucas>.
+
+<http://www.wikidata.org/entity/Q18173164>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_las_Vacas>.
+
+<http://www.wikidata.org/entity/Q18215810>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Valero_(Velilla_de_Cinca)>.
+
+<http://www.wikidata.org/entity/Q18285906>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_los_Mártires_(Garciaz)>.
+
+<http://www.wikidata.org/entity/Q18007664>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santa_María_del_Priorato_de_Bañeras>.
+
+<http://www.wikidata.org/entity/Q18193341>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_de_la_Misericordia_(Cretas)>.
+
+<http://www.wikidata.org/entity/Q18172786>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Segundo_del_Río_Adaja>.
+
+<http://www.wikidata.org/entity/Q18285900>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Concepción_(Garciaz)>.
+
+<http://www.wikidata.org/entity/Q18173163>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_de_Nuestra_Señora_de_Valverde>.
+
+<http://www.wikidata.org/entity/Q18285898>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Caridad_(Garciaz)>.
+
+<http://www.wikidata.org/entity/Q18285903>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_La_Portera>.
+
+<http://www.wikidata.org/entity/Q18072065>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Miguel_(Aldaya)>.
+
+<http://www.wikidata.org/entity/Q18285908>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_Bonastre>.
+
+<http://www.wikidata.org/entity/Q18226579>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_María_(Chalamera)>.
+
+<http://www.wikidata.org/entity/Q18172849>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_María_de_Tiermes>.
+
+<http://www.wikidata.org/entity/Q18560212>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Antonio_de_Martiartu>.
+
+<http://www.wikidata.org/entity/Q18535195>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Emeterio_y_San_Celedonio_(Río_Quintanilla)>.
+
+<http://www.wikidata.org/entity/Q18715484>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Bárbara_de_Bolbaite>.
+
+<http://www.wikidata.org/entity/Q19904510>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Antonio_Abad_(Ayora)>.
+
+<http://www.wikidata.org/entity/Q18535351>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Emeterio_y_San_Celedonio_(Lodosa)>.
+
+<http://www.wikidata.org/entity/Q18549868>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Catalina_(Mundaca)>.
+
+<http://www.wikidata.org/entity/Q18638233>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Calvario_de_Montaberner>.
+
+<http://www.wikidata.org/entity/Q20021401>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_Matamala>.
+
+<http://www.wikidata.org/entity/Q18340138>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Ana_(San_Vicente_de_Alcántara)>.
+
+<http://www.wikidata.org/entity/Q18342475>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_de_Nuestra_Señora_de_Hornuez>.
+
+<http://www.wikidata.org/entity/Q18887930>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Sebastián_(La_Yesa)>.
+
+<http://www.wikidata.org/entity/Q20614317>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_María_de_la_Sierra>.
+
+<http://www.wikidata.org/entity/Q18575443>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Antonio_Abad_(La_Alcudia)>.
+
+<http://www.wikidata.org/entity/Q18870674>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_de_los_Dolores_(Otos)>.
+
+<http://www.wikidata.org/entity/Q20492201>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Cristo_de_Cataláin>.
+
+<http://www.wikidata.org/entity/Q19904517>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_José_(Ayora)>.
+
+<http://www.wikidata.org/entity/Q20886614>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Calvario_(Castillo_de_Villamalefa)>.
+
+<http://www.wikidata.org/entity/Q18624866>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_de_los_Afligidos_(Alfara_de_la_Baronía)>.
+
+<http://www.wikidata.org/entity/Q20492640>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Adrián_(Vadoluengo)>.
+
+<http://www.wikidata.org/entity/Q19367938>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Roque_(Alicante)>.
+
+<http://www.wikidata.org/entity/Q97627762>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Divina_Pastora_(Alcalá_de_la_Alameda)>.
+
+<http://www.wikidata.org/entity/Q97627760>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_la_Esperanza_(Cumbres_Mayores)>.
+
+<http://www.wikidata.org/entity/Q97628424>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_del_Valle_(La_Palma_del_Condado)>.
+
+<http://www.wikidata.org/entity/Q97628880>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Bella>.
+
+<http://www.wikidata.org/entity/Q97627939>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_la_Coronada_(Calañas)>.
+
+<http://www.wikidata.org/entity/Q97628509>
+        owl:sameAs <http://es.dbpedia.org/resource/Turóbriga>.
+
+<http://www.wikidata.org/entity/Q27826295>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Ana_(Pozuelo_de_la_Orden)>.
+
+<http://www.wikidata.org/entity/Q27837144>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Catalina_(Peñarrubia)>.
+
+<http://www.wikidata.org/entity/Q27107391>
+        owl:sameAs <http://es.dbpedia.org/resource/Humilladero_del_Santo_Cristo_de_las_Eras_(Castromonte)>.
+
+<http://www.wikidata.org/entity/Q26971488>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_La_Aparecida_(Monforte_del_Cid)>.
+
+<http://www.wikidata.org/entity/Q27244635>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Lucía_(Campillo_de_Aragón)>.
+
+<http://www.wikidata.org/entity/Q27635225>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santo_Domingo_(Lécera)>.
+
+<http://www.wikidata.org/entity/Q27572619>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Miguel_(El_Frago)>.
+
+<http://www.wikidata.org/entity/Q21496184>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Roque_(Calatayud)>.
+
+<http://www.wikidata.org/entity/Q21856354>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Roque_(Museros)>.
+
+<http://www.wikidata.org/entity/Q21206504>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Roque_(Burjasot)>.
+
+<http://www.wikidata.org/entity/Q21853440>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Jorge_(El_Puig)>.
+
+<http://www.wikidata.org/entity/Q22063728>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Eugenio>.
+
+<http://www.wikidata.org/entity/Q21754162>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_la_Jara>.
+
+<http://www.wikidata.org/entity/Q21507147>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Cristóbal_(Perelló)>.
+
+<http://www.wikidata.org/entity/Q21006279>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_El_Carmen_(Langreo)>.
+
+<http://www.wikidata.org/entity/Q21182153>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_de_Sieteiglesias>.
+
+<http://www.wikidata.org/entity/Q21402842>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_de_la_Peña_(Aniés)>.
+
+<http://www.wikidata.org/entity/Q20985732>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Silvestre>.
+
+<http://www.wikidata.org/entity/Q21097725>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Jesús_Nazareno_(Fuente_Obejuna)>.
+
+<http://www.wikidata.org/entity/Q22680575>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Vicente_Ferrer_(Borriol)>.
+
+<http://www.wikidata.org/entity/Q20985000>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Martín_(Basauri)>.
+
+<http://www.wikidata.org/entity/Q24530550>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Cristo_de_la_Agonía_(Alfarrasí)>.
+
+<http://www.wikidata.org/entity/Q25413963>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Rafael_(Hellín)>.
+
+<http://www.wikidata.org/entity/Q22970000>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Antonio_Abad_(Benigánim)>.
+
+<http://www.wikidata.org/entity/Q24700912>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_los_Ángeles_(Getafe)>.
+
+<http://www.wikidata.org/entity/Q26254528>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Isidro_(Castellón_de_la_Plana)>.
+
+<http://www.wikidata.org/entity/Q22970002>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Santísimo_Cristo_de_la_Antigua>.
+
+<http://www.wikidata.org/entity/Q24019727>
+        owl:sameAs <http://es.dbpedia.org/resource/Cañón_de_la_Salud>.
+
+<http://www.wikidata.org/entity/Q24450386>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Trinidad_de_Puebla_de_Benifasar>.
+
+<http://www.wikidata.org/entity/Q26219918>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Francisco_de_la_Font>.
+
+<http://www.wikidata.org/entity/Q22970001>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Quiteria_(Santa_Eulalia_de_Gállego)>.
+
+<http://www.wikidata.org/entity/Q26306530>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Roque_de_Canet_(Castellón_de_la_Plana)>.
+
+<http://www.wikidata.org/entity/Q22680697>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Calvario_(Borriol)>.
+
+<http://www.wikidata.org/entity/Q97640519>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Setefilla>.
+
+<http://www.wikidata.org/entity/Q97633730>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_de_la_Peña_(Mijas)>.
+
+<http://www.wikidata.org/entity/Q97633468>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_los_Remedios_(Cártama)>.
+
+<http://www.wikidata.org/entity/Q97634297>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Sebastián_(Vélez-Málaga)>.
+
+<http://www.wikidata.org/entity/Q41633936>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_de_los_Remedios_(Vélez-Málaga)>.
+
+<http://www.wikidata.org/entity/Q42883357>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_de_Loreto_(Chelva)>.
+
+<http://www.wikidata.org/entity/Q42911339>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Bárbara_(Riodeva)>.
+
+<http://www.wikidata.org/entity/Q42911341>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Purísima_Concepción_(Riodeva)>.
+
+<http://www.wikidata.org/entity/Q43024646>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Cristo_de_la_Misericordia_(Fuente_Obejuna)>.
+
+<http://www.wikidata.org/entity/Q43072694>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Lorenzo_(Ateca)>.
+
+<http://www.wikidata.org/entity/Q43006003>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_Gracia_(Fuente_Obejuna)>.
+
+<http://www.wikidata.org/entity/Q28868368>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Cristo_de_la_Vega>.
+
+<http://www.wikidata.org/entity/Q38926397>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Ascensión_(Ateca)>.
+
+<http://www.wikidata.org/entity/Q28790191>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_los_Remedios_(Valencia_de_Alcántara)>.
+
+<http://www.wikidata.org/entity/Q28835259>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_de_la_Rogativa>.
+
+<http://www.wikidata.org/entity/Q30906994>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Pantaleón_(Escobedo_de_Camargo)>.
+
+<http://www.wikidata.org/entity/Q28664200>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Cristóbal_(Tormón)>.
+
+<http://www.wikidata.org/entity/Q30907062>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_María_(Tramacastiel)>.
+
+<http://www.wikidata.org/entity/Q41529013>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Santo_Sepulcro_(Carenas)>.
+
+<http://www.wikidata.org/entity/Q28519110>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Marcos_(Veguillas_de_la_Sierra)>.
+
+<http://www.wikidata.org/entity/Q28517887>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Quiteria_(Hoya_de_la_Carrasca)>.
+
+<http://www.wikidata.org/entity/Q38584553>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Ana_(Carenas)>.
+
+<http://www.wikidata.org/entity/Q38802563>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_de_los_Dolores_(Jabaloyas)>.
+
+<http://www.wikidata.org/entity/Q28502142>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santerón>.
+
+<http://www.wikidata.org/entity/Q28922479>
+        owl:sameAs <http://es.dbpedia.org/resource/Humilladero_de_Nuestra_Señora_de_la_Soledad>.
+
+<http://www.wikidata.org/entity/Q30349091>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Ana_(Cenizate)>.
+
+<http://www.wikidata.org/entity/Q39081979>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Cristóbal_(Jabaloyas)>.
+
+<http://www.wikidata.org/entity/Q38134300>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Blas_(Ateca)>.
+
+<http://www.wikidata.org/entity/Q98058309>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita-Santuario_de_Nuestra_Señora_de_los_Santos>.
+
+<http://www.wikidata.org/entity/Q98061421>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Montemayor_(Moguer)>.
+
+<http://www.wikidata.org/entity/Q98887191>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Isidro_Labrador_(Triquivijate)>.
+
+<http://www.wikidata.org/entity/Q104623078>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_del_Plá>.
+
+<http://www.wikidata.org/entity/Q100473936>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_las_Candelas_(Cáceres)>.
+
+<http://www.wikidata.org/entity/Q99670666>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_las_Nieves_(Porcieda)>.
+
+<http://www.wikidata.org/entity/Q105600346>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Ana_(Cáceres)>.
+
+<http://www.wikidata.org/entity/Q106437703>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_de_Gracia_(Archidona)>.
+
+<http://www.wikidata.org/entity/Q47482736>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_los_Ángeles_(Baena)>.
+
+<http://www.wikidata.org/entity/Q43075404>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Roque_(Ateca)>.
+
+<http://www.wikidata.org/entity/Q43073964>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santiago_(Ateca)>.
+
+<http://www.wikidata.org/entity/Q50675743>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Bótoa>.
+
+<http://www.wikidata.org/entity/Q43150775>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Cristo_del_Mercado>.
+
+<http://www.wikidata.org/entity/Q44090381>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Bárbara_(Calanda)>.
+
+<http://www.wikidata.org/entity/Q51078168>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Sebastian_(Villavieja)>.
+
+<http://www.wikidata.org/entity/Q43076934>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Gregorio_(Ateca)>.
+
+<http://www.wikidata.org/entity/Q52235232>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_los_Ángeles_(El_Sauzal)>.
+
+<http://www.wikidata.org/entity/Q43117584>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Mamés_(Montenegro_de_Cameros)>.
+
+<http://www.wikidata.org/entity/Q49027342>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Buen_Suceso_(Braojos_de_la_Sierra)>.
+
+<http://www.wikidata.org/entity/Q43117838>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Facundo_(Los_Barrios_de_Bureba)>.
+
+<http://www.wikidata.org/entity/Q48090625>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Quiteria_(Alhama_de_Aragón)>.
+
+<http://www.wikidata.org/entity/Q43082555>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Vera_Cruz_(Maderuelo)>.
+
+<http://www.wikidata.org/entity/Q43383439>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Francisco_de_Paula>.
+
+<http://www.wikidata.org/entity/Q47506131>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_Palomares_(Trebujena)>.
+
+<http://www.wikidata.org/entity/Q56316691>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Albalate>.
+
+<http://www.wikidata.org/entity/Q52858607>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Valbón>.
+
+<http://www.wikidata.org/entity/Q54366733>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Catalina_de_Antzoriz>.
+
+<http://www.wikidata.org/entity/Q55216038>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Pedro_de_Sahelices>.
+
+<http://www.wikidata.org/entity/Q55230910>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Humilladero_(Ávila)>.
+
+<http://www.wikidata.org/entity/Q51078168>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Sebastian_(Villavieja)>.
+
+<http://www.wikidata.org/entity/Q43076934>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Gregorio_(Ateca)>.
+
+<http://www.wikidata.org/entity/Q52235232>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_los_Ángeles_(El_Sauzal)>.
+
+<http://www.wikidata.org/entity/Q43117584>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Mamés_(Montenegro_de_Cameros)>.
+
+<http://www.wikidata.org/entity/Q49027342>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Buen_Suceso_(Braojos_de_la_Sierra)>.
+
+<http://www.wikidata.org/entity/Q43117838>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Facundo_(Los_Barrios_de_Bureba)>.
+
+<http://www.wikidata.org/entity/Q48090625>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Quiteria_(Alhama_de_Aragón)>.
+
+<http://www.wikidata.org/entity/Q43082555>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Vera_Cruz_(Maderuelo)>.
+
+<http://www.wikidata.org/entity/Q43383439>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Francisco_de_Paula>.
+
+<http://www.wikidata.org/entity/Q47506131>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_Palomares_(Trebujena)>.
+
+<http://www.wikidata.org/entity/Q104623078>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_del_Plá>.
+
+<http://www.wikidata.org/entity/Q100473936>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_las_Candelas_(Cáceres)>.
+
+<http://www.wikidata.org/entity/Q99670666>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_las_Nieves_(Porcieda)>.
+
+<http://www.wikidata.org/entity/Q105600346>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Ana_(Cáceres)>.
+
+<http://www.wikidata.org/entity/Q106437703>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_de_Gracia_(Archidona)>.
+
+<http://www.wikidata.org/entity/Q56316691>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Albalate>.
+
+<http://www.wikidata.org/entity/Q52858607>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Valbón>.
+
+<http://www.wikidata.org/entity/Q54366733>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Catalina_de_Antzoriz>.
+
+<http://www.wikidata.org/entity/Q55216038>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Pedro_de_Sahelices>.
+
+<http://www.wikidata.org/entity/Q55230910>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Humilladero_(Ávila)>.
+
+<http://www.wikidata.org/entity/Q56316893>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_la_Soledad_(Parla)>.
+
+<http://www.wikidata.org/entity/Q56377286>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Veracruz_(Trebujena)>.
+
+<http://www.wikidata.org/entity/Q52857977>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Jorge_(Cáceres)>.
+
+<http://www.wikidata.org/entity/Q55231826>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Sonsoles_(Ávila)>.
+
+<http://www.wikidata.org/entity/Q52858155>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Ana_(Trujillo)>.
+
+<http://www.wikidata.org/entity/Q54214838>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_de_la_Cuesta>.
+
+<http://www.wikidata.org/entity/Q56196975>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_del_Mencal>.
+
+<http://www.wikidata.org/entity/Q55385163>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Jorge_(Huesca)>.
+
+<http://www.wikidata.org/entity/Q55208060>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Isidro_(Villamayor_de_Santiago)>.
+
+<http://www.wikidata.org/entity/Q55231370>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_la_Cabeza_(Ávila)>.
+
+<http://www.wikidata.org/entity/Q56649587>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_y_Vía_Crucis_del_Calvario_(Jaén)>.
+
+<http://www.wikidata.org/entity/Q55221921>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_las_Angustias_(Uclés)>.
+
+<http://www.wikidata.org/entity/Q57384776>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Calvario_(Vall_de_Uxó)>.
+
+<http://www.wikidata.org/entity/Q108688824>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Ana_(Salorino)>.
+
+<http://www.wikidata.org/entity/Q106862439>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_María_Madre_del_Amor_Hermoso>.
+
+<http://www.wikidata.org/entity/Q108584979>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_de_la_Cabeza_(Valencia_de_Alcántara)>.
+
+<http://www.wikidata.org/entity/Q64862577>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_la_Rosa>.
+
+<http://www.wikidata.org/entity/Q63860178>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Santo_Cristo_de_la_Piedad>.
+
+<http://www.wikidata.org/entity/Q64875939>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Salvador_de_Ibañeta>.
+
+<http://www.wikidata.org/entity/Q64848372>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_del_Consuelo_(Camañas)>.
+
+<http://www.wikidata.org/entity/Q64830544>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Pedro_(Cinctorres)>.
+
+<http://www.wikidata.org/entity/Q63183623>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Ana_(Gandía)>.
+
+<http://www.wikidata.org/entity/Q63396773>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_María_de_Arrazubi>.
+
+<http://www.wikidata.org/entity/Q65948110>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Martín_de_Abendaño>.
+
+<http://www.wikidata.org/entity/Q65934654>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Martín_de_Ania>.
+
+<http://www.wikidata.org/entity/Q65588948>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Pedro_(Usún)>.
+
+<http://www.wikidata.org/entity/Q65935588>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Pedro_de_Quilchano>.
+
+<http://www.wikidata.org/entity/Q65946372>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_Ayala>.
+
+<http://www.wikidata.org/entity/Q109718563>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Juan_(Buen_Retiro)>.
+
+<http://www.wikidata.org/entity/Q114424692>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Valero_de_Arués>.
+
+<http://www.wikidata.org/entity/Q110503460>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Ana_(Monroy)>.
+
+<http://www.wikidata.org/entity/Q110656325>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Lucía_(Fustiñana)>.
+
+<http://www.wikidata.org/entity/Q113686966>
+        owl:sameAs <http://es.dbpedia.org/resource/Cementerio_de_San_Juan_(Brozas)>.
+
+<http://www.wikidata.org/entity/Q113995193>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Antón_(Brozas)>.
+
+<http://www.wikidata.org/entity/Q114244870>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_de_Nuestra_Señora_de_Casbas>.
+
+<http://www.wikidata.org/entity/Q110575611>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santiago_(Casar_de_Cáceres)>.
+
+<http://www.wikidata.org/entity/Q112108787>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Magdalena_(Caspe)>.
+
+<http://www.wikidata.org/entity/Q113586401>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_de_la_Virgen_de_la_Cueva_(Hontangas)>.
+
+<http://www.wikidata.org/entity/Q114600591>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_los_Hitos_(Alcántara)>.
+
+<http://www.wikidata.org/entity/Q111873828>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Carmen>.
+
+<http://www.wikidata.org/entity/Q115224167>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Pilar_(Murcia)>.
+
+<http://www.wikidata.org/entity/Q115756672>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_de_las_Angustias_(Alcántara)>.
+
+<http://www.wikidata.org/entity/Q109943355>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Lázaro_(Trujillo)>.
+
+<http://www.wikidata.org/entity/Q110521192>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Miguel_de_Izaga>.
+
+<http://www.wikidata.org/entity/Q113686755>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Soledad_(Brozas)>.
+
+<http://www.wikidata.org/entity/Q113686233>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Buen_Jesús_(Brozas)>.
+
+<http://www.wikidata.org/entity/Q114741085>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Sangre_(Sagunto)>.
+
+<http://www.wikidata.org/entity/Q109947351>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_de_la_Coronada_(Trujillo)>.
+
+<http://www.wikidata.org/entity/Q115126592>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_de_los_Navarros_(Fuentes_Claras)>.
+
+<http://www.wikidata.org/entity/Q116255290>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Cruz_(Montes_de_Valdueza)>.
+
+<http://www.wikidata.org/entity/Q115943321>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Cristo_(Navaconcejo)>.
+
+<http://www.wikidata.org/entity/Q115943910>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Jorge_(Navaconcejo)>.
+
+<http://www.wikidata.org/entity/Q117031869>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Román>.
+
+<http://www.wikidata.org/entity/Q117846365>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Nuestra_Señora_del_Rosario_(Alcuerna)>.
+
+<http://www.wikidata.org/entity/Q117846367>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_de_Oca_(Villafranca_de_Oca)>.
+
+<http://www.wikidata.org/entity/Q117846364>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_Nuestra_Señora_del_Valle_(Toledo)>.
+
+<http://www.wikidata.org/entity/Q68368644>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Bárbara_(Perales_del_Alfambra)>.
+
+<http://www.wikidata.org/entity/Q68219211>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Ana_(Linares_de_Mora)>.
+
+<http://www.wikidata.org/entity/Q69524460>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Lucía_(Molina_de_Aragón)>.
+
+<http://www.wikidata.org/entity/Q67184757>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Miguel_(Grisén)>.
+
+<http://www.wikidata.org/entity/Q70336716>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Isidro_(Granada)>.
+
+<http://www.wikidata.org/entity/Q73250819>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_María_Magdalena_(Baños_de_Valdearados)>.
+
+<http://www.wikidata.org/entity/Q68218551>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_de_los_Dolores_(Letux)>.
+
+<http://www.wikidata.org/entity/Q70787564>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Bárbara_(Anento)>.
+
+<http://www.wikidata.org/entity/Q66810973>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Águeda_(Jorcas)>.
+
+<http://www.wikidata.org/entity/Q69505559>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_de_la_Estrella_(Buenache_de_Alarcón)>.
+
+<http://www.wikidata.org/entity/Q72023816>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Esteban_(Escobedo_de_Camargo)>.
+
+<http://www.wikidata.org/entity/Q67881532>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Pascual_Bailón_(Blancas)>.
+
+<http://www.wikidata.org/entity/Q70759097>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_del_Carmen_(Molina_de_Aragón)>.
+
+<http://www.wikidata.org/entity/Q68473965>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Antonio_(La_Mata)>.
+
+<http://www.wikidata.org/entity/Q68473971>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Bárbara_(La_Mata)>.
+
+<http://www.wikidata.org/entity/Q77100284>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Marcos_(Tubilla_del_Lago)>.
+
+<http://www.wikidata.org/entity/Q75631434>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_de_los_Huertos_(Berlangas_de_Roa)>.
+
+<http://www.wikidata.org/entity/Q81073248>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_medieval_de_San_Miguel_de_los_Fresnos>.
+
+<http://www.wikidata.org/entity/Q78155715>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_de_Nuestra_Señora_de_los_Remedios_(Olvera)>.
+
+<http://www.wikidata.org/entity/Q75161094>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_José_(Énova)>.
+
+<http://www.wikidata.org/entity/Q75161096>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Calvario_(Énova)>.
+
+<http://www.wikidata.org/entity/Q6021451>
+        owl:sameAs <http://es.dbpedia.org/resource/Monasterio_de_Santa_María_de_Retuerta>.
+
+<http://www.wikidata.org/entity/Q16608587>
+        owl:sameAs <http://es.dbpedia.org/resource/Monasterio_de_Casbas>.
+
+<http://www.wikidata.org/entity/Q28032017>
+        owl:sameAs <http://es.dbpedia.org/resource/Monasterio_de_El_Abrojo>.
+
+<http://www.wikidata.org/entity/Q6021376>
+        owl:sameAs <http://es.dbpedia.org/resource/Monasterio_de_San_Salvador_de_Lorenzana>.
+
+<http://www.wikidata.org/entity/Q1725740>
+        owl:sameAs <http://es.dbpedia.org/resource/Monasterio_de_Santa_María_la_Real_de_Irache>.
+
+<http://www.wikidata.org/entity/Q1775814>
+        owl:sameAs <http://es.dbpedia.org/resource/Monasterio_de_Piedra>.
+
+<http://www.wikidata.org/entity/Q821204>
+        owl:sameAs <http://es.dbpedia.org/resource/Cartuja_de_Nuestra_Señora_de_las_Fuentes>.
+
+<http://www.wikidata.org/entity/Q159615>
+        owl:sameAs <http://es.dbpedia.org/resource/Monasterio_de_Santes_Creus>.
+
+<http://www.wikidata.org/entity/Q1389060>
+        owl:sameAs <http://es.dbpedia.org/resource/Real_Monasterio_de_San_Juan_de_la_Peña>.
+
+<http://www.wikidata.org/entity/Q1517058>
+        owl:sameAs <http://es.dbpedia.org/resource/Monasterio_de_San_Salvador_(Celanova)>.
+
+<http://www.wikidata.org/entity/Q1226855>
+        owl:sameAs <http://es.dbpedia.org/resource/Monasterio_de_San_Salvador_(Oña)>.
+
+<http://www.wikidata.org/entity/Q6021312>
+        owl:sameAs <http://es.dbpedia.org/resource/Monasterio_de_San_Bartolomé_(Lupiana)>.

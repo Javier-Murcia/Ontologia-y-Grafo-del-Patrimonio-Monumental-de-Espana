@@ -1,0 +1,1102 @@
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://www.wikidata.org/entity/Q5926879>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_El_Albardinal>.
+
+<http://www.wikidata.org/entity/Q6159875>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_de_Cádiz>.
+
+<http://www.wikidata.org/entity/Q6101950>
+        owl:sameAs <http://es.dbpedia.org/resource/Real_Jardín_Botánico_Alfonso_XIII>.
+
+<http://www.wikidata.org/entity/Q5937864>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_de_Villa_Marco>.
+
+<http://www.wikidata.org/entity/Q5927017>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_histórico_La_Cónsula>.
+
+<http://www.wikidata.org/entity/Q6171795>
+        owl:sameAs <http://es.dbpedia.org/resource/Zoo_de_Santillana_del_Mar>.
+
+<http://www.wikidata.org/entity/Q5926644>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_de_la_Universidad_de_Málaga>.
+
+<http://www.wikidata.org/entity/Q5926669>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_del_Descubrimiento_de_Vallehermoso>.
+
+<http://www.wikidata.org/entity/Q5926678>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_el_Hornico>.
+
+<http://www.wikidata.org/entity/Q5926660>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_del_Bou>.
+
+<http://www.wikidata.org/entity/Q5926676>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_del_museo_de_Gavá>.
+
+<http://www.wikidata.org/entity/Q5926665>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_del_Cap_Roig>.
+
+<http://www.wikidata.org/entity/Q5926799>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_Torre_del_Vinagre>.
+
+<http://www.wikidata.org/entity/Q5926802>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_Villa_San_Roque>.
+
+<http://www.wikidata.org/entity/Q3162407>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_de_Sóller>.
+
+<http://www.wikidata.org/entity/Q5926463>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_de_A_Pinguela>.
+
+<http://www.wikidata.org/entity/Q5926552>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_de_plantas_medicinales_de_Gombrèn>.
+
+<http://www.wikidata.org/entity/Q5926574>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_de_Sierras_Tejeda,_Alhama_y_Almijara>.
+
+<http://www.wikidata.org/entity/Q5926386>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_Dunas_del_Odiel>.
+
+<http://www.wikidata.org/entity/Q5926417>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_Mora_i_Bravard>.
+
+<http://www.wikidata.org/entity/Q5849100>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_Viña_Extremeña_de_Almendralejo>.
+
+<http://www.wikidata.org/entity/Q5690719>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_de_la_Universidad_de_Santiago_de_Compostela>.
+
+<http://www.wikidata.org/entity/Q5926600>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_de_la_Marquesa_de_Arucas>.
+
+<http://www.wikidata.org/entity/Q5926521>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_de_Las_Tosquillas>.
+
+<http://www.wikidata.org/entity/Q3892794>
+        owl:sameAs <http://es.dbpedia.org/resource/Palmetum_de_Santa_Cruz_de_Tenerife>.
+
+<http://www.wikidata.org/entity/Q5926482>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_de_Castilla-La_Mancha>.
+
+<http://www.wikidata.org/entity/Q5926623>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_de_la_Universidad_de_Granada>.
+
+<http://www.wikidata.org/entity/Q5926532>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_de_Moraleja_de_Enmedio>.
+
+<http://www.wikidata.org/entity/Q5926394>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_El_Robledo>.
+
+<http://www.wikidata.org/entity/Q5926489>
+        owl:sameAs <http://es.dbpedia.org/resource/Real_Jardín_Botánico_de_Córdoba>.
+
+<http://www.wikidata.org/entity/Q5926514>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_de_La_Rioja>.
+
+<http://www.wikidata.org/entity/Q5926456>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_universitario_de_Sierra_Nevada>.
+
+<http://www.wikidata.org/entity/Q5732438>
+        owl:sameAs <http://es.dbpedia.org/resource/Bosque_del_Sur>.
+
+<http://www.wikidata.org/entity/Q5926485>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_de_Coria>.
+
+<http://www.wikidata.org/entity/Q5926388>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_El_Aljibe>.
+
+<http://www.wikidata.org/entity/Q5926451>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_Santa_Clotilde>.
+
+<http://www.wikidata.org/entity/Q3162383>
+        owl:sameAs <http://es.dbpedia.org/resource/Iturraran>.
+
+<http://www.wikidata.org/entity/Q3276615>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_de_San_Fernando>.
+
+<http://www.wikidata.org/entity/Q5801444>
+        owl:sameAs <http://es.dbpedia.org/resource/Dehesa_Boyal_de_Puertollano>.
+
+<http://www.wikidata.org/entity/Q5799270>
+        owl:sameAs <http://es.dbpedia.org/resource/Parque-jardín_botánico_y_robledal_de_Caldas_de_Reyes>.
+
+<http://www.wikidata.org/entity/Q5843471>
+        owl:sameAs <http://es.dbpedia.org/resource/Real_Jardín_Botánico_Juan_Carlos_I>.
+
+<http://www.wikidata.org/entity/Q5848778>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardines_Mossèn_Costa_i_Llobera>.
+
+<http://www.wikidata.org/entity/Q5926368>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_atlántico_de_Gijón>.
+
+<http://www.wikidata.org/entity/Q5926594>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_de_la_Cortijuela>.
+
+<http://www.wikidata.org/entity/Q5904241>
+        owl:sameAs <http://es.dbpedia.org/resource/Huerto_de_Trénor>.
+
+<http://www.wikidata.org/entity/Q5926530>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_de_Miranda_de_Ebro>.
+
+<http://www.wikidata.org/entity/Q5926583>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_de_Zaragoza>.
+
+<http://www.wikidata.org/entity/Q5926438>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_Olocau-Sierra_Calderona>.
+
+<http://www.wikidata.org/entity/Q3755226>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_de_Santa_Catalina_(Trespuentes)>.
+
+<http://www.wikidata.org/entity/Q5926397>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_El_Ángel>.
+
+<http://www.wikidata.org/entity/Q5926390>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_El_Castillejo>.
+
+<http://www.wikidata.org/entity/Q5926402>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_Hoya_de_Pedraza>.
+
+<http://www.wikidata.org/entity/Q5926423>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_Mundani>.
+
+<http://www.wikidata.org/entity/Q5702460>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_de_Lourizán>.
+
+<http://www.wikidata.org/entity/Q910282>
+        owl:sameAs <http://es.dbpedia.org/resource/Palmitos_Park>.
+
+<http://www.wikidata.org/entity/Q1683458>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_Botánico_Histórico_La_Concepción>.
+
+<http://www.wikidata.org/entity/Q1303386>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_Viera_y_Clavijo>.
+
+<http://www.wikidata.org/entity/Q1683460>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_Molino_de_Inca>.
+
+<http://www.wikidata.org/entity/Q177566>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_de_Aclimatación_de_La_Orotava>.
+
+<http://www.wikidata.org/entity/Q429533>
+        owl:sameAs <http://es.dbpedia.org/resource/Botanicactus>.
+
+<http://www.wikidata.org/entity/Q2605209>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_de_Barcelona>.
+
+<http://www.wikidata.org/entity/Q1794858>
+        owl:sameAs <http://es.dbpedia.org/resource/Real_Jardín_Botánico_de_Madrid>.
+
+<http://www.wikidata.org/entity/Q1799639>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_de_Cactus_de_Lanzarote>.
+
+<http://www.wikidata.org/entity/Q2721720>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_de_Bertiz>.
+
+<http://www.wikidata.org/entity/Q2840327>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_de_la_Umbría_de_la_Virgen>.
+
+<http://www.wikidata.org/entity/Q9010917>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_de_Baracaldo>.
+
+<http://www.wikidata.org/entity/Q9010898>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_histórico_de_Barcelona>.
+
+<http://www.wikidata.org/entity/Q9010895>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_Ría_do_Burgo>.
+
+<http://www.wikidata.org/entity/Q9010986>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_de_la_Universidad_de_Valencia>.
+
+<http://www.wikidata.org/entity/Q9010925>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_Botánico_de_Lluch>.
+
+<http://www.wikidata.org/entity/Q9054473>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_de_Cristal_de_la_Arganzuela>.
+
+<http://www.wikidata.org/entity/Q9010931>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_de_vegetación_natural_Olontina_(Parc_Nou)>.
+
+<http://www.wikidata.org/entity/Q16216945>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_Fundación_Sales>.
+
+<http://www.wikidata.org/entity/Q17279812>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_de_Cobeña>.
+
+<http://www.wikidata.org/entity/Q22969992>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_Ecoherbes_Park>.
+
+<http://www.wikidata.org/entity/Q48781865>
+        owl:sameAs <http://es.dbpedia.org/resource/Desert_City>.
+
+<http://www.wikidata.org/entity/Q104816521>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_La_Almunya_del_Sur>.
+
+<http://www.wikidata.org/entity/Q104816531>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_de_la_Universidad_de_Almería>.
+
+<http://www.wikidata.org/entity/Q17279816>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardines_del_parque_de_Zafra_y_jardín_botánico>.
+
+<http://www.wikidata.org/entity/Q76824195>
+        owl:sameAs <http://es.dbpedia.org/resource/Orchidarium_Estepona>.
+
+<http://www.wikidata.org/entity/Q97619464>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_de_Sanlúcar>.
+
+<http://www.wikidata.org/entity/Q17279815>
+        owl:sameAs <http://es.dbpedia.org/resource/Estación_biológica_y_jardín_botánico_de_Torretes>.
+
+<http://www.wikidata.org/entity/Q11684506>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_de_Olárizu>.
+
+<http://www.wikidata.org/entity/Q21031176>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_de_Migas_Calientes>.
+
+<http://www.wikidata.org/entity/Q17279814>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_Prado_de_las_Pavas>.
+
+<http://www.wikidata.org/entity/Q17279813>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_de_Padrón>.
+
+<http://www.wikidata.org/entity/Q58931389>
+        owl:sameAs <http://es.dbpedia.org/resource/Espacio_Caritel>.
+
+<http://www.wikidata.org/entity/Q118487851>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_Botánico_de_Segovia>.
+
+<http://www.wikidata.org/entity/Q123701157>
+        owl:sameAs <http://es.dbpedia.org/resource/BIBO_Park_(Ibiza_Botánico_Biotecnológico)>.
+
+<http://www.wikidata.org/entity/Q5478271>
+        owl:sameAs <http://es.dbpedia.org/resource/Pisoraca>.
+
+<http://www.wikidata.org/entity/Q5742550>
+        owl:sameAs <http://es.dbpedia.org/resource/Campamento_romano_de_El_Cincho>.
+
+<http://www.wikidata.org/entity/Q12385033>
+        owl:sameAs <http://es.dbpedia.org/resource/Campamento_romano_de_Ciadella>.
+
+<http://www.wikidata.org/entity/Q6073313>
+        owl:sameAs <http://es.dbpedia.org/resource/Petavonium>.
+
+<http://www.wikidata.org/entity/Q5757857>
+        owl:sameAs <http://es.dbpedia.org/resource/Castra_Servilia>.
+
+<http://www.wikidata.org/entity/Q8208868>
+        owl:sameAs <http://es.dbpedia.org/resource/Atxa>.
+
+<http://www.wikidata.org/entity/Q2941505>
+        owl:sameAs <http://es.dbpedia.org/resource/Castra_Cecilia>.
+
+<http://www.wikidata.org/entity/Q2878537>
+        owl:sameAs <http://es.dbpedia.org/resource/Castra_Aelia>.
+
+<http://www.wikidata.org/entity/Q52189963>
+        owl:sameAs <http://es.dbpedia.org/resource/Carasta>.
+
+<http://www.wikidata.org/entity/Q5926977>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_de_las_Piletas>.
+
+<http://www.wikidata.org/entity/Q5926998>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_del_Obispo>.
+
+<http://www.wikidata.org/entity/Q5926309>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardines_de_Puerta_Oscura>.
+
+<http://www.wikidata.org/entity/Q5926355>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_Americano>.
+
+<http://www.wikidata.org/entity/Q5944282>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_las_Angustias>.
+
+<http://www.wikidata.org/entity/Q5926974>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_de_la_Danza>.
+
+<http://www.wikidata.org/entity/Q5926314>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardines_de_la_Agricultura_(Córdoba)>.
+
+<http://www.wikidata.org/entity/Q5926320>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardines_de_la_Universidad_de_Murcia>.
+
+<http://www.wikidata.org/entity/Q5926293>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardines_de_Las_Vistillas>.
+
+<http://www.wikidata.org/entity/Q5904244>
+        owl:sameAs <http://es.dbpedia.org/resource/Huerto_del_Cura>.
+
+<http://www.wikidata.org/entity/Q3162660>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardines_de_Murillo>.
+
+<http://www.wikidata.org/entity/Q2419365>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardines_de_Sabatini>.
+
+<http://www.wikidata.org/entity/Q2713406>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_del_Turia>.
+
+<http://www.wikidata.org/entity/Q3162679>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardines_de_las_Delicias_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q2743957>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_de_Monforte>.
+
+<http://www.wikidata.org/entity/Q2814599>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardines_de_Can_Artigas>.
+
+<http://www.wikidata.org/entity/Q5397836>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_de_Floridablanca>.
+
+<http://www.wikidata.org/entity/Q5658770>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_Renacentista_de_Don_Diego_de_Castejón>.
+
+<http://www.wikidata.org/entity/Q5662172>
+        owl:sameAs <http://es.dbpedia.org/resource/Alameda_Vieja>.
+
+<http://www.wikidata.org/entity/Q5646099>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardines_del_Alcázar_de_Sevilla>.
+
+<http://www.wikidata.org/entity/Q5702460>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_de_Lourizán>.
+
+<http://www.wikidata.org/entity/Q4267570>
+        owl:sameAs <http://es.dbpedia.org/resource/Parque_María_Cristina>.
+
+<http://www.wikidata.org/entity/Q3851044>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardines_de_Aranjuez>.
+
+<http://www.wikidata.org/entity/Q4267655>
+        owl:sameAs <http://es.dbpedia.org/resource/Parque_de_las_Acacias_(Algeciras)>.
+
+<http://www.wikidata.org/entity/Q47476>
+        owl:sameAs <http://es.dbpedia.org/resource/Alhambra>.
+
+<http://www.wikidata.org/entity/Q979810>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardines_del_Buen_Retiro_de_Madrid>.
+
+<http://www.wikidata.org/entity/Q525811>
+        owl:sameAs <http://es.dbpedia.org/resource/Generalife>.
+
+<http://www.wikidata.org/entity/Q1683458>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_Botánico_Histórico_La_Concepción>.
+
+<http://www.wikidata.org/entity/Q930784>
+        owl:sameAs <http://es.dbpedia.org/resource/Palmeral_de_Elche>.
+
+<http://www.wikidata.org/entity/Q43166621>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_de_la_Isla_(Aranjuez)>.
+
+<http://www.wikidata.org/entity/Q47477727>
+        owl:sameAs <http://es.dbpedia.org/resource/Parque_municipal_de_la_Fuente_del_Río>.
+
+<http://www.wikidata.org/entity/Q43166829>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_del_Príncipe_(Aranjuez)>.
+
+<http://www.wikidata.org/entity/Q48782205>
+        owl:sameAs <http://es.dbpedia.org/resource/Parterre_del_Retiro>.
+
+<http://www.wikidata.org/entity/Q55086231>
+        owl:sameAs <http://es.dbpedia.org/resource/Hacienda_Divina_Pastora>.
+
+<http://www.wikidata.org/entity/Q43166837>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_de_Isabel_II_(Aranjuez)>.
+
+<http://www.wikidata.org/entity/Q42097175>
+        owl:sameAs <http://es.dbpedia.org/resource/Parque_de_la_Piedra_Tosca>.
+
+<http://www.wikidata.org/entity/Q98057745>
+        owl:sameAs <http://es.dbpedia.org/resource/Parque_Nicolás_Salmerón>.
+
+<http://www.wikidata.org/entity/Q97625173>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_de_Moratalla>.
+
+<http://www.wikidata.org/entity/Q97619464>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_de_Sanlúcar>.
+
+<http://www.wikidata.org/entity/Q62118390>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_del_Parterre_(Aranjuez)>.
+
+<http://www.wikidata.org/entity/Q97633211>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_histórico_El_Retiro>.
+
+<http://www.wikidata.org/entity/Q91018166>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_de_la_Reina_(Aranjuez)>.
+
+<http://www.wikidata.org/entity/Q62118427>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_del_Rey_(Aranjuez)>.
+
+<http://www.wikidata.org/entity/Q97326341>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_de_Robledo>.
+
+<http://www.wikidata.org/entity/Q114662887>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardines_de_Herrero_Palacios>.
+
+<http://www.wikidata.org/entity/Q114338230>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_de_las_Ocho_Calles>.
+
+<http://www.wikidata.org/entity/Q118946134>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_Girona>.
+
+<http://www.wikidata.org/entity/Q6065702>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardines_de_Pereda>.
+
+<http://www.wikidata.org/entity/Q9011007>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_del_Príncipe_de_Anglona>.
+
+<http://www.wikidata.org/entity/Q9056817>
+        owl:sameAs <http://es.dbpedia.org/resource/Patio_de_los_Naranjos_(Las_Palmas)>.
+
+<http://www.wikidata.org/entity/Q11927194>
+        owl:sameAs <http://es.dbpedia.org/resource/Glorieta_(Valencia)>.
+
+<http://www.wikidata.org/entity/Q17279804>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardines_del_Altozano>.
+
+<http://www.wikidata.org/entity/Q25509859>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardines_de_Méndez_Núñez>.
+
+<http://www.wikidata.org/entity/Q6095071>
+        owl:sameAs <http://es.dbpedia.org/resource/Quinta_del_Duque_del_Arco>.
+
+<http://www.wikidata.org/entity/Q8240856>
+        owl:sameAs <http://es.dbpedia.org/resource/Balneario_y_jardines_de_Jabalcuz>.
+
+<http://www.wikidata.org/entity/Q23828411>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardines_de_Albia>.
+
+<http://www.wikidata.org/entity/Q9093787>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_Fernanda>.
+
+<http://www.wikidata.org/entity/Q19772078>
+        owl:sameAs <http://es.dbpedia.org/resource/Campos_Elíseos_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q21396189>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_de_los_Campos_Elíseos_(Barcelona)>.
+
+<http://www.wikidata.org/entity/Q6171747>
+        owl:sameAs <http://es.dbpedia.org/resource/Zoobotánico_Jerez>.
+
+<http://www.wikidata.org/entity/Q18686268>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardines_de_Orive_(Córdoba)>.
+
+<http://www.wikidata.org/entity/Q6062230>
+        owl:sameAs <http://es.dbpedia.org/resource/Parque_González_Hontoria>.
+
+<http://www.wikidata.org/entity/Q6062713>
+        owl:sameAs <http://es.dbpedia.org/resource/Parque_de_la_Alameda_(Jaén)>.
+
+<http://www.wikidata.org/entity/Q6083964>
+        owl:sameAs <http://es.dbpedia.org/resource/Prado_de_San_Sebastián>.
+
+<http://www.wikidata.org/entity/Q19256357>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardines_de_Can_Castelló>.
+
+<http://www.wikidata.org/entity/Q26723566>
+        owl:sameAs <http://es.dbpedia.org/resource/Paseo_de_Catalina_de_Ribera>.
+
+<http://www.wikidata.org/entity/Q28662534>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardines_de_Cristina>.
+
+<http://www.wikidata.org/entity/Q108392183>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_de_los_Planteles>.
+
+<http://www.wikidata.org/entity/Q108378742>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardines_de_Cecilio_Rodríguez>.
+
+<http://www.wikidata.org/entity/Q108392070>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Chopera_del_Retiro>.
+
+<http://www.wikidata.org/entity/Q525811>
+        owl:sameAs <http://es.dbpedia.org/resource/Generalife>.
+
+<http://www.wikidata.org/entity/Q301135>
+        owl:sameAs <http://es.dbpedia.org/resource/Parque_de_la_Ciudadela>.
+
+<http://www.wikidata.org/entity/Q1131807>
+        owl:sameAs <http://es.dbpedia.org/resource/Parque_del_Retiro_de_Madrid>.
+
+<http://www.wikidata.org/entity/Q622773>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardines_de_Son_Berga_Nou>.
+
+<http://www.wikidata.org/entity/Q6091731>
+        owl:sameAs <http://es.dbpedia.org/resource/Puerta_Real_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q15042458>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardines_de_Alfabia>.
+
+<http://www.wikidata.org/entity/Q43166676>
+        owl:sameAs <http://es.dbpedia.org/resource/Puerta_Norte_del_Real_Jardín_Botánico>.
+
+<http://www.wikidata.org/entity/Q6058158>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_de_Peñacerrada>.
+
+<http://www.wikidata.org/entity/Q30908908>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardines_del_Palacio_de_El_Pardo>.
+
+<http://www.wikidata.org/entity/Q11697772>
+        owl:sameAs <http://es.dbpedia.org/resource/Parc_Samà>.
+
+<http://www.wikidata.org/entity/Q16616272>
+        owl:sameAs <http://es.dbpedia.org/resource/Parque_de_El_Bosque>.
+
+<http://www.wikidata.org/entity/Q48781905>
+        owl:sameAs <http://es.dbpedia.org/resource/Finca_de_Vista_Alegre>.
+
+<http://www.wikidata.org/entity/Q9010996>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_de_San_Carlos_(La_Coruña)>.
+
+<http://www.wikidata.org/entity/Q113655205>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Reina_Victoria_Eugenia>.
+
+<http://www.wikidata.org/entity/Q5790224>
+        owl:sameAs <http://es.dbpedia.org/resource/Coto_de_Nuestra_Señora_del_Carmen>.
+
+<http://www.wikidata.org/entity/Q5926316>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardines_de_la_Finca_San_José>.
+
+<http://www.wikidata.org/entity/Q5897722>
+        owl:sameAs <http://es.dbpedia.org/resource/Hijuela_del_Botánico>.
+
+<http://www.wikidata.org/entity/Q5927017>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_histórico_La_Cónsula>.
+
+<http://www.wikidata.org/entity/Q5646099>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardines_del_Alcázar_de_Sevilla>.
+
+<http://www.wikidata.org/entity/Q5926337>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardines_del_Real>.
+
+<http://www.wikidata.org/entity/Q5968885>
+        owl:sameAs <http://es.dbpedia.org/resource/Lago_Martiánez>.
+
+<http://www.wikidata.org/entity/Q2054035>
+        owl:sameAs <http://es.dbpedia.org/resource/Parque_de_El_Capricho>.
+
+<http://www.wikidata.org/entity/Q3162660>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardines_de_Murillo>.
+
+<http://www.wikidata.org/entity/Q2627907>
+        owl:sameAs <http://es.dbpedia.org/resource/Parque_de_María_Luisa>.
+
+<http://www.wikidata.org/entity/Q3162679>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardines_de_las_Delicias_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q1683458>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_Botánico_Histórico_La_Concepción>.
+
+<http://www.wikidata.org/entity/Q1794858>
+        owl:sameAs <http://es.dbpedia.org/resource/Real_Jardín_Botánico_de_Madrid>.
+
+<http://www.wikidata.org/entity/Q2329546>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_Marimurtra>.
+
+<http://www.wikidata.org/entity/Q5656566>
+        owl:sameAs <http://es.dbpedia.org/resource/Aceñas_de_Olivares>.
+
+<http://www.wikidata.org/entity/Q5656563>
+        owl:sameAs <http://es.dbpedia.org/resource/Aceñas_de_Cabañales>.
+
+<http://www.wikidata.org/entity/Q5821649>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Cubo_(Cuéllar)>.
+
+<http://www.wikidata.org/entity/Q5756072>
+        owl:sameAs <http://es.dbpedia.org/resource/Casería_de_la_Trinidad>.
+
+<http://www.wikidata.org/entity/Q5872053>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_de_Harinas_(Manzanares)>.
+
+<http://www.wikidata.org/entity/Q6020977>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_de_aceite_(Cervera_del_Maestre)>.
+
+<http://www.wikidata.org/entity/Q6020944>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_de_Fañanás>.
+
+<http://www.wikidata.org/entity/Q6020962>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_de_Martos_(Córdoba)>.
+
+<http://www.wikidata.org/entity/Q6001787>
+        owl:sameAs <http://es.dbpedia.org/resource/Marroquíes_Bajos>.
+
+<http://www.wikidata.org/entity/Q6020983>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_de_la_Alegría_(Córdoba)>.
+
+<http://www.wikidata.org/entity/Q6020996>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_del_Cubo_(Torredonjimeno)>.
+
+<http://www.wikidata.org/entity/Q3816314>
+        owl:sameAs <http://es.dbpedia.org/resource/Centro_de_Interpretación_del_Patrimonio_Molí_d'en_Rata>.
+
+<http://www.wikidata.org/entity/Q3325590>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_Koba-Errota>.
+
+<http://www.wikidata.org/entity/Q9034232>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_de_Basinagre>.
+
+<http://www.wikidata.org/entity/Q9034236>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_de_Solapeña>.
+
+<http://www.wikidata.org/entity/Q16526616>
+        owl:sameAs <http://es.dbpedia.org/resource/Aceñas_de_la_Pinilla>.
+
+<http://www.wikidata.org/entity/Q16608493>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_de_Barrancales>.
+
+<http://www.wikidata.org/entity/Q8342072>
+        owl:sameAs <http://es.dbpedia.org/resource/Casona_del_Molí_de_la_Reixa>.
+
+<http://www.wikidata.org/entity/Q16608480>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_Boriles>.
+
+<http://www.wikidata.org/entity/Q12175240>
+        owl:sameAs <http://es.dbpedia.org/resource/Fragua_Romana_El_Machuco>.
+
+<http://www.wikidata.org/entity/Q16608510>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_de_la_Aceña>.
+
+<http://www.wikidata.org/entity/Q16863936>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_de_la_Dehesa>.
+
+<http://www.wikidata.org/entity/Q16608519>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_de_la_Corredera>.
+
+<http://www.wikidata.org/entity/Q16608513>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_de_la_Aldehuela>.
+
+<http://www.wikidata.org/entity/Q16608504>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_de_Vellosillo>.
+
+<http://www.wikidata.org/entity/Q16608507>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_de_Villalpando>.
+
+<http://www.wikidata.org/entity/Q16608498>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_de_Perales>.
+
+<http://www.wikidata.org/entity/Q16608533>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_del_Botiller>.
+
+<http://www.wikidata.org/entity/Q109424683>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_de_José_María_Gil>.
+
+<http://www.wikidata.org/entity/Q85875140>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_de_Alaiz_(Fuentes_de_Ropel)>.
+
+<http://www.wikidata.org/entity/Q97604562>
+        owl:sameAs <http://es.dbpedia.org/resource/Baño_del_Piojo>.
+
+<http://www.wikidata.org/entity/Q97625173>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_de_Moratalla>.
+
+<http://www.wikidata.org/entity/Q97626268>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Don_Lucas>.
+
+<http://www.wikidata.org/entity/Q101417462>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_de_Fuentes_Claras>.
+
+<http://www.wikidata.org/entity/Q107392537>
+        owl:sameAs <http://es.dbpedia.org/resource/Gamones_(despoblado)>.
+
+<http://www.wikidata.org/entity/Q21031173>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_de_la_Villa_(Ademuz)>.
+
+<http://www.wikidata.org/entity/Q21001867>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Fuerte_(Torredelcampo)>.
+
+<http://www.wikidata.org/entity/Q43173861>
+        owl:sameAs <http://es.dbpedia.org/resource/Molinos_de_Campo_de_Criptana>.
+
+<http://www.wikidata.org/entity/Q26882142>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_de_Forés>.
+
+<http://www.wikidata.org/entity/Q64520585>
+        owl:sameAs <http://es.dbpedia.org/resource/Reserva_fluvial_Sotos_del_Río_Tajo>.
+
+<http://www.wikidata.org/entity/Q28966169>
+        owl:sameAs <http://es.dbpedia.org/resource/Yesares_del_valle_del_Tajo>.
+
+<http://www.wikidata.org/entity/Q64473910>
+        owl:sameAs <http://es.dbpedia.org/resource/Parque_natural_del_Valle_de_Alcudia_y_Sierra_Madrona>.
+
+<http://www.wikidata.org/entity/Q99529181>
+        owl:sameAs <http://es.dbpedia.org/resource/Paisaje_protegido_de_Lomo_Magullo>.
+
+<http://www.wikidata.org/entity/Q16645432>
+        owl:sameAs <http://es.dbpedia.org/resource/Paisaje_protegido_de_Vallebrón>.
+
+<http://www.wikidata.org/entity/Q20021321>
+        owl:sameAs <http://es.dbpedia.org/resource/Acantilado_del_Asperillo>.
+
+<http://www.wikidata.org/entity/Q24004108>
+        owl:sameAs <http://es.dbpedia.org/resource/Serreta_negra>.
+
+<http://www.wikidata.org/entity/Q48782086>
+        owl:sameAs <http://es.dbpedia.org/resource/Monte_del_Pilar>.
+
+<http://www.wikidata.org/entity/Q113559005>
+        owl:sameAs <http://es.dbpedia.org/resource/Soto_del_Henares_(espacio_natural)>.
+
+<http://www.wikidata.org/entity/Q20021507>
+        owl:sameAs <http://es.dbpedia.org/resource/Parque_rural_de_Doramas>.
+
+<http://www.wikidata.org/entity/Q99435650>
+        owl:sameAs <http://es.dbpedia.org/resource/Montaña_de_Amagro>.
+
+<http://www.wikidata.org/entity/Q99507108>
+        owl:sameAs <http://es.dbpedia.org/resource/Paisaje_protegido_de_Pino_Santo>.
+
+<http://www.wikidata.org/entity/Q21480507>
+        owl:sameAs <http://es.dbpedia.org/resource/Canchos_de_Ramiro>.
+
+<http://www.wikidata.org/entity/Q23978779>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_natural_de_Tauro>.
+
+<http://www.wikidata.org/entity/Q66363886>
+        owl:sameAs <http://es.dbpedia.org/resource/Dehesa_de_Castilseras>.
+
+<http://www.wikidata.org/entity/Q48782069>
+        owl:sameAs <http://es.dbpedia.org/resource/Rincón_del_Torozo>.
+
+<http://www.wikidata.org/entity/Q5656438>
+        owl:sameAs <http://es.dbpedia.org/resource/Pinar_del_Rey>.
+
+<http://www.wikidata.org/entity/Q5969356>
+        owl:sameAs <http://es.dbpedia.org/resource/Lagunas_de_Puebla_de_Beleña>.
+
+<http://www.wikidata.org/entity/Q6013411>
+        owl:sameAs <http://es.dbpedia.org/resource/Microrreserva_Agulles_de_Santa_Águeda>.
+
+<http://www.wikidata.org/entity/Q6106336>
+        owl:sameAs <http://es.dbpedia.org/resource/Reserva_natural_del_Sabinar_de_Calatañazor>.
+
+<http://www.wikidata.org/entity/Q5561333>
+        owl:sameAs <http://es.dbpedia.org/resource/Sitio_de_interés_científico_de_las_Salinas_de_Fuencaliente>.
+
+<http://www.wikidata.org/entity/Q5979278>
+        owl:sameAs <http://es.dbpedia.org/resource/Los_Ajaches>.
+
+<http://www.wikidata.org/entity/Q6159260>
+        owl:sameAs <http://es.dbpedia.org/resource/Valle_del_Tajuña_en_Torrecuadrada>.
+
+<http://www.wikidata.org/entity/Q9072778>
+        owl:sameAs <http://es.dbpedia.org/resource/Saladares_del_Guadalentín>.
+
+<http://www.wikidata.org/entity/Q1543751>
+        owl:sameAs <http://es.dbpedia.org/resource/Sierra_de_la_Demanda>.
+
+<http://www.wikidata.org/entity/Q1798838>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Geria>.
+
+<http://www.wikidata.org/entity/Q6132665>
+        owl:sameAs <http://es.dbpedia.org/resource/Soto_de_Viñuelas>.
+
+<http://www.wikidata.org/entity/Q2659022>
+        owl:sameAs <http://es.dbpedia.org/resource/Ribera_Navarra>.
+
+<http://www.wikidata.org/entity/Q6138389>
+        owl:sameAs <http://es.dbpedia.org/resource/Paisaje_protegido_de_Tamanca>.
+
+<http://www.wikidata.org/entity/Q8775142>
+        owl:sameAs <http://es.dbpedia.org/resource/Els_Plantadets>.
+
+<http://www.wikidata.org/entity/Q760704>
+        owl:sameAs <http://es.dbpedia.org/resource/Monte_de_El_Pardo>.
+
+<http://www.wikidata.org/entity/Q6103144>
+        owl:sameAs <http://es.dbpedia.org/resource/Red_de_Espacios_Naturales_Protegidos_de_Andalucía>.
+
+<http://www.wikidata.org/entity/Q6127652>
+        owl:sameAs <http://es.dbpedia.org/resource/Sierra_de_Altomira_(espacio_natural)>.
+
+<http://www.wikidata.org/entity/Q13049982>
+        owl:sameAs <http://es.dbpedia.org/resource/Refugio_de_Fauna_Silvestre_de_La_Lomaza_de_Belchite>.
+
+<http://www.wikidata.org/entity/Q2843669>
+        owl:sameAs <http://es.dbpedia.org/resource/Racó_de_Sant_Bonaventura-Canalons>.
+
+<http://www.wikidata.org/entity/Q6022939>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_natural_de_Las_Playas>.
+
+<http://www.wikidata.org/entity/Q9081511>
+        owl:sameAs <http://es.dbpedia.org/resource/Tajo_del_Águila>.
+
+<http://www.wikidata.org/entity/Q20014994>
+        owl:sameAs <http://es.dbpedia.org/resource/Falla_de_Nigüelas>.
+
+<http://www.wikidata.org/entity/Q5834505>
+        owl:sameAs <http://es.dbpedia.org/resource/Entrepeñes_y_Playa_de_Vega>.
+
+<http://www.wikidata.org/entity/Q3395750>
+        owl:sameAs <http://es.dbpedia.org/resource/Isla_de_La_Deva_y_Playón_de_Bayas>.
+
+<http://www.wikidata.org/entity/Q6078938>
+        owl:sameAs <http://es.dbpedia.org/resource/Playa_de_Penarronda>.
+
+<http://www.wikidata.org/entity/Q2877219>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_natural_de_los_Volcanes_de_Teneguía>.
+
+<http://www.wikidata.org/entity/Q5799057>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_natural_Riberas_del_Guadaíra>.
+
+<http://www.wikidata.org/entity/Q8960976>
+        owl:sameAs <http://es.dbpedia.org/resource/Fayona_de_Eiros>.
+
+<http://www.wikidata.org/entity/Q9035037>
+        owl:sameAs <http://es.dbpedia.org/resource/Órganos_de_Montoro>.
+
+<http://www.wikidata.org/entity/Q96280028>
+        owl:sameAs <http://es.dbpedia.org/resource/Huellas_de_Dinosaurios_de_Santisteban_del_Puerto>.
+
+<http://www.wikidata.org/entity/Q96464211>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Agua_de_Tíscar>.
+
+<http://www.wikidata.org/entity/Q100706043>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_natural_de_las_Montañas_del_Fuego>.
+
+<http://www.wikidata.org/entity/Q97120099>
+        owl:sameAs <http://es.dbpedia.org/resource/Peña_de_Arcos>.
+
+<http://www.wikidata.org/entity/Q64494813>
+        owl:sameAs <http://es.dbpedia.org/resource/Volcán_del_Alhorín>.
+
+<http://www.wikidata.org/entity/Q23978779>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_natural_de_Tauro>.
+
+<http://www.wikidata.org/entity/Q64511107>
+        owl:sameAs <http://es.dbpedia.org/resource/Serrezuela_de_Valsalobre>.
+
+<http://www.wikidata.org/entity/Q65694307>
+        owl:sameAs <http://es.dbpedia.org/resource/Chorreras_del_Cabriel>.
+
+<http://www.wikidata.org/entity/Q48781757>
+        owl:sameAs <http://es.dbpedia.org/resource/Lagunas_de_Palos_y_Las_Madres>.
+
+<http://www.wikidata.org/entity/Q6039299>
+        owl:sameAs <http://es.dbpedia.org/resource/Necrópolis_de_Las_Chaperas>.
+
+<http://www.wikidata.org/entity/Q5812516>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_del_Portillo_de_las_Cortes>.
+
+<http://www.wikidata.org/entity/Q6039295>
+        owl:sameAs <http://es.dbpedia.org/resource/Necrópolis_de_La_Noria>.
+
+<http://www.wikidata.org/entity/Q6039316>
+        owl:sameAs <http://es.dbpedia.org/resource/Necrópolis_de_las_Erijuelas>.
+
+<http://www.wikidata.org/entity/Q6039310>
+        owl:sameAs <http://es.dbpedia.org/resource/Necrópolis_de_Trayamar>.
+
+<http://www.wikidata.org/entity/Q6039321>
+        owl:sameAs <http://es.dbpedia.org/resource/Necrópolis_megalítica_de_Gádor>.
+
+<http://www.wikidata.org/entity/Q1579766>
+        owl:sameAs <http://es.dbpedia.org/resource/Los_Millares>.
+
+<http://www.wikidata.org/entity/Q3346877>
+        owl:sameAs <http://es.dbpedia.org/resource/Necrópolis_de_San_Antón>.
+
+<http://www.wikidata.org/entity/Q597955>
+        owl:sameAs <http://es.dbpedia.org/resource/Capilla_y_necrópolis_de_San_Victor_de_Barxacova>.
+
+<http://www.wikidata.org/entity/Q727501>
+        owl:sameAs <http://es.dbpedia.org/resource/Son_Real>.
+
+<http://www.wikidata.org/entity/Q6039279>
+        owl:sameAs <http://es.dbpedia.org/resource/Necrópolis_de_Alcaide>.
+
+<http://www.wikidata.org/entity/Q6039293>
+        owl:sameAs <http://es.dbpedia.org/resource/Necrópolis_de_La_Coba>.
+
+<http://www.wikidata.org/entity/Q6039303>
+        owl:sameAs <http://es.dbpedia.org/resource/Necrópolis_de_Los_Villares>.
+
+<http://www.wikidata.org/entity/Q2972673>
+        owl:sameAs <http://es.dbpedia.org/resource/Cementerio_paleocristiano_de_Tarragona>.
+
+<http://www.wikidata.org/entity/Q5822827>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Peñón_de_las_Juntas>.
+
+<http://www.wikidata.org/entity/Q6169495>
+        owl:sameAs <http://es.dbpedia.org/resource/Yabal_Faruh>.
+
+<http://www.wikidata.org/entity/Q43083208>
+        owl:sameAs <http://es.dbpedia.org/resource/Almizaraque>.
+
+<http://www.wikidata.org/entity/Q30901592>
+        owl:sameAs <http://es.dbpedia.org/resource/Necrópolis_Ibérica_de_Tútugi>.
+
+<http://www.wikidata.org/entity/Q12253935>
+        owl:sameAs <http://es.dbpedia.org/resource/Necrópolis_de_Arguiñeta>.
+
+<http://www.wikidata.org/entity/Q16518404>
+        owl:sameAs <http://es.dbpedia.org/resource/Cementerio_Prehistórico_de_Mulisko_Gaina>.
+
+<http://www.wikidata.org/entity/Q11695235>
+        owl:sameAs <http://es.dbpedia.org/resource/Necrópolis_ibérica_del_Corral_de_Saus>.
+
+<http://www.wikidata.org/entity/Q12185492>
+        owl:sameAs <http://es.dbpedia.org/resource/Necrópolis_medievales_de_Las_Iglesuelas-Valdihuertos>.
+
+<http://www.wikidata.org/entity/Q21480504>
+        owl:sameAs <http://es.dbpedia.org/resource/Can_Missert>.
+
+<http://www.wikidata.org/entity/Q22970133>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_de_Cuyacabras>.
+
+<http://www.wikidata.org/entity/Q24030881>
+        owl:sameAs <http://es.dbpedia.org/resource/Necrópolis_de_Velilla_del_Río_Carrión>.
+
+<http://www.wikidata.org/entity/Q25411248>
+        owl:sameAs <http://es.dbpedia.org/resource/Tribisburu>.
+
+<http://www.wikidata.org/entity/Q27430411>
+        owl:sameAs <http://es.dbpedia.org/resource/Necrópolis_de_Fuentidueña>.
+
+<http://www.wikidata.org/entity/Q15136682>
+        owl:sameAs <http://es.dbpedia.org/resource/Vía_sepulcral_de_la_plaza_de_la_Villa_de_Madrid>.
+
+<http://www.wikidata.org/entity/Q97620186>
+        owl:sameAs <http://es.dbpedia.org/resource/Necrópolis_de_la_Punta_de_la_Vaca>.
+
+<http://www.wikidata.org/entity/Q62974997>
+        owl:sameAs <http://es.dbpedia.org/resource/Necrópolis_de_la_judería_de_Valladolid>.
+
+<http://www.wikidata.org/entity/Q59336710>
+        owl:sameAs <http://es.dbpedia.org/resource/Necrópolis_de_Cala_Morell>.
+
+<http://www.wikidata.org/entity/Q55705604>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Dos_Hermanas_(Montemayor)>.
+
+<http://www.wikidata.org/entity/Q97634208>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_prehistórico_del_Llano_de_la_Virgen>.
+
+<http://www.wikidata.org/entity/Q97633525>
+        owl:sameAs <http://es.dbpedia.org/resource/Los_Castillejos_(Teba)>.
+
+<http://www.wikidata.org/entity/Q97633671>
+        owl:sameAs <http://es.dbpedia.org/resource/Necrópolis_megalítica_de_la_Planilla>.
+
+<http://www.wikidata.org/entity/Q106523309>
+        owl:sameAs <http://es.dbpedia.org/resource/Dólmenes_de_Corominas>.
+
+<http://www.wikidata.org/entity/Q107326208>
+        owl:sameAs <http://es.dbpedia.org/resource/Maqbara_de_San_Nicolás>.
+
+<http://www.wikidata.org/entity/Q97632801>
+        owl:sameAs <http://es.dbpedia.org/resource/Poblado_y_necrópolis_tardorromana_de_La_Angostura>.
+
+<http://www.wikidata.org/entity/Q111687069>
+        owl:sameAs <http://es.dbpedia.org/resource/Cabecico_del_Tesoro>.
+
+<http://www.wikidata.org/entity/Q105884486>
+        owl:sameAs <http://es.dbpedia.org/resource/Necrópolis_musulmana_de_Tauste>.
+
+<http://www.wikidata.org/entity/Q110953265>
+        owl:sameAs <http://es.dbpedia.org/resource/Necrópolis_de_San_Mamede>.
+
+<http://www.wikidata.org/entity/Q1962124>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_fortificado_Torre_Gausa>.
+
+<http://www.wikidata.org/entity/Q21077245>
+        owl:sameAs <http://es.dbpedia.org/resource/Can_Batlle>.
+
+<http://www.wikidata.org/entity/Q21031174>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_Nuevo_(Ademuz)>.
+
+<http://www.wikidata.org/entity/Q47452669>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_de_Maciá>.
+
+<http://www.wikidata.org/entity/Q54214171>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_del_Blanco>.
+
+<http://www.wikidata.org/entity/Q96577224>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_de_Ricovanca>.
+
+<http://www.wikidata.org/entity/Q17600696>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_Viejo_(Castellcir)>.
+
+<http://www.wikidata.org/entity/Q9034237>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_del_Plomall>.
+
+<http://www.wikidata.org/entity/Q10331535>
+        owl:sameAs <http://es.dbpedia.org/resource/Molinos_del_Folón_y_del_Picón>.
+
+<http://www.wikidata.org/entity/Q6020962>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_de_Martos_(Córdoba)>.
+
+<http://www.wikidata.org/entity/Q11681430>
+        owl:sameAs <http://es.dbpedia.org/resource/Los_Molinos_de_la_Vila>.
+
+<http://www.wikidata.org/entity/Q11937247>
+        owl:sameAs <http://es.dbpedia.org/resource/Molí_Vell_del_Riu>.
+
+<http://www.wikidata.org/entity/Q9034241>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_del_Pocillo>.
+
+<http://www.wikidata.org/entity/Q6020934>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_de_Cazorla_(San_Bartolomé_de_Tirajana)>.
+
+<http://www.wikidata.org/entity/Q6020983>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_de_la_Alegría_(Córdoba)>.
+
+<http://www.wikidata.org/entity/Q18004864>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_de_Pals>.
+
+<http://www.wikidata.org/entity/Q28662532>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_de_Farinós>.
+
+<http://www.wikidata.org/entity/Q30902069>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_de_Zurita>.
+
+<http://www.wikidata.org/entity/Q38189844>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_del_Vado>.
+
+<http://www.wikidata.org/entity/Q38189598>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_del_Batán>.
+
+<http://www.wikidata.org/entity/Q38153756>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_de_la_Vila>.
+
+<http://www.wikidata.org/entity/Q38175090>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_de_Ferrando>.
+
+<http://www.wikidata.org/entity/Q38174950>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_del_Testar>.
+
+<http://www.wikidata.org/entity/Q38189667>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_de_la_Peña>.
+
+<http://www.wikidata.org/entity/Q38189919>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_de_Donderis>.
+
+<http://www.wikidata.org/entity/Q38189530>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_de_la_Tandera>.
+
+<http://www.wikidata.org/entity/Q117783998>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_del_Esparto>.
+
+<http://www.wikidata.org/entity/Q612222>
+        owl:sameAs <http://es.dbpedia.org/resource/Molinos_de_Consuegra>.
+
+<http://www.wikidata.org/entity/Q6021025>
+        owl:sameAs <http://es.dbpedia.org/resource/Molinos_de_viento_del_Campo_de_Cartagena>.
+
+<http://www.wikidata.org/entity/Q6020927>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_de_Barranco_Grande>.
+
+<http://www.wikidata.org/entity/Q6020938>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_de_Cuevas_Blancas>.
+
+<http://www.wikidata.org/entity/Q16863938>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_viejo_de_Zabala>.
+
+<http://www.wikidata.org/entity/Q9034228>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_de_Aixerrota>.
+
+<http://www.wikidata.org/entity/Q98501436>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Buenavista>.
+
+<http://www.wikidata.org/entity/Q29564995>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_de_viento_El_Zurdo>.
+
+<http://www.wikidata.org/entity/Q29564115>
+        owl:sameAs <http://es.dbpedia.org/resource/Molinos_de_Alcázar_de_San_Juan>.

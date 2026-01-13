@@ -1,0 +1,1819 @@
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://www.wikidata.org/entity/Q4268975>
+        owl:sameAs <http://es.dbpedia.org/resource/Acueducto_de_Bejís>.
+
+<http://www.wikidata.org/entity/Q5657078>
+        owl:sameAs <http://es.dbpedia.org/resource/Acueductos_del_Barranco_de_la_Muerte>.
+
+<http://www.wikidata.org/entity/Q5759632>
+        owl:sameAs <http://es.dbpedia.org/resource/Caños_de_Carmona>.
+
+<http://www.wikidata.org/entity/Q8187805>
+        owl:sameAs <http://es.dbpedia.org/resource/Acueducto_de_Morella>.
+
+<http://www.wikidata.org/entity/Q5657044>
+        owl:sameAs <http://es.dbpedia.org/resource/Acueducto_Los_Arcos_(Teruel)>.
+
+<http://www.wikidata.org/entity/Q9064384>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_Can_Vernet>.
+
+<http://www.wikidata.org/entity/Q5683847>
+        owl:sameAs <http://es.dbpedia.org/resource/Acueducto_de_Plasencia>.
+
+<http://www.wikidata.org/entity/Q5657041>
+        owl:sameAs <http://es.dbpedia.org/resource/Acueducto_La_Madre>.
+
+<http://www.wikidata.org/entity/Q5657076>
+        owl:sameAs <http://es.dbpedia.org/resource/Acueducto_romano_de_Huelva>.
+
+<http://www.wikidata.org/entity/Q6171619>
+        owl:sameAs <http://es.dbpedia.org/resource/Zona_arqueológica_de_El_Chuche_(Benahadux)>.
+
+<http://www.wikidata.org/entity/Q8187813>
+        owl:sameAs <http://es.dbpedia.org/resource/Acueducto_romano_de_Albarracín-Cella>.
+
+<http://www.wikidata.org/entity/Q5411717>
+        owl:sameAs <http://es.dbpedia.org/resource/Acueducto_de_Tempul>.
+
+<http://www.wikidata.org/entity/Q6049452>
+        owl:sameAs <http://es.dbpedia.org/resource/Ojo_del_Canal>.
+
+<http://www.wikidata.org/entity/Q5657051>
+        owl:sameAs <http://es.dbpedia.org/resource/Acueducto_de_Los_Arcos_(Calanda)>.
+
+<http://www.wikidata.org/entity/Q5657071>
+        owl:sameAs <http://es.dbpedia.org/resource/Acueducto_de_los_Pilares>.
+
+<http://www.wikidata.org/entity/Q5392603>
+        owl:sameAs <http://es.dbpedia.org/resource/Aqua_Fontis_Aureae>.
+
+<http://www.wikidata.org/entity/Q5657061>
+        owl:sameAs <http://es.dbpedia.org/resource/Acueducto_de_San_Telmo>.
+
+<http://www.wikidata.org/entity/Q5703172>
+        owl:sameAs <http://es.dbpedia.org/resource/Arco_de_la_Mora>.
+
+<http://www.wikidata.org/entity/Q8187809>
+        owl:sameAs <http://es.dbpedia.org/resource/Acueducto_de_San_Rafael>.
+
+<http://www.wikidata.org/entity/Q8187796>
+        owl:sameAs <http://es.dbpedia.org/resource/Acueducto_Los_Arcos_de_Alpuente>.
+
+<http://www.wikidata.org/entity/Q5647438>
+        owl:sameAs <http://es.dbpedia.org/resource/Acueducto_del_Jalón>.
+
+<http://www.wikidata.org/entity/Q5657035>
+        owl:sameAs <http://es.dbpedia.org/resource/Acueducto_Aqua_Nova_Domitiana_Augusta_(Córdoba)>.
+
+<http://www.wikidata.org/entity/Q5746818>
+        owl:sameAs <http://es.dbpedia.org/resource/Canal_de_Navarra>.
+
+<http://www.wikidata.org/entity/Q4782853>
+        owl:sameAs <http://es.dbpedia.org/resource/Acueducto_de_Albatana>.
+
+<http://www.wikidata.org/entity/Q5657067>
+        owl:sameAs <http://es.dbpedia.org/resource/Acueducto_de_Valdepuentes_(Córdoba)>.
+
+<http://www.wikidata.org/entity/Q5657038>
+        owl:sameAs <http://es.dbpedia.org/resource/Acueducto_Els_Arquets>.
+
+<http://www.wikidata.org/entity/Q8187807>
+        owl:sameAs <http://es.dbpedia.org/resource/Acueducto_de_Peña_Cortada>.
+
+<http://www.wikidata.org/entity/Q3277345>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Zuazo>.
+
+<http://www.wikidata.org/entity/Q3774528>
+        owl:sameAs <http://es.dbpedia.org/resource/Acueducto_de_los_Milagros>.
+
+<http://www.wikidata.org/entity/Q2884725>
+        owl:sameAs <http://es.dbpedia.org/resource/Acueducto_de_Algeciras>.
+
+<http://www.wikidata.org/entity/Q2935977>
+        owl:sameAs <http://es.dbpedia.org/resource/Canal_de_Bardenas>.
+
+<http://www.wikidata.org/entity/Q623448>
+        owl:sameAs <http://es.dbpedia.org/resource/Acueducto_de_les_Ferreres>.
+
+<http://www.wikidata.org/entity/Q22969920>
+        owl:sameAs <http://es.dbpedia.org/resource/Acueductos_de_la_rambla_de_Carcauz>.
+
+<http://www.wikidata.org/entity/Q29169647>
+        owl:sameAs <http://es.dbpedia.org/resource/La_canal_del_Val>.
+
+<http://www.wikidata.org/entity/Q27891840>
+        owl:sameAs <http://es.dbpedia.org/resource/Acueducto_Ojival>.
+
+<http://www.wikidata.org/entity/Q11945337>
+        owl:sameAs <http://es.dbpedia.org/resource/Restos_del_acueducto_romano_de_Altea>.
+
+<http://www.wikidata.org/entity/Q20968287>
+        owl:sameAs <http://es.dbpedia.org/resource/Acueducto_del_Puente_de_San_José_de_Montanejos>.
+
+<http://www.wikidata.org/entity/Q19368906>
+        owl:sameAs <http://es.dbpedia.org/resource/Acueducto_de_los_Diecisiete_Arcos>.
+
+<http://www.wikidata.org/entity/Q12264881>
+        owl:sameAs <http://es.dbpedia.org/resource/Acueducto_de_Noáin>.
+
+<http://www.wikidata.org/entity/Q18436014>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo,_acueducto_y_murallas_de_Segorbe>.
+
+<http://www.wikidata.org/entity/Q47798997>
+        owl:sameAs <http://es.dbpedia.org/resource/Acueducto_de_Sabatini>.
+
+<http://www.wikidata.org/entity/Q56723622>
+        owl:sameAs <http://es.dbpedia.org/resource/Acueducto_de_la_Fuente_del_Rey>.
+
+<http://www.wikidata.org/entity/Q62006184>
+        owl:sameAs <http://es.dbpedia.org/resource/Acueductos_de_San_José_y_Alcudia>.
+
+<http://www.wikidata.org/entity/Q43120744>
+        owl:sameAs <http://es.dbpedia.org/resource/Acueducto_de_San_Lázaro>.
+
+<http://www.wikidata.org/entity/Q97604561>
+        owl:sameAs <http://es.dbpedia.org/resource/Cortijo_de_los_Arcos>.
+
+<http://www.wikidata.org/entity/Q85856144>
+        owl:sameAs <http://es.dbpedia.org/resource/Caz_y_Cubo_del_Molino_de_Araoz>.
+
+<http://www.wikidata.org/entity/Q97633171>
+        owl:sameAs <http://es.dbpedia.org/resource/Acueducto_del_Águila>.
+
+<http://www.wikidata.org/entity/Q98057758>
+        owl:sameAs <http://es.dbpedia.org/resource/Acueducto_y_aljibe_de_Las_Cumbres>.
+
+<http://www.wikidata.org/entity/Q104630126>
+        owl:sameAs <http://es.dbpedia.org/resource/Acequia_del_Toril>.
+
+<http://www.wikidata.org/entity/Q104230782>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_de_San_Patricio>.
+
+<http://www.wikidata.org/entity/Q115771644>
+        owl:sameAs <http://es.dbpedia.org/resource/Acueducto_de_Abánades>.
+
+<http://www.wikidata.org/entity/Q29642042>
+        owl:sameAs <http://es.dbpedia.org/resource/Glorieta_de_la_transexual_Sonia>.
+
+<http://www.wikidata.org/entity/Q28662777>
+        owl:sameAs <http://es.dbpedia.org/resource/Quiosco_de_la_música>.
+
+<http://www.wikidata.org/entity/Q12263916>
+        owl:sameAs <http://es.dbpedia.org/resource/Muru_(Valle_de_Yerri)>.
+
+<http://www.wikidata.org/entity/Q13365230>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Atristain>.
+
+<http://www.wikidata.org/entity/Q5687189>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Sorarrain>.
+
+<http://www.wikidata.org/entity/Q8341817>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_en_Calle_San_Martín_(Hermua)>.
+
+<http://www.wikidata.org/entity/Q8341928>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Arrillaga_Haundi>.
+
+<http://www.wikidata.org/entity/Q8341917>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío-Museo_Igartubeiti>.
+
+<http://www.wikidata.org/entity/Q5841498>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Landako>.
+
+<http://www.wikidata.org/entity/Q8341938>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Azkue>.
+
+<http://www.wikidata.org/entity/Q8341953>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Etxebarri>.
+
+<http://www.wikidata.org/entity/Q8341961>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Gaztañaga>.
+
+<http://www.wikidata.org/entity/Q519219>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Enderika_Haundi>.
+
+<http://www.wikidata.org/entity/Q568040>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Tolare>.
+
+<http://www.wikidata.org/entity/Q5495587>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Katxola>.
+
+<http://www.wikidata.org/entity/Q5639990>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Berridi>.
+
+<http://www.wikidata.org/entity/Q5682345>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Larrañaga>.
+
+<http://www.wikidata.org/entity/Q5787610>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Isuntza_Bekoa>.
+
+<http://www.wikidata.org/entity/Q5939719>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Isuntza_Goikoa>.
+
+<http://www.wikidata.org/entity/Q8341926>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Aristizabal>.
+
+<http://www.wikidata.org/entity/Q8341920>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Arandoñogoiti>.
+
+<http://www.wikidata.org/entity/Q8341925>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Ariztegieta>.
+
+<http://www.wikidata.org/entity/Q8341939>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Berroeta>.
+
+<http://www.wikidata.org/entity/Q8341940>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Bidaurre>.
+
+<http://www.wikidata.org/entity/Q8341942>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Egoskozabal>.
+
+<http://www.wikidata.org/entity/Q8341948>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Erreitzu>.
+
+<http://www.wikidata.org/entity/Q8341952>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Etxandi>.
+
+<http://www.wikidata.org/entity/Q8341957>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Gorostiza>.
+
+<http://www.wikidata.org/entity/Q8341944>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_Lazarraga>.
+
+<http://www.wikidata.org/entity/Q968157>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Arandoñolarrina>.
+
+<http://www.wikidata.org/entity/Q2891504>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Eduegi>.
+
+<http://www.wikidata.org/entity/Q8341919>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Aizpitarte>.
+
+<http://www.wikidata.org/entity/Q8341921>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Argoainaundi>.
+
+<http://www.wikidata.org/entity/Q8341933>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Artzabal>.
+
+<http://www.wikidata.org/entity/Q8341936>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Bengoetxe>.
+
+<http://www.wikidata.org/entity/Q5856208>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Urrutume>.
+
+<http://www.wikidata.org/entity/Q8341918>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Aierdi>.
+
+<http://www.wikidata.org/entity/Q8341963>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Ibarrola_Haundi>.
+
+<http://www.wikidata.org/entity/Q608150>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Erregiñenea>.
+
+<http://www.wikidata.org/entity/Q5687210>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Arretxe>.
+
+<http://www.wikidata.org/entity/Q8341927>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Arregi>.
+
+<http://www.wikidata.org/entity/Q8341955>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Etxeberri>.
+
+<http://www.wikidata.org/entity/Q8341991>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Letamendi>.
+
+<http://www.wikidata.org/entity/Q8342000>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Salete>.
+
+<http://www.wikidata.org/entity/Q8342007>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Ugarte>.
+
+<http://www.wikidata.org/entity/Q8341970>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Iruaritz>.
+
+<http://www.wikidata.org/entity/Q8341977>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Larrea>.
+
+<http://www.wikidata.org/entity/Q8342004>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Santa_Marina_Haundi>.
+
+<http://www.wikidata.org/entity/Q8341969>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Iriarte_Azpikoa>.
+
+<http://www.wikidata.org/entity/Q8341975>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Lapatza>.
+
+<http://www.wikidata.org/entity/Q8341974>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Iturbe_Haundi>.
+
+<http://www.wikidata.org/entity/Q8341989>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Iturriotz>.
+
+<http://www.wikidata.org/entity/Q8341972>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Landetxo_Goikoa>.
+
+<http://www.wikidata.org/entity/Q8341986>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Legarralde>.
+
+<http://www.wikidata.org/entity/Q8341995>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Mañastegizar>.
+
+<http://www.wikidata.org/entity/Q8341997>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Patxillardegi>.
+
+<http://www.wikidata.org/entity/Q8342006>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Ubillots>.
+
+<http://www.wikidata.org/entity/Q8342008>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Zozola>.
+
+<http://www.wikidata.org/entity/Q11680589>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Erkiagabekoa>.
+
+<http://www.wikidata.org/entity/Q8342013>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_en_el_Barrio_de_Arriba_(Luyando)>.
+
+<http://www.wikidata.org/entity/Q8341996>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Murgiaran>.
+
+<http://www.wikidata.org/entity/Q8341968>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Gorostiola>.
+
+<http://www.wikidata.org/entity/Q8341967>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Irazugoikoa>.
+
+<http://www.wikidata.org/entity/Q8341987>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Lekoia_Bekoa>.
+
+<http://www.wikidata.org/entity/Q8341992>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Lete>.
+
+<http://www.wikidata.org/entity/Q8341994>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Mañarinzelai>.
+
+<http://www.wikidata.org/entity/Q8341998>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Salbarregi>.
+
+<http://www.wikidata.org/entity/Q8342002>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Salturri>.
+
+<http://www.wikidata.org/entity/Q8341966>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Ilunbe>.
+
+<http://www.wikidata.org/entity/Q8341993>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Lopetedi>.
+
+<http://www.wikidata.org/entity/Q8342010>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Zuatzu>.
+
+<http://www.wikidata.org/entity/Q8342011>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Zuaznabar_Haundi>.
+
+<http://www.wikidata.org/entity/Q8341964>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Iparragirre>.
+
+<http://www.wikidata.org/entity/Q8771973>
+        owl:sameAs <http://es.dbpedia.org/resource/Edificio_Ambrosio_de_los_Heros_14>.
+
+<http://www.wikidata.org/entity/Q12253950>
+        owl:sameAs <http://es.dbpedia.org/resource/Arínzano>.
+
+<http://www.wikidata.org/entity/Q65581096>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Cadalso>.
+
+<http://www.wikidata.org/entity/Q67912184>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Redondo>.
+
+<http://www.wikidata.org/entity/Q51120823>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Urbina>.
+
+<http://www.wikidata.org/entity/Q110445767>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Txillarre>.
+
+<http://www.wikidata.org/entity/Q118945872>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Torre_(Torrecaballeros)>.
+
+<http://www.wikidata.org/entity/Q5911051>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Pascual_Bailón_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q5911143>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Pedro_Apóstol_(Alaejos)>.
+
+<http://www.wikidata.org/entity/Q5910955>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Miguel_y_San_Julián_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q5911061>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Pedro_(Astudillo)>.
+
+<http://www.wikidata.org/entity/Q5911066>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Pedro_(Barrio_de_San_Pedro,_Becerril_del_Carpio)>.
+
+<http://www.wikidata.org/entity/Q5911099>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Pedro_(Pastriz)>.
+
+<http://www.wikidata.org/entity/Q5911178>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Pedro_Apóstol_(Mucientes)>.
+
+<http://www.wikidata.org/entity/Q5910891>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Miguel_(San_Mamés_de_Zalima)>.
+
+<http://www.wikidata.org/entity/Q5911187>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Pedro_Apóstol_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q5911365>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Simón_de_Rojas_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q5911587>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santa_Isabel_de_Portugal_(Zaragoza)>.
+
+<http://www.wikidata.org/entity/Q5911666>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santa_María_(Curiel_de_Duero)>.
+
+<http://www.wikidata.org/entity/Q5911726>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santa_María_(Torrelobatón)>.
+
+<http://www.wikidata.org/entity/Q5911778>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santa_María_de_Arbas>.
+
+<http://www.wikidata.org/entity/Q5911189>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Pedro_Apóstol_(Valoria_la_Buena)>.
+
+<http://www.wikidata.org/entity/Q5911889>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santa_María_del_Castillo_(Castronuño)>.
+
+<http://www.wikidata.org/entity/Q5911996>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santa_María_la_Real_(Cillamayor)>.
+
+<http://www.wikidata.org/entity/Q5912052>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santiago_(Cigales)>.
+
+<http://www.wikidata.org/entity/Q5911568>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santa_Eugenia_(Becerril_de_Campos)>.
+
+<http://www.wikidata.org/entity/Q5911799>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santa_María_de_Mediavilla>.
+
+<http://www.wikidata.org/entity/Q5911766>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santa_María_Magdalena_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q5911240>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Pío_X_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q5911693>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santa_María_(Muro_de_Roda)>.
+
+<http://www.wikidata.org/entity/Q5911252>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Ramón_Nonato_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q5911257>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Román_(San_Román_de_Hornija)>.
+
+<http://www.wikidata.org/entity/Q5911749>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santa_María_Magdalena_(Matapozuelos)>.
+
+<http://www.wikidata.org/entity/Q5911978>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santa_María_la_Mayor_(Villamuriel_de_Cerrato)>.
+
+<http://www.wikidata.org/entity/Q5911471>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santa_Ana_(Mainar)>.
+
+<http://www.wikidata.org/entity/Q5911495>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santa_Bárbara_(Barajores_de_la_Peña)>.
+
+<http://www.wikidata.org/entity/Q5911539>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santa_Clara_de_Asís_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q5911643>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santa_María_(Alaejos)>.
+
+<http://www.wikidata.org/entity/Q5911879>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santa_María_del_Camino_(Carrión_de_los_Condes)>.
+
+<http://www.wikidata.org/entity/Q5911891>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santa_María_del_Castillo_(Cervera_de_Pisuerga)>.
+
+<http://www.wikidata.org/entity/Q5912050>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santiago_(Carrión_de_los_Condes)>.
+
+<http://www.wikidata.org/entity/Q5722080>
+        owl:sameAs <http://es.dbpedia.org/resource/Basílica_de_la_Purísima_(Yecla)>.
+
+<http://www.wikidata.org/entity/Q5722083>
+        owl:sameAs <http://es.dbpedia.org/resource/Basílica_de_la_Vera_Cruz>.
+
+<http://www.wikidata.org/entity/Q5910538>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Juan_Evangelista_(Arroyo_de_la_Encomienda)>.
+
+<http://www.wikidata.org/entity/Q5910681>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Lucas_(Toledo)>.
+
+<http://www.wikidata.org/entity/Q5910750>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Martín_(Paredes_de_Nava)>.
+
+<http://www.wikidata.org/entity/Q5910755>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Martín_(San_Martín_del_Río)>.
+
+<http://www.wikidata.org/entity/Q5910771>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Martín_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q5910882>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Miguel_(Palencia)>.
+
+<http://www.wikidata.org/entity/Q5910596>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_de_la_Virgen_de_Fátima_(Astorga)>.
+
+<http://www.wikidata.org/entity/Q5909689>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Nuestra_Señora_del_Carmen_Extramuros_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q5909152>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Agustín_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q5909879>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Andrés_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q5910182>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Francisco_(Palencia)>.
+
+<http://www.wikidata.org/entity/Q5910567>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Juan_de_la_Cruz_(Alba_de_Tormes)>.
+
+<http://www.wikidata.org/entity/Q5910888>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Miguel_(Rebolledo_de_la_Inera)>.
+
+<http://www.wikidata.org/entity/Q5909312>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_María_Auxiliadora_(Bollullos_Par_del_Condado)>.
+
+<http://www.wikidata.org/entity/Q5909836>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Andrés_(Barrio_de_San_Pedro)>.
+
+<http://www.wikidata.org/entity/Q5909716>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Nuestra_Señora_del_Pilar_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q5909761>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Nuestra_Señora_del_Rosario_de_Filipinas>.
+
+<http://www.wikidata.org/entity/Q5910383>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_José_Obrero_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q5910874>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Miguel_(Olmedo)>.
+
+<http://www.wikidata.org/entity/Q5909600>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Nuestra_Señora_de_la_Victoria_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q5909699>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Nuestra_Señora_del_Henar_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q5909874>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Andrés_(Toledo)>.
+
+<http://www.wikidata.org/entity/Q5910288>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Ildefonso_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q5910355>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_José_(Palencia)>.
+
+<http://www.wikidata.org/entity/Q5910494>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Juan_Bautista_(Respenda_de_Aguilar)>.
+
+<http://www.wikidata.org/entity/Q5910697>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Lázaro_(Palencia)>.
+
+<http://www.wikidata.org/entity/Q5910781>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Martín_de_Tours_(Aldeamayor_de_San_Martín)>.
+
+<http://www.wikidata.org/entity/Q5909240>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_del_Salvador_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q5909193>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Cristo_Redentor_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q5909324>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Nuestra_Señora_Reina_de_la_Paz>.
+
+<http://www.wikidata.org/entity/Q5910283>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Ignacio_de_Loyola_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q5910511>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Juan_Bautista_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q5909821>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Andrés_(Aguilar_de_Campos)>.
+
+<http://www.wikidata.org/entity/Q5909856>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Andrés_(Mantinos)>.
+
+<http://www.wikidata.org/entity/Q5909430>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Nuestra_Señora_de_la_Asunción_(Cogeces_del_Monte)>.
+
+<http://www.wikidata.org/entity/Q5909858>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Andrés_(Olmedo)>.
+
+<http://www.wikidata.org/entity/Q5910218>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Francisco_de_Borja_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q5910561>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Juan_de_Letrán_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q5910659>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Lorenzo_(Zorita_del_Páramo)>.
+
+<http://www.wikidata.org/entity/Q5909393>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Nuestra_Señora_de_la_Anunciada>.
+
+<http://www.wikidata.org/entity/Q5117128>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Pedro_ad_Víncula_(Vallecas)>.
+
+<http://www.wikidata.org/entity/Q5642536>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santa_María_del_Castillo_(Cuenca_de_Campos)>.
+
+<http://www.wikidata.org/entity/Q5680973>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Martín_(Mota_del_Marqués)>.
+
+<http://www.wikidata.org/entity/Q4867355>
+        owl:sameAs <http://es.dbpedia.org/resource/Basílica_de_Jesús_de_Medinaceli>.
+
+<http://www.wikidata.org/entity/Q3821324>
+        owl:sameAs <http://es.dbpedia.org/resource/Colegiata_de_Játiva>.
+
+<http://www.wikidata.org/entity/Q5117080>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Antonio_de_los_Alemanes>.
+
+<http://www.wikidata.org/entity/Q5391789>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_la_Asunción_(Benafarces)>.
+
+<http://www.wikidata.org/entity/Q5477347>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Nuestra_Señora_de_Belén_(Carrión_de_los_Condes)>.
+
+<http://www.wikidata.org/entity/Q5549091>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Isidoro_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q5677729>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_los_Santos_Juanes_(Nava_del_Rey)>.
+
+<http://www.wikidata.org/entity/Q5682385>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Francisco_de_Asís_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q3682887>
+        owl:sameAs <http://es.dbpedia.org/resource/Colegiata_de_San_Isidro>.
+
+<http://www.wikidata.org/entity/Q5722065>
+        owl:sameAs <http://es.dbpedia.org/resource/Basílica_de_la_Caridad_(Cartagena)>.
+
+<http://www.wikidata.org/entity/Q5680551>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santa_María_(Pozaldez)>.
+
+<http://www.wikidata.org/entity/Q4892380>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Lorenzo_(Lérida)>.
+
+<http://www.wikidata.org/entity/Q5117102>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_José_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q5117763>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_del_Carmen_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q5391710>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santiago_Apóstol_(Alcazarén)>.
+
+<http://www.wikidata.org/entity/Q5561484>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Nuestra_Señora_de_las_Angustias_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q5644650>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Calvario_(Montalbán_de_Córdoba)>.
+
+<http://www.wikidata.org/entity/Q5641954>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_los_Santos_Justo_y_Pastor_(Olleros_de_Pisuerga)>.
+
+<http://www.wikidata.org/entity/Q2885585>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_El_Salvador_(Simancas)>.
+
+<http://www.wikidata.org/entity/Q2894059>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Juan_Evangelista_(Portillo)>.
+
+<http://www.wikidata.org/entity/Q3572189>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Nuestra_Señora_del_Pilar_(Canfranc)>.
+
+<http://www.wikidata.org/entity/Q2880180>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santa_María_La_Antigua>.
+
+<http://www.wikidata.org/entity/Q3582357>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Luis_de_los_Franceses_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q3150769>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_la_Anunciación_(Santander)>.
+
+<http://www.wikidata.org/entity/Q2889991>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Nuestra_Señora_de_la_Asunción_(Villamelendro_de_Valdavia)>.
+
+<http://www.wikidata.org/entity/Q2879358>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_la_Asunción_de_Nuestra_Señora_(Navarrete_del_Río)>.
+
+<http://www.wikidata.org/entity/Q2942449>
+        owl:sameAs <http://es.dbpedia.org/resource/Concatedral_de_Soria>.
+
+<http://www.wikidata.org/entity/Q2067794>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Juan_de_Baños>.
+
+<http://www.wikidata.org/entity/Q1189742>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Cipriano_(San_Cebrián_de_Mazote)>.
+
+<http://www.wikidata.org/entity/Q978306>
+        owl:sameAs <http://es.dbpedia.org/resource/Basílica_de_la_Virgen_de_los_Desamparados>.
+
+<http://www.wikidata.org/entity/Q605621>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_San_Vicente_de_Roda_de_Isábena>.
+
+<http://www.wikidata.org/entity/Q14536505>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Cornelio_y_San_Cipriano_(Revilla_de_Santullán)>.
+
+<http://www.wikidata.org/entity/Q15791271>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Andrés_(Frontada)>.
+
+<http://www.wikidata.org/entity/Q15791342>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santa_María_la_Real_(Valberzoso)>.
+
+<http://www.wikidata.org/entity/Q16577769>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Miguel_(Medina_del_Campo)>.
+
+<http://www.wikidata.org/entity/Q14912618>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santa_María_(Santa_Cruz_de_la_Serós)>.
+
+<http://www.wikidata.org/entity/Q15791361>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Miguel_(Brañosera)>.
+
+<http://www.wikidata.org/entity/Q15077701>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santa_María_de_Baldós>.
+
+<http://www.wikidata.org/entity/Q16577741>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Lorenzo_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q15979054>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Ildefonso_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q14912621>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Cornelio_y_San_Cipriano_(San_Cebrián_de_Mudá)>.
+
+<http://www.wikidata.org/entity/Q16577847>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santa_Ana_(Cantoral_de_la_Peña)>.
+
+<http://www.wikidata.org/entity/Q18007362>
+        owl:sameAs <http://es.dbpedia.org/resource/San_Salvador_de_Estopiñán>.
+
+<http://www.wikidata.org/entity/Q18223063>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Purísima_Concepción_(Cuesta_del_Rato)>.
+
+<http://www.wikidata.org/entity/Q18200486>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Juan_Bautista_(Fresno_el_Viejo)>.
+
+<http://www.wikidata.org/entity/Q18418375>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Pelayo_(Olivares_de_Duero)>.
+
+<http://www.wikidata.org/entity/Q18668214>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Cristóbal_(Boecillo)>.
+
+<http://www.wikidata.org/entity/Q18191191>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Juan_del_Otero_(Quintanilla_de_Onsoña)>.
+
+<http://www.wikidata.org/entity/Q18286048>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Ginés_(Villabrágima)>.
+
+<http://www.wikidata.org/entity/Q19360888>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Ildefonso_(Toledo)>.
+
+<http://www.wikidata.org/entity/Q18219515>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santa_María_(Íscar)>.
+
+<http://www.wikidata.org/entity/Q18286065>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Miguel_(San_Miguel_del_Pino)>.
+
+<http://www.wikidata.org/entity/Q18010947>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Misericordia_(Meliana)>.
+
+<http://www.wikidata.org/entity/Q18223069>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Sebastián_(Castielfabib)>.
+
+<http://www.wikidata.org/entity/Q18286050>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Miguel_Arcángel_(Pedrosa_del_Rey)>.
+
+<http://www.wikidata.org/entity/Q18286056>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santa_María_de_la_Expectación_(Peñaflor_de_Hornija)>.
+
+<http://www.wikidata.org/entity/Q17602089>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Francisco_Javier_(Formentera)>.
+
+<http://www.wikidata.org/entity/Q18286060>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santa_María_del_Castillo_(Villaverde_de_Medina)>.
+
+<http://www.wikidata.org/entity/Q19057181>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Nicolás_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q18286045>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Nuestra_Señora_del_Castillo_(Muriel_de_Zapardiel)>.
+
+<http://www.wikidata.org/entity/Q124831547>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_la_Virgen_del_Faro>.
+
+<http://www.wikidata.org/entity/Q9006840>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_la_Santa_Vera_Cruz_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q9007057>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Francisco_(Vivero)>.
+
+<http://www.wikidata.org/entity/Q9007728>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_del_Santísimo_Cristo_del_Salvador_(Valencia)>.
+
+<http://www.wikidata.org/entity/Q9074431>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_de_San_Pascual_Baylón>.
+
+<http://www.wikidata.org/entity/Q9007249>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Nicolás_de_Bari_(Zaragoza)>.
+
+<http://www.wikidata.org/entity/Q11682845>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Juan_Bautista_(Alcalá_de_Chivert)>.
+
+<http://www.wikidata.org/entity/Q8243751>
+        owl:sameAs <http://es.dbpedia.org/resource/Real_Basílica_de_San_Lorenzo_de_El_Escorial>.
+
+<http://www.wikidata.org/entity/Q9006910>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Nuestra_Señora_de_la_Asunción_(Tudela_de_Duero)>.
+
+<http://www.wikidata.org/entity/Q7415163>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Pedro_el_Viejo_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q10975695>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Fructuoso_(Colmenares_de_Ojeda)>.
+
+<http://www.wikidata.org/entity/Q8243797>
+        owl:sameAs <http://es.dbpedia.org/resource/Basílica_de_San_Martín_(Mondoñedo)>.
+
+<http://www.wikidata.org/entity/Q9006832>
+        owl:sameAs <http://es.dbpedia.org/resource/Parroquia_Matriz_de_Santa_María_(Betancuria)>.
+
+<http://www.wikidata.org/entity/Q5912347>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_la_Asunción_de_Nuestra_Señora_(Quinto)>.
+
+<http://www.wikidata.org/entity/Q6447333>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Nuestro_Padre_Jesús_Nazareno_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q5912113>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santiago_Apóstol_(Medina_de_Rioseco)>.
+
+<http://www.wikidata.org/entity/Q5912788>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Clerecía_(Salamanca)>.
+
+<http://www.wikidata.org/entity/Q5912270>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_la_Anunciación_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q5912540>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_la_Exaltación_de_la_Santa_Cruz_(Zaragoza)>.
+
+<http://www.wikidata.org/entity/Q5939167>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Cayetano_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q5912573>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_la_Transfiguración_(Tablares)>.
+
+<http://www.wikidata.org/entity/Q5912634>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santa_Teresa_del_convento_de_las_Fecetas>.
+
+<http://www.wikidata.org/entity/Q5912698>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_del_Beato_Florentino_Asensio>.
+
+<http://www.wikidata.org/entity/Q5912775>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_del_Dulce_Nombre_de_María_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q5912743>
+        owl:sameAs <http://es.dbpedia.org/resource/Convento_de_Santa_Isabel_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q5912289>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_la_Asunción_(Castrillo_de_Duero)>.
+
+<http://www.wikidata.org/entity/Q5912370>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_la_Compañía_(Palencia)>.
+
+<http://www.wikidata.org/entity/Q5912134>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santiago_Apóstol_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q7415013>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Nicolás_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q5912741>
+        owl:sameAs <http://es.dbpedia.org/resource/Convento_de_Porta_Coeli_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q5912689>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_los_Santos_Justo_y_Pastor_(Cuenca_de_Campos)>.
+
+<http://www.wikidata.org/entity/Q5912138>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santiago_Apóstol_(Villalba_de_los_Alcores)>.
+
+<http://www.wikidata.org/entity/Q6447254>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_las_Santas_Justa_y_Rufina_(Toledo)>.
+
+<http://www.wikidata.org/entity/Q6446909>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Pelayo_(Arenillas_de_San_Pelayo)>.
+
+<http://www.wikidata.org/entity/Q5912326>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_la_Asunción_de_Nuestra_Señora_(Baldellou)>.
+
+<http://www.wikidata.org/entity/Q5912454>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_la_Inmaculada_Concepción_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q5912192>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santo_Domingo_de_Guzmán_(Campaspero)>.
+
+<http://www.wikidata.org/entity/Q5912701>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_del_Buen_Suceso_(Puerta_del_Sol)>.
+
+<http://www.wikidata.org/entity/Q5991967>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_de_la_Virgen_de_Lugás>.
+
+<http://www.wikidata.org/entity/Q5912506>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_la_Pasión_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q5912724>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Nuestra_Señora_del_Carmen_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q5912226>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santo_Domingo_de_Guzmán_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q5912902>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_del_monasterio_de_San_Benito_el_Real>.
+
+<http://www.wikidata.org/entity/Q5912525>
+        owl:sameAs <http://es.dbpedia.org/resource/Parroquia_de_la_Sagrada_Familia_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q5991838>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Isidoro_(Oviedo)>.
+
+<http://www.wikidata.org/entity/Q6394300>
+        owl:sameAs <http://es.dbpedia.org/resource/Basílica_de_Santa_Teresa_(Alba_de_Tormes)>.
+
+<http://www.wikidata.org/entity/Q101002772>
+        owl:sameAs <http://es.dbpedia.org/resource/Basílica_de_San_Gregorio_Ostiense>.
+
+<http://www.wikidata.org/entity/Q96678330>
+        owl:sameAs <http://es.dbpedia.org/resource/Santuario_de_Nuestra_Señora_de_Fátima_(Orense)>.
+
+<http://www.wikidata.org/entity/Q97630654>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_la_Santa_Cruz_(Baeza)>.
+
+<http://www.wikidata.org/entity/Q97626446>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_del_Salvador_y_Santo_Domingo_de_Silos_(Córdoba)>.
+
+<http://www.wikidata.org/entity/Q73173345>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Antón_(Granada)>.
+
+<http://www.wikidata.org/entity/Q112305003>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Nuestra_Señora_del_Remedio>.
+
+<http://www.wikidata.org/entity/Q86442942>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Esteban_(Larraul)>.
+
+<http://www.wikidata.org/entity/Q73174274>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Miguel_(Granada)>.
+
+<http://www.wikidata.org/entity/Q73171105>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_los_Hospitalicos>.
+
+<http://www.wikidata.org/entity/Q73227131>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Gregorio_Bético>.
+
+<http://www.wikidata.org/entity/Q73226699>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Gregorio_Magno>.
+
+<http://www.wikidata.org/entity/Q73173846>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Miguel_Alto>.
+
+<http://www.wikidata.org/entity/Q73415072>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santa_María_de_la_Alhambra>.
+
+<http://www.wikidata.org/entity/Q43143976>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Mamés_(Cilleruelo_de_San_Mamés)>.
+
+<http://www.wikidata.org/entity/Q20639767>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Millán_(Quintanilla_de_Onésimo)>.
+
+<http://www.wikidata.org/entity/Q20921718>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Pedro_(Alcazarén)>.
+
+<http://www.wikidata.org/entity/Q27688780>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santa_Engracia_(Olmos_de_Peñafiel)>.
+
+<http://www.wikidata.org/entity/Q20639757>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Nuestra_Señora_de_la_Asunción_(Laguna_de_Duero)>.
+
+<http://www.wikidata.org/entity/Q20639764>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Cipriano_(Fuensaldaña)>.
+
+<http://www.wikidata.org/entity/Q20639774>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santa_María_(Mojados)>.
+
+<http://www.wikidata.org/entity/Q25415135>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Francisco_(Ateca)>.
+
+<http://www.wikidata.org/entity/Q20639773>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santa_María_de_la_Concepción_(Castronuevo_de_Esgueva)>.
+
+<http://www.wikidata.org/entity/Q20921722>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santa_María_del_Castillo_(Olmedo)>.
+
+<http://www.wikidata.org/entity/Q30905741>
+        owl:sameAs <http://es.dbpedia.org/resource/Real_y_Pontificia_Iglesia_de_la_Purísima_Concepción>.
+
+<http://www.wikidata.org/entity/Q20639772>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santa_María_(Villabrágima)>.
+
+<http://www.wikidata.org/entity/Q26700168>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Juan_Evangelista_(Santibáñez_de_Valcorba)>.
+
+<http://www.wikidata.org/entity/Q20639751>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Nuestra_Señora_de_la_Asunción_(La_Seca)>.
+
+<http://www.wikidata.org/entity/Q20639770>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Nuestra_Señora_de_la_Visitación_(Villanueva_de_Duero)>.
+
+<http://www.wikidata.org/entity/Q20639758>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Juan_Bautista_(Santovenia_de_Pisuerga)>.
+
+<http://www.wikidata.org/entity/Q20921712>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Boal_(Pozaldez)>.
+
+<http://www.wikidata.org/entity/Q23900744>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Nuestra_Señora_de_la_Asunción_(Bahabón)>.
+
+<http://www.wikidata.org/entity/Q43140079>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Fructuoso_(Valoria_del_Alcor)>.
+
+<http://www.wikidata.org/entity/Q20639768>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Martín_de_Tours_(Traspinedo)>.
+
+<http://www.wikidata.org/entity/Q20639754>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santiago_Apóstol_(Carpio)>.
+
+<http://www.wikidata.org/entity/Q33527401>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Sebastián_(Abarca_de_Campos)>.
+
+<http://www.wikidata.org/entity/Q20639780>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santa_Cruz_(Medina_de_Rioseco)>.
+
+<http://www.wikidata.org/entity/Q41490202>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Nuestra_Señora_de_la_Junquera>.
+
+<http://www.wikidata.org/entity/Q20639761>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Miguel_(Villalón_de_Campos)>.
+
+<http://www.wikidata.org/entity/Q20973146>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Juan_Bautista_(Rodilana)>.
+
+<http://www.wikidata.org/entity/Q442089>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_Winter>.
+
+<http://www.wikidata.org/entity/Q629221>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Bombonera_(La_Garriga)>.
+
+<http://www.wikidata.org/entity/Q582449>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Coll_i_Regàs>.
+
+<http://www.wikidata.org/entity/Q607238>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_la_Torre_(San_Emiliano)>.
+
+<http://www.wikidata.org/entity/Q947045>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Muley-Afid>.
+
+<http://www.wikidata.org/entity/Q1148574>
+        owl:sameAs <http://es.dbpedia.org/resource/Munigua>.
+
+<http://www.wikidata.org/entity/Q815935>
+        owl:sameAs <http://es.dbpedia.org/resource/Bellesguard>.
+
+<http://www.wikidata.org/entity/Q2096776>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Capricho_(Gaudí)>.
+
+<http://www.wikidata.org/entity/Q5029041>
+        owl:sameAs <http://es.dbpedia.org/resource/Can_Feliz>.
+
+<http://www.wikidata.org/entity/Q5029074>
+        owl:sameAs <http://es.dbpedia.org/resource/Can_Lis>.
+
+<http://www.wikidata.org/entity/Q5047865>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Piñol>.
+
+<http://www.wikidata.org/entity/Q5047861>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Navàs>.
+
+<http://www.wikidata.org/entity/Q5047823>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Gasull>.
+
+<http://www.wikidata.org/entity/Q2918109>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Barbey>.
+
+<http://www.wikidata.org/entity/Q3813625>
+        owl:sameAs <http://es.dbpedia.org/resource/Puerto_Viejo_(Algorta)>.
+
+<http://www.wikidata.org/entity/Q3661109>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Garí>.
+
+<http://www.wikidata.org/entity/Q3820636>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Trinxet>.
+
+<http://www.wikidata.org/entity/Q2917986>
+        owl:sameAs <http://es.dbpedia.org/resource/Edificio_de_La_Equitativa_(Bilbao)>.
+
+<http://www.wikidata.org/entity/Q3819638>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Rull_(Reus)>.
+
+<http://www.wikidata.org/entity/Q5755276>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_los_Caballos>.
+
+<http://www.wikidata.org/entity/Q5755393>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_del_Almirante_(Cádiz)>.
+
+<http://www.wikidata.org/entity/Q5755281>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_los_Duendes_(Puerto_Lumbreras)>.
+
+<http://www.wikidata.org/entity/Q5755457>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_del_Deán>.
+
+<http://www.wikidata.org/entity/Q5755251>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_los_Abarca_(Salamanca)>.
+
+<http://www.wikidata.org/entity/Q5755631>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_natal_de_Blas_Infante>.
+
+<http://www.wikidata.org/entity/Q5763390>
+        owl:sameAs <http://es.dbpedia.org/resource/Oppidum_íbero_de_Puente_Tablas>.
+
+<http://www.wikidata.org/entity/Q5657399>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Doctor_Genové>.
+
+<http://www.wikidata.org/entity/Q5755249>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_las_Viudas>.
+
+<http://www.wikidata.org/entity/Q5754216>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Fortón-Cascajares>.
+
+<http://www.wikidata.org/entity/Q5754016>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa-Convento_de_Santa_Teresa>.
+
+<http://www.wikidata.org/entity/Q5754418>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Museo_de_Martín_Alonso_Pinzón>.
+
+<http://www.wikidata.org/entity/Q5754464>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Palacio_de_Salinas_(Málaga)>.
+
+<http://www.wikidata.org/entity/Q5658145>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_del_Santo_(Armentia)>.
+
+<http://www.wikidata.org/entity/Q5646129>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_de_los_Villalones_(Córdoba)>.
+
+<http://www.wikidata.org/entity/Q5755221>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_las_Cinco_Torres>.
+
+<http://www.wikidata.org/entity/Q5754302>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Lis>.
+
+<http://www.wikidata.org/entity/Q5754323>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Mantilla>.
+
+<http://www.wikidata.org/entity/Q5755198>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_las_Aldabas>.
+
+<http://www.wikidata.org/entity/Q5754521>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Roche>.
+
+<http://www.wikidata.org/entity/Q5754746>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_Palacio_de_Arizón>.
+
+<http://www.wikidata.org/entity/Q5754078>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Arruba>.
+
+<http://www.wikidata.org/entity/Q5755215>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_las_Chirimías>.
+
+<http://www.wikidata.org/entity/Q5755225>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_las_Cuatro_Torres>.
+
+<http://www.wikidata.org/entity/Q5755235>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_las_Monjas_(Málaga)>.
+
+<http://www.wikidata.org/entity/Q5754485>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Piera>.
+
+<http://www.wikidata.org/entity/Q5754440>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_natal_de_Juan_Ramón_Jiménez>.
+
+<http://www.wikidata.org/entity/Q5904202>
+        owl:sameAs <http://es.dbpedia.org/resource/Huerta_de_San_Vicente>.
+
+<http://www.wikidata.org/entity/Q5390350>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_los_Gaona>.
+
+<http://www.wikidata.org/entity/Q5406465>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_del_Cordón_(Valdecañas_de_Cerrato)>.
+
+<http://www.wikidata.org/entity/Q5481566>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_del_Temple>.
+
+<http://www.wikidata.org/entity/Q5411827>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa-Palacio_de_la_Calle_del_Sol>.
+
+<http://www.wikidata.org/entity/Q5491272>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Kikumbera>.
+
+<http://www.wikidata.org/entity/Q9093759>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_Eguzki_Jaia>.
+
+<http://www.wikidata.org/entity/Q8341631>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Lluch>.
+
+<http://www.wikidata.org/entity/Q8341795>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_del_Bailío_(Córdoba)>.
+
+<http://www.wikidata.org/entity/Q8341813>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_do_Carballo_de_Galdo>.
+
+<http://www.wikidata.org/entity/Q9093830>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_Magdalena>.
+
+<http://www.wikidata.org/entity/Q8772098>
+        owl:sameAs <http://es.dbpedia.org/resource/Edificio_en_San_Roque_(Moreda_de_Álava)>.
+
+<http://www.wikidata.org/entity/Q9074493>
+        owl:sameAs <http://es.dbpedia.org/resource/Sanz_Enea_(Zarauz)>.
+
+<http://www.wikidata.org/entity/Q8341651>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Montero>.
+
+<http://www.wikidata.org/entity/Q8341669>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Rozes>.
+
+<http://www.wikidata.org/entity/Q8772097>
+        owl:sameAs <http://es.dbpedia.org/resource/Edificio_en_Muelle_de_Churruca_(Portugalete)>.
+
+<http://www.wikidata.org/entity/Q9088822>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_Iris>.
+
+<http://www.wikidata.org/entity/Q8341739>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_Arzamendi>.
+
+<http://www.wikidata.org/entity/Q8341593>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Durán>.
+
+<http://www.wikidata.org/entity/Q8341663>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Puig_i_Cadafalch>.
+
+<http://www.wikidata.org/entity/Q8341993>
+        owl:sameAs <http://es.dbpedia.org/resource/Caserío_Lopetedi>.
+
+<http://www.wikidata.org/entity/Q8341629>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Lezama-Leguizamon>.
+
+<http://www.wikidata.org/entity/Q6058135>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_de_Nájera>.
+
+<http://www.wikidata.org/entity/Q6406204>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_del_Gigante>.
+
+<http://www.wikidata.org/entity/Q6406213>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_del_Príncipe>.
+
+<http://www.wikidata.org/entity/Q6150695>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_Bulart-Rialp>.
+
+<http://www.wikidata.org/entity/Q6406135>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_los_Hoces>.
+
+<http://www.wikidata.org/entity/Q11911507>
+        owl:sameAs <http://es.dbpedia.org/resource/Can_Bartrina>.
+
+<http://www.wikidata.org/entity/Q11911632>
+        owl:sameAs <http://es.dbpedia.org/resource/Can_Galceran>.
+
+<http://www.wikidata.org/entity/Q11910779>
+        owl:sameAs <http://es.dbpedia.org/resource/Cal_Talaveró>.
+
+<http://www.wikidata.org/entity/Q11680570>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Armet>.
+
+<http://www.wikidata.org/entity/Q11705106>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_Munda>.
+
+<http://www.wikidata.org/entity/Q11681997>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Casa_Natal_Picasso>.
+
+<http://www.wikidata.org/entity/Q11680569>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Antoni_Barraquer>.
+
+<http://www.wikidata.org/entity/Q11680568>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Amorotoena>.
+
+<http://www.wikidata.org/entity/Q11912724>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Fullà>.
+
+<http://www.wikidata.org/entity/Q11912715>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_España>.
+
+<http://www.wikidata.org/entity/Q11912776>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Pere_Carreras>.
+
+<http://www.wikidata.org/entity/Q11912824>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_Santa_Teresa>.
+
+<http://www.wikidata.org/entity/Q11912803>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Tosquella>.
+
+<http://www.wikidata.org/entity/Q11912925>
+        owl:sameAs <http://es.dbpedia.org/resource/Casas_del_Oñar>.
+
+<http://www.wikidata.org/entity/Q11913076>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Picalquers>.
+
+<http://www.wikidata.org/entity/Q12385489>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_las_Campanas_(Pontevedra)>.
+
+<http://www.wikidata.org/entity/Q13548107>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa-Museo_de_Blasco_Ibáñez>.
+
+<http://www.wikidata.org/entity/Q13612363>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Soler_y_Palet>.
+
+<http://www.wikidata.org/entity/Q11952251>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_Montserrat>.
+
+<http://www.wikidata.org/entity/Q14544281>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Brunet>.
+
+<http://www.wikidata.org/entity/Q16543936>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Díaz-Cassou>.
+
+<http://www.wikidata.org/entity/Q15302972>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Masó>.
+
+<http://www.wikidata.org/entity/Q16518935>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_palacio_de_los_Sodupe>.
+
+<http://www.wikidata.org/entity/Q16833558>
+        owl:sameAs <http://es.dbpedia.org/resource/Archivo_Histórico_Provincial_de_Granada>.
+
+<http://www.wikidata.org/entity/Q16915948>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Jacint_Bruguera>.
+
+<http://www.wikidata.org/entity/Q17067235>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_La_Armonía>.
+
+<http://www.wikidata.org/entity/Q17370416>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Palauet_de_la_Muralla>.
+
+<http://www.wikidata.org/entity/Q17376161>
+        owl:sameAs <http://es.dbpedia.org/resource/Can_Rovira_de_la_Volta>.
+
+<http://www.wikidata.org/entity/Q17593518>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Alòs>.
+
+<http://www.wikidata.org/entity/Q17592014>
+        owl:sameAs <http://es.dbpedia.org/resource/Ca_Segarra>.
+
+<http://www.wikidata.org/entity/Q17593514>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Alegre_de_Sagrera>.
+
+<http://www.wikidata.org/entity/Q17595060>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Salas_Ricomà>.
+
+<http://www.wikidata.org/entity/Q18003485>
+        owl:sameAs <http://es.dbpedia.org/resource/Can_Cendra>.
+
+<http://www.wikidata.org/entity/Q18003443>
+        owl:sameAs <http://es.dbpedia.org/resource/Cal_Sabater>.
+
+<http://www.wikidata.org/entity/Q18003374>
+        owl:sameAs <http://es.dbpedia.org/resource/Café_de_l'Aliança>.
+
+<http://www.wikidata.org/entity/Q18003353>
+        owl:sameAs <http://es.dbpedia.org/resource/Ca_l'Esparter_(Anglés)>.
+
+<http://www.wikidata.org/entity/Q18003427>
+        owl:sameAs <http://es.dbpedia.org/resource/Cal_Noi>.
+
+<http://www.wikidata.org/entity/Q18003439>
+        owl:sameAs <http://es.dbpedia.org/resource/Cal_Rellotger>.
+
+<http://www.wikidata.org/entity/Q18003491>
+        owl:sameAs <http://es.dbpedia.org/resource/Can_Duc>.
+
+<http://www.wikidata.org/entity/Q18003720>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_del_Común_de_Das>.
+
+<http://www.wikidata.org/entity/Q18003592>
+        owl:sameAs <http://es.dbpedia.org/resource/Can_Vilaró>.
+
+<http://www.wikidata.org/entity/Q18003808>
+        owl:sameAs <http://es.dbpedia.org/resource/Can_Camps_(Anglés)>.
+
+<http://www.wikidata.org/entity/Q18003783>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Pilar_de_Parellada>.
+
+<http://www.wikidata.org/entity/Q18003791>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Rosario_Sans>.
+
+<http://www.wikidata.org/entity/Q18003737>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Farratges>.
+
+<http://www.wikidata.org/entity/Q18003755>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Josep_Sunyer>.
+
+<http://www.wikidata.org/entity/Q18003726>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Doctor_Vinyes>.
+
+<http://www.wikidata.org/entity/Q18003765>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Margenat>.
+
+<http://www.wikidata.org/entity/Q18004182>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Torre_(Anglés)>.
+
+<http://www.wikidata.org/entity/Q18005616>
+        owl:sameAs <http://es.dbpedia.org/resource/Pisos_de_Can_Verdaguer_(Anglés)>.
+
+<http://www.wikidata.org/entity/Q18004724>
+        owl:sameAs <http://es.dbpedia.org/resource/Granja_de_Can_Cendra_(Anglés)>.
+
+<http://www.wikidata.org/entity/Q18008516>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_Mena>.
+
+<http://www.wikidata.org/entity/Q18008866>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_Retiro>.
+
+<http://www.wikidata.org/entity/Q18016287>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Balvey>.
+
+<http://www.wikidata.org/entity/Q18071197>
+        owl:sameAs <http://es.dbpedia.org/resource/Vicaría_de_Su>.
+
+<http://www.wikidata.org/entity/Q18285692>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_Francisco_Calderón_de_La_Barca>.
+
+<http://www.wikidata.org/entity/Q18325337>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Leopoldo_Suqué>.
+
+<http://www.wikidata.org/entity/Q20985507>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Vilahur>.
+
+<http://www.wikidata.org/entity/Q20985432>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Cucurella>.
+
+<http://www.wikidata.org/entity/Q19949781>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Maldonado_(Barcelona)>.
+
+<http://www.wikidata.org/entity/Q19949724>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Baurier>.
+
+<http://www.wikidata.org/entity/Q21085915>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Dawson>.
+
+<http://www.wikidata.org/entity/Q21281749>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Bojons>.
+
+<http://www.wikidata.org/entity/Q21480518>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_los_Vargas>.
+
+<http://www.wikidata.org/entity/Q21480884>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_San_Joseren>.
+
+<http://www.wikidata.org/entity/Q20431338>
+        owl:sameAs <http://es.dbpedia.org/resource/Can_Basart>.
+
+<http://www.wikidata.org/entity/Q20107820>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Soler_Casolleras>.
+
+<http://www.wikidata.org/entity/Q20827651>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Abadía_de_Ares_del_Maestre>.
+
+<http://www.wikidata.org/entity/Q21849323>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Camós>.
+
+<http://www.wikidata.org/entity/Q20895717>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_la_Comanda>.
+
+<http://www.wikidata.org/entity/Q23011113>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Revilla>.
+
+<http://www.wikidata.org/entity/Q23501976>
+        owl:sameAs <http://es.dbpedia.org/resource/Senya_Blanca>.
+
+<http://www.wikidata.org/entity/Q22969941>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_Porras>.
+
+<http://www.wikidata.org/entity/Q24035365>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Comella>.
+
+<http://www.wikidata.org/entity/Q25474120>
+        owl:sameAs <http://es.dbpedia.org/resource/Sociedad_Bilbaína>.
+
+<http://www.wikidata.org/entity/Q24199400>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_Elías_López_Bustamante>.
+
+<http://www.wikidata.org/entity/Q24568319>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Jacinta_Bruguera>.
+
+<http://www.wikidata.org/entity/Q27959998>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Almenar_Andreu>.
+
+<http://www.wikidata.org/entity/Q27122560>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_Gabriel_y_Galán>.
+
+<http://www.wikidata.org/entity/Q27210998>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_Castañer>.
+
+<http://www.wikidata.org/entity/Q27652254>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Palacio_del_Obispo_Beltrán>.
+
+<http://www.wikidata.org/entity/Q28503321>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_del_Puente_Internacional_de_Arnegui>.
+
+<http://www.wikidata.org/entity/Q28662839>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Encomienda_de_Moraleja>.
+
+<http://www.wikidata.org/entity/Q26821344>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Asols>.
+
+<http://www.wikidata.org/entity/Q29642104>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_los_Marqueses_de_Camarasa>.
+
+<http://www.wikidata.org/entity/Q29642205>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Pajares>.
+
+<http://www.wikidata.org/entity/Q31886229>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_del_Conde_de_la_Cañada>.
+
+<http://www.wikidata.org/entity/Q41157134>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_Las_Torres>.
+
+<http://www.wikidata.org/entity/Q41650369>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Oswald_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q41650908>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Girasol>.
+
+<http://www.wikidata.org/entity/Q47170220>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_las_Aguas_(Moncada_y_Reixach)>.
+
+<http://www.wikidata.org/entity/Q42268572>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_Amrram_J._Wahnon>.
+
+<http://www.wikidata.org/entity/Q42178261>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_del_Nuevo_Rezado>.
+
+<http://www.wikidata.org/entity/Q43143843>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Mayor_Guerra>.
+
+<http://www.wikidata.org/entity/Q43120784>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Solar_de_los_Bustos>.
+
+<http://www.wikidata.org/entity/Q43081536>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_Mesa>.
+
+<http://www.wikidata.org/entity/Q45028661>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Fabiola>.
+
+<http://www.wikidata.org/entity/Q43081578>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_los_Girones>.
+
+<http://www.wikidata.org/entity/Q55988936>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Duclós>.
+
+<http://www.wikidata.org/entity/Q56403800>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Ricarda>.
+
+<http://www.wikidata.org/entity/Q65515998>
+        owl:sameAs <http://es.dbpedia.org/resource/Capricho_rillano>.
+
+<http://www.wikidata.org/entity/Q61058997>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Borda>.
+
+<http://www.wikidata.org/entity/Q65558667>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Cuna_de_San_Antonio>.
+
+<http://www.wikidata.org/entity/Q61780992>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_en_Peironcely_10>.
+
+<http://www.wikidata.org/entity/Q96099488>
+        owl:sameAs <http://es.dbpedia.org/resource/Can_Muntaner_de_Dalt>.
+
+<http://www.wikidata.org/entity/Q97632428>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_del_Rey_Moro_(Ronda)>.
+
+<http://www.wikidata.org/entity/Q97286083>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_de_los_marqueses_de_Torrealta>.
+
+<http://www.wikidata.org/entity/Q97604578>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Morisca_del_Albaicín>.
+
+<http://www.wikidata.org/entity/Q96994709>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_Diego_de_Rueda>.
+
+<http://www.wikidata.org/entity/Q97616471>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_palacio_del_Duque_de_Almodóvar>.
+
+<http://www.wikidata.org/entity/Q97626729>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_del_Indiano_(Córdoba)>.
+
+<http://www.wikidata.org/entity/Q97630331>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_las_Torres>.
+
+<http://www.wikidata.org/entity/Q97628256>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Antonio_Guijarro>.
+
+<http://www.wikidata.org/entity/Q100158170>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_Giralda_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q106232416>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_del_Cardenal_Bernardino_de_Carvajal>.
+
+<http://www.wikidata.org/entity/Q107689200>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_del_Correo_Viejo>.
+
+<http://www.wikidata.org/entity/Q107689620>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_los_Vaamonde>.
+
+<http://www.wikidata.org/entity/Q109838669>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Ajei>.
+
+<http://www.wikidata.org/entity/Q110251958>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Julia_Gómez_Alfaro>.
+
+<http://www.wikidata.org/entity/Q109313885>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_del_Duque_de_Almodóvar_del_Río>.
+
+<http://www.wikidata.org/entity/Q115562310>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Rosa>.
+
+<http://www.wikidata.org/entity/Q115742420>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Paquet>.
+
+<http://www.wikidata.org/entity/Q118181021>
+        owl:sameAs <http://es.dbpedia.org/resource/Hospital_de_los_Ríos>.
+
+<http://www.wikidata.org/entity/Q118951962>
+        owl:sameAs <http://es.dbpedia.org/resource/Velintonia_(Casa_del_poeta_Vicente_Aleixandre)>.
+
+<http://www.wikidata.org/entity/Q113573245>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_las_Cadenas_(Segovia)>.
+
+<http://www.wikidata.org/entity/Q122008843>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_Pedro_Regalado>.
+
+<http://www.wikidata.org/entity/Q122037125>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_Ferrari_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q122420207>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_los_Arias_de_Medina>.
+
+<http://www.wikidata.org/entity/Q27987850>
+        owl:sameAs <http://es.dbpedia.org/resource/Hipogeos_de_Biniai_Nou>.
+
+<http://www.wikidata.org/entity/Q66123025>
+        owl:sameAs <http://es.dbpedia.org/resource/Hipogeo_de_Longar_(Viana)>.
+
+<http://www.wikidata.org/entity/Q5968727>
+        owl:sameAs <http://es.dbpedia.org/resource/Laderas_de_Morana>.
+
+<http://www.wikidata.org/entity/Q6051910>
+        owl:sameAs <http://es.dbpedia.org/resource/Oratorio_rupestre_de_Valdecanales>.
+
+<http://www.wikidata.org/entity/Q3893448>
+        owl:sameAs <http://es.dbpedia.org/resource/Panteón_de_Infantes>.
+
+<http://www.wikidata.org/entity/Q4708457>
+        owl:sameAs <http://es.dbpedia.org/resource/Sepulcro_de_Pozo_Moro>.
+
+<http://www.wikidata.org/entity/Q3034186>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_los_Caídos_por_España>.
+
+<http://www.wikidata.org/entity/Q3320252>
+        owl:sameAs <http://es.dbpedia.org/resource/Monasterio_de_Santa_María_la_Real_(Nájera)>.
+
+<http://www.wikidata.org/entity/Q23886>
+        owl:sameAs <http://es.dbpedia.org/resource/Mausoleos_romanos_de_Liria>.
+
+<http://www.wikidata.org/entity/Q1053521>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa-mausoleo_de_Centcelles>.
+
+<http://www.wikidata.org/entity/Q29439275>
+        owl:sameAs <http://es.dbpedia.org/resource/Panteón_Guirao>.
+
+<http://www.wikidata.org/entity/Q59298280>
+        owl:sameAs <http://es.dbpedia.org/resource/Mausoleo_de_la_vizcondesa_de_Térmens>.
+
+<http://www.wikidata.org/entity/Q41339559>
+        owl:sameAs <http://es.dbpedia.org/resource/Panteón_de_los_Héroes>.
+
+<http://www.wikidata.org/entity/Q33126836>
+        owl:sameAs <http://es.dbpedia.org/resource/Panteón_Margallo>.
+
+<http://www.wikidata.org/entity/Q46012649>
+        owl:sameAs <http://es.dbpedia.org/resource/Panteón_de_Regulares_número_5>.
+
+<http://www.wikidata.org/entity/Q11922662>
+        owl:sameAs <http://es.dbpedia.org/resource/Fossar_de_la_Pedrera>.
+
+<http://www.wikidata.org/entity/Q18008463>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Breny>.
+
+<http://www.wikidata.org/entity/Q6059887>
+        owl:sameAs <http://es.dbpedia.org/resource/Panteón_de_reyes_de_San_Isidoro_de_León>.
+
+<http://www.wikidata.org/entity/Q21004055>
+        owl:sameAs <http://es.dbpedia.org/resource/Panteón_Xifré>.
+
+<http://www.wikidata.org/entity/Q6007260>
+        owl:sameAs <http://es.dbpedia.org/resource/Mausoleo_romano_de_Abla>.
+
+<http://www.wikidata.org/entity/Q6007249>
+        owl:sameAs <http://es.dbpedia.org/resource/Mausoleo_de_Chiprana>.
+
+<http://www.wikidata.org/entity/Q6007256>
+        owl:sameAs <http://es.dbpedia.org/resource/Mausoleo_de_Miralpeix>.
+
+<http://www.wikidata.org/entity/Q7131757>
+        owl:sameAs <http://es.dbpedia.org/resource/Panteón_de_Hombres_Ilustres>.
+
+<http://www.wikidata.org/entity/Q3896772>
+        owl:sameAs <http://es.dbpedia.org/resource/Oratorio_de_San_Felipe_Neri_(Cádiz)>.
+
+<http://www.wikidata.org/entity/Q6051880>
+        owl:sameAs <http://es.dbpedia.org/resource/Oratorio_de_San_Felipe_Neri_(Toledo)>.
+
+<http://www.wikidata.org/entity/Q63761183>
+        owl:sameAs <http://es.dbpedia.org/resource/Oratorio_de_San_Felipe_Neri_(Alcalá_de_Henares)>.
+
+<http://www.wikidata.org/entity/Q17623983>
+        owl:sameAs <http://es.dbpedia.org/resource/Oratorio_de_San_Felipe_Neri_(Albacete)>.
+
+<http://www.wikidata.org/entity/Q30919265>
+        owl:sameAs <http://es.dbpedia.org/resource/Oratorio_de_San_Felipe_Neri_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q263924>
+        owl:sameAs <http://es.dbpedia.org/resource/Atarazanas_Reales_de_Barcelona>.
+
+<http://www.wikidata.org/entity/Q2742109>
+        owl:sameAs <http://es.dbpedia.org/resource/Sociedad_Española_de_Construcción_Naval>.
+
+<http://www.wikidata.org/entity/Q4069935>
+        owl:sameAs <http://es.dbpedia.org/resource/Arsenal_de_Cartagena>.
+
+<http://www.wikidata.org/entity/Q5709688>
+        owl:sameAs <http://es.dbpedia.org/resource/Astilleros_del_Atlántico>.
+
+<http://www.wikidata.org/entity/Q6102195>
+        owl:sameAs <http://es.dbpedia.org/resource/Reales_Astilleros_de_Esteiro>.
+
+<http://www.wikidata.org/entity/Q5710444>
+        owl:sameAs <http://es.dbpedia.org/resource/Atarazanas_de_Sevilla>.
+
+<http://www.wikidata.org/entity/Q5709684>
+        owl:sameAs <http://es.dbpedia.org/resource/Astilleros_Nereo>.
+
+<http://www.wikidata.org/entity/Q5709680>
+        owl:sameAs <http://es.dbpedia.org/resource/Astilleros_Españoles>.
+
+<http://www.wikidata.org/entity/Q8350285>
+        owl:sameAs <http://es.dbpedia.org/resource/Construcciones_Navales_del_Norte>.
+
+<http://www.wikidata.org/entity/Q66552657>
+        owl:sameAs <http://es.dbpedia.org/resource/Industrias_Navales_A_Xunqueira_(INAX)>.
+
+<http://www.wikidata.org/entity/Q91878489>
+        owl:sameAs <http://es.dbpedia.org/resource/Montajes_Cancelas>.
+
+<http://www.wikidata.org/entity/Q16565979>
+        owl:sameAs <http://es.dbpedia.org/resource/Factorías_Vulcano_S.A.>.
+
+<http://www.wikidata.org/entity/Q24354015>
+        owl:sameAs <http://es.dbpedia.org/resource/Nuevo_Vulcano>.
+
+<http://www.wikidata.org/entity/Q97178247>
+        owl:sameAs <http://es.dbpedia.org/resource/Naval_Gijón>.
+
+<http://www.wikidata.org/entity/Q22266452>
+        owl:sameAs <http://es.dbpedia.org/resource/Astilleros_Armon_Vigo>.
+
+<http://www.wikidata.org/entity/Q28465797>
+        owl:sameAs <http://es.dbpedia.org/resource/Astillero_de_Puerto_Real>.
+
+<http://www.wikidata.org/entity/Q61861289>
+        owl:sameAs <http://es.dbpedia.org/resource/Real_Fábrica_de_Navíos>.
+
+<http://www.wikidata.org/entity/Q16489077>
+        owl:sameAs <http://es.dbpedia.org/resource/Astilleros_de_Sevilla>.
+
+<http://www.wikidata.org/entity/Q61384576>
+        owl:sameAs <http://es.dbpedia.org/resource/Astilleros_Gondán>.
+
+<http://www.wikidata.org/entity/Q97171358>
+        owl:sameAs <http://es.dbpedia.org/resource/Astilleros_Armon_Gijón>.
+
+<http://www.wikidata.org/entity/Q99281739>
+        owl:sameAs <http://es.dbpedia.org/resource/Aister>.

@@ -1,0 +1,1279 @@
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://www.wikidata.org/entity/Q5856990>
+        owl:sameAs  <http://es.dbpedia.org/resource/La_Alhóndiga_(Cuenca)> .
+
+<http://www.wikidata.org/entity/Q5961944>
+        owl:sameAs  <http://es.dbpedia.org/resource/La_Alhóndiga_(Toledo)> .
+
+<http://www.wikidata.org/entity/Q5961947>
+        owl:sameAs  <http://es.dbpedia.org/resource/La_Alhóndiga_(Zamora)> .
+
+<http://www.wikidata.org/entity/Q63872631>
+        owl:sameAs  <http://es.dbpedia.org/resource/Alhóndiga_de_Segovia> .
+
+<http://www.wikidata.org/entity/Q5793215>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cuartel_de_la_Misericordia> .
+
+<http://www.wikidata.org/entity/Q5680579>
+        owl:sameAs  <http://es.dbpedia.org/resource/Torreón_de_San_Miguel> .
+
+<http://www.wikidata.org/entity/Q5737802>
+        owl:sameAs  <http://es.dbpedia.org/resource/Caballerizas_Reales_de_Córdoba> .
+
+<http://www.wikidata.org/entity/Q5837740>
+        owl:sameAs  <http://es.dbpedia.org/resource/Parque_de_Artillería_de_Cartagena> .
+
+<http://www.wikidata.org/entity/Q5742522>
+        owl:sameAs  <http://es.dbpedia.org/resource/Campamento_Benítez> .
+
+<http://www.wikidata.org/entity/Q5785666>
+        owl:sameAs  <http://es.dbpedia.org/resource/Convento_de_Nuestra_Señora_de_las_Nieves> .
+
+<http://www.wikidata.org/entity/Q5793205>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cuartel_de_Artillería_(Murcia)> .
+
+<http://www.wikidata.org/entity/Q5755796>
+        owl:sameAs  <http://es.dbpedia.org/resource/Casas_Fuertes_(Almería)> .
+
+<http://www.wikidata.org/entity/Q5793219>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cuartel_del_Simancas> .
+
+<http://www.wikidata.org/entity/Q5839042>
+        owl:sameAs  <http://es.dbpedia.org/resource/Escuela_de_Arte_de_Almería> .
+
+<http://www.wikidata.org/entity/Q5906999>
+        owl:sameAs  <http://es.dbpedia.org/resource/II_Región_Militar> .
+
+<http://www.wikidata.org/entity/Q5191859>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cuartel_del_Conde-Duque> .
+
+<http://www.wikidata.org/entity/Q5793209>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cuartel_de_Colmenar> .
+
+<http://www.wikidata.org/entity/Q6016871>
+        owl:sameAs  <http://es.dbpedia.org/resource/Minas_de_Alquife> .
+
+<http://www.wikidata.org/entity/Q101444599>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cuartel_de_Inchaurrondo> .
+
+<http://www.wikidata.org/entity/Q105079256>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cuartel_General_Palacios> .
+
+<http://www.wikidata.org/entity/Q111410956>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cuartel_de_San_Fernando_(Pontevedra)> .
+
+<http://www.wikidata.org/entity/Q121940493>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cuartel_del_General_Ordóñez> .
+
+<http://www.wikidata.org/entity/Q121941023>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cuartel_del_Conde_Ansúrez> .
+
+<http://www.wikidata.org/entity/Q129263676>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cuartel_de_Son_Banya> .
+
+<http://www.wikidata.org/entity/Q33060610>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cuartel_de_Santa_Ana> .
+
+<http://www.wikidata.org/entity/Q41792105>
+        owl:sameAs  <http://es.dbpedia.org/resource/Casa_Grande_del_Carmen_(Sevilla)> .
+
+<http://www.wikidata.org/entity/Q16624499>
+        owl:sameAs  <http://es.dbpedia.org/resource/Real_Maestranza_de_Artillería_de_Sevilla> .
+
+<http://www.wikidata.org/entity/Q18564223>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cuartel_de_San_Gil> .
+
+<http://www.wikidata.org/entity/Q33060615>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cuartel_de_la_Maestranza> .
+
+<http://www.wikidata.org/entity/Q43018808>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cuarteles_de_las_reales_guardias_españolas_y_valonas_de_Aranjuez> .
+
+<http://www.wikidata.org/entity/Q15696564>
+        owl:sameAs  <http://es.dbpedia.org/resource/Acuartelamiento_Aéreo_de_Tablada> .
+
+<http://www.wikidata.org/entity/Q28033071>
+        owl:sameAs  <http://es.dbpedia.org/resource/Colegio_de_los_Manriques> .
+
+<http://www.wikidata.org/entity/Q46224880>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cuartel_de_San_Fernando> .
+
+<http://www.wikidata.org/entity/Q52696578>
+        owl:sameAs  <http://es.dbpedia.org/resource/Rancho_La_Bola> .
+
+<http://www.wikidata.org/entity/Q11912918>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cuartel_del_Bruch> .
+
+<http://www.wikidata.org/entity/Q52007018>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cuartel_del_Teniente_Ruiz> .
+
+<http://www.wikidata.org/entity/Q8464750>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cuartel_de_Monteleón> .
+
+<http://www.wikidata.org/entity/Q25474422>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cuartel_de_Loyola> .
+
+<http://www.wikidata.org/entity/Q33104656>
+        owl:sameAs  <http://es.dbpedia.org/resource/Convento_de_la_Merced_(Granada)> .
+
+<http://www.wikidata.org/entity/Q8350460>
+        owl:sameAs  <http://es.dbpedia.org/resource/Convento_de_San_Agustín_Viejo> .
+
+<http://www.wikidata.org/entity/Q5821708>
+        owl:sameAs  <http://es.dbpedia.org/resource/Desierto_de_Hoz_de_Anero> .
+
+<http://www.wikidata.org/entity/Q2942824>
+        owl:sameAs  <http://es.dbpedia.org/resource/Catedral_de_Santa_María_(Sigüenza)> .
+
+<http://www.wikidata.org/entity/Q2942858>
+        owl:sameAs  <http://es.dbpedia.org/resource/Concatedral_de_Santa_María_(Vigo)> .
+
+<http://www.wikidata.org/entity/Q2942734>
+        owl:sameAs  <http://es.dbpedia.org/resource/Concatedral_de_Santa_María_del_Romeral_(Monzón)> .
+
+<http://www.wikidata.org/entity/Q2942804>
+        owl:sameAs  <http://es.dbpedia.org/resource/Catedral_del_Salvador_(Santo_Domingo_de_la_Calzada)> .
+
+<http://www.wikidata.org/entity/Q2942843>
+        owl:sameAs  <http://es.dbpedia.org/resource/Catedral_de_Santa_María_de_Tudela> .
+
+<http://www.wikidata.org/entity/Q513893>
+        owl:sameAs  <http://es.dbpedia.org/resource/Catedral_de_Teruel> .
+
+<http://www.wikidata.org/entity/Q389210>
+        owl:sameAs  <http://es.dbpedia.org/resource/Catedral_de_Pamplona_(España)> .
+
+<http://www.wikidata.org/entity/Q810684>
+        owl:sameAs  <http://es.dbpedia.org/resource/Catedral_basílica_de_Nuestra_Señora_del_Pilar_(Zaragoza)> .
+
+<http://www.wikidata.org/entity/Q509931>
+        owl:sameAs  <http://es.dbpedia.org/resource/Catedral_de_la_Asunción_de_la_Virgen_(El_Burgo_de_Osma)> .
+
+<http://www.wikidata.org/entity/Q2942449>
+        owl:sameAs  <http://es.dbpedia.org/resource/Concatedral_de_San_Pedro_de_Soria> .
+
+<http://www.wikidata.org/entity/Q2942543>
+        owl:sameAs  <http://es.dbpedia.org/resource/Catedral_de_Albarracín> .
+
+<http://www.wikidata.org/entity/Q2942662>
+        owl:sameAs  <http://es.dbpedia.org/resource/Concatedral_de_Ferrol> .
+
+<http://www.wikidata.org/entity/Q2942584>
+        owl:sameAs  <http://es.dbpedia.org/resource/Catedral_de_Barbastro> .
+
+<http://www.wikidata.org/entity/Q2942729>
+        owl:sameAs  <http://es.dbpedia.org/resource/Catedral_de_Mondoñedo> .
+
+<http://www.wikidata.org/entity/Q2942653>
+        owl:sameAs  <http://es.dbpedia.org/resource/Concatedral_de_Santa_María_(Cáceres)> .
+
+<http://www.wikidata.org/entity/Q2942592>
+        owl:sameAs  <http://es.dbpedia.org/resource/Catedral_de_San_Juan_Bautista_de_Badajoz> .
+
+<http://www.wikidata.org/entity/Q2942608>
+        owl:sameAs  <http://es.dbpedia.org/resource/Catedral_de_Santa_María_(Calahorra)> .
+
+<http://www.wikidata.org/entity/Q1826864>
+        owl:sameAs  <http://es.dbpedia.org/resource/Concatedral_de_Guadalajara> .
+
+<http://www.wikidata.org/entity/Q923396>
+        owl:sameAs  <http://es.dbpedia.org/resource/Concatedral_de_Mérida> .
+
+<http://www.wikidata.org/entity/Q1627991>
+        owl:sameAs  <http://es.dbpedia.org/resource/Concatedral_de_Logroño> .
+
+<http://www.wikidata.org/entity/Q2942405>
+        owl:sameAs  <http://es.dbpedia.org/resource/Concatedral_de_San_Nicolás_de_Bari> .
+
+<http://www.wikidata.org/entity/Q1575647>
+        owl:sameAs  <http://es.dbpedia.org/resource/Catedral_de_Santa_María_(Tuy)> .
+
+<http://www.wikidata.org/entity/Q2196869>
+        owl:sameAs  <http://es.dbpedia.org/resource/Catedral_del_Salvador_(Zaragoza)> .
+
+<http://www.wikidata.org/entity/Q2942449>
+        owl:sameAs  <http://es.dbpedia.org/resource/Concatedral_de_San_Pedro_de_Soria> .
+
+<http://www.wikidata.org/entity/Q3585484>
+        owl:sameAs  <http://es.dbpedia.org/resource/Colegiata_de_San_Patricio> .
+
+<http://www.wikidata.org/entity/Q3498131>
+        owl:sameAs  <http://es.dbpedia.org/resource/Real_Colegiata_de_San_Hipólito_(Córdoba)> .
+
+<http://www.wikidata.org/entity/Q1609022>
+        owl:sameAs  <http://es.dbpedia.org/resource/Colegiata_de_Santillana_del_Mar> .
+
+<http://www.wikidata.org/entity/Q2838041>
+        owl:sameAs  <http://es.dbpedia.org/resource/Real_Colegiata_de_San_Fernando> .
+
+<http://www.wikidata.org/entity/Q383659>
+        owl:sameAs  <http://es.dbpedia.org/resource/Basílica_de_San_Isidoro_(León)> .
+
+<http://www.wikidata.org/entity/Q2984057>
+        owl:sameAs  <http://es.dbpedia.org/resource/Monasterio_de_Santa_María_(Cenarruza)> .
+
+<http://www.wikidata.org/entity/Q2984058>
+        owl:sameAs  <http://es.dbpedia.org/resource/Real_Colegiata_de_Santa_María_(Roncesvalles)> .
+
+<http://www.wikidata.org/entity/Q5776804>
+        owl:sameAs  <http://es.dbpedia.org/resource/Colegiata_de_San_Antolín> .
+
+<http://www.wikidata.org/entity/Q5776807>
+        owl:sameAs  <http://es.dbpedia.org/resource/Colegiata_de_San_Cosme_y_San_Damián_(Covarrubias)> .
+
+<http://www.wikidata.org/entity/Q8347682>
+        owl:sameAs  <http://es.dbpedia.org/resource/Colegiata_de_Santa_María_la_Mayor_(Valladolid)> .
+
+<http://www.wikidata.org/entity/Q22833484>
+        owl:sameAs  <http://es.dbpedia.org/resource/Colegiata_de_Osuna> .
+
+<http://www.wikidata.org/entity/Q5142766>
+        owl:sameAs  <http://es.dbpedia.org/resource/Colegiata_de_Santa_María_la_Mayor_(Salas)> .
+
+<http://www.wikidata.org/entity/Q5776835>
+        owl:sameAs  <http://es.dbpedia.org/resource/Colegiata_de_Santa_María_la_Mayor_(Bolea)> .
+
+<http://www.wikidata.org/entity/Q14541480>
+        owl:sameAs  <http://es.dbpedia.org/resource/Colegiata_de_Santa_María_del_Mercado> .
+
+<http://www.wikidata.org/entity/Q6101852>
+        owl:sameAs  <http://es.dbpedia.org/resource/Real_Colegiata_de_Santa_María_la_Mayor> .
+
+<http://www.wikidata.org/entity/Q5911869>
+        owl:sameAs  <http://es.dbpedia.org/resource/Basílica_de_Santa_María_de_los_Reales_Alcázares> .
+
+<http://www.wikidata.org/entity/Q5912858>
+        owl:sameAs  <http://es.dbpedia.org/resource/Iglesia_del_Salvador_(Sevilla)> .
+
+<http://www.wikidata.org/entity/Q3897022>
+        owl:sameAs  <http://es.dbpedia.org/resource/Colegiata_de_Santa_María_la_Mayor_(Caspe)> .
+
+<http://www.wikidata.org/entity/Q5146988>
+        owl:sameAs  <http://es.dbpedia.org/resource/Basílica_de_Santa_María_de_los_Sagrados_Corporales> .
+
+<http://www.wikidata.org/entity/Q5776799>
+        owl:sameAs  <http://es.dbpedia.org/resource/Colegiata_de_San_Miguel_(Ampudia)> .
+
+<http://www.wikidata.org/entity/Q18285743>
+        owl:sameAs  <http://es.dbpedia.org/resource/Colegiata_de_San_Luis> .
+
+<http://www.wikidata.org/entity/Q16577749>
+        owl:sameAs  <http://es.dbpedia.org/resource/Iglesia_de_San_Martín_(Bonilla_de_la_Sierra)> .
+
+<http://www.wikidata.org/entity/Q41716444>
+        owl:sameAs  <http://es.dbpedia.org/resource/Colegiata_de_San_Bartolomé> .
+
+<http://www.wikidata.org/entity/Q47766458>
+        owl:sameAs  <http://es.dbpedia.org/resource/Iglesia_de_El_Salvador_(Granada)> .
+
+<http://www.wikidata.org/entity/Q65140687>
+        owl:sameAs  <http://es.dbpedia.org/resource/Colegiata_de_Santa_María_la_Mayor_(Pravia)> .
+
+<http://www.wikidata.org/entity/Q43114862>
+        owl:sameAs  <http://es.dbpedia.org/resource/Iglesia_de_los_Santos_Justo_y_Pastor_(Granada)> .
+
+<http://www.wikidata.org/entity/Q43117406>
+        owl:sameAs  <http://es.dbpedia.org/resource/Colegiata_de_Santiago_(Castellar)> .
+
+<http://www.wikidata.org/entity/Q59142054>
+        owl:sameAs  <http://es.dbpedia.org/resource/Real_Colegiata_de_la_Santísima_Trinidad> .
+
+<http://www.wikidata.org/entity/Q43167082>
+        owl:sameAs  <http://es.dbpedia.org/resource/Monasterio_de_San_Francisco_el_Real_(Cáceres)> .
+
+<http://www.wikidata.org/entity/Q60413826>
+        owl:sameAs  <http://es.dbpedia.org/resource/Convento_de_Santiago_de_Moncalvo> .
+
+<http://www.wikidata.org/entity/Q63226648>
+        owl:sameAs  <http://es.dbpedia.org/resource/Convento_de_San_Francisco_de_Asís_(Sangüesa)> .
+
+<http://www.wikidata.org/entity/Q55174118>
+        owl:sameAs  <http://es.dbpedia.org/resource/Convento_de_San_Francisco_(Moya)> .
+
+<http://www.wikidata.org/entity/Q92185916>
+        owl:sameAs  <http://es.dbpedia.org/resource/Convento_de_San_Francisco_(Arroyo_de_la_Luz)> .
+
+<http://www.wikidata.org/entity/Q63435473>
+        owl:sameAs  <http://es.dbpedia.org/resource/Convento_de_San_Francisco_(Fermoselle)> .
+
+<http://www.wikidata.org/entity/Q97616599>
+        owl:sameAs  <http://es.dbpedia.org/resource/Convento_de_San_Francisco_(Cádiz)> .
+
+<http://www.wikidata.org/entity/Q97625075>
+        owl:sameAs  <http://es.dbpedia.org/resource/Convento_de_San_Francisco_de_los_Mártires_(Belalcázar)> .
+
+<http://www.wikidata.org/entity/Q88966996>
+        owl:sameAs  <http://es.dbpedia.org/resource/Convento_de_San_Francisco_(Ayora)> .
+
+<http://www.wikidata.org/entity/Q25212590>
+        owl:sameAs  <http://es.dbpedia.org/resource/Convento_de_San_Francisco_(Vitoria)> .
+
+<http://www.wikidata.org/entity/Q28519088>
+        owl:sameAs  <http://es.dbpedia.org/resource/Convento_de_San_Francisco_(Albacete)> .
+
+<http://www.wikidata.org/entity/Q33495283>
+        owl:sameAs  <http://es.dbpedia.org/resource/Convento_de_San_Francisco_(Ávila)> .
+
+<http://www.wikidata.org/entity/Q2888064>
+        owl:sameAs  <http://es.dbpedia.org/resource/Convento_de_San_Francisco_(Guadalajara)> .
+
+<http://www.wikidata.org/entity/Q3399144>
+        owl:sameAs  <http://es.dbpedia.org/resource/Convento_de_San_Francisco_(Santiago_de_Compostela)> .
+
+<http://www.wikidata.org/entity/Q5785738>
+        owl:sameAs  <http://es.dbpedia.org/resource/Convento_de_San_Francisco_(Soria)> .
+
+<http://www.wikidata.org/entity/Q15846074>
+        owl:sameAs  <http://es.dbpedia.org/resource/Casa_Grande_de_San_Francisco_(Sevilla)> .
+
+<http://www.wikidata.org/entity/Q3001648>
+        owl:sameAs  <http://es.dbpedia.org/resource/Convento_de_San_Francisco_(Benicarló)> .
+
+<http://www.wikidata.org/entity/Q5785734>
+        owl:sameAs  <http://es.dbpedia.org/resource/Convento_de_San_Francisco_(Sanlúcar_de_Barrameda)> .
+
+<http://www.wikidata.org/entity/Q8350447>
+        owl:sameAs  <http://es.dbpedia.org/resource/Convento_de_San_Francisco_(Valencia,_España)> .
+
+<http://www.wikidata.org/entity/Q14756643>
+        owl:sameAs  <http://es.dbpedia.org/resource/Convento_de_San_Francisco_Extraponte> .
+
+<http://www.wikidata.org/entity/Q5166342>
+        owl:sameAs  <http://es.dbpedia.org/resource/Convento_de_San_Francisco_(Pontevedra)> .
+
+<http://www.wikidata.org/entity/Q5785721>
+        owl:sameAs  <http://es.dbpedia.org/resource/Convento_de_San_Francisco_(Fregenal_de_la_Sierra)> .
+
+<http://www.wikidata.org/entity/Q5785726>
+        owl:sameAs  <http://es.dbpedia.org/resource/Convento_de_San_Francisco_(Moguer)> .
+
+<http://www.wikidata.org/entity/Q5785743>
+        owl:sameAs  <http://es.dbpedia.org/resource/Convento_de_San_Francisco_(Valladolid)> .
+
+<http://www.wikidata.org/entity/Q2580841>
+        owl:sameAs  <http://es.dbpedia.org/resource/Monasterio_de_La_Rábida> .
+
+<http://www.wikidata.org/entity/Q3320318>
+        owl:sameAs  <http://es.dbpedia.org/resource/Monasterio_de_Nuestra_Señora_de_Vico> .
+
+<http://www.wikidata.org/entity/Q5785724>
+        owl:sameAs  <http://es.dbpedia.org/resource/Convento_de_San_Francisco_(Hellín)> .
+
+<http://www.wikidata.org/entity/Q11920585>
+        owl:sameAs  <http://es.dbpedia.org/resource/Convento_de_San_Francisco_(Mahón)> .
+
+<http://www.wikidata.org/entity/Q18145756>
+        owl:sameAs  <http://es.dbpedia.org/resource/Convento_de_San_Francisco_(Villafranca_del_Bierzo)> .
+
+<http://www.wikidata.org/entity/Q18285761>
+        owl:sameAs  <http://es.dbpedia.org/resource/Convento_de_San_Francisco_(Medina_de_Rioseco)> .
+
+<http://www.wikidata.org/entity/Q5785732>
+        owl:sameAs  <http://es.dbpedia.org/resource/Convento_de_San_Francisco_(Oviedo)> .
+
+<http://www.wikidata.org/entity/Q11915457>
+        owl:sameAs  <http://es.dbpedia.org/resource/Convento_de_San_Francisco_(Tarrasa)> .
+
+<http://www.wikidata.org/entity/Q5785716>
+        owl:sameAs  <http://es.dbpedia.org/resource/Convento_de_San_Francisco_(Cañete_la_Real)> .
+
+<http://www.wikidata.org/entity/Q5785729>
+        owl:sameAs  <http://es.dbpedia.org/resource/Convento_de_San_Francisco_(Morón_de_la_Frontera)> .
+
+<http://www.wikidata.org/entity/Q5785740>
+        owl:sameAs  <http://es.dbpedia.org/resource/Convento_de_San_Francisco_(Tudela)> .
+
+<http://www.wikidata.org/entity/Q6021321>
+        owl:sameAs  <http://es.dbpedia.org/resource/Monasterio_de_San_Francisco_(Burgos)> .
+
+<http://www.wikidata.org/entity/Q8350452>
+        owl:sameAs  <http://es.dbpedia.org/resource/Convento_de_San_Francisco_(Montblanch)> .
+
+<http://www.wikidata.org/entity/Q5785590>
+        owl:sameAs  <http://es.dbpedia.org/resource/Convento_de_San_Juan_Bautista_(Zarauz)> .
+
+<http://www.wikidata.org/entity/Q2288815>
+        owl:sameAs  <http://es.dbpedia.org/resource/Monumento_a_Colón_(Barcelona)> .
+
+<http://www.wikidata.org/entity/Q3034186>
+        owl:sameAs  <http://es.dbpedia.org/resource/Monumento_a_los_Caídos_por_España> .
+
+<http://www.wikidata.org/entity/Q3862645>
+        owl:sameAs  <http://es.dbpedia.org/resource/Monumento_a_Alfonso_XII_(Madrid)> .
+
+<http://www.wikidata.org/entity/Q5874743>
+        owl:sameAs  <http://es.dbpedia.org/resource/Galería_de_los_doce_sevillanos_ilustres> .
+
+<http://www.wikidata.org/entity/Q5854416>
+        owl:sameAs  <http://es.dbpedia.org/resource/Los_portadores_de_la_antorcha> .
+
+<http://www.wikidata.org/entity/Q9034960>
+        owl:sameAs  <http://es.dbpedia.org/resource/Monumento_a_Santiago_Ramón_y_Cajal> .
+
+<http://www.wikidata.org/entity/Q5824898>
+        owl:sameAs  <http://es.dbpedia.org/resource/El_entierro_de_Cristo_(Juan_de_Juni)> .
+
+<http://www.wikidata.org/entity/Q5906580>
+        owl:sameAs  <http://es.dbpedia.org/resource/Héroes_de_Cavite> .
+
+<http://www.wikidata.org/entity/Q5963601>
+        owl:sameAs  <http://es.dbpedia.org/resource/La_Gloria_y_los_Pegasos> .
+
+<http://www.wikidata.org/entity/Q6023104>
+        owl:sameAs  <http://es.dbpedia.org/resource/Monumento_a_Serafín_y_Joaquín_Álvarez_Quintero> .
+
+<http://www.wikidata.org/entity/Q6022974>
+        owl:sameAs  <http://es.dbpedia.org/resource/Monumento_a_Campoamor> .
+
+<http://www.wikidata.org/entity/Q4343253>
+        owl:sameAs  <http://es.dbpedia.org/resource/Monumento_a_Miguel_de_Cervantes> .
+
+<http://www.wikidata.org/entity/Q5968370>
+        owl:sameAs  <http://es.dbpedia.org/resource/La_venida_de_la_Virgen_a_Zaragoza> .
+
+<http://www.wikidata.org/entity/Q6023255>
+        owl:sameAs  <http://es.dbpedia.org/resource/Monumento_al_Procesionista_(Cartagena)> .
+
+<http://www.wikidata.org/entity/Q28375547>
+        owl:sameAs  <http://es.dbpedia.org/resource/Monumento_a_la_Hispanidad_(Madrid)> .
+
+<http://www.wikidata.org/entity/Q28541318>
+        owl:sameAs  <http://es.dbpedia.org/resource/Monumento_a_los_saineteros_madrileños> .
+
+<http://www.wikidata.org/entity/Q26988249>
+        owl:sameAs  <http://es.dbpedia.org/resource/Eje_de_la_Exposición_de_1929_en_Montjuic> .
+
+<http://www.wikidata.org/entity/Q18175799>
+        owl:sameAs  <http://es.dbpedia.org/resource/Dolmen_de_Dalí> .
+
+<http://www.wikidata.org/entity/Q20715621>
+        owl:sameAs  <http://es.dbpedia.org/resource/El_rapto_de_Europa_(Botero)> .
+
+<http://www.wikidata.org/entity/Q20546492>
+        owl:sameAs  <http://es.dbpedia.org/resource/Estatua_de_los_rederos> .
+
+<http://www.wikidata.org/entity/Q28662862>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ruta_de_las_Caras> .
+
+<http://www.wikidata.org/entity/Q26722723>
+        owl:sameAs  <http://es.dbpedia.org/resource/Monumento_a_Isabel_la_Católica_(Madrid)> .
+
+<http://www.wikidata.org/entity/Q29973852>
+        owl:sameAs  <http://es.dbpedia.org/resource/Llanto_sobre_Cristo_muerto_(San_Pablo_de_la_Moraleja)> .
+
+<http://www.wikidata.org/entity/Q30118083>
+        owl:sameAs  <http://es.dbpedia.org/resource/Llanto_sobre_Cristo_muerto_(Bolaños_de_Campos)> .
+
+<http://www.wikidata.org/entity/Q29951011>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cristo_y_los_dos_ladrones> .
+
+<http://www.wikidata.org/entity/Q30117990>
+        owl:sameAs  <http://es.dbpedia.org/resource/Llanto_sobre_Cristo_muerto_(Nava_del_Rey)> .
+
+<http://www.wikidata.org/entity/Q29566600>
+        owl:sameAs  <http://es.dbpedia.org/resource/Niños_con_jarrón_de_Cibeles> .
+
+<http://www.wikidata.org/entity/Q30149897>
+        owl:sameAs  <http://es.dbpedia.org/resource/Los_cuatro_doctores_de_la_Iglesia_(Bolaños_de_Campos)> .
+
+<http://www.wikidata.org/entity/Q97386411>
+        owl:sameAs  <http://es.dbpedia.org/resource/Monumento_a_Quevedo_(Madrid)> .
+
+<http://www.wikidata.org/entity/Q97925401>
+        owl:sameAs  <http://es.dbpedia.org/resource/Monumento_a_Cuba> .
+
+<http://www.wikidata.org/entity/Q52150753>
+        owl:sameAs  <http://es.dbpedia.org/resource/Monumento_al_pueblo_del_dos_de_mayo_de_1808_(Madrid)> .
+
+<http://www.wikidata.org/entity/Q97832507>
+        owl:sameAs  <http://es.dbpedia.org/resource/Refugiados_(monumento)> .
+
+<http://www.wikidata.org/entity/Q91341584>
+        owl:sameAs  <http://es.dbpedia.org/resource/Monumento_a_Castelar_(Madrid)> .
+
+<http://www.wikidata.org/entity/Q97418724>
+        owl:sameAs  <http://es.dbpedia.org/resource/El_abrazo_(Madrid)> .
+
+<http://www.wikidata.org/entity/Q98126695>
+        owl:sameAs  <http://es.dbpedia.org/resource/Monumento_a_Antonio_Maura> .
+
+<http://www.wikidata.org/entity/Q97955578>
+        owl:sameAs  <http://es.dbpedia.org/resource/Monumento_a_Concepción_Arenal_(Madrid)> .
+
+<http://www.wikidata.org/entity/Q66501537>
+        owl:sameAs  <http://es.dbpedia.org/resource/Monumento_a_Gorgorito> .
+
+<http://www.wikidata.org/entity/Q97961678>
+        owl:sameAs  <http://es.dbpedia.org/resource/Monumento_a_Daoíz_y_Velarde> .
+
+<http://www.wikidata.org/entity/Q102403104>
+        owl:sameAs  <http://es.dbpedia.org/resource/Monumento_a_los_Héroes_de_Puente_Sampayo> .
+
+<http://www.wikidata.org/entity/Q103115719>
+        owl:sameAs  <http://es.dbpedia.org/resource/El_Fiel_contraste> .
+
+<http://www.wikidata.org/entity/Q49794208>
+        owl:sameAs  <http://es.dbpedia.org/resource/Monumento_a_la_Tertulia> .
+
+<http://www.wikidata.org/entity/Q110747530>
+        owl:sameAs  <http://es.dbpedia.org/resource/Monumento_a_José_Rizal_(Madrid)> .
+
+<http://www.wikidata.org/entity/Q103476660>
+        owl:sameAs  <http://es.dbpedia.org/resource/Monumento_al_soldado_(Pontevedra)> .
+
+<http://www.wikidata.org/entity/Q2376668>
+        owl:sameAs  <http://es.dbpedia.org/resource/Capilla_del_Carmen_(Sevilla)> .
+
+<http://www.wikidata.org/entity/Q5792474>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cruz_del_Campo> .
+
+<http://www.wikidata.org/entity/Q5792483>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cruz_del_Inglés> .
+
+<http://www.wikidata.org/entity/Q28922479>
+        owl:sameAs  <http://es.dbpedia.org/resource/Humilladero_de_Nuestra_Señora_de_la_Soledad> .
+
+<http://www.wikidata.org/entity/Q5912797>
+        owl:sameAs  <http://es.dbpedia.org/resource/Iglesia_del_Real_Seminario_de_San_Carlos_Borromeo_(Zaragoza)> .
+
+<http://www.wikidata.org/entity/Q5912788>
+        owl:sameAs  <http://es.dbpedia.org/resource/La_Clerecía_(Salamanca)> .
+
+<http://www.wikidata.org/entity/Q19360888>
+        owl:sameAs  <http://es.dbpedia.org/resource/Iglesia_de_San_Ildefonso_(Toledo)> .
+
+<http://www.wikidata.org/entity/Q5912270>
+        owl:sameAs  <http://es.dbpedia.org/resource/Iglesia_de_la_Anunciación_(Sevilla)> .
+
+<http://www.wikidata.org/entity/Q3582357>
+        owl:sameAs  <http://es.dbpedia.org/resource/Iglesia_de_San_Luis_de_los_Franceses_(Sevilla)> .
+
+<http://www.wikidata.org/entity/Q5912370>
+        owl:sameAs  <http://es.dbpedia.org/resource/Iglesia_de_la_Compañía_(Palencia)> .
+
+<http://www.wikidata.org/entity/Q5675110>
+        owl:sameAs  <http://es.dbpedia.org/resource/Iglesia_del_Convento_de_San_Hermenegildo> .
+
+<http://www.wikidata.org/entity/Q5785915>
+        owl:sameAs  <http://es.dbpedia.org/resource/Convento_de_Santo_Domingo_y_Capilla_del_Rosario> .
+
+<http://www.wikidata.org/entity/Q5722022>
+        owl:sameAs  <http://es.dbpedia.org/resource/Basílica_de_San_Juan_de_Ávila> .
+
+<http://www.wikidata.org/entity/Q18285743>
+        owl:sameAs  <http://es.dbpedia.org/resource/Colegiata_de_San_Luis> .
+
+<http://www.wikidata.org/entity/Q5910996>
+        owl:sameAs  <http://es.dbpedia.org/resource/Iglesia_de_San_Nicolás_de_Bari_(Arévalo)> .
+
+<http://www.wikidata.org/entity/Q5991838>
+        owl:sameAs  <http://es.dbpedia.org/resource/Iglesia_de_San_Isidoro_(Oviedo)> .
+
+<http://www.wikidata.org/entity/Q97626446>
+        owl:sameAs  <http://es.dbpedia.org/resource/Iglesia_del_Salvador_y_Santo_Domingo_de_Silos_(Córdoba)> .
+
+<http://www.wikidata.org/entity/Q1966699>
+        owl:sameAs  <http://es.dbpedia.org/resource/Museo_Nacional_de_Ciencias_Naturales> .
+
+<http://www.wikidata.org/entity/Q1451968>
+        owl:sameAs  <http://es.dbpedia.org/resource/Museo_de_la_Naturaleza_y_la_Arqueología> .
+
+<http://www.wikidata.org/entity/Q6034168>
+        owl:sameAs  <http://es.dbpedia.org/resource/Museo_de_historia_natural_Villa_de_Los_Barrios> .
+
+<http://www.wikidata.org/entity/Q6033655>
+        owl:sameAs  <http://es.dbpedia.org/resource/Museo_de_Ciencias_Naturales_de_la_Universidad_de_Zaragoza> .
+
+<http://www.wikidata.org/entity/Q6101933>
+        owl:sameAs  <http://es.dbpedia.org/resource/Real_Gabinete_de_Historia_Natural> .
+
+<http://www.wikidata.org/entity/Q9046889>
+        owl:sameAs  <http://es.dbpedia.org/resource/Museo_de_Ciencias_Naturales_de_Barcelona> .
+
+<http://www.wikidata.org/entity/Q109518388>
+        owl:sameAs  <http://es.dbpedia.org/resource/Real_Casa_de_la_Geografía_y_Gabinete_de_Historia_Natural> .
+
+<http://www.wikidata.org/entity/Q5839146>
+        owl:sameAs  <http://es.dbpedia.org/resource/Fortín_romano_de_La_Calzada_de_Béjar> .
+
+<http://www.wikidata.org/entity/Q6171631>
+        owl:sameAs  <http://es.dbpedia.org/resource/Zona_arqueológica_del_Cerro_del_Mojón> .
+
+<http://www.wikidata.org/entity/Q5757186>
+        owl:sameAs  <http://es.dbpedia.org/resource/Castillo_de_Bujaraiza> .
+
+<http://www.wikidata.org/entity/Q5864276>
+        owl:sameAs  <http://es.dbpedia.org/resource/Fortín_de_San_Francisco> .
+
+<http://www.wikidata.org/entity/Q19368004>
+        owl:sameAs  <http://es.dbpedia.org/resource/Fortín_de_San_Cristóbal_(Alcora)> .
+
+<http://www.wikidata.org/entity/Q29367594>
+        owl:sameAs  <http://es.dbpedia.org/resource/Torre_del_Tambor> .
+
+<http://www.wikidata.org/entity/Q32453155>
+        owl:sameAs  <http://es.dbpedia.org/resource/Fortín_de_Alfonso_XIII> .
+
+<http://www.wikidata.org/entity/Q33017119>
+        owl:sameAs  <http://es.dbpedia.org/resource/Fortín_de_Reina_Regente> .
+
+<http://www.wikidata.org/entity/Q29367584>
+        owl:sameAs  <http://es.dbpedia.org/resource/Fortín_de_Sástago> .
+
+<http://www.wikidata.org/entity/Q28920252>
+        owl:sameAs  <http://es.dbpedia.org/resource/El_Mocatero_(Escatrón)> .
+
+<http://www.wikidata.org/entity/Q29367577>
+        owl:sameAs  <http://es.dbpedia.org/resource/El_Mocatero_(Chiprana)> .
+
+<http://www.wikidata.org/entity/Q28793897>
+        owl:sameAs  <http://es.dbpedia.org/resource/Plaza_Mayor_de_Chinchón> .
+
+<http://www.wikidata.org/entity/Q28793839>
+        owl:sameAs  <http://es.dbpedia.org/resource/Plaza_Mayor_de_San_Carlos_del_Valle> .
+
+<http://www.wikidata.org/entity/Q60828617>
+        owl:sameAs  <http://es.dbpedia.org/resource/Plaza_del_Corrillo_(Salamanca)> .
+
+<http://www.wikidata.org/entity/Q22810999>
+        owl:sameAs  <http://es.dbpedia.org/resource/Plaza_del_Mercado_Chico> .
+
+<http://www.wikidata.org/entity/Q102210417>
+        owl:sameAs  <http://es.dbpedia.org/resource/Plaza_de_la_Leña> .
+
+<http://www.wikidata.org/entity/Q107474743>
+        owl:sameAs  <http://es.dbpedia.org/resource/Plaza_de_la_Verdura> .
+
+<http://www.wikidata.org/entity/Q9060860>
+        owl:sameAs  <http://es.dbpedia.org/resource/Plaza_Alta_(Badajoz)> .
+
+<http://www.wikidata.org/entity/Q12261586>
+        owl:sameAs  <http://es.dbpedia.org/resource/Plaza_de_la_Constitución_(San_Sebastián)> .
+
+<http://www.wikidata.org/entity/Q11942011>
+        owl:sameAs  <http://es.dbpedia.org/resource/Plaza_Mayor_(Vic)> .
+
+<http://www.wikidata.org/entity/Q1123493>
+        owl:sameAs  <http://es.dbpedia.org/resource/Plaza_Mayor_de_Madrid> .
+
+<http://www.wikidata.org/entity/Q7203631>
+        owl:sameAs  <http://es.dbpedia.org/resource/Plaza_Nueva_(Bilbao)> .
+
+<http://www.wikidata.org/entity/Q6079670>
+        owl:sameAs  <http://es.dbpedia.org/resource/Plaza_Mayor_de_Ocaña> .
+
+<http://www.wikidata.org/entity/Q1561555>
+        owl:sameAs  <http://es.dbpedia.org/resource/Plaza_Mayor_de_Salamanca> .
+
+<http://www.wikidata.org/entity/Q6079707>
+        owl:sameAs  <http://es.dbpedia.org/resource/Plaza_Mayor_de_Soria> .
+
+<http://www.wikidata.org/entity/Q6079676>
+        owl:sameAs  <http://es.dbpedia.org/resource/Plaza_Mayor_de_Almagro> .
+
+<http://www.wikidata.org/entity/Q6079690>
+        owl:sameAs  <http://es.dbpedia.org/resource/Plaza_Mayor_de_Cáceres> .
+
+<http://www.wikidata.org/entity/Q6079692>
+        owl:sameAs  <http://es.dbpedia.org/resource/Plaza_Mayor_de_Herrera_del_Duque> .
+
+<http://www.wikidata.org/entity/Q3906566>
+        owl:sameAs  <http://es.dbpedia.org/resource/Plaza_de_la_Corredera> .
+
+<http://www.wikidata.org/entity/Q6079477>
+        owl:sameAs  <http://es.dbpedia.org/resource/Plaza_Chica_de_Zafra> .
+
+<http://www.wikidata.org/entity/Q6079568>
+        owl:sameAs  <http://es.dbpedia.org/resource/Plaza_Grande_de_Zafra> .
+
+<http://www.wikidata.org/entity/Q6079680>
+        owl:sameAs  <http://es.dbpedia.org/resource/Plaza_Mayor_de_Benavente> .
+
+<http://www.wikidata.org/entity/Q7068646>
+        owl:sameAs  <http://es.dbpedia.org/resource/Plaza_de_España_(Vitoria)> .
+
+<http://www.wikidata.org/entity/Q5823018>
+        owl:sameAs  <http://es.dbpedia.org/resource/El_Pósito_de_Linares> .
+
+<http://www.wikidata.org/entity/Q98060600>
+        owl:sameAs  <http://es.dbpedia.org/resource/Pósito_de_Fuente_Palmera> .
+
+<http://www.wikidata.org/entity/Q98497870>
+        owl:sameAs  <http://es.dbpedia.org/resource/Castillo_del_Diezmo> .
+
+<http://www.wikidata.org/entity/Q111154534>
+        owl:sameAs  <http://es.dbpedia.org/resource/Pósito_de_Villanueva_de_la_Sierra> .
+
+<http://www.wikidata.org/entity/Q97626328>
+        owl:sameAs  <http://es.dbpedia.org/resource/Castillo_de_Montilla> .
+
+<http://www.wikidata.org/entity/Q97625232>
+        owl:sameAs  <http://es.dbpedia.org/resource/Casa_consistorial_de_Villanueva_de_Córdoba> .
+
+<http://www.wikidata.org/entity/Q123705494>
+        owl:sameAs  <http://es.dbpedia.org/resource/Pósito_de_Tejeda_de_Tiétar> .
+
+<http://www.wikidata.org/entity/Q744455>
+        owl:sameAs  <http://es.dbpedia.org/resource/Convento_de_San_Marcos_(León)> .
+
+<http://www.wikidata.org/entity/Q3754379>
+        owl:sameAs  <http://es.dbpedia.org/resource/Penal_de_El_Dueso> .
+
+<http://www.wikidata.org/entity/Q3753103>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cárcel_Modelo_de_Barcelona> .
+
+<http://www.wikidata.org/entity/Q3817241>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cárcel_de_Carabanchel> .
+
+<http://www.wikidata.org/entity/Q2838250>
+        owl:sameAs  <http://es.dbpedia.org/resource/Prisión_de_Les_Corts> .
+
+<http://www.wikidata.org/entity/Q3277343>
+        owl:sameAs  <http://es.dbpedia.org/resource/Presidio_de_las_Cuatro_Torres> .
+
+<http://www.wikidata.org/entity/Q2894442>
+        owl:sameAs  <http://es.dbpedia.org/resource/Campo_de_concentración_de_Albatera> .
+
+<http://www.wikidata.org/entity/Q3276860>
+        owl:sameAs  <http://es.dbpedia.org/resource/Arsenal_de_la_Carraca> .
+
+<http://www.wikidata.org/entity/Q3324672>
+        owl:sameAs  <http://es.dbpedia.org/resource/Fuerte_de_Alfonso_XII_(Navarra)> .
+
+<http://www.wikidata.org/entity/Q12161791>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cárcel_Real_de_Sevilla> .
+
+<http://www.wikidata.org/entity/Q12385945>
+        owl:sameAs  <http://es.dbpedia.org/resource/Centro_Penitenciario_de_Teijeiro> .
+
+<http://www.wikidata.org/entity/Q12263180>
+        owl:sameAs  <http://es.dbpedia.org/resource/Prisión_de_Martutene> .
+
+<http://www.wikidata.org/entity/Q12254824>
+        owl:sameAs  <http://es.dbpedia.org/resource/Centro_Penitenciario_de_Basauri> .
+
+<http://www.wikidata.org/entity/Q12385944>
+        owl:sameAs  <http://es.dbpedia.org/resource/Centro_Penitenciario_de_La_Lama> .
+
+<http://www.wikidata.org/entity/Q12261939>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cárcel_de_Larrínaga> .
+
+<http://www.wikidata.org/entity/Q16490223>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cárcel_de_Yeserías> .
+
+<http://www.wikidata.org/entity/Q16543951>
+        owl:sameAs  <http://es.dbpedia.org/resource/Casa_Galera> .
+
+<http://www.wikidata.org/entity/Q16550292>
+        owl:sameAs  <http://es.dbpedia.org/resource/Colegio_de_San_Nicolás_de_Bari> .
+
+<http://www.wikidata.org/entity/Q28830899>
+        owl:sameAs  <http://es.dbpedia.org/resource/Centro_Penitenciario_de_Jóvenes_de_Barcelona> .
+
+<http://www.wikidata.org/entity/Q28830929>
+        owl:sameAs  <http://es.dbpedia.org/resource/Centro_Penitenciario_Lledoners> .
+
+<http://www.wikidata.org/entity/Q31073583>
+        owl:sameAs  <http://es.dbpedia.org/resource/Centro_Penitenciario_Mas_d'Enric> .
+
+<http://www.wikidata.org/entity/Q32434575>
+        owl:sameAs  <http://es.dbpedia.org/resource/Prisión_de_Estremera> .
+
+<http://www.wikidata.org/entity/Q42163329>
+        owl:sameAs  <http://es.dbpedia.org/resource/Prisión_de_Ocaña> .
+
+<http://www.wikidata.org/entity/Q28736372>
+        owl:sameAs  <http://es.dbpedia.org/resource/Prisión_de_Soto_del_Real> .
+
+<http://www.wikidata.org/entity/Q28830819>
+        owl:sameAs  <http://es.dbpedia.org/resource/Centro_Penitenciario_de_Ponent> .
+
+<http://www.wikidata.org/entity/Q31281660>
+        owl:sameAs  <http://es.dbpedia.org/resource/Centro_Penitenciario_de_Bonge> .
+
+<http://www.wikidata.org/entity/Q50947412>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cárcel_de_Villena> .
+
+<http://www.wikidata.org/entity/Q28830892>
+        owl:sameAs  <http://es.dbpedia.org/resource/Centro_Penitenciario_de_Gerona> .
+
+<http://www.wikidata.org/entity/Q28831075>
+        owl:sameAs  <http://es.dbpedia.org/resource/Centro_Penitenciario_Abierto_de_Lérida> .
+
+<http://www.wikidata.org/entity/Q28830919>
+        owl:sameAs  <http://es.dbpedia.org/resource/Centro_Penitenciario_Abierto_de_Tarragona> .
+
+<http://www.wikidata.org/entity/Q29433582>
+        owl:sameAs  <http://es.dbpedia.org/resource/Colegio-Convento_de_los_Mercedarios_Calzados> .
+
+<http://www.wikidata.org/entity/Q55587622>
+        owl:sameAs  <http://es.dbpedia.org/resource/Centre_Penitenciario_Abierto_2_de_Barcelona> .
+
+<http://www.wikidata.org/entity/Q28830876>
+        owl:sameAs  <http://es.dbpedia.org/resource/Centro_Penitenciario_Brians_1> .
+
+<http://www.wikidata.org/entity/Q28830845>
+        owl:sameAs  <http://es.dbpedia.org/resource/Centro_Penitenciario_Brians_2> .
+
+<http://www.wikidata.org/entity/Q28830978>
+        owl:sameAs  <http://es.dbpedia.org/resource/Centro_Penitenciario_Puig_de_les_Basses> .
+
+<http://www.wikidata.org/entity/Q56605034>
+        owl:sameAs  <http://es.dbpedia.org/resource/Prisión_de_Almería> .
+
+<http://www.wikidata.org/entity/Q28830986>
+        owl:sameAs  <http://es.dbpedia.org/resource/Centro_Penitenciario_Quatre_Camins> .
+
+<http://www.wikidata.org/entity/Q19949772>
+        owl:sameAs  <http://es.dbpedia.org/resource/Campo_de_concentración_de_Camposancos> .
+
+<http://www.wikidata.org/entity/Q20819049>
+        owl:sameAs  <http://es.dbpedia.org/resource/Antiguo_Palacio_(Vistabella_del_Maestrazgo)> .
+
+<http://www.wikidata.org/entity/Q27574688>
+        owl:sameAs  <http://es.dbpedia.org/resource/Colegio-Convento_de_Santo_Tomás_(Alcalá_de_Henares)> .
+
+<http://www.wikidata.org/entity/Q28033071>
+        owl:sameAs  <http://es.dbpedia.org/resource/Colegio_de_los_Manriques> .
+
+<http://www.wikidata.org/entity/Q17634720>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ingenio_de_Montserrat> .
+
+<http://www.wikidata.org/entity/Q19366219>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cárcel_de_Torrijos> .
+
+<http://www.wikidata.org/entity/Q19796985>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cárcel_del_Saladero> .
+
+<http://www.wikidata.org/entity/Q5697166>
+        owl:sameAs  <http://es.dbpedia.org/resource/Antigua_Prisión_Provincial_de_Málaga> .
+
+<http://www.wikidata.org/entity/Q5795937>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cárcel_de_Botafuegos> .
+
+<http://www.wikidata.org/entity/Q5795941>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cárcel_de_Dueñas> .
+
+<http://www.wikidata.org/entity/Q8353086>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cárcel_Modelo_de_Madrid> .
+
+<http://www.wikidata.org/entity/Q10872681>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cárcel_del_Pópulo> .
+
+<http://www.wikidata.org/entity/Q5795924>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cárcel_Correccional_de_Oviedo> .
+
+<http://www.wikidata.org/entity/Q5795943>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cárcel_de_Herrera_de_la_Mancha> .
+
+<http://www.wikidata.org/entity/Q6071188>
+        owl:sameAs  <http://es.dbpedia.org/resource/Penal_de_El_Puerto_de_Santa_María> .
+
+<http://www.wikidata.org/entity/Q8353098>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cárcel_de_mujeres_de_Ventas> .
+
+<http://www.wikidata.org/entity/Q8353095>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cárcel_de_Porlier> .
+
+<http://www.wikidata.org/entity/Q8353089>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cárcel_Municipal_(Ademuz)> .
+
+<http://www.wikidata.org/entity/Q5793212>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cuartel_de_Instrucción_de_Marinería_(Cartagena)> .
+
+<http://www.wikidata.org/entity/Q6058238>
+        owl:sameAs  <http://es.dbpedia.org/resource/Palacio_de_Villahermosa_(Zaragoza)> .
+
+<http://www.wikidata.org/entity/Q5202349>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cárcel_Real_(Cádiz)> .
+
+<http://www.wikidata.org/entity/Q5673062>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cárcel_de_la_Ranilla> .
+
+<http://www.wikidata.org/entity/Q6411510>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cárcel_de_Broto> .
+
+<http://www.wikidata.org/entity/Q8353091>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cárcel_de_Nanclares_de_la_Oca> .
+
+<http://www.wikidata.org/entity/Q5158930>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cárcel_concordataria_de_Zamora> .
+
+<http://www.wikidata.org/entity/Q5772954>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cárcel_de_Albacete> .
+
+<http://www.wikidata.org/entity/Q6159624>
+        owl:sameAs  <http://es.dbpedia.org/resource/Reina_Victoria_Eugenia_(1913)> .
+
+<http://www.wikidata.org/entity/Q8343775>
+        owl:sameAs  <http://es.dbpedia.org/resource/Centro_penitenciario_de_Asturias> .
+
+<http://www.wikidata.org/entity/Q5795958>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cárcel_de_Villanubla> .
+
+<http://www.wikidata.org/entity/Q6086853>
+        owl:sameAs  <http://es.dbpedia.org/resource/Prisión_de_Alcalá_Meco> .
+
+<http://www.wikidata.org/entity/Q5050413>
+        owl:sameAs  <http://es.dbpedia.org/resource/Castillo_de_Sancti_Petri> .
+
+<http://www.wikidata.org/entity/Q6086851>
+        owl:sameAs  <http://es.dbpedia.org/resource/Prisi%EF%BF%BD%EF%BF%BDn_Provincial_de_Málaga> .
+
+<http://www.wikidata.org/entity/Q61697316>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cárcel_La_Galera> .
+
+<http://www.wikidata.org/entity/Q61862280>
+        owl:sameAs  <http://es.dbpedia.org/resource/Prisión_de_Torrero> .
+
+<http://www.wikidata.org/entity/Q109410429>
+        owl:sameAs  <http://es.dbpedia.org/resource/Centro_Penitenciario_de_Álava> .
+
+<http://www.wikidata.org/entity/Q111008526>
+        owl:sameAs  <http://es.dbpedia.org/resource/Prisión_Provincial_de_La_Coruña> .
+
+<http://www.wikidata.org/entity/Q63862106>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cárcel_celular> .
+
+<http://www.wikidata.org/entity/Q106136385>
+        owl:sameAs  <http://es.dbpedia.org/resource/Prisión_de_Córdoba> .
+
+<http://www.wikidata.org/entity/Q111308146>
+        owl:sameAs  <http://es.dbpedia.org/resource/Antigua_cárcel_de_Segovia> .
+
+<http://www.wikidata.org/entity/Q116925307>
+        owl:sameAs  <http://es.dbpedia.org/resource/Prisión_Central_de_Saturrarán> .
+
+<http://www.wikidata.org/entity/Q116389336>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cárcel_de_mujeres_de_Amorebieta> .
+
+<http://www.wikidata.org/entity/Q6106614>
+        owl:sameAs  <http://es.dbpedia.org/resource/Retablo_de_Nuestra_Señora_de_la_Antigua> .
+
+<http://www.wikidata.org/entity/Q6106664>
+        owl:sameAs  <http://es.dbpedia.org/resource/Retablo_mayor_de_la_Seo> .
+
+<http://www.wikidata.org/entity/Q6106649>
+        owl:sameAs  <http://es.dbpedia.org/resource/Retablos_de_Santo_Domingo_el_Antiguo> .
+
+<http://www.wikidata.org/entity/Q6106618>
+        owl:sameAs  <http://es.dbpedia.org/resource/Retablo_de_San_Miguel_(catedral_de_Astorga)> .
+
+<http://www.wikidata.org/entity/Q6106654>
+        owl:sameAs  <http://es.dbpedia.org/resource/Retablo_mayor_de_la_catedral-basílica_del_Pilar_de_Zaragoza> .
+
+<http://www.wikidata.org/entity/Q11945382>
+        owl:sameAs  <http://es.dbpedia.org/resource/Retablo_de_los_santos_Abdón_y_Senén> .
+
+<http://www.wikidata.org/entity/Q5639445>
+        owl:sameAs  <http://es.dbpedia.org/resource/Retablo_de_la_capilla_del_Colegio_de_San_Gregorio> .
+
+<http://www.wikidata.org/entity/Q6106630>
+        owl:sameAs  <http://es.dbpedia.org/resource/Retablo_de_la_Capilla_del_Obispo_(Madrid)> .
+
+<http://www.wikidata.org/entity/Q6106634>
+        owl:sameAs  <http://es.dbpedia.org/resource/Retablo_de_la_Purísima_(catedral_de_Astorga)> .
+
+<http://www.wikidata.org/entity/Q6106669>
+        owl:sameAs  <http://es.dbpedia.org/resource/Retablo_mayor_de_la_catedral_de_Segovia> .
+
+<http://www.wikidata.org/entity/Q6106643>
+        owl:sameAs  <http://es.dbpedia.org/resource/Retablo_de_los_santos_segovianos> .
+
+<http://www.wikidata.org/entity/Q6106655>
+        owl:sameAs  <http://es.dbpedia.org/resource/Retablo_mayor_de_la_catedral_de_Burgos> .
+
+<http://www.wikidata.org/entity/Q11702914>
+        owl:sameAs  <http://es.dbpedia.org/resource/Retablo_de_la_Virgen_(Sigena)> .
+
+<http://www.wikidata.org/entity/Q6106616>
+        owl:sameAs  <http://es.dbpedia.org/resource/Retablo_de_San_Benito_el_Real_(Valladolid)> .
+
+<http://www.wikidata.org/entity/Q6106624>
+        owl:sameAs  <http://es.dbpedia.org/resource/Retablo_de_Santiago_(Catedral_de_Segovia)> .
+
+<http://www.wikidata.org/entity/Q6106657>
+        owl:sameAs  <http://es.dbpedia.org/resource/Retablo_mayor_de_la_catedral_de_Oviedo> .
+
+<http://www.wikidata.org/entity/Q6106662>
+        owl:sameAs  <http://es.dbpedia.org/resource/Retablo_mayor_de_la_Iglesia_de_San_Juan_Bautista_(Carbonero_el_Mayor)> .
+
+<http://www.wikidata.org/entity/Q6106632>
+        owl:sameAs  <http://es.dbpedia.org/resource/Retablo_de_la_Pasión> .
+
+<http://www.wikidata.org/entity/Q6106620>
+        owl:sameAs  <http://es.dbpedia.org/resource/Retablo_de_Santa_Catalina_(catedral_de_Ávila)> .
+
+<http://www.wikidata.org/entity/Q6106667>
+        owl:sameAs  <http://es.dbpedia.org/resource/Retablo_mayor_de_la_catedral_de_Astorga> .
+
+<http://www.wikidata.org/entity/Q6106659>
+        owl:sameAs  <http://es.dbpedia.org/resource/Retablo_mayor_de_la_catedral_de_Palencia> .
+
+<http://www.wikidata.org/entity/Q16741392>
+        owl:sameAs  <http://es.dbpedia.org/resource/Retablo_de_San_Miguel_Arcángel_(Ventosa_de_la_Cuesta)> .
+
+<http://www.wikidata.org/entity/Q23534384>
+        owl:sameAs  <http://es.dbpedia.org/resource/Retablo_del_Rosario_de_la_Doma> .
+
+<http://www.wikidata.org/entity/Q21094862>
+        owl:sameAs  <http://es.dbpedia.org/resource/Retablo_mayor_(Iglesia_de_Nuestra_Señora_del_Castillo_de_Fuente_Obejuna)> .
+
+<http://www.wikidata.org/entity/Q24941479>
+        owl:sameAs  <http://es.dbpedia.org/resource/Retablo_del_Roser_de_la_Doma> .
+
+<http://www.wikidata.org/entity/Q28517795>
+        owl:sameAs  <http://es.dbpedia.org/resource/Retablo_de_la_Virgen_del_Rosario_(Puebla_de_San_Miguel)> .
+
+<http://www.wikidata.org/entity/Q59197187>
+        owl:sameAs  <http://es.dbpedia.org/resource/Retablo_de_Nuestra_Señora_de_los_Remedios_(Catedral_de_San_Cristóbal_de_La_Laguna)> .
+
+<http://www.wikidata.org/entity/Q113520256>
+        owl:sameAs  <http://es.dbpedia.org/resource/Iglesia_de_San_Julián_(Ororbia)> .
+
+<http://www.wikidata.org/entity/Q116879582>
+        owl:sameAs  <http://es.dbpedia.org/resource/Altar_de_la_Encarnación_(Mezquita-Catedral_de_Córdoba)> .
+
+<http://www.wikidata.org/entity/Q61384156>
+        owl:sameAs  <http://es.dbpedia.org/resource/Fábrica_de_Tabacos_(La_Coruña)> .
+
+<http://www.wikidata.org/entity/Q97619234>
+        owl:sameAs  <http://es.dbpedia.org/resource/Real_Carenero> .
+
+<http://www.wikidata.org/entity/Q66662468>
+        owl:sameAs  <http://es.dbpedia.org/resource/Real_Fábrica_de_Loza_Fina_y_porcelana_de_Alcora> .
+
+<http://www.wikidata.org/entity/Q98059620>
+        owl:sameAs  <http://es.dbpedia.org/resource/Real_Fábrica_de_Naipes> .
+
+<http://www.wikidata.org/entity/Q104184305>
+        owl:sameAs  <http://es.dbpedia.org/resource/Real_Fábrica_de_Sargadelos> .
+
+<http://www.wikidata.org/entity/Q106547595>
+        owl:sameAs  <http://es.dbpedia.org/resource/Real_Fábrica_de_Sedas_de_Talavera_de_la_Reina> .
+
+<http://www.wikidata.org/entity/Q61861289>
+        owl:sameAs  <http://es.dbpedia.org/resource/Real_Fábrica_de_Navíos> .
+
+<http://www.wikidata.org/entity/Q6102199>
+        owl:sameAs  <http://es.dbpedia.org/resource/Real_Fábrica_de_Artillería_de_Jimena_de_la_Frontera> .
+
+<http://www.wikidata.org/entity/Q7374161>
+        owl:sameAs  <http://es.dbpedia.org/resource/Real_Fábrica_de_La_Moncloa> .
+
+<http://www.wikidata.org/entity/Q8963171>
+        owl:sameAs  <http://es.dbpedia.org/resource/Fábrica_de_Armas_de_Toledo> .
+
+<http://www.wikidata.org/entity/Q9067067>
+        owl:sameAs  <http://es.dbpedia.org/resource/Real_Fábrica_de_Artillería_de_La_Cavada> .
+
+<http://www.wikidata.org/entity/Q6101919>
+        owl:sameAs  <http://es.dbpedia.org/resource/Real_Fábrica_de_Hojalata_de_San_Miguel> .
+
+<http://www.wikidata.org/entity/Q6101928>
+        owl:sameAs  <http://es.dbpedia.org/resource/Real_Fábrica_de_Platería_Martínez> .
+
+<http://www.wikidata.org/entity/Q60969272>
+        owl:sameAs  <http://es.dbpedia.org/resource/Real_Fábrica_de_Don_Diego_López> .
+
+<http://www.wikidata.org/entity/Q2542555>
+        owl:sameAs  <http://es.dbpedia.org/resource/Real_Fábrica_de_Tabacos_de_Sevilla> .
+
+<http://www.wikidata.org/entity/Q5872066>
+        owl:sameAs  <http://es.dbpedia.org/resource/Fábrica_de_armas_de_Trubia> .
+
+<http://www.wikidata.org/entity/Q6102195>
+        owl:sameAs  <http://es.dbpedia.org/resource/Reales_Astilleros_de_Esteiro> .
+
+<http://www.wikidata.org/entity/Q11702293>
+        owl:sameAs  <http://es.dbpedia.org/resource/Real_Fábrica_de_Paños_de_Alcoy> .
+
+<http://www.wikidata.org/entity/Q7300920>
+        owl:sameAs  <http://es.dbpedia.org/resource/Real_Fábrica_de_Porcelana_del_Buen_Retiro> .
+
+<http://www.wikidata.org/entity/Q45581167>
+        owl:sameAs  <http://es.dbpedia.org/resource/Real_Laboratorio_de_Mosaicos_y_Piedras_Duras_del_Buen_Retiro> .
+
+<http://www.wikidata.org/entity/Q6101925>
+        owl:sameAs  <http://es.dbpedia.org/resource/Real_Fábrica_de_Paños_de_Brihuega> .
+
+<http://www.wikidata.org/entity/Q21483825>
+        owl:sameAs  <http://es.dbpedia.org/resource/Reales_Fábricas_de_Bronce_y_Latón> .
+
+<http://www.wikidata.org/entity/Q5482623>
+        owl:sameAs  <http://es.dbpedia.org/resource/Real_Fábrica_de_Cristales_de_La_Granja> .
+
+<http://www.wikidata.org/entity/Q6101922>
+        owl:sameAs  <http://es.dbpedia.org/resource/Real_Fábrica_de_Lencería_de_San_Ildefonso> .
+
+<http://www.wikidata.org/entity/Q12201031>
+        owl:sameAs  <http://es.dbpedia.org/resource/Real_Fábrica_de_Abanicos> .
+
+<http://www.wikidata.org/entity/Q12265223>
+        owl:sameAs  <http://es.dbpedia.org/resource/Real_Fábrica_de_Armas_de_Orbaiceta> .
+
+<http://www.wikidata.org/entity/Q4069935>
+        owl:sameAs  <http://es.dbpedia.org/resource/Arsenal_de_Cartagena> .
+
+<http://www.wikidata.org/entity/Q18924117>
+        owl:sameAs  <http://es.dbpedia.org/resource/Real_Fábrica_de_Paños_de_Ezcaray> .
+
+<http://www.wikidata.org/entity/Q2283575>
+        owl:sameAs  <http://es.dbpedia.org/resource/Museo_de_Escultura_al_Aire_Libre_de_La_Castellana> .
+
+<http://www.wikidata.org/entity/Q1581475>
+        owl:sameAs  <http://es.dbpedia.org/resource/Museo_Nacional_de_Escultura> .
+
+<http://www.wikidata.org/entity/Q5762045>
+        owl:sameAs  <http://es.dbpedia.org/resource/Centro_de_Escultura_de_Candás_Museo_Antón> .
+
+<http://www.wikidata.org/entity/Q1581868>
+        owl:sameAs  <http://es.dbpedia.org/resource/Capilla_de_los_Alas> .
+
+<http://www.wikidata.org/entity/Q5795955>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cárcel_de_San_Vicente> .
+
+<http://www.wikidata.org/entity/Q125862482>
+        owl:sameAs  <http://es.dbpedia.org/resource/Capilla-Panteón_del_Palacio_de_Sobrellano> .
+
+<http://www.wikidata.org/entity/Q106832772>
+        owl:sameAs  <http://es.dbpedia.org/resource/Dolmen_de_Merillés_(Tineo)> .
+
+<http://www.wikidata.org/entity/Q98435209>
+        owl:sameAs  <http://es.dbpedia.org/resource/Centro_de_Arte_Faro_de_Cabo_Mayor> .
+
+<http://www.wikidata.org/entity/Q8342724>
+        owl:sameAs  <http://es.dbpedia.org/resource/Castro_de_Pendia> .
+
+<http://www.wikidata.org/entity/Q6150447>
+        owl:sameAs  <http://es.dbpedia.org/resource/Torre_de_Pero_Niño> .
+
+<http://www.wikidata.org/entity/Q27643259>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ferrería_de_Cades> .
+
+<http://www.wikidata.org/entity/Q8203637>
+        owl:sameAs  <http://es.dbpedia.org/resource/Archivo_Histórico_de_Asturias> .
+
+<http://www.wikidata.org/entity/Q8256415>
+        owl:sameAs  <http://es.dbpedia.org/resource/Campa_Torres> .
+
+<http://www.wikidata.org/entity/Q9093964>
+        owl:sameAs  <http://es.dbpedia.org/resource/Villa_romana_de_Veranes> .
+
+<http://www.wikidata.org/entity/Q20013929>
+        owl:sameAs  <http://es.dbpedia.org/resource/Castro_de_San_Chuis> .
+
+<http://www.wikidata.org/entity/Q28112433>
+        owl:sameAs  <http://es.dbpedia.org/resource/Centro_de_Interpretación_Patrimonial_de_Almería> .
+
+<http://www.wikidata.org/entity/Q1049918>
+        owl:sameAs  <http://es.dbpedia.org/resource/Castro_de_Coaña> .
+
+<http://www.wikidata.org/entity/Q6058112>
+        owl:sameAs  <http://es.dbpedia.org/resource/Palacio_de_Miranda-Valdecarzana> .
+
+<http://www.wikidata.org/entity/Q6058170>
+        owl:sameAs  <http://es.dbpedia.org/resource/Palacio_de_Revillagigedo> .
+
+<http://www.wikidata.org/entity/Q3816833>
+        owl:sameAs  <http://es.dbpedia.org/resource/LABoral_Centro_de_Arte_y_Creación_Industrial> .
+
+<http://www.wikidata.org/entity/Q6062770>
+        owl:sameAs  <http://es.dbpedia.org/resource/Parque_de_la_Prehistoria_(Teverga)> .
+
+<http://www.wikidata.org/entity/Q609760>
+        owl:sameAs  <http://es.dbpedia.org/resource/Castro_El_Chao_Samartín> .
+
+<http://www.wikidata.org/entity/Q6058117>
+        owl:sameAs  <http://es.dbpedia.org/resource/Palacio_de_Mon> .
+
+<http://www.wikidata.org/entity/Q6083826>
+        owl:sameAs  <http://es.dbpedia.org/resource/Pozo_Sotón> .
+
+<http://www.wikidata.org/entity/Q5196648>
+        owl:sameAs  <http://es.dbpedia.org/resource/Universidad_Laboral_de_Gijón> .
+
+<http://www.wikidata.org/entity/Q2081919>
+        owl:sameAs  <http://es.dbpedia.org/resource/Ídolo_de_Peña_Tú> .
+
+<http://www.wikidata.org/entity/Q5794156>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cueva_de_Llonín> .
+
+<http://www.wikidata.org/entity/Q6083820>
+        owl:sameAs  <http://es.dbpedia.org/resource/Pozo_Santa_Bárbara_(Turón)> .
+
+<http://www.wikidata.org/entity/Q6142693>
+        owl:sameAs  <http://es.dbpedia.org/resource/Termas_romanas_de_Campo_Valdés> .
+
+<http://www.wikidata.org/entity/Q2838041>
+        owl:sameAs  <http://es.dbpedia.org/resource/Real_Colegiata_de_San_Fernando> .
+
+<http://www.wikidata.org/entity/Q5812502>
+        owl:sameAs  <http://es.dbpedia.org/resource/Dolmen_de_Santa_Cruz> .
+
+<http://www.wikidata.org/entity/Q287592>
+        owl:sameAs  <http://es.dbpedia.org/resource/Mirador_del_Río> .
+
+<http://www.wikidata.org/entity/Q3604774>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cruz_Cubierta_(Jérica)> .
+
+<http://www.wikidata.org/entity/Q2886280>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cruz_del_Coso> .
+
+<http://www.wikidata.org/entity/Q5792453>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cruz_de_Término_de_Luchente> .
+
+<http://www.wikidata.org/entity/Q5792279>
+        owl:sameAs  <http://es.dbpedia.org/resource/Crucero_de_Cartagena> .
+
+<http://www.wikidata.org/entity/Q5792451>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cruz_de_Término_de_Cullera> .
+
+<http://www.wikidata.org/entity/Q5792471>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cruz_de_término_de_les_Eres> .
+
+<http://www.wikidata.org/entity/Q5792359>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cruz_Cubierta_de_Ayora> .
+
+<http://www.wikidata.org/entity/Q11680936>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cruz_de_Rafil> .
+
+<http://www.wikidata.org/entity/Q11680938>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cruz_de_ses_Dones> .
+
+<http://www.wikidata.org/entity/Q11680937>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cruz_de_Son_Rafel_Mas> .
+
+<http://www.wikidata.org/entity/Q5792410>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cruz_de_Kurtzio> .
+
+<http://www.wikidata.org/entity/Q5792466>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cruz_de_los_Caídos> .
+
+<http://www.wikidata.org/entity/Q5792431>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cruz_de_Rubalcaba> .
+
+<http://www.wikidata.org/entity/Q11680939>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cruz_del_Gigante> .
+
+<http://www.wikidata.org/entity/Q5792461>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cruz_de_la_Subida_de_la_Costa> .
+
+<http://www.wikidata.org/entity/Q20014296>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cruz_de_Término_(Albacete)> .
+
+<http://www.wikidata.org/entity/Q65393623>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cruz_cubierta_de_Aínsa> .
+
+<http://www.wikidata.org/entity/Q21790867>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cruz_del_Puerto_de_Ordal> .
+
+<http://www.wikidata.org/entity/Q26858535>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cruz_de_término_de_Horta> .
+
+<http://www.wikidata.org/entity/Q118309915>
+        owl:sameAs  <http://es.dbpedia.org/resource/Cruz_de_Término,_Énova> .

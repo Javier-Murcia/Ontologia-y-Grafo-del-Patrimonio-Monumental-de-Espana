@@ -1,0 +1,2125 @@
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://www.wikidata.org/entity/Q6010616>
+        owl:sameAs <http://es.dbpedia.org/resource/Mercado_de_la_Esperanza>.
+
+<http://www.wikidata.org/entity/Q9031630>
+        owl:sameAs <http://es.dbpedia.org/resource/Mercado_de_abastos_de_Algeciras>.
+
+<http://www.wikidata.org/entity/Q9031626>
+        owl:sameAs <http://es.dbpedia.org/resource/Mercado_de_Antón_Martín>.
+
+<http://www.wikidata.org/entity/Q52864720>
+        owl:sameAs <http://es.dbpedia.org/resource/Mercado_Central_de_Abastos>.
+
+<http://www.wikidata.org/entity/Q6010695>
+        owl:sameAs <http://es.dbpedia.org/resource/Mercamadrid>.
+
+<http://www.wikidata.org/entity/Q8228909>
+        owl:sameAs <http://es.dbpedia.org/resource/Mercado_de_la_Ribera>.
+
+<http://www.wikidata.org/entity/Q98505030>
+        owl:sameAs <http://es.dbpedia.org/resource/Mercado_Central_de_Abastos_(Jerez)>.
+
+<http://www.wikidata.org/entity/Q5410656>
+        owl:sameAs <http://es.dbpedia.org/resource/Mercado_de_Sanlúcar_de_Barrameda>.
+
+<http://www.wikidata.org/entity/Q6080156>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_abastos_de_Écija>.
+
+<http://www.wikidata.org/entity/Q97628301>
+        owl:sameAs <http://es.dbpedia.org/resource/Mercado_de_Abastos_(Nerva)>.
+
+<http://www.wikidata.org/entity/Q101542173>
+        owl:sameAs <http://es.dbpedia.org/resource/Mercado_de_Sánchez_Peña>.
+
+<http://www.wikidata.org/entity/Q6010405>
+        owl:sameAs <http://es.dbpedia.org/resource/Mercabarna>.
+
+<http://www.wikidata.org/entity/Q6010534>
+        owl:sameAs <http://es.dbpedia.org/resource/Mercado_de_Barceló>.
+
+<http://www.wikidata.org/entity/Q9031638>
+        owl:sameAs <http://es.dbpedia.org/resource/Mercado_del_Arenal>.
+
+<http://www.wikidata.org/entity/Q47501932>
+        owl:sameAs <http://es.dbpedia.org/resource/Mercado_del_Sur>.
+
+<http://www.wikidata.org/entity/Q97620786>
+        owl:sameAs <http://es.dbpedia.org/resource/Mercado_de_Abastos_de_Puerto_Real>.
+
+<http://www.wikidata.org/entity/Q97641295>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Abastos_(Carmona)>.
+
+<http://www.wikidata.org/entity/Q6080151>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_abastos_(Cádiz)>.
+
+<http://www.wikidata.org/entity/Q56682916>
+        owl:sameAs <http://es.dbpedia.org/resource/Mercado_de_Abastos_(Calañas)>.
+
+<http://www.wikidata.org/entity/Q98504037>
+        owl:sameAs <http://es.dbpedia.org/resource/Mercado_Central_de_Almería>.
+
+<http://www.wikidata.org/entity/Q107528146>
+        owl:sameAs <http://es.dbpedia.org/resource/Mercado_de_Abastos_de_Pontevedra>.
+
+<http://www.wikidata.org/entity/Q837979>
+        owl:sameAs <http://es.dbpedia.org/resource/Monasterio_de_Santa_María_la_Real_de_Iranzu>.
+
+<http://www.wikidata.org/entity/Q5654643>
+        owl:sameAs <http://es.dbpedia.org/resource/Abadía_de_Lebanza>.
+
+<http://www.wikidata.org/entity/Q5654667>
+        owl:sameAs <http://es.dbpedia.org/resource/Abadía_de_los_Cuerpos_Santos>.
+
+<http://www.wikidata.org/entity/Q6898311>
+        owl:sameAs <http://es.dbpedia.org/resource/Abadía_de_Santa_María_de_Benevívere>.
+
+<http://www.wikidata.org/entity/Q1775726>
+        owl:sameAs <http://es.dbpedia.org/resource/Monasterio_de_Santa_María_de_Nogales>.
+
+<http://www.wikidata.org/entity/Q5654657>
+        owl:sameAs <http://es.dbpedia.org/resource/Abadía_de_Santa_María_de_Viaceli>.
+
+<http://www.wikidata.org/entity/Q5654672>
+        owl:sameAs <http://es.dbpedia.org/resource/Abadía_del_Sacromonte>.
+
+<http://www.wikidata.org/entity/Q5654638>
+        owl:sameAs <http://es.dbpedia.org/resource/Abadía_de_Burgohondo>.
+
+<http://www.wikidata.org/entity/Q66050836>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_la_Anunciación_(Javier)>.
+
+<http://www.wikidata.org/entity/Q20021320>
+        owl:sameAs <http://es.dbpedia.org/resource/Abadía_de_Arbas>.
+
+<http://www.wikidata.org/entity/Q16482371>
+        owl:sameAs <http://es.dbpedia.org/resource/Abadía_de_Alcalá_la_Real>.
+
+<http://www.wikidata.org/entity/Q43088148>
+        owl:sameAs <http://es.dbpedia.org/resource/Abadía_de_San_Quirce>.
+
+<http://www.wikidata.org/entity/Q1424085>
+        owl:sameAs <http://es.dbpedia.org/resource/Cripta_Real_del_Monasterio_de_El_Escorial>.
+
+<http://www.wikidata.org/entity/Q2160663>
+        owl:sameAs <http://es.dbpedia.org/resource/Cripta_de_la_Colonia_Güell>.
+
+<http://www.wikidata.org/entity/Q5790996>
+        owl:sameAs <http://es.dbpedia.org/resource/Cripta_de_Santa_Leocadia>.
+
+<http://www.wikidata.org/entity/Q1790370>
+        owl:sameAs <http://es.dbpedia.org/resource/Cripta_de_San_Antolín>.
+
+<http://www.wikidata.org/entity/Q28503398>
+        owl:sameAs <http://es.dbpedia.org/resource/Cripta_de_la_Colegiata_de_Roncesvalles>.
+
+<http://www.wikidata.org/entity/Q54943539>
+        owl:sameAs <http://es.dbpedia.org/resource/Panteón_Real_de_San_Juan_de_la_Peña>.
+
+<http://www.wikidata.org/entity/Q110928859>
+        owl:sameAs <http://es.dbpedia.org/resource/Cripta_de_la_catedral_de_Cádiz>.
+
+<http://www.wikidata.org/entity/Q98500520>
+        owl:sameAs <http://es.dbpedia.org/resource/Alberca_Rota>.
+
+<http://www.wikidata.org/entity/Q18004518>
+        owl:sameAs <http://es.dbpedia.org/resource/Les_Cols>.
+
+<http://www.wikidata.org/entity/Q21604314>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Murcurols>.
+
+<http://www.wikidata.org/entity/Q56285004>
+        owl:sameAs <http://es.dbpedia.org/resource/Viña_Gisbert>.
+
+<http://www.wikidata.org/entity/Q126125903>
+        owl:sameAs <http://es.dbpedia.org/resource/Pazo_de_los_Condes_de_San_Román>.
+
+<http://www.wikidata.org/entity/Q20548181>
+        owl:sameAs <http://es.dbpedia.org/resource/Pazo_de_Lanzós>.
+
+<http://www.wikidata.org/entity/Q6067761>
+        owl:sameAs <http://es.dbpedia.org/resource/Pazo_de_Soesto>.
+
+<http://www.wikidata.org/entity/Q2511354>
+        owl:sameAs <http://es.dbpedia.org/resource/Pazo_de_Meirás>.
+
+<http://www.wikidata.org/entity/Q14568091>
+        owl:sameAs <http://es.dbpedia.org/resource/Pazo_de_Oca>.
+
+<http://www.wikidata.org/entity/Q18417923>
+        owl:sameAs <http://es.dbpedia.org/resource/Pazo_de_Vilane>.
+
+<http://www.wikidata.org/entity/Q20548143>
+        owl:sameAs <http://es.dbpedia.org/resource/Pazo_de_Anzobre>.
+
+<http://www.wikidata.org/entity/Q5810251>
+        owl:sameAs <http://es.dbpedia.org/resource/Pazo_de_Fonseca>.
+
+<http://www.wikidata.org/entity/Q9057186>
+        owl:sameAs <http://es.dbpedia.org/resource/Pazo_de_Cadaval>.
+
+<http://www.wikidata.org/entity/Q12397289>
+        owl:sameAs <http://es.dbpedia.org/resource/Pazo_de_Saa>.
+
+<http://www.wikidata.org/entity/Q12397294>
+        owl:sameAs <http://es.dbpedia.org/resource/Pazo_de_Vilardefrancos>.
+
+<http://www.wikidata.org/entity/Q20548106>
+        owl:sameAs <http://es.dbpedia.org/resource/Pazo_de_la_Merced>.
+
+<http://www.wikidata.org/entity/Q2513098>
+        owl:sameAs <http://es.dbpedia.org/resource/Pazo_de_Montecelo>.
+
+<http://www.wikidata.org/entity/Q5850082>
+        owl:sameAs <http://es.dbpedia.org/resource/Pazo_da_Trave>.
+
+<http://www.wikidata.org/entity/Q16641640>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Couso>.
+
+<http://www.wikidata.org/entity/Q20548160>
+        owl:sameAs <http://es.dbpedia.org/resource/Pazo_de_Cañás>.
+
+<http://www.wikidata.org/entity/Q20548127>
+        owl:sameAs <http://es.dbpedia.org/resource/Pazo_de_Abeledo>.
+
+<http://www.wikidata.org/entity/Q12397268>
+        owl:sameAs <http://es.dbpedia.org/resource/Pazo_Bayón>.
+
+<http://www.wikidata.org/entity/Q12397284>
+        owl:sameAs <http://es.dbpedia.org/resource/Pazo_de_Gallegos>.
+
+<http://www.wikidata.org/entity/Q12397290>
+        owl:sameAs <http://es.dbpedia.org/resource/Pazo_de_San_Lorenzo_de_Trasouto>.
+
+<http://www.wikidata.org/entity/Q12397286>
+        owl:sameAs <http://es.dbpedia.org/resource/Pazo_de_Liñares>.
+
+<http://www.wikidata.org/entity/Q27885520>
+        owl:sameAs <http://es.dbpedia.org/resource/Pazo_da_Touza>.
+
+<http://www.wikidata.org/entity/Q25510767>
+        owl:sameAs <http://es.dbpedia.org/resource/Pazo_de_Cea>.
+
+<http://www.wikidata.org/entity/Q96757505>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_de_los_Condes_de_Maceda>.
+
+<http://www.wikidata.org/entity/Q96759353>
+        owl:sameAs <http://es.dbpedia.org/resource/Pazo_de_Mugartegui>.
+
+<http://www.wikidata.org/entity/Q56527289>
+        owl:sameAs <http://es.dbpedia.org/resource/Pazo_de_Lóngora>.
+
+<http://www.wikidata.org/entity/Q20548206>
+        owl:sameAs <http://es.dbpedia.org/resource/Pazo_de_Montesclaros>.
+
+<http://www.wikidata.org/entity/Q20548196>
+        owl:sameAs <http://es.dbpedia.org/resource/Pazo_de_Mondoi>.
+
+<http://www.wikidata.org/entity/Q66724736>
+        owl:sameAs <http://es.dbpedia.org/resource/Pazo_de_Lobagueiras>.
+
+<http://www.wikidata.org/entity/Q104635963>
+        owl:sameAs <http://es.dbpedia.org/resource/Pazo_de_García_Flórez>.
+
+<http://www.wikidata.org/entity/Q104636001>
+        owl:sameAs <http://es.dbpedia.org/resource/Pazo_de_Castro_Monteagudo>.
+
+<http://www.wikidata.org/entity/Q103768795>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_las_Caras>.
+
+<http://www.wikidata.org/entity/Q104641698>
+        owl:sameAs <http://es.dbpedia.org/resource/Pazo_de_Gago_y_Montenegro>.
+
+<http://www.wikidata.org/entity/Q104641865>
+        owl:sameAs <http://es.dbpedia.org/resource/Pazo_de_los_Marqueses_de_Aranda>.
+
+<http://www.wikidata.org/entity/Q17622552>
+        owl:sameAs <http://es.dbpedia.org/resource/Mirador_del_Tombo>.
+
+<http://www.wikidata.org/entity/Q6017993>
+        owl:sameAs <http://es.dbpedia.org/resource/Mirador_de_Vistabella>.
+
+<http://www.wikidata.org/entity/Q1424835>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_natural_del_Roque_Nublo>.
+
+<http://www.wikidata.org/entity/Q6017978>
+        owl:sameAs <http://es.dbpedia.org/resource/Mirador_Monte_Lobeira>.
+
+<http://www.wikidata.org/entity/Q1696136>
+        owl:sameAs <http://es.dbpedia.org/resource/Mirador_del_Estrecho>.
+
+<http://www.wikidata.org/entity/Q6017982>
+        owl:sameAs <http://es.dbpedia.org/resource/Mirador_de_La_Peña>.
+
+<http://www.wikidata.org/entity/Q3331650>
+        owl:sameAs <http://es.dbpedia.org/resource/Salto_del_Nervión>.
+
+<http://www.wikidata.org/entity/Q287592>
+        owl:sameAs <http://es.dbpedia.org/resource/Mirador_del_Río>.
+
+<http://www.wikidata.org/entity/Q67170140>
+        owl:sameAs <http://es.dbpedia.org/resource/Mirador_de_A_Capela>.
+
+<http://www.wikidata.org/entity/Q47771843>
+        owl:sameAs <http://es.dbpedia.org/resource/Mirador_de_Jozarcu>.
+
+<http://www.wikidata.org/entity/Q30902970>
+        owl:sameAs <http://es.dbpedia.org/resource/Mirador_del_Guarda_Forestal>.
+
+<http://www.wikidata.org/entity/Q24937209>
+        owl:sameAs <http://es.dbpedia.org/resource/Mirador_de_Los_Mansuetos>.
+
+<http://www.wikidata.org/entity/Q29512030>
+        owl:sameAs <http://es.dbpedia.org/resource/Balcón_de_Pilatos>.
+
+<http://www.wikidata.org/entity/Q101110179>
+        owl:sameAs <http://es.dbpedia.org/resource/Mirador_de_Ézaro>.
+
+<http://www.wikidata.org/entity/Q116180853>
+        owl:sameAs <http://es.dbpedia.org/resource/Martinebrón>.
+
+<http://www.wikidata.org/entity/Q5705449>
+        owl:sameAs <http://es.dbpedia.org/resource/Arrolobos>.
+
+<http://www.wikidata.org/entity/Q5488956>
+        owl:sameAs <http://es.dbpedia.org/resource/Alquería_de_Juliá>.
+
+<http://www.wikidata.org/entity/Q5670592>
+        owl:sameAs <http://es.dbpedia.org/resource/Alquería_del_Cortijo_del_Centeno>.
+
+<http://www.wikidata.org/entity/Q5741866>
+        owl:sameAs <http://es.dbpedia.org/resource/Cambrón_(Cáceres)>.
+
+<http://www.wikidata.org/entity/Q5869806>
+        owl:sameAs <http://es.dbpedia.org/resource/Frontil_(Alquería)>.
+
+<http://www.wikidata.org/entity/Q5894668>
+        owl:sameAs <http://es.dbpedia.org/resource/Heras_(Casares_de_las_Hurdes)>.
+
+<http://www.wikidata.org/entity/Q5670580>
+        owl:sameAs <http://es.dbpedia.org/resource/Alquería_Barrinto>.
+
+<http://www.wikidata.org/entity/Q5692294>
+        owl:sameAs <http://es.dbpedia.org/resource/Alquería_fortificada_Torre_dels_Pares>.
+
+<http://www.wikidata.org/entity/Q6171027>
+        owl:sameAs <http://es.dbpedia.org/resource/Zaudín_Alto>.
+
+<http://www.wikidata.org/entity/Q5670589>
+        owl:sameAs <http://es.dbpedia.org/resource/Alquería_de_la_Torre>.
+
+<http://www.wikidata.org/entity/Q5670595>
+        owl:sameAs <http://es.dbpedia.org/resource/Alquería_del_Moro>.
+
+<http://www.wikidata.org/entity/Q5670583>
+        owl:sameAs <http://es.dbpedia.org/resource/Alquería_Fonda>.
+
+<http://www.wikidata.org/entity/Q5803923>
+        owl:sameAs <http://es.dbpedia.org/resource/Alquería_del_Duc_(Gandía)>.
+
+<http://www.wikidata.org/entity/Q5748782>
+        owl:sameAs <http://es.dbpedia.org/resource/Carabusino>.
+
+<http://www.wikidata.org/entity/Q5755767>
+        owl:sameAs <http://es.dbpedia.org/resource/Casarrubia>.
+
+<http://www.wikidata.org/entity/Q5904280>
+        owl:sameAs <http://es.dbpedia.org/resource/Huetre>.
+
+<http://www.wikidata.org/entity/Q5741864>
+        owl:sameAs <http://es.dbpedia.org/resource/Cambroncino>.
+
+<http://www.wikidata.org/entity/Q6110135>
+        owl:sameAs <http://es.dbpedia.org/resource/Robledo_(Casares_de_las_Hurdes)>.
+
+<http://www.wikidata.org/entity/Q5904180>
+        owl:sameAs <http://es.dbpedia.org/resource/Huerta_(Caminomorisco)>.
+
+<http://www.wikidata.org/entity/Q6171029>
+        owl:sameAs <http://es.dbpedia.org/resource/Zaudín_Bajo>.
+
+<http://www.wikidata.org/entity/Q5801477>
+        owl:sameAs <http://es.dbpedia.org/resource/Dehesilla_(Cáceres)>.
+
+<http://www.wikidata.org/entity/Q20978634>
+        owl:sameAs <http://es.dbpedia.org/resource/Masía_y_Torre_de_la_Chirivilla_(Zucaina)>.
+
+<http://www.wikidata.org/entity/Q57444490>
+        owl:sameAs <http://es.dbpedia.org/resource/Alquerías_de_Mossén_Povo>.
+
+<http://www.wikidata.org/entity/Q17518477>
+        owl:sameAs <http://es.dbpedia.org/resource/Alquería_del_Pi_de_Alfafar>.
+
+<http://www.wikidata.org/entity/Q8196504>
+        owl:sameAs <http://es.dbpedia.org/resource/Alquería_de_Falcó>.
+
+<http://www.wikidata.org/entity/Q16645201>
+        owl:sameAs <http://es.dbpedia.org/resource/Valdovina>.
+
+<http://www.wikidata.org/entity/Q15291161>
+        owl:sameAs <http://es.dbpedia.org/resource/Alquería_Aiguamolls>.
+
+<http://www.wikidata.org/entity/Q9069375>
+        owl:sameAs <http://es.dbpedia.org/resource/Riomalo_de_Abajo>.
+
+<http://www.wikidata.org/entity/Q13568113>
+        owl:sameAs <http://es.dbpedia.org/resource/Conjunto_de_alquerías_de_la_calle_Olba>.
+
+<http://www.wikidata.org/entity/Q16145745>
+        owl:sameAs <http://es.dbpedia.org/resource/Alquería_de_Pastor>.
+
+<http://www.wikidata.org/entity/Q18123353>
+        owl:sameAs <http://es.dbpedia.org/resource/Alquería_Torre_Borrero>.
+
+<http://www.wikidata.org/entity/Q530662>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Independencia_(Castellón)>.
+
+<http://www.wikidata.org/entity/Q6091819>
+        owl:sameAs <http://es.dbpedia.org/resource/Puerta_de_Purchena>.
+
+<http://www.wikidata.org/entity/Q6080477>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Paz_(Castellón_de_la_Plana)>.
+
+<http://www.wikidata.org/entity/Q118150592>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Conde_de_Alpuente>.
+
+<http://www.wikidata.org/entity/Q118153773>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Reina_Doña_Juana>.
+
+<http://www.wikidata.org/entity/Q118179476>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Socorro>.
+
+<http://www.wikidata.org/entity/Q118180050>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_San_Esteban_(Segovia)>.
+
+<http://www.wikidata.org/entity/Q118180040>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Conde_de_Cheste>.
+
+<http://www.wikidata.org/entity/Q118183089>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Guevara>.
+
+<http://www.wikidata.org/entity/Q118189645>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Adolfo_Suárez>.
+
+<http://www.wikidata.org/entity/Q118214773>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_San_Geroteo>.
+
+<http://www.wikidata.org/entity/Q118215275>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Colmenares>.
+
+<http://www.wikidata.org/entity/Q118216077>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_San_Sebastián>.
+
+<http://www.wikidata.org/entity/Q118218540>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_San_Justo>.
+
+<http://www.wikidata.org/entity/Q118220167>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Resolana>.
+
+<http://www.wikidata.org/entity/Q118180028>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Merced_(Segovia)>.
+
+<http://www.wikidata.org/entity/Q113404532>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Carmen_(Gijón)>.
+
+<http://www.wikidata.org/entity/Q113107651>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Humedal>.
+
+<http://www.wikidata.org/entity/Q112768313>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Instituto>.
+
+<http://www.wikidata.org/entity/Q111687317>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Mayor_de_Gijón>.
+
+<http://www.wikidata.org/entity/Q113335467>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Seis_de_Agosto>.
+
+<http://www.wikidata.org/entity/Q111721782>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Florida-La_Viña>.
+
+<http://www.wikidata.org/entity/Q113990697>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Muelle>.
+
+<http://www.wikidata.org/entity/Q113990752>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_las_Cinco_Calles>.
+
+<http://www.wikidata.org/entity/Q112307586>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Galicia_(Pontevedra)>.
+
+<http://www.wikidata.org/entity/Q113686977>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Curros_Enríquez>.
+
+<http://www.wikidata.org/entity/Q114080091>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Alonso_de_Fonseca>.
+
+<http://www.wikidata.org/entity/Q112280312>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Barcelos>.
+
+<http://www.wikidata.org/entity/Q118286985>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_San_Lorenzo_(Segovia)>.
+
+<http://www.wikidata.org/entity/Q118288387>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Trinidad_(Segovia)>.
+
+<http://www.wikidata.org/entity/Q118322567>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Carrasco>.
+
+<http://www.wikidata.org/entity/Q118395206>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Potro_(Segovia)>.
+
+<http://www.wikidata.org/entity/Q118431996>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Capuchinos_(Segovia)>.
+
+<http://www.wikidata.org/entity/Q118489340>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Tierra>.
+
+<http://www.wikidata.org/entity/Q123524725>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Carmen_(Valencia)>.
+
+<http://www.wikidata.org/entity/Q123527462>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Santa_Úrsula>.
+
+<http://www.wikidata.org/entity/Q124496554>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Concepción_Arenal>.
+
+<http://www.wikidata.org/entity/Q124667079>
+        owl:sameAs <http://es.dbpedia.org/resource/Glorieta_de_Compostela>.
+
+<http://www.wikidata.org/entity/Q124544937>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Alfonso_X_El_Sabio>.
+
+<http://www.wikidata.org/entity/Q124562279>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Cantera,_Bilbao>.
+
+<http://www.wikidata.org/entity/Q6079973>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Europa_(Santa_Cruz_de_Tenerife)>.
+
+<http://www.wikidata.org/entity/Q6079979>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Félix_Sáenz>.
+
+<http://www.wikidata.org/entity/Q6079986>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Isaac_Peral>.
+
+<http://www.wikidata.org/entity/Q6079993>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Isabel_II_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q6080007>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_La_Concepción_(San_Cristóbal_de_La_Laguna)>.
+
+<http://www.wikidata.org/entity/Q6079996>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Isabel_II_(Santa_Cruz_de_Tenerife)>.
+
+<http://www.wikidata.org/entity/Q6080004>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Jacinto_Benavente>.
+
+<http://www.wikidata.org/entity/Q6079968>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_España_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q6079976>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Europa_(Zaragoza)>.
+
+<http://www.wikidata.org/entity/Q6080012>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Trinidad_(San_Sebastián)>.
+
+<http://www.wikidata.org/entity/Q6079983>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Galicia_(Villagarcía_de_Arosa)>.
+
+<http://www.wikidata.org/entity/Q6079952>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_España_(Cádiz)>.
+
+<http://www.wikidata.org/entity/Q6079950>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Cristóbal_Colón>.
+
+<http://www.wikidata.org/entity/Q6079939>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Celenque>.
+
+<http://www.wikidata.org/entity/Q6079963>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_España_(Lorca)>.
+
+<http://www.wikidata.org/entity/Q6079948>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Colón_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q6079954>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_España_(El_Puerto_de_Santa_María)>.
+
+<http://www.wikidata.org/entity/Q6079960>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_España_(Las_Palmas_de_Gran_Canaria)>.
+
+<http://www.wikidata.org/entity/Q6079936>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Cascorro>.
+
+<http://www.wikidata.org/entity/Q5963604>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Glorieta_(Murcia)>.
+
+<http://www.wikidata.org/entity/Q6079868>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Aladro>.
+
+<http://www.wikidata.org/entity/Q6079878>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Andalucía_(San_Roque)>.
+
+<http://www.wikidata.org/entity/Q6079880>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Antón_Martín>.
+
+<http://www.wikidata.org/entity/Q6079574>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Huerto_Sogueros_(Castellón)>.
+
+<http://www.wikidata.org/entity/Q6079712>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Mayor_de_Zamora>.
+
+<http://www.wikidata.org/entity/Q6079728>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Nueva_(Granada)>.
+
+<http://www.wikidata.org/entity/Q6079736>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Ochavada_(Archidona)>.
+
+<http://www.wikidata.org/entity/Q6079856>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Weyler>.
+
+<http://www.wikidata.org/entity/Q5903722>
+        owl:sameAs <http://es.dbpedia.org/resource/Hoyo_de_Esparteros>.
+
+<http://www.wikidata.org/entity/Q6079865>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Ab%C5%AB_Yahy%C4%81>.
+
+<http://www.wikidata.org/entity/Q6079873>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Alonso_Martínez_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q6079665>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Mayor_(La_Puebla_de_Montalbán)>.
+
+<http://www.wikidata.org/entity/Q5881390>
+        owl:sameAs <http://es.dbpedia.org/resource/Glorieta_de_San_Vicente>.
+
+<http://www.wikidata.org/entity/Q6079871>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Alonso_Martínez_(Burgos)>.
+
+<http://www.wikidata.org/entity/Q6079670>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Mayor_de_Ocaña>.
+
+<http://www.wikidata.org/entity/Q6079758>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Prim_(Reus)>.
+
+<http://www.wikidata.org/entity/Q6079498>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Doctor_Olivera_(San_Cristóbal_de_La_Laguna)>.
+
+<http://www.wikidata.org/entity/Q6079542>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Fray_Albino>.
+
+<http://www.wikidata.org/entity/Q6079686>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Mayor_de_Castellón>.
+
+<http://www.wikidata.org/entity/Q6079700>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Mayor_de_Palencia>.
+
+<http://www.wikidata.org/entity/Q6079707>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Mayor_de_Soria>.
+
+<http://www.wikidata.org/entity/Q6079430>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Bib-Rambla>.
+
+<http://www.wikidata.org/entity/Q6079676>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Mayor_de_Almagro>.
+
+<http://www.wikidata.org/entity/Q6079695>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Mayor_de_Jaraíz_de_la_Vera>.
+
+<http://www.wikidata.org/entity/Q6079705>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Mayor_de_Serón_de_Nágima>.
+
+<http://www.wikidata.org/entity/Q6079710>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Mayor_de_Valderas>.
+
+<http://www.wikidata.org/entity/Q5944282>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_las_Angustias>.
+
+<http://www.wikidata.org/entity/Q6079422>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Bendicho>.
+
+<http://www.wikidata.org/entity/Q6079529>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Euskadi>.
+
+<http://www.wikidata.org/entity/Q6079692>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Mayor_de_Herrera_del_Duque>.
+
+<http://www.wikidata.org/entity/Q6079477>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Chica_de_Zafra>.
+
+<http://www.wikidata.org/entity/Q6079863>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_25_de_Julio>.
+
+<http://www.wikidata.org/entity/Q6079919>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Basilio_Paraíso>.
+
+<http://www.wikidata.org/entity/Q6079921>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Belluga>.
+
+<http://www.wikidata.org/entity/Q6079568>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Grande_de_Zafra>.
+
+<http://www.wikidata.org/entity/Q6079680>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Mayor_de_Benavente>.
+
+<http://www.wikidata.org/entity/Q6079764>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Puerta_del_Sol_(Castellón)>.
+
+<http://www.wikidata.org/entity/Q6079797>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_San_Lorenzo_de_Huesca>.
+
+<http://www.wikidata.org/entity/Q5881386>
+        owl:sameAs <http://es.dbpedia.org/resource/Glorieta_de_Ruiz_Jiménez>.
+
+<http://www.wikidata.org/entity/Q6079916>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Asdrúbal>.
+
+<http://www.wikidata.org/entity/Q6079768>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Quemada>.
+
+<http://www.wikidata.org/entity/Q6079657>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_María_Agustina_(Castellón)>.
+
+<http://www.wikidata.org/entity/Q5396586>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_las_Flores_(Isla_Cristina)>.
+
+<http://www.wikidata.org/entity/Q5402558>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Pumarejo>.
+
+<http://www.wikidata.org/entity/Q5482884>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_las_Cortes>.
+
+<http://www.wikidata.org/entity/Q5491979>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Mayor_(Plasencia)>.
+
+<http://www.wikidata.org/entity/Q5518485>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Nueva_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q5400999>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_las_Tendillas>.
+
+<http://www.wikidata.org/entity/Q4846262>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Alta_(Algeciras)>.
+
+<http://www.wikidata.org/entity/Q4846390>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Andalucía_(Algeciras)>.
+
+<http://www.wikidata.org/entity/Q5401902>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Gaudí>.
+
+<http://www.wikidata.org/entity/Q5495255>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Bernardo_Robles_(Soria)>.
+
+<http://www.wikidata.org/entity/Q4967671>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Independencia_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q5394792>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Primer_Molino_(Castellón_de_la_Plana)>.
+
+<http://www.wikidata.org/entity/Q5571511>
+        owl:sameAs <http://es.dbpedia.org/resource/Glorieta_de_Bilbao>.
+
+<http://www.wikidata.org/entity/Q5555997>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Aragón>.
+
+<http://www.wikidata.org/entity/Q5789021>
+        owl:sameAs <http://es.dbpedia.org/resource/Corrada_del_Obispo>.
+
+<http://www.wikidata.org/entity/Q5792396>
+        owl:sameAs <http://es.dbpedia.org/resource/Cruz_Vieja_(Jerez_de_la_Frontera)>.
+
+<http://www.wikidata.org/entity/Q5801391>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Reina>.
+
+<http://www.wikidata.org/entity/Q5864104>
+        owl:sameAs <http://es.dbpedia.org/resource/Foro_de_los_Balbos>.
+
+<http://www.wikidata.org/entity/Q5574225>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Mayor_de_Santa_Ana>.
+
+<http://www.wikidata.org/entity/Q5662162>
+        owl:sameAs <http://es.dbpedia.org/resource/Alameda_Cristina_(Jerez_de_la_Frontera)>.
+
+<http://www.wikidata.org/entity/Q5682978>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Príncipe_(Santa_Cruz_de_Tenerife)>.
+
+<http://www.wikidata.org/entity/Q5575932>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Santiago_(Villena)>.
+
+<http://www.wikidata.org/entity/Q5662172>
+        owl:sameAs <http://es.dbpedia.org/resource/Alameda_Vieja>.
+
+<http://www.wikidata.org/entity/Q5688148>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Arroyo>.
+
+<http://www.wikidata.org/entity/Q5675583>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Plateros>.
+
+<http://www.wikidata.org/entity/Q5851813>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Santo_Ángel>.
+
+<http://www.wikidata.org/entity/Q5659096>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Isabel_la_Católica_(Granada)>.
+
+<http://www.wikidata.org/entity/Q5870261>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_los_Colores>.
+
+<http://www.wikidata.org/entity/Q5881378>
+        owl:sameAs <http://es.dbpedia.org/resource/Glorieta_de_Cuatro_Caminos>.
+
+<http://www.wikidata.org/entity/Q5809422>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_San_Andrés_(Jerez_de_la_Frontera)>.
+
+<http://www.wikidata.org/entity/Q5559277>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_las_Pasiegas>.
+
+<http://www.wikidata.org/entity/Q5574533>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_las_Peñuelas>.
+
+<http://www.wikidata.org/entity/Q5790715>
+        owl:sameAs <http://es.dbpedia.org/resource/Glorieta_de_Pirámides>.
+
+<http://www.wikidata.org/entity/Q5800864>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Ángel_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q5547886>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Legazpi>.
+
+<http://www.wikidata.org/entity/Q6080406>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Carmen_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q6080398>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Banco>.
+
+<http://www.wikidata.org/entity/Q6080400>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Cabildo_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q6080411>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Chicharro>.
+
+<http://www.wikidata.org/entity/Q6080403>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Carbón>.
+
+<http://www.wikidata.org/entity/Q6080413>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Coso_Viejo>.
+
+<http://www.wikidata.org/entity/Q6080408>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Centro>.
+
+<http://www.wikidata.org/entity/Q6080417>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Duque_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q6080175>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Constitución_(Almería)>.
+
+<http://www.wikidata.org/entity/Q6080185>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Constitución_(Valdemoro)>.
+
+<http://www.wikidata.org/entity/Q6080201>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Laguna_(Ayamonte)>.
+
+<http://www.wikidata.org/entity/Q6080203>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Lealtad>.
+
+<http://www.wikidata.org/entity/Q6080211>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Moncloa>.
+
+<http://www.wikidata.org/entity/Q6080183>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Constitución_(Jaén)>.
+
+<http://www.wikidata.org/entity/Q6080188>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Escandalera>.
+
+<http://www.wikidata.org/entity/Q6080192>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Escuela_de_Cristo_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q6080206>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Marina>.
+
+<http://www.wikidata.org/entity/Q6080207>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Merced_(Jerez_de_la_Frontera)>.
+
+<http://www.wikidata.org/entity/Q6080037>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Pontejos>.
+
+<http://www.wikidata.org/entity/Q6080092>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Santa_María_(Jaén)>.
+
+<http://www.wikidata.org/entity/Q6080034>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Pedro_Velarde>.
+
+<http://www.wikidata.org/entity/Q6080143>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Viriato_(Zamora)>.
+
+<http://www.wikidata.org/entity/Q6080159>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Asunción>.
+
+<http://www.wikidata.org/entity/Q6080065>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_San_Francisco_(Zaragoza)>.
+
+<http://www.wikidata.org/entity/Q6080070>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_San_Ildefonso_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q6080114>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Tirso_de_Molina>.
+
+<http://www.wikidata.org/entity/Q6080149>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Zorrilla>.
+
+<http://www.wikidata.org/entity/Q6080059>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_las_Mujeres>.
+
+<http://www.wikidata.org/entity/Q6080024>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Matute>.
+
+<http://www.wikidata.org/entity/Q6080051>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_San_Antonio_(Cádiz)>.
+
+<http://www.wikidata.org/entity/Q6080061>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_San_Fernando_(Carmona)>.
+
+<http://www.wikidata.org/entity/Q6080073>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_San_Jorge_(Cáceres)>.
+
+<http://www.wikidata.org/entity/Q6080097>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Santiago>.
+
+<http://www.wikidata.org/entity/Q6080099>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Santo_Domingo_(Guadalajara)>.
+
+<http://www.wikidata.org/entity/Q6080048>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_San_Antonio_(Aranjuez)>.
+
+<http://www.wikidata.org/entity/Q6080103>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Santo_Domingo_(León)>.
+
+<http://www.wikidata.org/entity/Q6080111>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Spínola>.
+
+<http://www.wikidata.org/entity/Q6080138>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Uncibay>.
+
+<http://www.wikidata.org/entity/Q6080141>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Villasís_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q6080030>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Nuestra_Señora_del_Pino>.
+
+<http://www.wikidata.org/entity/Q6080043>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Risueño>.
+
+<http://www.wikidata.org/entity/Q6080076>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_San_Lorenzo_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q6080089>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Santa_Cruz_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q6080095>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Santa_María_Soledad_Torres_Acosta>.
+
+<http://www.wikidata.org/entity/Q6080106>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Santo_Domingo_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q6080108>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Santo_Domingo_(Murcia)>.
+
+<http://www.wikidata.org/entity/Q6080039>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Rafael_Rivero>.
+
+<http://www.wikidata.org/entity/Q6080151>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_abastos_(Cádiz)>.
+
+<http://www.wikidata.org/entity/Q6080017>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Lavapiés>.
+
+<http://www.wikidata.org/entity/Q6080028>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Mina>.
+
+<http://www.wikidata.org/entity/Q6080146>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Pedro_Zerolo>.
+
+<http://www.wikidata.org/entity/Q6080084>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Santa_Ana_(Granada)>.
+
+<http://www.wikidata.org/entity/Q6080086>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Santa_Cruz_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q6080275>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_los_Sitios>.
+
+<http://www.wikidata.org/entity/Q6080391>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Arenal>.
+
+<http://www.wikidata.org/entity/Q6080253>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_las_Galeras>.
+
+<http://www.wikidata.org/entity/Q6080255>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_las_Monjas_(Huelva)>.
+
+<http://www.wikidata.org/entity/Q6080219>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Paz_(Lérida)>.
+
+<http://www.wikidata.org/entity/Q6080221>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Paz_(Santa_Cruz_de_Tenerife)>.
+
+<http://www.wikidata.org/entity/Q6080231>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Victoria_(Málaga)>.
+
+<http://www.wikidata.org/entity/Q6080385>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Adelantado>.
+
+<http://www.wikidata.org/entity/Q6080214>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Muralla_Liberal_(Castellón)>.
+
+<http://www.wikidata.org/entity/Q6080243>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_las_Comendadoras>.
+
+<http://www.wikidata.org/entity/Q6080247>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_las_Descalzas>.
+
+<http://www.wikidata.org/entity/Q6080217>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Paja>.
+
+<http://www.wikidata.org/entity/Q6080233>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Villa_de_París>.
+
+<http://www.wikidata.org/entity/Q6080237>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Yerba>.
+
+<http://www.wikidata.org/entity/Q6080250>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_las_Flores_(Murcia)>.
+
+<http://www.wikidata.org/entity/Q6080267>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_los_Cubos>.
+
+<http://www.wikidata.org/entity/Q6080240>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Platería_de_Martínez>.
+
+<http://www.wikidata.org/entity/Q6080265>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_los_Bandos_(Salamanca)>.
+
+<http://www.wikidata.org/entity/Q6080388>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Alamillo>.
+
+<http://www.wikidata.org/entity/Q427163>
+        owl:sameAs <http://es.dbpedia.org/resource/Puerta_del_Sol>.
+
+<http://www.wikidata.org/entity/Q516279>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Montañeta>.
+
+<http://www.wikidata.org/entity/Q956018>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_España_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q938339>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Patrona_de_Canarias>.
+
+<http://www.wikidata.org/entity/Q1031982>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Ayuntamiento_(Valencia)>.
+
+<http://www.wikidata.org/entity/Q970525>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Colón_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q822881>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Cataluña>.
+
+<http://www.wikidata.org/entity/Q786291>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Castilla_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q740210>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Santa_Ana_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q615447>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Francesc_Macià>.
+
+<http://www.wikidata.org/entity/Q744930>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Candelaria_(Santa_Cruz_de_Tenerife)>.
+
+<http://www.wikidata.org/entity/Q6080420>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Fontán>.
+
+<http://www.wikidata.org/entity/Q6080424>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_General_Vara_de_Rey>.
+
+<http://www.wikidata.org/entity/Q6080438>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Mercado_(Jerez_de_la_Frontera)>.
+
+<http://www.wikidata.org/entity/Q6080428>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Humilladero>.
+
+<http://www.wikidata.org/entity/Q6080432>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Mamelón>.
+
+<http://www.wikidata.org/entity/Q6080435>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Mentidero>.
+
+<http://www.wikidata.org/entity/Q6080468>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Siglo>.
+
+<http://www.wikidata.org/entity/Q6091802>
+        owl:sameAs <http://es.dbpedia.org/resource/Puerta_de_Jerez_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q6112730>
+        owl:sameAs <http://es.dbpedia.org/resource/Rotonda_de_los_Casinos>.
+
+<http://www.wikidata.org/entity/Q6080450>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Polvorista>.
+
+<http://www.wikidata.org/entity/Q6080460>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Rosel_y_San_Blas_(Soria)>.
+
+<http://www.wikidata.org/entity/Q6161809>
+        owl:sameAs <http://es.dbpedia.org/resource/Viejo_Coso>.
+
+<http://www.wikidata.org/entity/Q6080441>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Libertad_(Burgos)>.
+
+<http://www.wikidata.org/entity/Q6080426>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Grano>.
+
+<http://www.wikidata.org/entity/Q6080446>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Pan_(Talavera_de_la_Reina)>.
+
+<http://www.wikidata.org/entity/Q6080462>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Salvador_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q6103179>
+        owl:sameAs <http://es.dbpedia.org/resource/Red_de_San_Luis>.
+
+<http://www.wikidata.org/entity/Q6080454>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Progreso>.
+
+<http://www.wikidata.org/entity/Q6080477>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Paz_(Castellón_de_la_Plana)>.
+
+<http://www.wikidata.org/entity/Q3067731>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Molina_(Barcelona)>.
+
+<http://www.wikidata.org/entity/Q3118715>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Tetuán>.
+
+<http://www.wikidata.org/entity/Q3111498>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Castillo_(Pamplona)>.
+
+<http://www.wikidata.org/entity/Q2839150>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Ramales>.
+
+<http://www.wikidata.org/entity/Q3273858>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_los_hornos_púnicos_y_fenicios>.
+
+<http://www.wikidata.org/entity/Q2877169>
+        owl:sameAs <http://es.dbpedia.org/resource/Glorieta_de_Covadonga_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q2884109>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Obispo_(Málaga)>.
+
+<http://www.wikidata.org/entity/Q2917864>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_San_Francisco_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q2884002>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Zocodover>.
+
+<http://www.wikidata.org/entity/Q3906567>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Encarnación_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q3906569>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Cristo_de_La_Laguna>.
+
+<http://www.wikidata.org/entity/Q3906571>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Triunfo_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q3390473>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Villa_de_Gràcia>.
+
+<http://www.wikidata.org/entity/Q3392167>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Pino>.
+
+<http://www.wikidata.org/entity/Q3392928>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Almoina>.
+
+<http://www.wikidata.org/entity/Q4163397>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Mayor_de_Villena>.
+
+<http://www.wikidata.org/entity/Q3390458>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Sagrada_Familia>.
+
+<http://www.wikidata.org/entity/Q3753629>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_los_Países_Catalanes>.
+
+<http://www.wikidata.org/entity/Q3392158>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Canalejas>.
+
+<http://www.wikidata.org/entity/Q3392160>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_San_Felipe_(Zaragoza)>.
+
+<http://www.wikidata.org/entity/Q3906559>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Mayor_de_Valladolid>.
+
+<http://www.wikidata.org/entity/Q4291147>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Merced_(Málaga)>.
+
+<http://www.wikidata.org/entity/Q3825753>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Europa_(Hospitalet_de_Llobregat)>.
+
+<http://www.wikidata.org/entity/Q19368166>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Vino_(Gerona)>.
+
+<http://www.wikidata.org/entity/Q18346656>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Jado>.
+
+<http://www.wikidata.org/entity/Q18644235>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Pablo_Neruda>.
+
+<http://www.wikidata.org/entity/Q18224706>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Universidad_(Albacete)>.
+
+<http://www.wikidata.org/entity/Q18575123>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Universidad_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q18693186>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Trinidad_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q18286309>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Sembrador>.
+
+<http://www.wikidata.org/entity/Q18286686>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Venezuela_(Bilbao)>.
+
+<http://www.wikidata.org/entity/Q19366108>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_San_José_(Albacete)>.
+
+<http://www.wikidata.org/entity/Q18606976>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Menéndez_Pelayo_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q17625490>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_los_Depósitos_del_Sol>.
+
+<http://www.wikidata.org/entity/Q17625408>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Circular_(Murcia)>.
+
+<http://www.wikidata.org/entity/Q17625519>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Tossal_(Valencia)>.
+
+<http://www.wikidata.org/entity/Q18005703>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Castillo_(Reus)>.
+
+<http://www.wikidata.org/entity/Q17334913>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Depósito>.
+
+<http://www.wikidata.org/entity/Q17504602>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Bizkaia>.
+
+<http://www.wikidata.org/entity/Q17625453>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Carretas>.
+
+<http://www.wikidata.org/entity/Q17996537>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Catedral_(Albacete)>.
+
+<http://www.wikidata.org/entity/Q18005693>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Puerta_del_Mar_(Valencia)>.
+
+<http://www.wikidata.org/entity/Q18005706>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Peso_de_la_Paja>.
+
+<http://www.wikidata.org/entity/Q17625469>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_La_Mancha>.
+
+<http://www.wikidata.org/entity/Q17493165>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Indautxu>.
+
+<http://www.wikidata.org/entity/Q17625482>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Remonta>.
+
+<http://www.wikidata.org/entity/Q17625487>
+        owl:sameAs <http://es.dbpedia.org/resource/Tamos>.
+
+<http://www.wikidata.org/entity/Q17996534>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Emilio_Campuzano>.
+
+<http://www.wikidata.org/entity/Q17331254>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Mercado_(Cardona)>.
+
+<http://www.wikidata.org/entity/Q17629863>
+        owl:sameAs <http://es.dbpedia.org/resource/Ejidos_de_la_Feria>.
+
+<http://www.wikidata.org/entity/Q17334733>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Fuente>.
+
+<http://www.wikidata.org/entity/Q17505001>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Arriquíbar>.
+
+<http://www.wikidata.org/entity/Q17625514>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Caballo>.
+
+<http://www.wikidata.org/entity/Q11942041>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Blat>.
+
+<http://www.wikidata.org/entity/Q11942011>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Mayor_(Vich)>.
+
+<http://www.wikidata.org/entity/Q11942018>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_España_(Palma_de_Mallorca)>.
+
+<http://www.wikidata.org/entity/Q11942014>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Redonda>.
+
+<http://www.wikidata.org/entity/Q11942039>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Cuartera>.
+
+<http://www.wikidata.org/entity/Q9060985>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_los_Luceros>.
+
+<http://www.wikidata.org/entity/Q11105032>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Gabriel_Miró_(Alicante)>.
+
+<http://www.wikidata.org/entity/Q11163699>
+        owl:sameAs <http://es.dbpedia.org/resource/Pla_de_Palau>.
+
+<http://www.wikidata.org/entity/Q9061001>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Ave_María>.
+
+<http://www.wikidata.org/entity/Q9061007>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Diamante>.
+
+<http://www.wikidata.org/entity/Q11104774>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Nueva_(Alicante)>.
+
+<http://www.wikidata.org/entity/Q11699773>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Ibiza>.
+
+<http://www.wikidata.org/entity/Q9060972>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Cebada>.
+
+<http://www.wikidata.org/entity/Q10859376>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_25_de_Mayo_(Alicante)>.
+
+<http://www.wikidata.org/entity/Q9060974>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Constitución_(Málaga)>.
+
+<http://www.wikidata.org/entity/Q9061008>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Nuestra_Señora_del_Pilar>.
+
+<http://www.wikidata.org/entity/Q11699792>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_España_(Zaragoza)>.
+
+<http://www.wikidata.org/entity/Q11699797>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_San_Bruno_(Zaragoza)>.
+
+<http://www.wikidata.org/entity/Q11699802>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Alfalfa>.
+
+<http://www.wikidata.org/entity/Q9663223>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Capuchinos_(Córdoba)>.
+
+<http://www.wikidata.org/entity/Q9061020>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_los_Olmos_(Seo_de_Urgel)>.
+
+<http://www.wikidata.org/entity/Q9060937>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Manises>.
+
+<http://www.wikidata.org/entity/Q7203706>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Coso>.
+
+<http://www.wikidata.org/entity/Q7203631>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Nueva_(Bilbao)>.
+
+<http://www.wikidata.org/entity/Q8261334>
+        owl:sameAs <http://es.dbpedia.org/resource/Can_Fabra>.
+
+<http://www.wikidata.org/entity/Q9060920>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Vázquez_de_Molina>.
+
+<http://www.wikidata.org/entity/Q7203711>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Emperador_Carlos_V>.
+
+<http://www.wikidata.org/entity/Q9060860>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Alta_(Badajoz)>.
+
+<http://www.wikidata.org/entity/Q9060933>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Dins_(Alcoy)>.
+
+<http://www.wikidata.org/entity/Q7126262>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_San_Clemente_(Soria)>.
+
+<http://www.wikidata.org/entity/Q7203701>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_los_Naranjos>.
+
+<http://www.wikidata.org/entity/Q7203736>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Mosén_Jacinto_Verdaguer>.
+
+<http://www.wikidata.org/entity/Q9060945>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Puerta_Cerrada>.
+
+<http://www.wikidata.org/entity/Q9060883>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Gomila>.
+
+<http://www.wikidata.org/entity/Q7638209>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Obradoiro>.
+
+<http://www.wikidata.org/entity/Q7068646>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_España_(Vitoria)>.
+
+<http://www.wikidata.org/entity/Q8964300>
+        owl:sameAs <http://es.dbpedia.org/resource/Glorieta_Hermanos_Álvarez_Quintero_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q9060949>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_San_Felipe_Neri_(Barcelona)>.
+
+<http://www.wikidata.org/entity/Q2749521>
+        owl:sameAs <http://es.dbpedia.org/resource/Fossar_de_les_Moreres>.
+
+<http://www.wikidata.org/entity/Q2711992>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Villa>.
+
+<http://www.wikidata.org/entity/Q1426190>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_las_Glorias_Catalanas>.
+
+<http://www.wikidata.org/entity/Q1123493>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Mayor_de_Madrid>.
+
+<http://www.wikidata.org/entity/Q1326261>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_España_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q1187408>
+        owl:sameAs <http://es.dbpedia.org/resource/Peine_del_viento>.
+
+<http://www.wikidata.org/entity/Q1779244>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Virgen>.
+
+<http://www.wikidata.org/entity/Q1519964>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Real>.
+
+<http://www.wikidata.org/entity/Q1537446>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Cibeles>.
+
+<http://www.wikidata.org/entity/Q2013874>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_España_(Barcelona)>.
+
+<http://www.wikidata.org/entity/Q1561555>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Mayor_de_Salamanca>.
+
+<http://www.wikidata.org/entity/Q1531008>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Dos_de_Mayo>.
+
+<http://www.wikidata.org/entity/Q1772649>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_España_(Santa_Cruz_de_Tenerife)>.
+
+<http://www.wikidata.org/entity/Q2634872>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_República_(Barcelona)>.
+
+<http://www.wikidata.org/entity/Q2613403>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Lesseps>.
+
+<http://www.wikidata.org/entity/Q2429567>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_América_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q2082605>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_San_Jaime>.
+
+<http://www.wikidata.org/entity/Q2349130>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Urquinaona>.
+
+<http://www.wikidata.org/entity/Q2193218>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Oriente>.
+
+<http://www.wikidata.org/entity/Q2099125>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Callao>.
+
+<http://www.wikidata.org/entity/Q2067174>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Rey_(Barcelona)>.
+
+<http://www.wikidata.org/entity/Q2594019>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Universidad_(Barcelona)>.
+
+<http://www.wikidata.org/entity/Q16620182>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Calvo_Sotelo>.
+
+<http://www.wikidata.org/entity/Q16620242>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_San_Pablo_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q16621070>
+        owl:sameAs <http://es.dbpedia.org/resource/Portal_de_Elche>.
+
+<http://www.wikidata.org/entity/Q16707844>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Constitución_(Albacete)>.
+
+<http://www.wikidata.org/entity/Q16620193>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Cánovas_del_Castillo>.
+
+<http://www.wikidata.org/entity/Q16620244>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Santa_Catalina>.
+
+<http://www.wikidata.org/entity/Q16916053>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Benjamín_Palencia>.
+
+<http://www.wikidata.org/entity/Q16517719>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Consistorial_(Pamplona)>.
+
+<http://www.wikidata.org/entity/Q16620195>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Don_Juan_de_Austria_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q16620289>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Azoguejo>.
+
+<http://www.wikidata.org/entity/Q16707847>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Mayor_(Albacete)>.
+
+<http://www.wikidata.org/entity/Q16571874>
+        owl:sameAs <http://es.dbpedia.org/resource/Glorieta_de_Embajadores>.
+
+<http://www.wikidata.org/entity/Q16620187>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Chapina>.
+
+<http://www.wikidata.org/entity/Q16620220>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Ruperto_Chapí>.
+
+<http://www.wikidata.org/entity/Q16620097>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Mayor_de_la_Hispanidad>.
+
+<http://www.wikidata.org/entity/Q16620311>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Rey_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q17126413>
+        owl:sameAs <http://es.dbpedia.org/resource/Puerta_Real_(Granada)>.
+
+<http://www.wikidata.org/entity/Q16620211>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_George_Orwell>.
+
+<http://www.wikidata.org/entity/Q16620302>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Marqués_de_Salamanca>.
+
+<http://www.wikidata.org/entity/Q16619985>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Elíptica>.
+
+<http://www.wikidata.org/entity/Q16707848>
+        owl:sameAs <http://es.dbpedia.org/resource/Altozano_(Albacete)>.
+
+<http://www.wikidata.org/entity/Q16542143>
+        owl:sameAs <http://es.dbpedia.org/resource/Campo_del_Rey>.
+
+<http://www.wikidata.org/entity/Q16707845>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Gabriel_Lodares>.
+
+<http://www.wikidata.org/entity/Q16620270>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Estación_(Jerez_de_la_Frontera)>.
+
+<http://www.wikidata.org/entity/Q16749726>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Virgen_de_los_Llanos>.
+
+<http://www.wikidata.org/entity/Q12263580>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Miguel_de_Unamuno>.
+
+<http://www.wikidata.org/entity/Q12175532>
+        owl:sameAs <http://es.dbpedia.org/resource/Glorieta_de_Quevedo>.
+
+<http://www.wikidata.org/entity/Q12200231>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Vila_de_Villarreal>.
+
+<http://www.wikidata.org/entity/Q13049872>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Miguel_Salamero>.
+
+<http://www.wikidata.org/entity/Q12398110>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_María_Pita>.
+
+<http://www.wikidata.org/entity/Q13422874>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Cort>.
+
+<http://www.wikidata.org/entity/Q15267038>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Duque_de_Medinaceli>.
+
+<http://www.wikidata.org/entity/Q12266034>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Circular_(Bilbao)>.
+
+<http://www.wikidata.org/entity/Q12261586>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Constitución_(San_Sebastián)>.
+
+<http://www.wikidata.org/entity/Q12257920>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_los_Fueros_(Vitoria)>.
+
+<http://www.wikidata.org/entity/Q16494360>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Armería>.
+
+<http://www.wikidata.org/entity/Q12255213>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Bilbao_(San_Sebastián)>.
+
+<http://www.wikidata.org/entity/Q12254245>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Buen_Pastor>.
+
+<http://www.wikidata.org/entity/Q12256455>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Easo>.
+
+<http://www.wikidata.org/entity/Q12258509>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Guipúzcoa>.
+
+<http://www.wikidata.org/entity/Q12344133>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Provincia_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q12398102>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Herrería>.
+
+<http://www.wikidata.org/entity/Q28916480>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_las_Salesas>.
+
+<http://www.wikidata.org/entity/Q29838186>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_los_Mostenses>.
+
+<http://www.wikidata.org/entity/Q30320375>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Pío_Baroja>.
+
+<http://www.wikidata.org/entity/Q30578759>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_San_Martín_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q28534650>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Herradores>.
+
+<http://www.wikidata.org/entity/Q28662636>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Nelson_Mandela>.
+
+<http://www.wikidata.org/entity/Q29647450>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Lima>.
+
+<http://www.wikidata.org/entity/Q29323795>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Santa_Eulalia>.
+
+<http://www.wikidata.org/entity/Q27644226>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Gabriel_Miró>.
+
+<http://www.wikidata.org/entity/Q27213851>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_San_Andrés_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q27304639>
+        owl:sameAs <http://es.dbpedia.org/resource/Campa_de_Basarrate>.
+
+<http://www.wikidata.org/entity/Q27947826>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Olavide>.
+
+<http://www.wikidata.org/entity/Q28000791>
+        owl:sameAs <http://es.dbpedia.org/resource/Glorieta_de_Emilio_Castelar>.
+
+<http://www.wikidata.org/entity/Q28000306>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Manuel_Becerra>.
+
+<http://www.wikidata.org/entity/Q28047697>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Puerta_de_Moros>.
+
+<http://www.wikidata.org/entity/Q27244013>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Conde_del_Valle_de_Súchil>.
+
+<http://www.wikidata.org/entity/Q24067216>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Machete_(Vitoria)>.
+
+<http://www.wikidata.org/entity/Q24944157>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Chueca>.
+
+<http://www.wikidata.org/entity/Q24493632>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_San_Francisco_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q24566954>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Zabálburu>.
+
+<http://www.wikidata.org/entity/Q25478490>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Sagrado_Corazón_de_Jesús>.
+
+<http://www.wikidata.org/entity/Q27186278>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_los_Carros>.
+
+<http://www.wikidata.org/entity/Q24481510>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Santa_Bárbara>.
+
+<http://www.wikidata.org/entity/Q26796200>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Jesús>.
+
+<http://www.wikidata.org/entity/Q26915608>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Cruz_Verde>.
+
+<http://www.wikidata.org/entity/Q24207656>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Ensanche>.
+
+<http://www.wikidata.org/entity/Q25410652>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Campillo_del_Mundo_Nuevo>.
+
+<http://www.wikidata.org/entity/Q26833863>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Cuzco>.
+
+<http://www.wikidata.org/entity/Q24068063>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Gas>.
+
+<http://www.wikidata.org/entity/Q26789351>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Chamberí>.
+
+<http://www.wikidata.org/entity/Q25479282>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_San_José_(Pamplona)>.
+
+<http://www.wikidata.org/entity/Q23919605>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Pedro_Eguillor>.
+
+<http://www.wikidata.org/entity/Q23848341>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Federico_Moyúa>.
+
+<http://www.wikidata.org/entity/Q20018845>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_San_José_de_Calasanz>.
+
+<http://www.wikidata.org/entity/Q20018843>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Pablo_Picasso>.
+
+<http://www.wikidata.org/entity/Q20894952>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Ernesto_Erkoreka>.
+
+<http://www.wikidata.org/entity/Q19950496>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Mazarelos>.
+
+<http://www.wikidata.org/entity/Q20018844>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_San_Felipe_Neri_(Albacete)>.
+
+<http://www.wikidata.org/entity/Q19950497>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_San_Cristóbal_(San_Cristóbal_de_La_Laguna)>.
+
+<http://www.wikidata.org/entity/Q20018846>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Periodista_Antonio_Andújar>.
+
+<http://www.wikidata.org/entity/Q20014234>
+        owl:sameAs <http://es.dbpedia.org/resource/Plazuela_de_Belén_(Jerez_de_la_Frontera)>.
+
+<http://www.wikidata.org/entity/Q20751114>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Rinconada>.
+
+<http://www.wikidata.org/entity/Q21084067>
+        owl:sameAs <http://es.dbpedia.org/resource/Glorieta_del_Marqués_de_Vadillo>.
+
+<http://www.wikidata.org/entity/Q22969921>
+        owl:sameAs <http://es.dbpedia.org/resource/Alameda_Apodaca>.
+
+<http://www.wikidata.org/entity/Q21715926>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Cinco_de_Oros>.
+
+<http://www.wikidata.org/entity/Q21480563>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_San_Cristóbal_(Barcelona)>.
+
+<http://www.wikidata.org/entity/Q21849652>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Sants>.
+
+<http://www.wikidata.org/entity/Q21004062>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Camachos>.
+
+<http://www.wikidata.org/entity/Q22970066>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Mayor_de_León>.
+
+<http://www.wikidata.org/entity/Q21003994>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Colón_(Salamanca)>.
+
+<http://www.wikidata.org/entity/Q22667225>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Doctor_Letamendi>.
+
+<http://www.wikidata.org/entity/Q22810999>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Mercado_Chico>.
+
+<http://www.wikidata.org/entity/Q21963496>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Centenario_(San_Sebastián)>.
+
+<http://www.wikidata.org/entity/Q21604344>
+        owl:sameAs <http://es.dbpedia.org/resource/Plazuela_de_Manuel_Ribé>.
+
+<http://www.wikidata.org/entity/Q33037031>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Armas_(Melilla)>.
+
+<http://www.wikidata.org/entity/Q30594205>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_las_Cuatro_Calles_(Toledo)>.
+
+<http://www.wikidata.org/entity/Q36543156>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Fuente_Dorada>.
+
+<http://www.wikidata.org/entity/Q32438899>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_España_(Melilla)>.
+
+<http://www.wikidata.org/entity/Q33535143>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Mayor_de_Guadalajara>.
+
+<http://www.wikidata.org/entity/Q62105436>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Daoiz_y_Velarde>.
+
+<http://www.wikidata.org/entity/Q62105957>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Feijoo>.
+
+<http://www.wikidata.org/entity/Q61766717>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Santa_Clara_(Castellón)>.
+
+<http://www.wikidata.org/entity/Q62087661>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Carbayón>.
+
+<http://www.wikidata.org/entity/Q52063495>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Cordón>.
+
+<http://www.wikidata.org/entity/Q48781970>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Pedró>.
+
+<http://www.wikidata.org/entity/Q48782205>
+        owl:sameAs <http://es.dbpedia.org/resource/Parterre_del_Retiro>.
+
+<http://www.wikidata.org/entity/Q48781730>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_La_Habana>.
+
+<http://www.wikidata.org/entity/Q48782045>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Porlier>.
+
+<http://www.wikidata.org/entity/Q47005780>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Museo_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q47169569>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Villa_(Amer)>.
+
+<http://www.wikidata.org/entity/Q48618081>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Uno_de_octubre_de_2017_(Gerona)>.
+
+<http://www.wikidata.org/entity/Q60825909>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Altozano_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q60828617>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Corrillo_(Salamanca)>.
+
+<http://www.wikidata.org/entity/Q61365325>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Santa_María_(Vitoria)>.
+
+<http://www.wikidata.org/entity/Q60825599>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Fray_Félix_(Cádiz)>.
+
+<http://www.wikidata.org/entity/Q61070506>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Brecha>.
+
+<http://www.wikidata.org/entity/Q43133282>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_España_(Alcoy)>.
+
+<http://www.wikidata.org/entity/Q43008231>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_San_Javier>.
+
+<http://www.wikidata.org/entity/Q37307504>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_San_Miguel_(Zaragoza)>.
+
+<http://www.wikidata.org/entity/Q45900966>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Cristino_Martos>.
+
+<http://www.wikidata.org/entity/Q62106845>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Trascorrales>.
+
+<http://www.wikidata.org/entity/Q74365268>
+        owl:sameAs <http://es.dbpedia.org/resource/Campo_de_la_Compañía>.
+
+<http://www.wikidata.org/entity/Q63411442>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_19_de_Octubre>.
+
+<http://www.wikidata.org/entity/Q96146413>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Chabuca_Granda_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q87772947>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Arquitecto_Miguel_López>.
+
+<http://www.wikidata.org/entity/Q111687317>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Mayor_de_Gijón>.
+
+<http://www.wikidata.org/entity/Q111721782>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Florida-La_Viña>.
+
+<http://www.wikidata.org/entity/Q115966808>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Los_Campos>.
+
+<http://www.wikidata.org/entity/Q116031827>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Nuestra_Señora_de_los_Desamparados>.
+
+<http://www.wikidata.org/entity/Q116234375>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Constitución_(Oviedo)>.
+
+<http://www.wikidata.org/entity/Q116180448>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Hospital_(Vitoria)>.
+
+<http://www.wikidata.org/entity/Q116235636>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Riego>.
+
+<http://www.wikidata.org/entity/Q116216761>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Villa_Suso>.
+
+<http://www.wikidata.org/entity/Q116179854>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_General_Loma>.
+
+<http://www.wikidata.org/entity/Q116197931>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Provincia_(Vitoria)>.
+
+<http://www.wikidata.org/entity/Q105840389>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_los_Santos_Niños>.
+
+<http://www.wikidata.org/entity/Q106315315>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Peregrina>.
+
+<http://www.wikidata.org/entity/Q108893743>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Ana_Frank_(Barcelona)>.
+
+<http://www.wikidata.org/entity/Q107391301>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Teucro>.
+
+<http://www.wikidata.org/entity/Q110645788>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_España_(Vigo)>.
+
+<http://www.wikidata.org/entity/Q110520889>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Pedreira>.
+
+<http://www.wikidata.org/entity/Q110475575>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Méndez_Núñez>.
+
+<http://www.wikidata.org/entity/Q110474982>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_San_José_(Pontevedra)>.
+
+<http://www.wikidata.org/entity/Q97620694>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Candelaria_(Cádiz)>.
+
+<http://www.wikidata.org/entity/Q100310768>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_San_Francisco_(Badajoz)>.
+
+<http://www.wikidata.org/entity/Q104542037>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Mayor_de_Cuenca>.
+
+<http://www.wikidata.org/entity/Q104414499>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_España_(Pontevedra)>.
+
+<http://www.wikidata.org/entity/Q98498492>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Pan_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q97633188>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_San_Francisco_(Málaga)>.
+
+<http://www.wikidata.org/entity/Q98505027>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_Fragela>.
+
+<http://www.wikidata.org/entity/Q97624914>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Potro_(Córdoba)>.
+
+<http://www.wikidata.org/entity/Q98498498>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Pescadería_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q118322567>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Carrasco>.
+
+<http://www.wikidata.org/entity/Q118395206>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Potro_(Segovia)>.
+
+<http://www.wikidata.org/entity/Q118431996>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Capuchinos_(Segovia)>.
+
+<http://www.wikidata.org/entity/Q118489340>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Tierra>.
+
+<http://www.wikidata.org/entity/Q116512571>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Cervantes_(San_Sebastián)>.
+
+<http://www.wikidata.org/entity/Q116506803>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Alfonso_XIII_(San_Sebastián)>.
+
+<http://www.wikidata.org/entity/Q116557426>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Vasconia>.
+
+<http://www.wikidata.org/entity/Q116557939>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Zubieta>.
+
+<http://www.wikidata.org/entity/Q116548153>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_España_(San_Sebastián)>.
+
+<http://www.wikidata.org/entity/Q116986419>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Avendaño>.
+
+<http://www.wikidata.org/entity/Q117296172>
+        owl:sameAs <http://es.dbpedia.org/resource/Paseíto_Ramiro>.
+
+<http://www.wikidata.org/entity/Q118143443>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Día_Sanz>.
+
+<http://www.wikidata.org/entity/Q118143467>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Doctor_Laguna>.
+
+<http://www.wikidata.org/entity/Q118146395>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_los_Huertos>.
+
+<http://www.wikidata.org/entity/Q118146453>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_San_Facundo>.
+
+<http://www.wikidata.org/entity/Q118150592>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Conde_de_Alpuente>.
+
+<http://www.wikidata.org/entity/Q118153773>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Reina_Doña_Juana>.
+
+<http://www.wikidata.org/entity/Q118179476>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Socorro>.
+
+<http://www.wikidata.org/entity/Q118180050>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_San_Esteban_(Segovia)>.
+
+<http://www.wikidata.org/entity/Q118180040>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Conde_de_Cheste>.
+
+<http://www.wikidata.org/entity/Q118183089>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Guevara>.
+
+<http://www.wikidata.org/entity/Q118189645>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Adolfo_Suárez>.
+
+<http://www.wikidata.org/entity/Q118214773>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_San_Geroteo>.
+
+<http://www.wikidata.org/entity/Q118215275>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_Colmenares>.
+
+<http://www.wikidata.org/entity/Q118216077>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_San_Sebastián>.
+
+<http://www.wikidata.org/entity/Q118218540>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_San_Justo>.
+
+<http://www.wikidata.org/entity/Q118220167>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Resolana>.
+
+<http://www.wikidata.org/entity/Q118230893>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Rubia>.
+
+<http://www.wikidata.org/entity/Q118233428>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Salvador_(Segovia)>.
+
+<http://www.wikidata.org/entity/Q118234702>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_los_Espejos>.
+
+<http://www.wikidata.org/entity/Q118236423>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_San_Martín_(Segovia)>.
+
+<http://www.wikidata.org/entity/Q118236631>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_San_Nicolás_(Segovia)>.
+
+<http://www.wikidata.org/entity/Q118286985>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_San_Lorenzo_(Segovia)>.
+
+<http://www.wikidata.org/entity/Q118288387>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Trinidad_(Segovia)>.
+
+<http://www.wikidata.org/entity/Q12397214>
+        owl:sameAs <http://es.dbpedia.org/resource/Paseo_marítimo_de_La_Coruña>.
+
+<http://www.wikidata.org/entity/Q4889350>
+        owl:sameAs <http://es.dbpedia.org/resource/Paseo_de_la_Explanada>.
+
+<http://www.wikidata.org/entity/Q16616810>
+        owl:sameAs <http://es.dbpedia.org/resource/Paseo_Marítimo_Carmen_de_Burgos>.
+
+<http://www.wikidata.org/entity/Q107634317>
+        owl:sameAs <http://es.dbpedia.org/resource/Paseo_marítimo_de_Pontevedra>.
+
+<http://www.wikidata.org/entity/Q25478928>
+        owl:sameAs <http://es.dbpedia.org/resource/Paseo_de_Colón_(San_Sebastián)>.
+
+<http://www.wikidata.org/entity/Q16616826>
+        owl:sameAs <http://es.dbpedia.org/resource/Paseo_de_la_Florida_(Logroño)>.
+
+<http://www.wikidata.org/entity/Q20890584>
+        owl:sameAs <http://es.dbpedia.org/resource/Paseo_de_Eduardo_Dato>.
+
+<http://www.wikidata.org/entity/Q23835506>
+        owl:sameAs <http://es.dbpedia.org/resource/Paseo_de_Uribitarte>.
+
+<http://www.wikidata.org/entity/Q9056563>
+        owl:sameAs <http://es.dbpedia.org/resource/Paseo_de_la_Mostra_de_València>.
+
+<http://www.wikidata.org/entity/Q11698238>
+        owl:sameAs <http://es.dbpedia.org/resource/Paseo_de_Reding>.
+
+<http://www.wikidata.org/entity/Q16616818>
+        owl:sameAs <http://es.dbpedia.org/resource/Paseo_de_Yeserías>.
+
+<http://www.wikidata.org/entity/Q12261599>
+        owl:sameAs <http://es.dbpedia.org/resource/Paseo_de_la_Concha_(San_Sebastián)>.
+
+<http://www.wikidata.org/entity/Q1473674>
+        owl:sameAs <http://es.dbpedia.org/resource/Paseo_de_la_Castellana>.
+
+<http://www.wikidata.org/entity/Q2079615>
+        owl:sameAs <http://es.dbpedia.org/resource/Paseo_del_Prado>.
+
+<http://www.wikidata.org/entity/Q6065612>
+        owl:sameAs <http://es.dbpedia.org/resource/Paseo_de_Almería>.
+
+<http://www.wikidata.org/entity/Q2889782>
+        owl:sameAs <http://es.dbpedia.org/resource/Paseo_de_la_Estación_(Jaén)>.
+
+<http://www.wikidata.org/entity/Q5688215>
+        owl:sameAs <http://es.dbpedia.org/resource/Paseo_de_la_Florida_(Oviedo)>.
+
+<http://www.wikidata.org/entity/Q5884572>
+        owl:sameAs <http://es.dbpedia.org/resource/Gran_Vía_(Zaragoza)>.
+
+<http://www.wikidata.org/entity/Q6065630>
+        owl:sameAs <http://es.dbpedia.org/resource/Paseo_de_Santa_María_de_la_Cabeza>.
+
+<http://www.wikidata.org/entity/Q6065633>
+        owl:sameAs <http://es.dbpedia.org/resource/Paseo_de_Zorrilla>.
+
+<http://www.wikidata.org/entity/Q6065653>
+        owl:sameAs <http://es.dbpedia.org/resource/Paseo_de_la_Ribera_(Córdoba)>.
+
+<http://www.wikidata.org/entity/Q8192995>
+        owl:sameAs <http://es.dbpedia.org/resource/Alameda_de_Valencia>.
+
+<http://www.wikidata.org/entity/Q5847968>
+        owl:sameAs <http://es.dbpedia.org/resource/Paseo_de_los_Álamos>.
+
+<http://www.wikidata.org/entity/Q6065554>
+        owl:sameAs <http://es.dbpedia.org/resource/Paseo_Calviá>.
+
+<http://www.wikidata.org/entity/Q2550870>
+        owl:sameAs <http://es.dbpedia.org/resource/Paseo_de_Recoletos>.
+
+<http://www.wikidata.org/entity/Q6065677>
+        owl:sameAs <http://es.dbpedia.org/resource/Paseo_del_Doctor_Fernández_Iparraguirre>.
+
+<http://www.wikidata.org/entity/Q6065681>
+        owl:sameAs <http://es.dbpedia.org/resource/Paseo_del_Espolón>.
+
+<http://www.wikidata.org/entity/Q97173358>
+        owl:sameAs <http://es.dbpedia.org/resource/Paseo_del_Padre_Manjón>.
+
+<http://www.wikidata.org/entity/Q42251452>
+        owl:sameAs <http://es.dbpedia.org/resource/Paseo_de_Camoens>.
+
+<http://www.wikidata.org/entity/Q33093309>
+        owl:sameAs <http://es.dbpedia.org/resource/Paseo_de_Juan_Antonio_Vallejo-Nájera_Botas>.
+
+<http://www.wikidata.org/entity/Q45204940>
+        owl:sameAs <http://es.dbpedia.org/resource/Paseo_de_las_Delicias_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q46943816>
+        owl:sameAs <http://es.dbpedia.org/resource/Paseo_de_Cristóbal_Colón_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q73392434>
+        owl:sameAs <http://es.dbpedia.org/resource/Paseo_de_Pereda>.
+
+<http://www.wikidata.org/entity/Q55947263>
+        owl:sameAs <http://es.dbpedia.org/resource/Paseo_de_las_Acacias>.
+
+<http://www.wikidata.org/entity/Q106874777>
+        owl:sameAs <http://es.dbpedia.org/resource/Paseo_de_la_Farola>.
+
+<http://www.wikidata.org/entity/Q108598554>
+        owl:sameAs <http://es.dbpedia.org/resource/Paseo_marítimo_de_Torremolinos>.
+
+<http://www.wikidata.org/entity/Q116474762>
+        owl:sameAs <http://es.dbpedia.org/resource/Paseo_del_Muelle>.
+
+<http://www.wikidata.org/entity/Q115826181>
+        owl:sameAs <http://es.dbpedia.org/resource/Paseo_de_Cervantes>.
+
+<http://www.wikidata.org/entity/Q116169521>
+        owl:sameAs <http://es.dbpedia.org/resource/Paseo_de_la_Universidad_(Vitoria)>.
+
+<http://www.wikidata.org/entity/Q118236777>
+        owl:sameAs <http://es.dbpedia.org/resource/Paseo_del_Obispo>.
+
+<http://www.wikidata.org/entity/Q118455565>
+        owl:sameAs <http://es.dbpedia.org/resource/Paseo_del_Conde_de_Sepúlveda>.
+
+<http://www.wikidata.org/entity/Q118634190>
+        owl:sameAs <http://es.dbpedia.org/resource/Paseo_Imperial>.
+
+<http://www.wikidata.org/entity/Q118847890>
+        owl:sameAs <http://es.dbpedia.org/resource/Paseo_de_los_Melancólicos>.

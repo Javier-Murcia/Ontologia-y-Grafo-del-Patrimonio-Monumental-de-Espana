@@ -1,0 +1,304 @@
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://www.wikidata.org/entity/Q11910533>
+        owl:sameAs <http://es.dbpedia.org/resource/Cal_Cabanyes>.
+
+<http://www.wikidata.org/entity/Q11911558>
+        owl:sameAs <http://es.dbpedia.org/resource/Can_Canyadó>.
+
+<http://www.wikidata.org/entity/Q11911669>
+        owl:sameAs <http://es.dbpedia.org/resource/Can_Llobateres>.
+
+<http://www.wikidata.org/entity/Q9088940>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Seva>.
+
+<http://www.wikidata.org/entity/Q11704638>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_Lloreta>.
+
+<http://www.wikidata.org/entity/Q9030346>
+        owl:sameAs <http://es.dbpedia.org/resource/Masía_Manent>.
+
+<http://www.wikidata.org/entity/Q11691476>
+        owl:sameAs <http://es.dbpedia.org/resource/Mas_Miró_(Montroig)>.
+
+<http://www.wikidata.org/entity/Q9088837>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_Pallaresa>.
+
+<http://www.wikidata.org/entity/Q11704636>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_Ferrana>.
+
+<http://www.wikidata.org/entity/Q11704654>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_del_Mas_Fina>.
+
+<http://www.wikidata.org/entity/Q11704640>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_Quintaneta>.
+
+<http://www.wikidata.org/entity/Q9088879>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Can_Boera>.
+
+<http://www.wikidata.org/entity/Q9088914>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Marata>.
+
+<http://www.wikidata.org/entity/Q11693377>
+        owl:sameAs <http://es.dbpedia.org/resource/Monasterio_de_Bonrepòs>.
+
+<http://www.wikidata.org/entity/Q11704635>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_Begura>.
+
+<http://www.wikidata.org/entity/Q2935738>
+        owl:sameAs <http://es.dbpedia.org/resource/Can_Masdeu>.
+
+<http://www.wikidata.org/entity/Q5824519>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Cavaller_de_Vidrà>.
+
+<http://www.wikidata.org/entity/Q8341696>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Tristany>.
+
+<http://www.wikidata.org/entity/Q8342114>
+        owl:sameAs <http://es.dbpedia.org/resource/Castellarnau>.
+
+<http://www.wikidata.org/entity/Q2880120>
+        owl:sameAs <http://es.dbpedia.org/resource/Masía_de_Molla>.
+
+<http://www.wikidata.org/entity/Q5551080>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Cartellá>.
+
+<http://www.wikidata.org/entity/Q8345419>
+        owl:sameAs <http://es.dbpedia.org/resource/Espolla_(Huesca)>.
+
+<http://www.wikidata.org/entity/Q936817>
+        owl:sameAs <http://es.dbpedia.org/resource/Cal_Pla_(Cunit)>.
+
+<http://www.wikidata.org/entity/Q2935730>
+        owl:sameAs <http://es.dbpedia.org/resource/Masía_Can_Camps>.
+
+<http://www.wikidata.org/entity/Q5746231>
+        owl:sameAs <http://es.dbpedia.org/resource/Can_Clota>.
+
+<http://www.wikidata.org/entity/Q5746254>
+        owl:sameAs <http://es.dbpedia.org/resource/Can_Valent>.
+
+<http://www.wikidata.org/entity/Q609686>
+        owl:sameAs <http://es.dbpedia.org/resource/Can_Draper>.
+
+<http://www.wikidata.org/entity/Q6005624>
+        owl:sameAs <http://es.dbpedia.org/resource/Masía_del_Juez_de_Liria>.
+
+<http://www.wikidata.org/entity/Q8261337>
+        owl:sameAs <http://es.dbpedia.org/resource/Can_Travi_Nou>.
+
+<http://www.wikidata.org/entity/Q6005621>
+        owl:sameAs <http://es.dbpedia.org/resource/Masía_de_Camps>.
+
+<http://www.wikidata.org/entity/Q666136>
+        owl:sameAs <http://es.dbpedia.org/resource/Can_Feliu_de_Merola>.
+
+<http://www.wikidata.org/entity/Q5405716>
+        owl:sameAs <http://es.dbpedia.org/resource/Masía_Freixa>.
+
+<http://www.wikidata.org/entity/Q5658557>
+        owl:sameAs <http://es.dbpedia.org/resource/Masía_San_Antonio>.
+
+<http://www.wikidata.org/entity/Q8341823>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_fortificada_la_Garrofera>.
+
+<http://www.wikidata.org/entity/Q5746241>
+        owl:sameAs <http://es.dbpedia.org/resource/Can_Palomeres>.
+
+<http://www.wikidata.org/entity/Q8261331>
+        owl:sameAs <http://es.dbpedia.org/resource/Can_Bofí_Vell>.
+
+<http://www.wikidata.org/entity/Q8261332>
+        owl:sameAs <http://es.dbpedia.org/resource/Can_Borull>.
+
+<http://www.wikidata.org/entity/Q18004591>
+        owl:sameAs <http://es.dbpedia.org/resource/Mas_Sobirá_(Albañá)>.
+
+<http://www.wikidata.org/entity/Q11947791>
+        owl:sameAs <http://es.dbpedia.org/resource/Sarroca_de_Baén>.
+
+<http://www.wikidata.org/entity/Q11946880>
+        owl:sameAs <http://es.dbpedia.org/resource/Sangra>.
+
+<http://www.wikidata.org/entity/Q18004938>
+        owl:sameAs <http://es.dbpedia.org/resource/Montalé_(España)>.
+
+<http://www.wikidata.org/entity/Q11912775>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Patxot>.
+
+<http://www.wikidata.org/entity/Q18004422>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Cendrosa>.
+
+<http://www.wikidata.org/entity/Q17590078>
+        owl:sameAs <http://es.dbpedia.org/resource/Can_Colomer_(Badalona)>.
+
+<http://www.wikidata.org/entity/Q11952315>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Fang>.
+
+<http://www.wikidata.org/entity/Q13530447>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Baumann>.
+
+<http://www.wikidata.org/entity/Q15304711>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Godmar>.
+
+<http://www.wikidata.org/entity/Q15707775>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_Beltrans>.
+
+<http://www.wikidata.org/entity/Q11954868>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_Vinyoles>.
+
+<http://www.wikidata.org/entity/Q11918442>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Perer>.
+
+<http://www.wikidata.org/entity/Q17591646>
+        owl:sameAs <http://es.dbpedia.org/resource/Can_Rigal>.
+
+<http://www.wikidata.org/entity/Q20985889>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Cortada_dels_Llucs>.
+
+<http://www.wikidata.org/entity/Q20985961>
+        owl:sameAs <http://es.dbpedia.org/resource/Mas_Claret>.
+
+<http://www.wikidata.org/entity/Q20986002>
+        owl:sameAs <http://es.dbpedia.org/resource/Mas_del_Lledoner>.
+
+<http://www.wikidata.org/entity/Q20986007>
+        owl:sameAs <http://es.dbpedia.org/resource/Can_Parellada_(masía_de_Masquefa)>.
+
+<http://www.wikidata.org/entity/Q18008515>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_Mas_Enrich>.
+
+<http://www.wikidata.org/entity/Q17249813>
+        owl:sameAs <http://es.dbpedia.org/resource/Mas_Torre_Amela_de_Forcall>.
+
+<http://www.wikidata.org/entity/Q17581780>
+        owl:sameAs <http://es.dbpedia.org/resource/Can_Vinyals_de_la_Torre>.
+
+<http://www.wikidata.org/entity/Q21281748>
+        owl:sameAs <http://es.dbpedia.org/resource/Can_Colomer_(Tarrasa)>.
+
+<http://www.wikidata.org/entity/Q21077250>
+        owl:sameAs <http://es.dbpedia.org/resource/Can_Prunera_(Vallirana)>.
+
+<http://www.wikidata.org/entity/Q18220843>
+        owl:sameAs <http://es.dbpedia.org/resource/Masía_Rodana>.
+
+<http://www.wikidata.org/entity/Q18219528>
+        owl:sameAs <http://es.dbpedia.org/resource/Masía_fortificada_de_Cucalón>.
+
+<http://www.wikidata.org/entity/Q21790729>
+        owl:sameAs <http://es.dbpedia.org/resource/Mas_Pitarra>.
+
+<http://www.wikidata.org/entity/Q21730771>
+        owl:sameAs <http://es.dbpedia.org/resource/Mas_dels_frares>.
+
+<http://www.wikidata.org/entity/Q19255718>
+        owl:sameAs <http://es.dbpedia.org/resource/Can_Roca>.
+
+<http://www.wikidata.org/entity/Q19256357>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardines_de_Can_Castelló>.
+
+<http://www.wikidata.org/entity/Q21604140>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Fonollosa>.
+
+<http://www.wikidata.org/entity/Q21790984>
+        owl:sameAs <http://es.dbpedia.org/resource/Can_Tres>.
+
+<http://www.wikidata.org/entity/Q22808973>
+        owl:sameAs <http://es.dbpedia.org/resource/Can_Juliá>.
+
+<http://www.wikidata.org/entity/Q11936096>
+        owl:sameAs <http://es.dbpedia.org/resource/Masía_fortificada_de_San_Juan>.
+
+<http://www.wikidata.org/entity/Q19322964>
+        owl:sameAs <http://es.dbpedia.org/resource/Masía_Penyafel>.
+
+<http://www.wikidata.org/entity/Q19368088>
+        owl:sameAs <http://es.dbpedia.org/resource/Masía_Torre_Monfort_(Benasal)>.
+
+<http://www.wikidata.org/entity/Q17605993>
+        owl:sameAs <http://es.dbpedia.org/resource/Granja_Font>.
+
+<http://www.wikidata.org/entity/Q19775887>
+        owl:sameAs <http://es.dbpedia.org/resource/Can_Puig_de_la_Bellacasa>.
+
+<http://www.wikidata.org/entity/Q20875602>
+        owl:sameAs <http://es.dbpedia.org/resource/Mon_Repòs>.
+
+<http://www.wikidata.org/entity/Q20871701>
+        owl:sameAs <http://es.dbpedia.org/resource/Masía_Fortificada_de_Mas_Tena>.
+
+<http://www.wikidata.org/entity/Q20869045>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_la_Pobla_del_Bellestar>.
+
+<http://www.wikidata.org/entity/Q20871764>
+        owl:sameAs <http://es.dbpedia.org/resource/Masía_Fortificada_Torre_Barreda>.
+
+<http://www.wikidata.org/entity/Q20871223>
+        owl:sameAs <http://es.dbpedia.org/resource/Masía_Fortificada_Mas_de_Roig>.
+
+<http://www.wikidata.org/entity/Q20859532>
+        owl:sameAs <http://es.dbpedia.org/resource/Masía_Fortificada_Torre_Don_Blasco>.
+
+<http://www.wikidata.org/entity/Q20863827>
+        owl:sameAs <http://es.dbpedia.org/resource/Masía_Fortificada_Torre_Fonso>.
+
+<http://www.wikidata.org/entity/Q20859659>
+        owl:sameAs <http://es.dbpedia.org/resource/Masía_Fortificada_Torre_Leandra>.
+
+<http://www.wikidata.org/entity/Q43119829>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Sala>.
+
+<http://www.wikidata.org/entity/Q43122147>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_del_Desvilar>.
+
+<http://www.wikidata.org/entity/Q20888255>
+        owl:sameAs <http://es.dbpedia.org/resource/Can_Coll_(Lliçà_de_Vall)>.
+
+<http://www.wikidata.org/entity/Q20978634>
+        owl:sameAs <http://es.dbpedia.org/resource/Masía_y_Torre_de_la_Chirivilla_(Zucaina)>.
+
+<http://www.wikidata.org/entity/Q20985326>
+        owl:sameAs <http://es.dbpedia.org/resource/Can_Baqué>.
+
+<http://www.wikidata.org/entity/Q20985201>
+        owl:sameAs <http://es.dbpedia.org/resource/Can_Juliá_(Vallirana)>.
+
+<http://www.wikidata.org/entity/Q18003490>
+        owl:sameAs <http://es.dbpedia.org/resource/Can_Cuc>.
+
+<http://www.wikidata.org/entity/Q18003367>
+        owl:sameAs <http://es.dbpedia.org/resource/Ca_la_Pruna_(Pals)>.
+
+<http://www.wikidata.org/entity/Q18003341>
+        owl:sameAs <http://es.dbpedia.org/resource/Masía_can_Arquer>.
+
+<http://www.wikidata.org/entity/Q65208653>
+        owl:sameAs <http://es.dbpedia.org/resource/Can_Campderrós>.
+
+<http://www.wikidata.org/entity/Q65208642>
+        owl:sameAs <http://es.dbpedia.org/resource/Can_Bogunyà>.
+
+<http://www.wikidata.org/entity/Q29508755>
+        owl:sameAs <http://es.dbpedia.org/resource/Masía_Fortificada_Torre_de_la_Regenta>.
+
+<http://www.wikidata.org/entity/Q30044436>
+        owl:sameAs <http://es.dbpedia.org/resource/Masía_Fortificada_Torre_Calatrava>.
+
+<http://www.wikidata.org/entity/Q47180589>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Mataró>.
+
+<http://www.wikidata.org/entity/Q62018552>
+        owl:sameAs <http://es.dbpedia.org/resource/Can_Planes>.
+
+<http://www.wikidata.org/entity/Q73362186>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Polla-rossa>.
+
+<http://www.wikidata.org/entity/Q73362824>
+        owl:sameAs <http://es.dbpedia.org/resource/Mas_de_les_Fonts>.
+
+<http://www.wikidata.org/entity/Q105956546>
+        owl:sameAs <http://es.dbpedia.org/resource/Ca_l'Anton>.

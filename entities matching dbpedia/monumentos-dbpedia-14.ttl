@@ -1,0 +1,1771 @@
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://www.wikidata.org/entity/Q6091760>
+        owl:sameAs <http://es.dbpedia.org/resource/Puerta_de_Bilbao>.
+
+<http://www.wikidata.org/entity/Q7374161>
+        owl:sameAs <http://es.dbpedia.org/resource/Real_Fábrica_de_La_Moncloa>.
+
+<http://www.wikidata.org/entity/Q6083052>
+        owl:sameAs <http://es.dbpedia.org/resource/Portada_del_Alhorí_(Alcaraz)>.
+
+<http://www.wikidata.org/entity/Q6083473>
+        owl:sameAs <http://es.dbpedia.org/resource/Postigo_de_San_Martín>.
+
+<http://www.wikidata.org/entity/Q6150270>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_Roya_(Tudela)>.
+
+<http://www.wikidata.org/entity/Q6057934>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_de_Congresos_y_Exposiciones_de_la_Costa_del_Sol>.
+
+<http://www.wikidata.org/entity/Q6058563>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_del_Liceo_(Tudela)>.
+
+<http://www.wikidata.org/entity/Q6083192>
+        owl:sameAs <http://es.dbpedia.org/resource/Portillo_de_Recoletos>.
+
+<http://www.wikidata.org/entity/Q6091829>
+        owl:sameAs <http://es.dbpedia.org/resource/Puerta_de_Santo_Domingo>.
+
+<http://www.wikidata.org/entity/Q6091837>
+        owl:sameAs <http://es.dbpedia.org/resource/Puerta_de_Valnadú>.
+
+<http://www.wikidata.org/entity/Q6101720>
+        owl:sameAs <http://es.dbpedia.org/resource/Real_Aposento_de_Torrelodones>.
+
+<http://www.wikidata.org/entity/Q6102102>
+        owl:sameAs <http://es.dbpedia.org/resource/Real_Pósito_de_Madrid>.
+
+<http://www.wikidata.org/entity/Q6140999>
+        owl:sameAs <http://es.dbpedia.org/resource/Templete_del_Metro_(Red_de_San_Luis)>.
+
+<http://www.wikidata.org/entity/Q6594241>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_Municipal_de_Deportes_de_Granada>.
+
+<http://www.wikidata.org/entity/Q6091791>
+        owl:sameAs <http://es.dbpedia.org/resource/Puerta_de_Guadalajara>.
+
+<http://www.wikidata.org/entity/Q6150555>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_la_Judía_(Tudela)>.
+
+<http://www.wikidata.org/entity/Q6150601>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_los_Moreno>.
+
+<http://www.wikidata.org/entity/Q6150750>
+        owl:sameAs <http://es.dbpedia.org/resource/Torrecilla_de_la_Música>.
+
+<http://www.wikidata.org/entity/Q6055676>
+        owl:sameAs <http://es.dbpedia.org/resource/Pabellón_de_Hielo_de_Jaca>.
+
+<http://www.wikidata.org/entity/Q6057996>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_de_Festivales_de_Cantabria>.
+
+<http://www.wikidata.org/entity/Q6140997>
+        owl:sameAs <http://es.dbpedia.org/resource/Templete_de_la_Virgen_de_los_Dolores>.
+
+<http://www.wikidata.org/entity/Q6091722>
+        owl:sameAs <http://es.dbpedia.org/resource/Puerta_Cerrada_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q6091857>
+        owl:sameAs <http://es.dbpedia.org/resource/Puerta_de_la_Sagra>.
+
+<http://www.wikidata.org/entity/Q6150435>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Mari_Juan_(Tudela)>.
+
+<http://www.wikidata.org/entity/Q5644817>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Eulalia_(Tudela)>.
+
+<http://www.wikidata.org/entity/Q5785791>
+        owl:sameAs <http://es.dbpedia.org/resource/Convento_de_San_Norberto_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q5794148>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Hércules>.
+
+<http://www.wikidata.org/entity/Q5703153>
+        owl:sameAs <http://es.dbpedia.org/resource/Arco_de_Santa_María_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q5756310>
+        owl:sameAs <http://es.dbpedia.org/resource/Casino_de_Zamora>.
+
+<http://www.wikidata.org/entity/Q5785697>
+        owl:sameAs <http://es.dbpedia.org/resource/Convento_de_San_Antón_(Tudela)>.
+
+<http://www.wikidata.org/entity/Q5836169>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Miguel_Arcángel_(Tudela)>.
+
+<http://www.wikidata.org/entity/Q5836448>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santo_Domingo_(Tudela)>.
+
+<http://www.wikidata.org/entity/Q5898496>
+        owl:sameAs <http://es.dbpedia.org/resource/Hipódromo_de_la_Castellana>.
+
+<http://www.wikidata.org/entity/Q5903185>
+        owl:sameAs <http://es.dbpedia.org/resource/Hospital_del_Henares>.
+
+<http://www.wikidata.org/entity/Q6010555>
+        owl:sameAs <http://es.dbpedia.org/resource/Mercado_de_Olavide>.
+
+<http://www.wikidata.org/entity/Q6012261>
+        owl:sameAs <http://es.dbpedia.org/resource/Mezquita_de_La_Alcazara_(Tudela)>.
+
+<http://www.wikidata.org/entity/Q5789542>
+        owl:sameAs <http://es.dbpedia.org/resource/Cortello_dos_Lobos>.
+
+<http://www.wikidata.org/entity/Q5836159>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Miguel_de_Afuera_(Tudela)>.
+
+<http://www.wikidata.org/entity/Q5836613>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_del_Cristo_de_la_Oliva>.
+
+<http://www.wikidata.org/entity/Q5849450>
+        owl:sameAs <http://es.dbpedia.org/resource/Estilo_del_relax>.
+
+<http://www.wikidata.org/entity/Q5903152>
+        owl:sameAs <http://es.dbpedia.org/resource/Hospital_de_la_Inclusa>.
+
+<http://www.wikidata.org/entity/Q5731128>
+        owl:sameAs <http://es.dbpedia.org/resource/Bodegas_subterráneas_de_Aranda_de_Duero>.
+
+<http://www.wikidata.org/entity/Q5785757>
+        owl:sameAs <http://es.dbpedia.org/resource/Convento_de_San_Hermenegildo_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q6010638>
+        owl:sameAs <http://es.dbpedia.org/resource/Mercado_del_Tinglado>.
+
+<http://www.wikidata.org/entity/Q5754501>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Profesa_de_Madrid>.
+
+<http://www.wikidata.org/entity/Q5818360>
+        owl:sameAs <http://es.dbpedia.org/resource/Edificio_de_La_Equitativa_(Málaga)>.
+
+<http://www.wikidata.org/entity/Q5869816>
+        owl:sameAs <http://es.dbpedia.org/resource/Frontón_Madrid>.
+
+<http://www.wikidata.org/entity/Q6012278>
+        owl:sameAs <http://es.dbpedia.org/resource/Mezquitilla_de_Al-Eta-Alcuaz_(Tudela)>.
+
+<http://www.wikidata.org/entity/Q5836286>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Bárbara_(Tudela)>.
+
+<http://www.wikidata.org/entity/Q6012264>
+        owl:sameAs <http://es.dbpedia.org/resource/Mezquita_de_la_Puerta_de_Zaragoza_(Tudela)>.
+
+<http://www.wikidata.org/entity/Q5785694>
+        owl:sameAs <http://es.dbpedia.org/resource/Convento_de_San_Antonio_de_Padua_(Tudela)>.
+
+<http://www.wikidata.org/entity/Q5785740>
+        owl:sameAs <http://es.dbpedia.org/resource/Convento_de_San_Francisco_(Tudela)>.
+
+<http://www.wikidata.org/entity/Q5836324>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Margarita_(Tudela)>.
+
+<http://www.wikidata.org/entity/Q5754800>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_Correos_y_Telégrafos_de_Vigo>.
+
+<http://www.wikidata.org/entity/Q5690636>
+        owl:sameAs <http://es.dbpedia.org/resource/Portillo_de_Gilimón>.
+
+<http://www.wikidata.org/entity/Q5836129>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Julián_(Tudela)>.
+
+<http://www.wikidata.org/entity/Q5553936>
+        owl:sameAs <http://es.dbpedia.org/resource/Hornos_de_cal_de_la_Guirra>.
+
+<http://www.wikidata.org/entity/Q279461>
+        owl:sameAs <http://es.dbpedia.org/resource/Torreta_de_Guardamar>.
+
+<http://www.wikidata.org/entity/Q478135>
+        owl:sameAs <http://es.dbpedia.org/resource/Pilones_de_Cádiz>.
+
+<http://www.wikidata.org/entity/Q595553>
+        owl:sameAs <http://es.dbpedia.org/resource/Pabellones_Güell>.
+
+<http://www.wikidata.org/entity/Q1817748>
+        owl:sameAs <http://es.dbpedia.org/resource/Estupa_de_la_Iluminación>.
+
+<http://www.wikidata.org/entity/Q1799169>
+        owl:sameAs <http://es.dbpedia.org/resource/Tarántula_(montaña_rusa)>.
+
+<http://www.wikidata.org/entity/Q1747710>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_de_los_Deportes_de_Sevilla>.
+
+<http://www.wikidata.org/entity/Q974010>
+        owl:sameAs <http://es.dbpedia.org/resource/Pabellón_Fuente_de_San_Luis>.
+
+<http://www.wikidata.org/entity/Q962107>
+        owl:sameAs <http://es.dbpedia.org/resource/Puerta_de_Hierro_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q921152>
+        owl:sameAs <http://es.dbpedia.org/resource/Mercado_del_Borne>.
+
+<http://www.wikidata.org/entity/Q3179478>
+        owl:sameAs <http://es.dbpedia.org/resource/Estadio_de_Atocha>.
+
+<http://www.wikidata.org/entity/Q2836788>
+        owl:sameAs <http://es.dbpedia.org/resource/Portillo_de_Embajadores>.
+
+<http://www.wikidata.org/entity/Q3038292>
+        owl:sameAs <http://es.dbpedia.org/resource/Edificio_Veles_e_Vents>.
+
+<http://www.wikidata.org/entity/Q2551269>
+        owl:sameAs <http://es.dbpedia.org/resource/Artificio_de_Juanelo>.
+
+<http://www.wikidata.org/entity/Q2814599>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardines_de_Can_Artigas>.
+
+<http://www.wikidata.org/entity/Q5338059>
+        owl:sameAs <http://es.dbpedia.org/resource/Edificio_Rockefeller>.
+
+<http://www.wikidata.org/entity/Q9031630>
+        owl:sameAs <http://es.dbpedia.org/resource/Mercado_de_abastos_de_Algeciras>.
+
+<http://www.wikidata.org/entity/Q9008642>
+        owl:sameAs <http://es.dbpedia.org/resource/Instalaciones_de_Zubieta>.
+
+<http://www.wikidata.org/entity/Q15846074>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Grande_de_San_Francisco_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q16549879>
+        owl:sameAs <http://es.dbpedia.org/resource/Club_Parisiana>.
+
+<http://www.wikidata.org/entity/Q16552545>
+        owl:sameAs <http://es.dbpedia.org/resource/Convento_de_la_Concepción_Jerónima>.
+
+<http://www.wikidata.org/entity/Q15144030>
+        owl:sameAs <http://es.dbpedia.org/resource/Cascada_del_Parque_de_la_Ciudadela>.
+
+<http://www.wikidata.org/entity/Q16623163>
+        owl:sameAs <http://es.dbpedia.org/resource/Puerta_de_Vallecas>.
+
+<http://www.wikidata.org/entity/Q16641557>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_Mapfre_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q11687776>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Terraza>.
+
+<http://www.wikidata.org/entity/Q12252984>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Aitzorrotz>.
+
+<http://www.wikidata.org/entity/Q12397113>
+        owl:sameAs <http://es.dbpedia.org/resource/Parador_de_Santiago_de_Compostela>.
+
+<http://www.wikidata.org/entity/Q17519357>
+        owl:sameAs <http://es.dbpedia.org/resource/Ascensor_de_Begoña>.
+
+<http://www.wikidata.org/entity/Q17628818>
+        owl:sameAs <http://es.dbpedia.org/resource/Depósitos_del_Sol>.
+
+<http://www.wikidata.org/entity/Q17625263>
+        owl:sameAs <http://es.dbpedia.org/resource/Circo_Colón>.
+
+<http://www.wikidata.org/entity/Q17994841>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_Los_Llanos>.
+
+<http://www.wikidata.org/entity/Q18176745>
+        owl:sameAs <http://es.dbpedia.org/resource/Horno_de_aludeles_de_Almadén>.
+
+<http://www.wikidata.org/entity/Q18285673>
+        owl:sameAs <http://es.dbpedia.org/resource/Canal_de_San_Indalecio>.
+
+<http://www.wikidata.org/entity/Q20535929>
+        owl:sameAs <http://es.dbpedia.org/resource/Casas_de_Oya>.
+
+<http://www.wikidata.org/entity/Q20015628>
+        owl:sameAs <http://es.dbpedia.org/resource/Refugio_antiaéreo_del_Altozano>.
+
+<http://www.wikidata.org/entity/Q23073299>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_las_Brigadas_Internacionales>.
+
+<http://www.wikidata.org/entity/Q22078575>
+        owl:sameAs <http://es.dbpedia.org/resource/Bodegas_de_Baltanás>.
+
+<http://www.wikidata.org/entity/Q22969969>
+        owl:sameAs <http://es.dbpedia.org/resource/Centro_Comercial_Imaginalia>.
+
+<http://www.wikidata.org/entity/Q24568342>
+        owl:sameAs <http://es.dbpedia.org/resource/Ciudadela_de_Celestino_Solar>.
+
+<http://www.wikidata.org/entity/Q24568343>
+        owl:sameAs <http://es.dbpedia.org/resource/Viviendas_obreras_de_Gijón>.
+
+<http://www.wikidata.org/entity/Q25242999>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Sebastián_(Villapalacios)>.
+
+<http://www.wikidata.org/entity/Q28169249>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_control_marítimo_de_La_Coruña>.
+
+<http://www.wikidata.org/entity/Q27637057>
+        owl:sameAs <http://es.dbpedia.org/resource/Asilo_de_Lavanderas>.
+
+<http://www.wikidata.org/entity/Q29646901>
+        owl:sameAs <http://es.dbpedia.org/resource/Antiguas_Tenerías_del_Arrabal_de_San_Segundo>.
+
+<http://www.wikidata.org/entity/Q29563622>
+        owl:sameAs <http://es.dbpedia.org/resource/Cerco_de_Buitrones>.
+
+<http://www.wikidata.org/entity/Q47002677>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_de_Villapadierna>.
+
+<http://www.wikidata.org/entity/Q41314367>
+        owl:sameAs <http://es.dbpedia.org/resource/Ninfeo_romano_(Alfaro)>.
+
+<http://www.wikidata.org/entity/Q33038558>
+        owl:sameAs <http://es.dbpedia.org/resource/Residencia_de_Oficiales>.
+
+<http://www.wikidata.org/entity/Q41791822>
+        owl:sameAs <http://es.dbpedia.org/resource/Ecobulevar_de_Vallecas>.
+
+<http://www.wikidata.org/entity/Q50413728>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_J._Barciela>.
+
+<http://www.wikidata.org/entity/Q56101488>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_La_Silera>.
+
+<http://www.wikidata.org/entity/Q56723622>
+        owl:sameAs <http://es.dbpedia.org/resource/Acueducto_de_la_Fuente_del_Rey>.
+
+<http://www.wikidata.org/entity/Q60828598>
+        owl:sameAs <http://es.dbpedia.org/resource/Campanario_de_la_iglesia_de_Santa_Marina_(Torrebaja)>.
+
+<http://www.wikidata.org/entity/Q60829461>
+        owl:sameAs <http://es.dbpedia.org/resource/Campanario_de_la_iglesia_de_Nuestra_Señora_de_los_Ángeles_(Castielfabib)>.
+
+<http://www.wikidata.org/entity/Q60827304>
+        owl:sameAs <http://es.dbpedia.org/resource/Proyecto_Remo>.
+
+<http://www.wikidata.org/entity/Q60828746>
+        owl:sameAs <http://es.dbpedia.org/resource/Campanario_de_la_iglesia_de_la_Santísima_Trinidad_(Casas_Altas)>.
+
+<http://www.wikidata.org/entity/Q60829393>
+        owl:sameAs <http://es.dbpedia.org/resource/Nave_Boetticher>.
+
+<http://www.wikidata.org/entity/Q60970910>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_de_cerveza_El_Águila_Negra>.
+
+<http://www.wikidata.org/entity/Q65923179>
+        owl:sameAs <http://es.dbpedia.org/resource/Circo_Teatro_España>.
+
+<http://www.wikidata.org/entity/Q65165397>
+        owl:sameAs <http://es.dbpedia.org/resource/Torres_de_defensa_(Huerta_de_Alicante)>.
+
+<http://www.wikidata.org/entity/Q67203631>
+        owl:sameAs <http://es.dbpedia.org/resource/Edificio_Gulliver>.
+
+<http://www.wikidata.org/entity/Q78082069>
+        owl:sameAs <http://es.dbpedia.org/resource/Tabernáculo_del_Hospital_Tavera_(El_Greco)>.
+
+<http://www.wikidata.org/entity/Q98011354>
+        owl:sameAs <http://es.dbpedia.org/resource/Colegio_Mayor_Universitario_Chaminade>.
+
+<http://www.wikidata.org/entity/Q115605754>
+        owl:sameAs <http://es.dbpedia.org/resource/Ciudad_de_la_Justicia_de_Pontevedra>.
+
+<http://www.wikidata.org/entity/Q614631>
+        owl:sameAs <http://es.dbpedia.org/resource/Hard_Rock_Entertainment_World>.
+
+<http://www.wikidata.org/entity/Q8342036>
+        owl:sameAs <http://es.dbpedia.org/resource/Casino_de_Murcia>.
+
+<http://www.wikidata.org/entity/Q8342032>
+        owl:sameAs <http://es.dbpedia.org/resource/Casino_(Bermeo)>.
+
+<http://www.wikidata.org/entity/Q8353176>
+        owl:sameAs <http://es.dbpedia.org/resource/Teatro_Cervantes_de_Almería>.
+
+<http://www.wikidata.org/entity/Q6058550>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_del_Condestable_Iranzo>.
+
+<http://www.wikidata.org/entity/Q4896126>
+        owl:sameAs <http://es.dbpedia.org/resource/Casino_Internacional_Tibidabo>.
+
+<http://www.wikidata.org/entity/Q5664548>
+        owl:sameAs <http://es.dbpedia.org/resource/Casino_Gran_Madrid>.
+
+<http://www.wikidata.org/entity/Q5756264>
+        owl:sameAs <http://es.dbpedia.org/resource/Casino_Cultural_(Almería)>.
+
+<http://www.wikidata.org/entity/Q4891981>
+        owl:sameAs <http://es.dbpedia.org/resource/Casino_de_Madrid>.
+
+<http://www.wikidata.org/entity/Q5697217>
+        owl:sameAs <http://es.dbpedia.org/resource/Antiguo_Casino_de_Toledo>.
+
+<http://www.wikidata.org/entity/Q5796522>
+        owl:sameAs <http://es.dbpedia.org/resource/Círculo_Oscense>.
+
+<http://www.wikidata.org/entity/Q52062983>
+        owl:sameAs <http://es.dbpedia.org/resource/Casino_Militar_de_Ceuta>.
+
+<http://www.wikidata.org/entity/Q28962236>
+        owl:sameAs <http://es.dbpedia.org/resource/Casino_Arias_Montano>.
+
+<http://www.wikidata.org/entity/Q32443392>
+        owl:sameAs <http://es.dbpedia.org/resource/Casino_Militar_de_Melilla>.
+
+<http://www.wikidata.org/entity/Q42304308>
+        owl:sameAs <http://es.dbpedia.org/resource/Luckia>.
+
+<http://www.wikidata.org/entity/Q113432920>
+        owl:sameAs <http://es.dbpedia.org/resource/Liceo_Casino>.
+
+<http://www.wikidata.org/entity/Q6430624>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Pelayo_(Villacibio)>.
+
+<http://www.wikidata.org/entity/Q11915930>
+        owl:sameAs <http://es.dbpedia.org/resource/Capilla_subterránea_de_Santa_Inés>.
+
+<http://www.wikidata.org/entity/Q5192637>
+        owl:sameAs <http://es.dbpedia.org/resource/Chinguaro>.
+
+<http://www.wikidata.org/entity/Q5192633>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_Achbinico>.
+
+<http://www.wikidata.org/entity/Q5912987>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_rupestre_de_Cadalso>.
+
+<http://www.wikidata.org/entity/Q3699208>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_del_Santo_Hermano_Pedro>.
+
+<http://www.wikidata.org/entity/Q11682819>
+        owl:sameAs <http://es.dbpedia.org/resource/Monasterio_de_San_Pedro_(Rocas)>.
+
+<http://www.wikidata.org/entity/Q206245>
+        owl:sameAs <http://es.dbpedia.org/resource/Ciudadela_de_Jaca>.
+
+<http://www.wikidata.org/entity/Q1094405>
+        owl:sameAs <http://es.dbpedia.org/resource/Ciudadela_de_Rosas>.
+
+<http://www.wikidata.org/entity/Q206258>
+        owl:sameAs <http://es.dbpedia.org/resource/Ciudadela_de_Pamplona>.
+
+<http://www.wikidata.org/entity/Q11922635>
+        owl:sameAs <http://es.dbpedia.org/resource/Ciudadela_de_Barcelona>.
+
+<http://www.wikidata.org/entity/Q299284>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_la_Vall>.
+
+<http://www.wikidata.org/entity/Q3283058>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_vigilancia_de_Jaraco>.
+
+<http://www.wikidata.org/entity/Q97618836>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_de_Meca>.
+
+<http://www.wikidata.org/entity/Q6150705>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_vigía_de_Piles>.
+
+<http://www.wikidata.org/entity/Q17587742>
+        owl:sameAs <http://es.dbpedia.org/resource/Barcino>.
+
+<http://www.wikidata.org/entity/Q6153672>
+        owl:sameAs <http://es.dbpedia.org/resource/Tucci>.
+
+<http://www.wikidata.org/entity/Q2932882>
+        owl:sameAs <http://es.dbpedia.org/resource/Caesaraugusta>.
+
+<http://www.wikidata.org/entity/Q1583842>
+        owl:sameAs <http://es.dbpedia.org/resource/Augusta_Emerita>.
+
+<http://www.wikidata.org/entity/Q11907044>
+        owl:sameAs <http://es.dbpedia.org/resource/Astigi>.
+
+<http://www.wikidata.org/entity/Q18219497>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_de_productos_químicos_Abelló>.
+
+<http://www.wikidata.org/entity/Q8773178>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Molinar_de_Alcoy>.
+
+<http://www.wikidata.org/entity/Q8963171>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_de_Armas_de_Toledo>.
+
+<http://www.wikidata.org/entity/Q8963167>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_de_La_Igualadina_Cotonera>.
+
+<http://www.wikidata.org/entity/Q8963163>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_Harino_Panadera>.
+
+<http://www.wikidata.org/entity/Q8963165>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_Pujol_i_Bausis>.
+
+<http://www.wikidata.org/entity/Q8261334>
+        owl:sameAs <http://es.dbpedia.org/resource/Can_Fabra>.
+
+<http://www.wikidata.org/entity/Q8963169>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_de_Manufacturas_Olaran>.
+
+<http://www.wikidata.org/entity/Q8963166>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_Tenería_Vascongada>.
+
+<http://www.wikidata.org/entity/Q8963162>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_Azucarera_Alavesa>.
+
+<http://www.wikidata.org/entity/Q5872077>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_de_harinas_Bobo>.
+
+<http://www.wikidata.org/entity/Q5872080>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_de_harinas_Rubio>.
+
+<http://www.wikidata.org/entity/Q5872085>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_de_harinas_San_José>.
+
+<http://www.wikidata.org/entity/Q5872039>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_Osram>.
+
+<http://www.wikidata.org/entity/Q5854454>
+        owl:sameAs <http://es.dbpedia.org/resource/Factoría_de_Nitrastur>.
+
+<http://www.wikidata.org/entity/Q6102199>
+        owl:sameAs <http://es.dbpedia.org/resource/Real_Fábrica_de_Artillería_de_Jimena_de_la_Frontera>.
+
+<http://www.wikidata.org/entity/Q5669851>
+        owl:sameAs <http://es.dbpedia.org/resource/Almona_de_Sanlúcar_de_Barrameda>.
+
+<http://www.wikidata.org/entity/Q5715160>
+        owl:sameAs <http://es.dbpedia.org/resource/Azucarera_del_Guadalfeo>.
+
+<http://www.wikidata.org/entity/Q5715157>
+        owl:sameAs <http://es.dbpedia.org/resource/Azucarera_Labradora_(Calatayud)>.
+
+<http://www.wikidata.org/entity/Q5692199>
+        owl:sameAs <http://es.dbpedia.org/resource/Real_Casa_de_la_Moneda_(Segovia)>.
+
+<http://www.wikidata.org/entity/Q5872082>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_de_harinas_San_Antonio>.
+
+<http://www.wikidata.org/entity/Q5872101>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_vieja_de_muros_y_fosos>.
+
+<http://www.wikidata.org/entity/Q6101919>
+        owl:sameAs <http://es.dbpedia.org/resource/Real_Fábrica_de_Hojalata_de_San_Miguel>.
+
+<http://www.wikidata.org/entity/Q6101928>
+        owl:sameAs <http://es.dbpedia.org/resource/Real_Fábrica_de_Platería_Martínez>.
+
+<http://www.wikidata.org/entity/Q5872066>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_de_armas_de_Trubia>.
+
+<http://www.wikidata.org/entity/Q8200935>
+        owl:sameAs <http://es.dbpedia.org/resource/Antigua_fábrica_de_Cemento_Asland_(Castellar_de_Nuch)>.
+
+<http://www.wikidata.org/entity/Q5872094>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_de_loza_La_Segoviana>.
+
+<http://www.wikidata.org/entity/Q5755187>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_la_moneda_de_Barcelona>.
+
+<http://www.wikidata.org/entity/Q5872075>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_de_gas_de_Oviedo>.
+
+<http://www.wikidata.org/entity/Q5872053>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_de_Harinas_(Manzanares)>.
+
+<http://www.wikidata.org/entity/Q6091874>
+        owl:sameAs <http://es.dbpedia.org/resource/Puerta_del_Ingenio_(Almería)>.
+
+<http://www.wikidata.org/entity/Q6101925>
+        owl:sameAs <http://es.dbpedia.org/resource/Real_Fábrica_de_Paños_de_Brihuega>.
+
+<http://www.wikidata.org/entity/Q5390450>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_de_harinas_y_electricidad_La_Alianza>.
+
+<http://www.wikidata.org/entity/Q5482623>
+        owl:sameAs <http://es.dbpedia.org/resource/Real_Fábrica_de_Cristales_de_La_Granja>.
+
+<http://www.wikidata.org/entity/Q5697135>
+        owl:sameAs <http://es.dbpedia.org/resource/Antigua_Azucarera_del_Tarajal>.
+
+<http://www.wikidata.org/entity/Q6101922>
+        owl:sameAs <http://es.dbpedia.org/resource/Real_Fábrica_de_Lencería_de_San_Ildefonso>.
+
+<http://www.wikidata.org/entity/Q6123484>
+        owl:sameAs <http://es.dbpedia.org/resource/Sefanitro>.
+
+<http://www.wikidata.org/entity/Q5872071>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_de_gas_de_Madrid>.
+
+<http://www.wikidata.org/entity/Q5872056>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_de_La_Felguera>.
+
+<http://www.wikidata.org/entity/Q5576629>
+        owl:sameAs <http://es.dbpedia.org/resource/Ferrería_Aurtola>.
+
+<http://www.wikidata.org/entity/Q6782191>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Marín>.
+
+<http://www.wikidata.org/entity/Q9067067>
+        owl:sameAs <http://es.dbpedia.org/resource/Real_Fábrica_de_Artillería_de_La_Cavada>.
+
+<http://www.wikidata.org/entity/Q9081637>
+        owl:sameAs <http://es.dbpedia.org/resource/Talleres_del_Conde>.
+
+<http://www.wikidata.org/entity/Q11703475>
+        owl:sameAs <http://es.dbpedia.org/resource/Sala_Muncunill>.
+
+<http://www.wikidata.org/entity/Q11954340>
+        owl:sameAs <http://es.dbpedia.org/resource/Vapor_Badia>.
+
+<http://www.wikidata.org/entity/Q17629725>
+        owl:sameAs <http://es.dbpedia.org/resource/Edificio_de_la_fábrica_de_cervezas_El_Águila_(Córdoba)>.
+
+<http://www.wikidata.org/entity/Q11702293>
+        owl:sameAs <http://es.dbpedia.org/resource/Real_Fábrica_de_Paños_de_Alcoy>.
+
+<http://www.wikidata.org/entity/Q12201032>
+        owl:sameAs <http://es.dbpedia.org/resource/Real_Fábrica_de_Artillería_de_Sevilla>.
+
+<http://www.wikidata.org/entity/Q12397054>
+        owl:sameAs <http://es.dbpedia.org/resource/Panificadora_de_Vigo>.
+
+<http://www.wikidata.org/entity/Q16919435>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_El_Progreso>.
+
+<http://www.wikidata.org/entity/Q11921473>
+        owl:sameAs <http://es.dbpedia.org/resource/Fabra_y_Coats>.
+
+<http://www.wikidata.org/entity/Q17632707>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_de_Harinas_de_Albacete>.
+
+<http://www.wikidata.org/entity/Q9081343>
+        owl:sameAs <http://es.dbpedia.org/resource/Tabakalera>.
+
+<http://www.wikidata.org/entity/Q12201031>
+        owl:sameAs <http://es.dbpedia.org/resource/Real_Fábrica_de_Abanicos>.
+
+<http://www.wikidata.org/entity/Q12265223>
+        owl:sameAs <http://es.dbpedia.org/resource/Real_Fábrica_de_Armas_de_Orbaiceta>.
+
+<http://www.wikidata.org/entity/Q13500873>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_de_Fluido_Eléctrico_Hispania>.
+
+<http://www.wikidata.org/entity/Q14522018>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_Hamsa>.
+
+<http://www.wikidata.org/entity/Q8963174>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_de_seda_de_Vinalesa>.
+
+<http://www.wikidata.org/entity/Q11697197>
+        owl:sameAs <http://es.dbpedia.org/resource/Pabellón_industrial_de_FESA>.
+
+<http://www.wikidata.org/entity/Q15177280>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_de_Mieres>.
+
+<http://www.wikidata.org/entity/Q16911704>
+        owl:sameAs <http://es.dbpedia.org/resource/Bombas_Gens>.
+
+<http://www.wikidata.org/entity/Q17589384>
+        owl:sameAs <http://es.dbpedia.org/resource/Can_Batlló>.
+
+<http://www.wikidata.org/entity/Q8963172>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_de_brocas_Laborde_Hnos.>.
+
+<http://www.wikidata.org/entity/Q11682007>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_de_harinas_La_Ceres>.
+
+<http://www.wikidata.org/entity/Q16570207>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_de_Pirotecnia_Militar_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q969530>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_PSA_de_Madrid>.
+
+<http://www.wikidata.org/entity/Q3315907>
+        owl:sameAs <http://es.dbpedia.org/resource/Mirat>.
+
+<http://www.wikidata.org/entity/Q3323833>
+        owl:sameAs <http://es.dbpedia.org/resource/Stellantis_Vigo>.
+
+<http://www.wikidata.org/entity/Q1993716>
+        owl:sameAs <http://es.dbpedia.org/resource/Nissan_Motor_Ibérica>.
+
+<http://www.wikidata.org/entity/Q2542555>
+        owl:sameAs <http://es.dbpedia.org/resource/Real_Fábrica_de_Tabacos_de_Sevilla>.
+
+<http://www.wikidata.org/entity/Q97641872>
+        owl:sameAs <http://es.dbpedia.org/resource/Monasterio_de_la_Cartuja_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q92831312>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Naval_(Reinosa)>.
+
+<http://www.wikidata.org/entity/Q97628385>
+        owl:sameAs <http://es.dbpedia.org/resource/Talleres_Mina>.
+
+<http://www.wikidata.org/entity/Q97651825>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_de_harinas_Pastas_Gallo>.
+
+<http://www.wikidata.org/entity/Q97625016>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_de_cementos_Asland_(Córdoba)>.
+
+<http://www.wikidata.org/entity/Q114365153>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Montañesa_Textil>.
+
+<http://www.wikidata.org/entity/Q20014755>
+        owl:sameAs <http://es.dbpedia.org/resource/Electro_Metalúrgica_del_Ebro>.
+
+<http://www.wikidata.org/entity/Q18695784>
+        owl:sameAs <http://es.dbpedia.org/resource/Ca_l'Aranyó>.
+
+<http://www.wikidata.org/entity/Q20014971>
+        owl:sameAs <http://es.dbpedia.org/resource/Planta_de_helicópteros_de_Albacete>.
+
+<http://www.wikidata.org/entity/Q20615085>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Fonseca>.
+
+<http://www.wikidata.org/entity/Q21483825>
+        owl:sameAs <http://es.dbpedia.org/resource/Reales_Fábricas_de_Bronce_y_Latón>.
+
+<http://www.wikidata.org/entity/Q20017041>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Ceramo>.
+
+<http://www.wikidata.org/entity/Q18924117>
+        owl:sameAs <http://es.dbpedia.org/resource/Real_Fábrica_de_Paños_de_Ezcaray>.
+
+<http://www.wikidata.org/entity/Q20106872>
+        owl:sameAs <http://es.dbpedia.org/resource/Victoria_(fábrica)>.
+
+<http://www.wikidata.org/entity/Q27907418>
+        owl:sameAs <http://es.dbpedia.org/resource/Nave_Bostik>.
+
+<http://www.wikidata.org/entity/Q28503468>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_de_loza_de_los_Ledesma>.
+
+<http://www.wikidata.org/entity/Q24879299>
+        owl:sameAs <http://es.dbpedia.org/resource/Planta_de_Bayer_de_La_Felguera>.
+
+<http://www.wikidata.org/entity/Q24279048>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_de_lozas_de_Valdemorillo>.
+
+<http://www.wikidata.org/entity/Q27556422>
+        owl:sameAs <http://es.dbpedia.org/resource/Azucarera_de_Nuestra_Señora_de_las_Mercedes>.
+
+<http://www.wikidata.org/entity/Q27675874>
+        owl:sameAs <http://es.dbpedia.org/resource/Central_Lechera_CLESA>.
+
+<http://www.wikidata.org/entity/Q28503186>
+        owl:sameAs <http://es.dbpedia.org/resource/Mosaico_Nolla>.
+
+<http://www.wikidata.org/entity/Q24940952>
+        owl:sameAs <http://es.dbpedia.org/resource/Azucarera_de_Pravia>.
+
+<http://www.wikidata.org/entity/Q27161319>
+        owl:sameAs <http://es.dbpedia.org/resource/Antigua_Fábrica_de_Harinas_de_Getafe>.
+
+<http://www.wikidata.org/entity/Q28169410>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_de_loza_La_Amistad>.
+
+<http://www.wikidata.org/entity/Q27043450>
+        owl:sameAs <http://es.dbpedia.org/resource/Rajolar_de_Bauset>.
+
+<http://www.wikidata.org/entity/Q45351043>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábricas_en_calle_Sant_Joan_43_y_45_de_Alcoy>.
+
+<http://www.wikidata.org/entity/Q46486032>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_en_calle_Agres_8_de_Alcoy>.
+
+<http://www.wikidata.org/entity/Q47170259>
+        owl:sameAs <http://es.dbpedia.org/resource/Cal_Balsach>.
+
+<http://www.wikidata.org/entity/Q46935479>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_en_calle_Alcoleja_4_de_Alcoy>.
+
+<http://www.wikidata.org/entity/Q29917723>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_de_cerveza_El_Águila_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q107718384>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_Azucarera_de_La_Poveda>.
+
+<http://www.wikidata.org/entity/Q52836353>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_Gal_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q55284504>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_de_harinas_La_Perla>.
+
+<http://www.wikidata.org/entity/Q51323607>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_en_calle_Sant_Vicent_Ferrer_12_de_Alcoy>.
+
+<http://www.wikidata.org/entity/Q56642792>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_de_harinas_La_Esperanza>.
+
+<http://www.wikidata.org/entity/Q51326860>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábricas_de_Ferrándiz_y_Carbonell>.
+
+<http://www.wikidata.org/entity/Q56580207>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_de_harinas_Nuestra_Señora_del_Rosario>.
+
+<http://www.wikidata.org/entity/Q50311285>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_Westin_Valencia>.
+
+<http://www.wikidata.org/entity/Q57497405>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_de_armas_de_La_Vega>.
+
+<http://www.wikidata.org/entity/Q50309302>
+        owl:sameAs <http://es.dbpedia.org/resource/Edificio_de_Tabacalera_(Valencia)>.
+
+<http://www.wikidata.org/entity/Q51325033>
+        owl:sameAs <http://es.dbpedia.org/resource/Fábrica_El_Rosendo_de_Alcoy>.
+
+<http://www.wikidata.org/entity/Q56379648>
+        owl:sameAs <http://es.dbpedia.org/resource/Antigua_Fábrica_de_Harinas_de_San_Antonio>.
+
+<http://www.wikidata.org/entity/Q5723892>
+        owl:sameAs <http://es.dbpedia.org/resource/Baños_árabes_(Chinchilla_de_Montearagón)>.
+
+<http://www.wikidata.org/entity/Q5723907>
+        owl:sameAs <http://es.dbpedia.org/resource/Baños_árabes_de_Santa_María_(Córdoba)>.
+
+<http://www.wikidata.org/entity/Q5723871>
+        owl:sameAs <http://es.dbpedia.org/resource/Baños_de_la_Reina_Mora>.
+
+<http://www.wikidata.org/entity/Q2832233>
+        owl:sameAs <http://es.dbpedia.org/resource/Alcázar_de_Jerez_de_la_Frontera>.
+
+<http://www.wikidata.org/entity/Q4025917>
+        owl:sameAs <http://es.dbpedia.org/resource/Baños_árabes_(Torres_Torres)>.
+
+<http://www.wikidata.org/entity/Q5723895>
+        owl:sameAs <http://es.dbpedia.org/resource/Baños_árabes_de_Cogollos_Vega>.
+
+<http://www.wikidata.org/entity/Q5723898>
+        owl:sameAs <http://es.dbpedia.org/resource/Baños_árabes_de_Ferreira>.
+
+<http://www.wikidata.org/entity/Q5723868>
+        owl:sameAs <http://es.dbpedia.org/resource/Baños_de_la_Reina_(Celín)>.
+
+<http://www.wikidata.org/entity/Q557702>
+        owl:sameAs <http://es.dbpedia.org/resource/Baños_árabes_(Palma_de_Mallorca)>.
+
+<http://www.wikidata.org/entity/Q4783150>
+        owl:sameAs <http://es.dbpedia.org/resource/Baño_árabe_de_la_plaza_de_la_Paz_(Ceuta)>.
+
+<http://www.wikidata.org/entity/Q5723911>
+        owl:sameAs <http://es.dbpedia.org/resource/Baños_árabes_del_Albaicín>.
+
+<http://www.wikidata.org/entity/Q3100116>
+        owl:sameAs <http://es.dbpedia.org/resource/Baños_árabes_de_Ronda>.
+
+<http://www.wikidata.org/entity/Q5561008>
+        owl:sameAs <http://es.dbpedia.org/resource/Baños_árabes_de_La_Zubia>.
+
+<http://www.wikidata.org/entity/Q5723900>
+        owl:sameAs <http://es.dbpedia.org/resource/Baños_árabes_de_Hernando_de_Zafra>.
+
+<http://www.wikidata.org/entity/Q43113393>
+        owl:sameAs <http://es.dbpedia.org/resource/Enclave_Monumental_Baños_Árabes_de_Baza>.
+
+<http://www.wikidata.org/entity/Q97625616>
+        owl:sameAs <http://es.dbpedia.org/resource/Baños_califales_(Córdoba)>.
+
+<http://www.wikidata.org/entity/Q97644385>
+        owl:sameAs <http://es.dbpedia.org/resource/Baños_árabes_de_Palomares_del_Río>.
+
+<http://www.wikidata.org/entity/Q97630756>
+        owl:sameAs <http://es.dbpedia.org/resource/Baños_Árabes_de_Jaén>.
+
+<http://www.wikidata.org/entity/Q97625651>
+        owl:sameAs <http://es.dbpedia.org/resource/Baños_árabes_de_San_Pedro>.
+
+<http://www.wikidata.org/entity/Q97603021>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Bañuelo>.
+
+<http://www.wikidata.org/entity/Q8245078>
+        owl:sameAs <http://es.dbpedia.org/resource/Baños_árabes_(Gerona)>.
+
+<http://www.wikidata.org/entity/Q17042992>
+        owl:sameAs <http://es.dbpedia.org/resource/Baños_árabes_de_la_Pescadería_(Córdoba)>.
+
+<http://www.wikidata.org/entity/Q9001925>
+        owl:sameAs <http://es.dbpedia.org/resource/Hammam_Granada>.
+
+<http://www.wikidata.org/entity/Q39081599>
+        owl:sameAs <http://es.dbpedia.org/resource/Baños_árabes_de_Churriana_de_la_Vega>.
+
+<http://www.wikidata.org/entity/Q155443>
+        owl:sameAs <http://es.dbpedia.org/resource/Hospital_de_los_Reyes_Católicos>.
+
+<http://www.wikidata.org/entity/Q426839>
+        owl:sameAs <http://es.dbpedia.org/resource/Gran_Hotel_Puente_Colgante>.
+
+<http://www.wikidata.org/entity/Q585497>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_Anglo-Hispano>.
+
+<http://www.wikidata.org/entity/Q615575>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_Majestic_(Barcelona)>.
+
+<http://www.wikidata.org/entity/Q614631>
+        owl:sameAs <http://es.dbpedia.org/resource/Hard_Rock_Entertainment_World>.
+
+<http://www.wikidata.org/entity/Q943103>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_París>.
+
+<http://www.wikidata.org/entity/Q1108879>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_Alfonso_XIII_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q5903301>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_Balneario_Alhama_de_Aragón>.
+
+<http://www.wikidata.org/entity/Q5903451>
+        owl:sameAs <http://es.dbpedia.org/resource/Fairmont_Rey_Juan_Carlos_I>.
+
+<http://www.wikidata.org/entity/Q5903335>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_Coliseum>.
+
+<http://www.wikidata.org/entity/Q5754163>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Colón_(Huelva)>.
+
+<http://www.wikidata.org/entity/Q5847585>
+        owl:sameAs <http://es.dbpedia.org/resource/Estación_de_autobuses_de_Jaén>.
+
+<http://www.wikidata.org/entity/Q5903404>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_Málaga_Palacio>.
+
+<http://www.wikidata.org/entity/Q5717419>
+        owl:sameAs <http://es.dbpedia.org/resource/Balneario_Villa_de_Olmedo>.
+
+<http://www.wikidata.org/entity/Q5818413>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_de_la_Equitativa>.
+
+<http://www.wikidata.org/entity/Q5390470>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_Puerta_América>.
+
+<http://www.wikidata.org/entity/Q5903472>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_Santa_Catalina>.
+
+<http://www.wikidata.org/entity/Q5785951>
+        owl:sameAs <http://es.dbpedia.org/resource/Convento_de_la_Magdalena_(Antequera)>.
+
+<http://www.wikidata.org/entity/Q5911850>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_Pez_Espada>.
+
+<http://www.wikidata.org/entity/Q6101760>
+        owl:sameAs <http://es.dbpedia.org/resource/Real_Casa_de_Misericordia_(Tudela)>.
+
+<http://www.wikidata.org/entity/Q6058109>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_Miramar_(Málaga)>.
+
+<http://www.wikidata.org/entity/Q6058621>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_del_marqués_de_la_Motilla_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q6812271>
+        owl:sameAs <http://es.dbpedia.org/resource/Meliá_Barcelona_Sarrià>.
+
+<http://www.wikidata.org/entity/Q6060829>
+        owl:sameAs <http://es.dbpedia.org/resource/Parador_de_Alcalá_de_Henares>.
+
+<http://www.wikidata.org/entity/Q6083313>
+        owl:sameAs <http://es.dbpedia.org/resource/Posada_del_Peine>.
+
+<http://www.wikidata.org/entity/Q5911671>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_La_Perla>.
+
+<http://www.wikidata.org/entity/Q6755136>
+        owl:sameAs <http://es.dbpedia.org/resource/Marbella_Club>.
+
+<http://www.wikidata.org/entity/Q5911835>
+        owl:sameAs <http://es.dbpedia.org/resource/Edificio_Hotel_París_(Huelva)>.
+
+<http://www.wikidata.org/entity/Q5911761>
+        owl:sameAs <http://es.dbpedia.org/resource/Gran_Hotel_Montesol_Ibiza>.
+
+<http://www.wikidata.org/entity/Q11682615>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_Carlton_(Bilbao)>.
+
+<http://www.wikidata.org/entity/Q4650945>
+        owl:sameAs <http://es.dbpedia.org/resource/AC_Hotel_Gran_Canaria>.
+
+<http://www.wikidata.org/entity/Q2648632>
+        owl:sameAs <http://es.dbpedia.org/resource/W_Barcelona>.
+
+<http://www.wikidata.org/entity/Q3567521>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_Palace>.
+
+<http://www.wikidata.org/entity/Q3145654>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_Ritz_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q3282662>
+        owl:sameAs <http://es.dbpedia.org/resource/Parador_de_Santo_Estevo>.
+
+<http://www.wikidata.org/entity/Q3062297>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_Hilton>.
+
+<http://www.wikidata.org/entity/Q3277330>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_Reina_Cristina>.
+
+<http://www.wikidata.org/entity/Q1810566>
+        owl:sameAs <http://es.dbpedia.org/resource/Gran_Hotel_Bali>.
+
+<http://www.wikidata.org/entity/Q3034424>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_María_Cristina>.
+
+<http://www.wikidata.org/entity/Q3211140>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_Sevilla_(Algeciras)>.
+
+<http://www.wikidata.org/entity/Q3780261>
+        owl:sameAs <http://es.dbpedia.org/resource/Gran_Hotel_(Palma_de_Mallorca)>.
+
+<http://www.wikidata.org/entity/Q9067061>
+        owl:sameAs <http://es.dbpedia.org/resource/Real_Fuerte_de_la_Concepción>.
+
+<http://www.wikidata.org/entity/Q9004984>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_Arocena>.
+
+<http://www.wikidata.org/entity/Q9034236>
+        owl:sameAs <http://es.dbpedia.org/resource/Molino_de_Solapeña>.
+
+<http://www.wikidata.org/entity/Q9054714>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_de_Ferrera>.
+
+<http://www.wikidata.org/entity/Q20085049>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_Silken_Indautxu>.
+
+<http://www.wikidata.org/entity/Q20083929>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_Ercilla>.
+
+<http://www.wikidata.org/entity/Q18402093>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_Meliá_Bilbao>.
+
+<http://www.wikidata.org/entity/Q18177099>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_Abba_Euskalduna>.
+
+<http://www.wikidata.org/entity/Q18357537>
+        owl:sameAs <http://es.dbpedia.org/resource/Ushuaïa_Ibiza_Beach_Hotel>.
+
+<http://www.wikidata.org/entity/Q20535517>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_Universal>.
+
+<http://www.wikidata.org/entity/Q19862403>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_The_Artist>.
+
+<http://www.wikidata.org/entity/Q14753688>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Alberola>.
+
+<http://www.wikidata.org/entity/Q16572394>
+        owl:sameAs <http://es.dbpedia.org/resource/Gran_Hotel_Almería>.
+
+<http://www.wikidata.org/entity/Q17624404>
+        owl:sameAs <http://es.dbpedia.org/resource/Parador_de_Albacete>.
+
+<http://www.wikidata.org/entity/Q16615310>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_del_Conde_de_Tepa>.
+
+<http://www.wikidata.org/entity/Q17538735>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_Hesperia_Bilbao>.
+
+<http://www.wikidata.org/entity/Q17605278>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_Oriente>.
+
+<http://www.wikidata.org/entity/Q27574688>
+        owl:sameAs <http://es.dbpedia.org/resource/Colegio-Convento_de_Santo_Tomás_(Alcalá_de_Henares)>.
+
+<http://www.wikidata.org/entity/Q28033071>
+        owl:sameAs <http://es.dbpedia.org/resource/Colegio_de_los_Manriques>.
+
+<http://www.wikidata.org/entity/Q28844857>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_El_Palace_(Barcelona)>.
+
+<http://www.wikidata.org/entity/Q29433582>
+        owl:sameAs <http://es.dbpedia.org/resource/Colegio-Convento_de_los_Mercedarios_Calzados>.
+
+<http://www.wikidata.org/entity/Q21077313>
+        owl:sameAs <http://es.dbpedia.org/resource/Hospital_de_Benasque>.
+
+<http://www.wikidata.org/entity/Q24341742>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_InterContinental_Madrid>.
+
+<http://www.wikidata.org/entity/Q24041439>
+        owl:sameAs <http://es.dbpedia.org/resource/Balneario_de_La_Toja>.
+
+<http://www.wikidata.org/entity/Q24942831>
+        owl:sameAs <http://es.dbpedia.org/resource/Hostal_de_la_Gavina>.
+
+<http://www.wikidata.org/entity/Q21064875>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_Occidental_Bilbao>.
+
+<http://www.wikidata.org/entity/Q25480076>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_Continental_(San_Sebastián)>.
+
+<http://www.wikidata.org/entity/Q63400095>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_Tayko_Bilbao>.
+
+<http://www.wikidata.org/entity/Q56526322>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_Mencey>.
+
+<http://www.wikidata.org/entity/Q62561725>
+        owl:sameAs <http://es.dbpedia.org/resource/NYX_Hotel_Bilbao>.
+
+<http://www.wikidata.org/entity/Q63440888>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_Barceló_Bilbao_Nervión>.
+
+<http://www.wikidata.org/entity/Q63827331>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_Vincci_Consulado_de_Bilbao>.
+
+<http://www.wikidata.org/entity/Q65563093>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_Vega_(Ondárroa)>.
+
+<http://www.wikidata.org/entity/Q63349518>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_de_Londres_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q30905670>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_los_Cristales>.
+
+<http://www.wikidata.org/entity/Q30905535>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_Embajador>.
+
+<http://www.wikidata.org/entity/Q47069701>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_Alhambra_Palace>.
+
+<http://www.wikidata.org/entity/Q47502080>
+        owl:sameAs <http://es.dbpedia.org/resource/Antiguo_Hotel_Reina_Victoria>.
+
+<http://www.wikidata.org/entity/Q47803558>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Lodge>.
+
+<http://www.wikidata.org/entity/Q47003633>
+        owl:sameAs <http://es.dbpedia.org/resource/Gran_Hotel_(Arrecife)>.
+
+<http://www.wikidata.org/entity/Q50288392>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_Reina_Victoria_(Valencia)>.
+
+<http://www.wikidata.org/entity/Q50311285>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_Westin_Valencia>.
+
+<http://www.wikidata.org/entity/Q54216988>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_del_Duque_de_Granada_de_Ega>.
+
+<http://www.wikidata.org/entity/Q54834042>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_L'Ágora>.
+
+<http://www.wikidata.org/entity/Q106765246>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_Ilunion_San_Mamés>.
+
+<http://www.wikidata.org/entity/Q106624846>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_3_Reyes>.
+
+<http://www.wikidata.org/entity/Q104535283>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_de_Luces>.
+
+<http://www.wikidata.org/entity/Q97628241>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_Huéspedes_(Minas_de_Riotinto)>.
+
+<http://www.wikidata.org/entity/Q67912218>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Bailly>.
+
+<http://www.wikidata.org/entity/Q98825732>
+        owl:sameAs <http://es.dbpedia.org/resource/Parador_del_Conde_de_Gondomar>.
+
+<http://www.wikidata.org/entity/Q111389213>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_Torrequebrada>.
+
+<http://www.wikidata.org/entity/Q111389529>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_1898>.
+
+<http://www.wikidata.org/entity/Q113006632>
+        owl:sameAs <http://es.dbpedia.org/resource/Parador_de_Ávila>.
+
+<http://www.wikidata.org/entity/Q124834765>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_Puerta_de_Bilbao>.
+
+<http://www.wikidata.org/entity/Q9031638>
+        owl:sameAs <http://es.dbpedia.org/resource/Mercado_del_Arenal>.
+
+<http://www.wikidata.org/entity/Q107528146>
+        owl:sameAs <http://es.dbpedia.org/resource/Mercado_de_Abastos_de_Pontevedra>.
+
+<http://www.wikidata.org/entity/Q1548845>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Santiago_(Peñalba_de_Santiago)>.
+
+<http://www.wikidata.org/entity/Q6051891>
+        owl:sameAs <http://es.dbpedia.org/resource/Oratorio_de_la_Santa_Cueva_(Cádiz)>.
+
+<http://www.wikidata.org/entity/Q6051880>
+        owl:sameAs <http://es.dbpedia.org/resource/Oratorio_de_San_Felipe_Neri_(Toledo)>.
+
+<http://www.wikidata.org/entity/Q90163050>
+        owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Piedra_Sagrada>.
+
+<http://www.wikidata.org/entity/Q30919265>
+        owl:sameAs <http://es.dbpedia.org/resource/Oratorio_de_San_Felipe_Neri_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q97628310>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_del_Consejo>.
+
+<http://www.wikidata.org/entity/Q97627644>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_Dirección_de_la_Rio_Tinto_Company_Limited>.
+
+<http://www.wikidata.org/entity/Q97633218>
+        owl:sameAs <http://es.dbpedia.org/resource/Real_Conservatorio_de_Música_María_Cristina>.
+
+<http://www.wikidata.org/entity/Q97626473>
+        owl:sameAs <http://es.dbpedia.org/resource/Hospital_del_Cardenal_Salazar_(Córdoba)>.
+
+<http://www.wikidata.org/entity/Q97628384>
+        owl:sameAs <http://es.dbpedia.org/resource/Taller_de_Zarandas>.
+
+<http://www.wikidata.org/entity/Q97628415>
+        owl:sameAs <http://es.dbpedia.org/resource/Colegio_de_Santa_Catalina_(Trigueros)>.
+
+<http://www.wikidata.org/entity/Q97628363>
+        owl:sameAs <http://es.dbpedia.org/resource/Cuenca_minera_de_Riotinto-Nerva>.
+
+<http://www.wikidata.org/entity/Q97620077>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_Pemartín>.
+
+<http://www.wikidata.org/entity/Q97628312>
+        owl:sameAs <http://es.dbpedia.org/resource/Club_Inglés_(Minas_de_Riotinto)>.
+
+<http://www.wikidata.org/entity/Q97626446>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia_del_Salvador_y_Santo_Domingo_de_Silos_(Córdoba)>.
+
+<http://www.wikidata.org/entity/Q97628456>
+        owl:sameAs <http://es.dbpedia.org/resource/Edificio_La_Unión_y_el_Fénix_(Huelva)>.
+
+<http://www.wikidata.org/entity/Q97628486>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_de_Congresos_Casa_Colón>.
+
+<http://www.wikidata.org/entity/Q97628266>
+        owl:sameAs <http://es.dbpedia.org/resource/Estación_de_autobuses_de_Huelva>.
+
+<http://www.wikidata.org/entity/Q97626543>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_de_los_Muñices>.
+
+<http://www.wikidata.org/entity/Q3532450>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_Triana_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q954839>
+        owl:sameAs <http://es.dbpedia.org/resource/Corral_del_Carbón>.
+
+<http://www.wikidata.org/entity/Q2942684>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_Nuestra_Señora_de_la_Merced_(Huelva)>.
+
+<http://www.wikidata.org/entity/Q2542555>
+        owl:sameAs <http://es.dbpedia.org/resource/Real_Fábrica_de_Tabacos_de_Sevilla>.
+
+<http://www.wikidata.org/entity/Q2635919>
+        owl:sameAs <http://es.dbpedia.org/resource/Teatro_Lope_de_Vega_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q2665595>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_de_San_Telmo>.
+
+<http://www.wikidata.org/entity/Q9053913>
+        owl:sameAs <http://es.dbpedia.org/resource/Pabellón_de_México_en_la_Exposición_de_1929>.
+
+<http://www.wikidata.org/entity/Q9053916>
+        owl:sameAs <http://es.dbpedia.org/resource/Pabellón_de_Portugal_(Exposición_Iberoamericana)>.
+
+<http://www.wikidata.org/entity/Q9075927>
+        owl:sameAs <http://es.dbpedia.org/resource/Seminario_de_Málaga>.
+
+<http://www.wikidata.org/entity/Q7572160>
+        owl:sameAs <http://es.dbpedia.org/resource/Balneario_de_Nuestra_Señora_de_la_Palma_y_del_Real>.
+
+<http://www.wikidata.org/entity/Q9053901>
+        owl:sameAs <http://es.dbpedia.org/resource/Pabellón_Domecq_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q9053904>
+        owl:sameAs <http://es.dbpedia.org/resource/Pabellón_Real_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q6940458>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_Municipal_de_El_Puerto_de_Santa_María>.
+
+<http://www.wikidata.org/entity/Q10989145>
+        owl:sameAs <http://es.dbpedia.org/resource/Facultad_de_Farmacia_(Universidad_de_Granada)>.
+
+<http://www.wikidata.org/entity/Q6434669>
+        owl:sameAs <http://es.dbpedia.org/resource/Facultad_de_Teología_de_Granada>.
+
+<http://www.wikidata.org/entity/Q3896767>
+        owl:sameAs <http://es.dbpedia.org/resource/Monasterio_de_Nuestra_Señora_de_Prado>.
+
+<http://www.wikidata.org/entity/Q5173303>
+        owl:sameAs <http://es.dbpedia.org/resource/Cortijo_de_Miraflores>.
+
+<http://www.wikidata.org/entity/Q5709588>
+        owl:sameAs <http://es.dbpedia.org/resource/Asta_Regia>.
+
+<http://www.wikidata.org/entity/Q5755559>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_del_Rey_Moro_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q5777291>
+        owl:sameAs <http://es.dbpedia.org/resource/Colegio_de_Santa_Victoria>.
+
+<http://www.wikidata.org/entity/Q5711427>
+        owl:sameAs <http://es.dbpedia.org/resource/Auditorio_Manuel_de_Falla_(Granada)>.
+
+<http://www.wikidata.org/entity/Q5062901>
+        owl:sameAs <http://es.dbpedia.org/resource/Centro_de_Documentación_Musical_de_Andalucía>.
+
+<http://www.wikidata.org/entity/Q5555823>
+        owl:sameAs <http://es.dbpedia.org/resource/Real_Maestranza_de_Caballería_de_Granada>.
+
+<http://www.wikidata.org/entity/Q5654672>
+        owl:sameAs <http://es.dbpedia.org/resource/Abadía_del_Sacromonte>.
+
+<http://www.wikidata.org/entity/Q5775853>
+        owl:sameAs <http://es.dbpedia.org/resource/Cocheras_de_locomotoras_del_Puerto_de_Huelva>.
+
+<http://www.wikidata.org/entity/Q5644579>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_de_Altamira_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q5717687>
+        owl:sameAs <http://es.dbpedia.org/resource/Baluarte_de_la_Candelaria_(Cádiz)>.
+
+<http://www.wikidata.org/entity/Q5755631>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_natal_de_Blas_Infante>.
+
+<http://www.wikidata.org/entity/Q5823018>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Pósito_de_Linares>.
+
+<http://www.wikidata.org/entity/Q5854724>
+        owl:sameAs <http://es.dbpedia.org/resource/Facultad_de_Ciencias_Políticas_y_Sociología_(Universidad_de_Granada)>.
+
+<http://www.wikidata.org/entity/Q5902841>
+        owl:sameAs <http://es.dbpedia.org/resource/Hospital_Real_de_Granada>.
+
+<http://www.wikidata.org/entity/Q6137704>
+        owl:sameAs <http://es.dbpedia.org/resource/Tabacalera_(Málaga)>.
+
+<http://www.wikidata.org/entity/Q5818348>
+        owl:sameAs <http://es.dbpedia.org/resource/Edificio_central_de_Correos_de_Sevilla>.
+
+<http://www.wikidata.org/entity/Q5908961>
+        owl:sameAs <http://es.dbpedia.org/resource/Iglesia,_convento_y_colegio_de_la_Compañía_de_María_(Almería)>.
+
+<http://www.wikidata.org/entity/Q5818392>
+        owl:sameAs <http://es.dbpedia.org/resource/Edificio_de_la_Subdelegación_de_Gobierno_(Almería)>.
+
+<http://www.wikidata.org/entity/Q5854650>
+        owl:sameAs <http://es.dbpedia.org/resource/Facultad_de_Ciencias_Económicas_y_Empresariales_(Universidad_de_Granada)>.
+
+<http://www.wikidata.org/entity/Q6123395>
+        owl:sameAs <http://es.dbpedia.org/resource/Sede_de_la_Cruz_Roja_(Almería)>.
+
+<http://www.wikidata.org/entity/Q5839060>
+        owl:sameAs <http://es.dbpedia.org/resource/Escuela_de_Arte_Algeciras>.
+
+<http://www.wikidata.org/entity/Q5839042>
+        owl:sameAs <http://es.dbpedia.org/resource/Escuela_de_Arte_de_Almería>.
+
+<http://www.wikidata.org/entity/Q5838923>
+        owl:sameAs <http://es.dbpedia.org/resource/Escuela_Técnica_Superior_de_Arquitectura_de_la_Universidad_de_Granada>.
+
+<http://www.wikidata.org/entity/Q5854568>
+        owl:sameAs <http://es.dbpedia.org/resource/Facultad_de_Bellas_Artes_(Universidad_de_Granada)>.
+
+<http://www.wikidata.org/entity/Q6055649>
+        owl:sameAs <http://es.dbpedia.org/resource/Pabellón_de_Argentina_(Exposición_Iberoamericana)>.
+
+<http://www.wikidata.org/entity/Q6055700>
+        owl:sameAs <http://es.dbpedia.org/resource/Pabellón_de_Uruguay_en_la_Exposición_de_1929>.
+
+<http://www.wikidata.org/entity/Q6058045>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_de_Jabalquinto>.
+
+<http://www.wikidata.org/entity/Q5838989>
+        owl:sameAs <http://es.dbpedia.org/resource/Escuela_Técnica_Superior_de_Ingenierías_Informática_y_de_Telecomunicación_de_la_Universidad_de_Granada>.
+
+<http://www.wikidata.org/entity/Q24262958>
+        owl:sameAs <http://es.dbpedia.org/resource/Real_Colegio_Mayor_de_San_Bartolomé_y_Santiago>.
+
+<http://www.wikidata.org/entity/Q12198131>
+        owl:sameAs <http://es.dbpedia.org/resource/Pabellón_de_Colombia_(Exposición_Iberoamericana)>.
+
+<http://www.wikidata.org/entity/Q19950425>
+        owl:sameAs <http://es.dbpedia.org/resource/Oratorio_de_San_Felipe_Neri_(Córdoba)>.
+
+<http://www.wikidata.org/entity/Q21491680>
+        owl:sameAs <http://es.dbpedia.org/resource/Instituto_Padre_Suárez>.
+
+<http://www.wikidata.org/entity/Q22338608>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_de_Benamejí>.
+
+<http://www.wikidata.org/entity/Q27679908>
+        owl:sameAs <http://es.dbpedia.org/resource/Universidad_Laboral_de_Sevilla>.
+
+<http://www.wikidata.org/entity/Q12198129>
+        owl:sameAs <http://es.dbpedia.org/resource/Pabellón_de_Cuba_en_la_Exposición_de_1929>.
+
+<http://www.wikidata.org/entity/Q24049990>
+        owl:sameAs <http://es.dbpedia.org/resource/Seminario_Mayor_de_San_Pelagio>.
+
+<http://www.wikidata.org/entity/Q21694478>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_Tavira_II>.
+
+<http://www.wikidata.org/entity/Q16543627>
+        owl:sameAs <http://es.dbpedia.org/resource/Carmen_de_la_Fundación_Rodríguez_Acosta>.
+
+<http://www.wikidata.org/entity/Q19758320>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_Correos_y_Telégrafos_de_Pontevedra>.
+
+<http://www.wikidata.org/entity/Q97604248>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_Müller>.
+
+<http://www.wikidata.org/entity/Q97286277>
+        owl:sameAs <http://es.dbpedia.org/resource/Edificio_de_la_Delegación_de_Hacienda_(Almería)>.
+
+<http://www.wikidata.org/entity/Q41792105>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Grande_del_Carmen_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q52083859>
+        owl:sameAs <http://es.dbpedia.org/resource/Real_Círculo_de_la_Amistad>.
+
+<http://www.wikidata.org/entity/Q30918911>
+        owl:sameAs <http://es.dbpedia.org/resource/Facultad_de_Derecho_y_Ciencias_Económicas_y_Empresariales_(Universidad_de_Córdoba)>.
+
+<http://www.wikidata.org/entity/Q54631347>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Carbonería>.
+
+<http://www.wikidata.org/entity/Q97633233>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_del_Consulado_(Málaga)>.
+
+<http://www.wikidata.org/entity/Q97633639>
+        owl:sameAs <http://es.dbpedia.org/resource/Colegio_de_San_Sebastián_(Málaga)>.
+
+<http://www.wikidata.org/entity/Q97642650>
+        owl:sameAs <http://es.dbpedia.org/resource/Antigua_estación_de_San_Bernardo_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q97641872>
+        owl:sameAs <http://es.dbpedia.org/resource/Monasterio_de_la_Cartuja_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q97645169>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_de_los_Marqueses_de_La_Algaba>.
+
+<http://www.wikidata.org/entity/Q98060914>
+        owl:sameAs <http://es.dbpedia.org/resource/Círculo_Franco-Español>.
+
+<http://www.wikidata.org/entity/Q97641219>
+        owl:sameAs <http://es.dbpedia.org/resource/Cartuja_de_Cazalla_de_la_Sierra>.
+
+<http://www.wikidata.org/entity/Q98059189>
+        owl:sameAs <http://es.dbpedia.org/resource/Estación_de_Tharsis>.
+
+<http://www.wikidata.org/entity/Q98060761>
+        owl:sameAs <http://es.dbpedia.org/resource/Club_Inglés_(Tharsis)>.
+
+<http://www.wikidata.org/entity/Q98501067>
+        owl:sameAs <http://es.dbpedia.org/resource/Escuelas_del_Ave_María>.
+
+<http://www.wikidata.org/entity/Q98973096>
+        owl:sameAs <http://es.dbpedia.org/resource/Edificio_del_Instituto_de_Enseñanza_Secundaria_Celia_Viñas>.
+
+<http://www.wikidata.org/entity/Q106312963>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_Barrio_Andalusí>.
+
+<http://www.wikidata.org/entity/Q111410956>
+        owl:sameAs <http://es.dbpedia.org/resource/Cuartel_de_San_Fernando_(Pontevedra)>.
+
+<http://www.wikidata.org/entity/Q106616356>
+        owl:sameAs <http://es.dbpedia.org/resource/Edificio_del_Banco_de_España_(Pontevedra)>.
+
+<http://www.wikidata.org/entity/Q113680971>
+        owl:sameAs <http://es.dbpedia.org/resource/Mansión_del_Marqués_de_Riestra>.
+
+<http://www.wikidata.org/entity/Q107707870>
+        owl:sameAs <http://es.dbpedia.org/resource/Gobierno_Civil_de_Pontevedra>.
+
+<http://www.wikidata.org/entity/Q106618731>
+        owl:sameAs <http://es.dbpedia.org/resource/Edificio_Central_de_la_Junta_de_Galicia_en_Pontevedra>.
+
+<http://www.wikidata.org/entity/Q108117496>
+        owl:sameAs <http://es.dbpedia.org/resource/Facultad_de_Comunicación_de_Pontevedra>.
+
+<http://www.wikidata.org/entity/Q108120336>
+        owl:sameAs <http://es.dbpedia.org/resource/Facultad_de_Fisioterapia_de_Pontevedra>.
+
+<http://www.wikidata.org/entity/Q108118308>
+        owl:sameAs <http://es.dbpedia.org/resource/Facultad_de_Ciencias_de_la_Educación_y_del_Deporte_de_Pontevedra>.
+
+<http://www.wikidata.org/entity/Q108120408>
+        owl:sameAs <http://es.dbpedia.org/resource/Escuela_de_Ingeniería_Forestal_de_Pontevedra>.
+
+<http://www.wikidata.org/entity/Q2330791>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Lleó_Morera>.
+
+<http://www.wikidata.org/entity/Q506814>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Amatller>.
+
+<http://www.wikidata.org/entity/Q954839>
+        owl:sameAs <http://es.dbpedia.org/resource/Corral_del_Carbón>.
+
+<http://www.wikidata.org/entity/Q1459492>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Thomas>.
+
+<http://www.wikidata.org/entity/Q1046405>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Calvet>.
+
+<http://www.wikidata.org/entity/Q11912727>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Garriga_Nogués>.
+
+<http://www.wikidata.org/entity/Q9093787>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_Fernanda>.
+
+<http://www.wikidata.org/entity/Q8341626>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Juncosa>.
+
+<http://www.wikidata.org/entity/Q8341565>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Bonaventura_Ferrer>.
+
+<http://www.wikidata.org/entity/Q9093885>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_San_José_(Alcalá_de_Guadaíra)>.
+
+<http://www.wikidata.org/entity/Q8203680>
+        owl:sameAs <http://es.dbpedia.org/resource/Archivo_de_la_Real_Chancillería_de_Granada>.
+
+<http://www.wikidata.org/entity/Q8218981>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Burés>.
+
+<http://www.wikidata.org/entity/Q8341583>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Comalat>.
+
+<http://www.wikidata.org/entity/Q5754415>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Museo_Zenobia_y_Juan_Ramón_Jiménez>.
+
+<http://www.wikidata.org/entity/Q5755645>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_palacio_de_Pumarejo_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q6406146>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_los_Pinelo_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q5789034>
+        owl:sameAs <http://es.dbpedia.org/resource/Corral_de_la_Encarnación>.
+
+<http://www.wikidata.org/entity/Q5789684>
+        owl:sameAs <http://es.dbpedia.org/resource/Cortijo_Fischer>.
+
+<http://www.wikidata.org/entity/Q5755628>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_museo_de_Blas_Infante>.
+
+<http://www.wikidata.org/entity/Q5962558>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Bougainvillea>.
+
+<http://www.wikidata.org/entity/Q5755181>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_la_calle_Aceña,_n.%C2%BA_5>.
+
+<http://www.wikidata.org/entity/Q3661139>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Pere_Company>.
+
+<http://www.wikidata.org/entity/Q5754090>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Barroca_de_las_Atarazanas>.
+
+<http://www.wikidata.org/entity/Q2518066>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Fuster>.
+
+<http://www.wikidata.org/entity/Q3751210>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Fajol>.
+
+<http://www.wikidata.org/entity/Q2836969>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Bloc>.
+
+<http://www.wikidata.org/entity/Q2561516>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_les_Punxes>.
+
+<http://www.wikidata.org/entity/Q3276860>
+        owl:sameAs <http://es.dbpedia.org/resource/Arsenal_de_la_Carraca>.
+
+<http://www.wikidata.org/entity/Q3661153>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Ramon_Casas>.
+
+<http://www.wikidata.org/entity/Q5646332>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Pomar>.
+
+<http://www.wikidata.org/entity/Q2890004>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Xifré>.
+
+<http://www.wikidata.org/entity/Q5665395>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Rudofsky>.
+
+<http://www.wikidata.org/entity/Q5754097>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Berenguer>.
+
+<http://www.wikidata.org/entity/Q3661125>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Martí>.
+
+<http://www.wikidata.org/entity/Q5047920>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_Murillo>.
+
+<http://www.wikidata.org/entity/Q5754018>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa-Mirador_de_Azuer_(Manzanares)>.
+
+<http://www.wikidata.org/entity/Q15476271>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_Andreu>.
+
+<http://www.wikidata.org/entity/Q17057959>
+        owl:sameAs <http://es.dbpedia.org/resource/Viviendas_Protegidas_(Jaén)>.
+
+<http://www.wikidata.org/entity/Q26821310>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Juncadella>.
+
+<http://www.wikidata.org/entity/Q20104554>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Ferran_Guardiola>.
+
+<http://www.wikidata.org/entity/Q19949781>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Maldonado_(Barcelona)>.
+
+<http://www.wikidata.org/entity/Q19950537>
+        owl:sameAs <http://es.dbpedia.org/resource/Residencia_de_Oficiales_de_Barcelona>.
+
+<http://www.wikidata.org/entity/Q20901172>
+        owl:sameAs <http://es.dbpedia.org/resource/Edificio_Meridiana>.
+
+<http://www.wikidata.org/entity/Q21568890>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Heribert_Pons>.
+
+<http://www.wikidata.org/entity/Q18172411>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Santurce>.
+
+<http://www.wikidata.org/entity/Q19256063>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Felip>.
+
+<http://www.wikidata.org/entity/Q18328090>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Antonia_Burés>.
+
+<http://www.wikidata.org/entity/Q17063430>
+        owl:sameAs <http://es.dbpedia.org/resource/Casas_Ramos>.
+
+<http://www.wikidata.org/entity/Q18176944>
+        owl:sameAs <http://es.dbpedia.org/resource/Casas_Josefa_Villanueva>.
+
+<http://www.wikidata.org/entity/Q23855569>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Dolors_Calm>.
+
+<http://www.wikidata.org/entity/Q22969988>
+        owl:sameAs <http://es.dbpedia.org/resource/Corrales_de_vecinos_de_Sevilla>.
+
+<http://www.wikidata.org/entity/Q26836433>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Antonio_Costa>.
+
+<http://www.wikidata.org/entity/Q28740100>
+        owl:sameAs <http://es.dbpedia.org/resource/Edificio_de_la_Caja_de_Pensiones_de_Barcelona>.
+
+<http://www.wikidata.org/entity/Q29057499>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Luca_de_Tena>.
+
+<http://www.wikidata.org/entity/Q26839949>
+        owl:sameAs <http://es.dbpedia.org/resource/Cueva_de_los_Siete_Palacios_(Almuñécar)>.
+
+<http://www.wikidata.org/entity/Q30901879>
+        owl:sameAs <http://es.dbpedia.org/resource/Corrala_de_Santiago>.
+
+<http://www.wikidata.org/entity/Q32038583>
+        owl:sameAs <http://es.dbpedia.org/resource/Corral_del_Conde>.
+
+<http://www.wikidata.org/entity/Q42911165>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Carreras>.
+
+<http://www.wikidata.org/entity/Q97158482>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Montoya>.
+
+<http://www.wikidata.org/entity/Q97624979>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_de_los_marqueses_del_Carpio_(Córdoba)>.
+
+<http://www.wikidata.org/entity/Q97627597>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_Pepita>.
+
+<http://www.wikidata.org/entity/Q97628310>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_del_Consejo>.
+
+<http://www.wikidata.org/entity/Q97628430>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Antonio_Checa_Núñez>.
+
+<http://www.wikidata.org/entity/Q65650760>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Condeminas>.
+
+<http://www.wikidata.org/entity/Q55726212>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_Castilnuevo>.
+
+<http://www.wikidata.org/entity/Q56318446>
+        owl:sameAs <http://es.dbpedia.org/resource/Villa_Excélsior>.
+
+<http://www.wikidata.org/entity/Q61861362>
+        owl:sameAs <http://es.dbpedia.org/resource/Casas_del_Cuitu>.
+
+<http://www.wikidata.org/entity/Q55743597>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Lastrucci>.
+
+<http://www.wikidata.org/entity/Q56317831>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_de_Mora_Claros>.
+
+<http://www.wikidata.org/entity/Q55809194>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_natal_de_Luis_Cernuda>.
+
+<http://www.wikidata.org/entity/Q55587519>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_del_Millón_(Huelva)>.
+
+<http://www.wikidata.org/entity/Q56285004>
+        owl:sameAs <http://es.dbpedia.org/resource/Viña_Gisbert>.
+
+<http://www.wikidata.org/entity/Q98011354>
+        owl:sameAs <http://es.dbpedia.org/resource/Colegio_Mayor_Universitario_Chaminade>.
+
+<http://www.wikidata.org/entity/Q98060334>
+        owl:sameAs <http://es.dbpedia.org/resource/Grupo_de_viviendas_San_Carlos>.
+
+<http://www.wikidata.org/entity/Q84554656>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Barco>.
+
+<http://www.wikidata.org/entity/Q98501573>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_Matilde_Gallardo>.
+
+<http://www.wikidata.org/entity/Q98497909>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_los_Ingleses>.
+
+<http://www.wikidata.org/entity/Q118179535>
+        owl:sameAs <http://es.dbpedia.org/resource/Casa_de_los_Bañuelos>.
+
+<http://www.wikidata.org/entity/Q118946134>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_Girona>.
+
+<http://www.wikidata.org/entity/Q5903301>
+        owl:sameAs <http://es.dbpedia.org/resource/Hotel_Balneario_Alhama_de_Aragón>.
+
+<http://www.wikidata.org/entity/Q8240845>
+        owl:sameAs <http://es.dbpedia.org/resource/Balneario_de_Las_Caldas>.
+
+<http://www.wikidata.org/entity/Q6392773>
+        owl:sameAs <http://es.dbpedia.org/resource/Balneario_de_Lanjarón>.
+
+<http://www.wikidata.org/entity/Q8240856>
+        owl:sameAs <http://es.dbpedia.org/resource/Balneario_y_jardines_de_Jabalcuz>.
+
+<http://www.wikidata.org/entity/Q20021552>
+        owl:sameAs <http://es.dbpedia.org/resource/Real_Sitio_de_La_Isabela>.
+
+<http://www.wikidata.org/entity/Q5717426>
+        owl:sameAs <http://es.dbpedia.org/resource/Balneario_de_Archena>.
+
+<http://www.wikidata.org/entity/Q5717433>
+        owl:sameAs <http://es.dbpedia.org/resource/Balneario_de_El_Manzano>.
+
+<http://www.wikidata.org/entity/Q6131871>
+        owl:sameAs <http://es.dbpedia.org/resource/Solán_de_Cabras>.
+
+<http://www.wikidata.org/entity/Q7572160>
+        owl:sameAs <http://es.dbpedia.org/resource/Balneario_de_Nuestra_Señora_de_la_Palma_y_del_Real>.
+
+<http://www.wikidata.org/entity/Q13048476>
+        owl:sameAs <http://es.dbpedia.org/resource/Balneario_Vilas_del_Turbón>.
+
+<http://www.wikidata.org/entity/Q2881472>
+        owl:sameAs <http://es.dbpedia.org/resource/Baños_de_Panticosa>.
+
+<http://www.wikidata.org/entity/Q24041439>
+        owl:sameAs <http://es.dbpedia.org/resource/Balneario_de_La_Toja>.
+
+<http://www.wikidata.org/entity/Q97633291>
+        owl:sameAs <http://es.dbpedia.org/resource/Balneario_de_Carratraca>.
+
+<http://www.wikidata.org/entity/Q5717386>
+        owl:sameAs <http://es.dbpedia.org/resource/Balneario_Hervideros_de_Cofrentes>.
+
+<http://www.wikidata.org/entity/Q3100116>
+        owl:sameAs <http://es.dbpedia.org/resource/Baños_árabes_de_Ronda>.
+
+<http://www.wikidata.org/entity/Q5717419>
+        owl:sameAs <http://es.dbpedia.org/resource/Balneario_Villa_de_Olmedo>.
+
+<http://www.wikidata.org/entity/Q13048482>
+        owl:sameAs <http://es.dbpedia.org/resource/Baños_de_Benasque>.
+
+<http://www.wikidata.org/entity/Q13048474>
+        owl:sameAs <http://es.dbpedia.org/resource/Balneario_de_Segura_de_los_Baños>.
+
+<http://www.wikidata.org/entity/Q8240853>
+        owl:sameAs <http://es.dbpedia.org/resource/Balneario_de_Fuente_Amargosa_en_Tolox>.

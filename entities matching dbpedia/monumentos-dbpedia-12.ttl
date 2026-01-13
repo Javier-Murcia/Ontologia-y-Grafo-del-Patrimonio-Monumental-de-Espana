@@ -1,0 +1,1327 @@
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://www.wikidata.org/entity/Q5980658>
+        owl:sameAs <http://es.dbpedia.org/resource/Baterías_antiaéreas_del_Carmelo>.
+
+<http://www.wikidata.org/entity/Q23915056>
+        owl:sameAs <http://es.dbpedia.org/resource/Búnkeres_de_Nules>.
+
+<http://www.wikidata.org/entity/Q114943573>
+        owl:sameAs <http://es.dbpedia.org/resource/Búnker_de_Los_Barberos>.
+
+<http://www.wikidata.org/entity/Q16013785>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_Santa_Eulalia>.
+
+<http://www.wikidata.org/entity/Q16268973>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_la_Plaza_de_España_(Barcelona)>.
+
+<http://www.wikidata.org/entity/Q17632617>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_del_Parque>.
+
+<http://www.wikidata.org/entity/Q16569720>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_la_Fuenseca>.
+
+<http://www.wikidata.org/entity/Q16219321>
+        owl:sameAs <http://es.dbpedia.org/resource/Dama_del_paraguas>.
+
+<http://www.wikidata.org/entity/Q16569715>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_Canaletas_(Córdoba)>.
+
+<http://www.wikidata.org/entity/Q11922474>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_del_Genio_Catalán>.
+
+<http://www.wikidata.org/entity/Q12175324>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_Santa_Marina>.
+
+<http://www.wikidata.org/entity/Q16569746>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_del_Potro>.
+
+<http://www.wikidata.org/entity/Q16619007>
+        owl:sameAs <http://es.dbpedia.org/resource/Pilar_de_Carlos_V>.
+
+<http://www.wikidata.org/entity/Q5649534>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_las_Conchas>.
+
+<http://www.wikidata.org/entity/Q5693250>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_Santa_María>.
+
+<http://www.wikidata.org/entity/Q5870172>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_a_la_comunicación>.
+
+<http://www.wikidata.org/entity/Q5870232>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_la_Villa_(Valdemoro)>.
+
+<http://www.wikidata.org/entity/Q5870224>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_la_Samaritana>.
+
+<http://www.wikidata.org/entity/Q5870244>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_las_Musas_(Huesca)>.
+
+<http://www.wikidata.org/entity/Q5739471>
+        owl:sameAs <http://es.dbpedia.org/resource/Caja_del_Agua_(Puerto_Real)>.
+
+<http://www.wikidata.org/entity/Q5870210>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_Híspalis>.
+
+<http://www.wikidata.org/entity/Q5870132>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_Grande_(Ocaña)>.
+
+<http://www.wikidata.org/entity/Q5408162>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuentes_Tamáricas>.
+
+<http://www.wikidata.org/entity/Q5870221>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_la_Piedra_Escrita>.
+
+<http://www.wikidata.org/entity/Q5870241>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_las_Galeras>.
+
+<http://www.wikidata.org/entity/Q5870248>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_las_Ranas_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q5870202>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_Olletas>.
+
+<http://www.wikidata.org/entity/Q5870212>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_Ventura_Rodríguez_(Boadilla_del_Monte)>.
+
+<http://www.wikidata.org/entity/Q3747351>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_la_Alcachofa>.
+
+<http://www.wikidata.org/entity/Q4343253>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_Miguel_de_Cervantes>.
+
+<http://www.wikidata.org/entity/Q5577532>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_Su_Excelencia_el_Jefe_del_Estado>.
+
+<http://www.wikidata.org/entity/Q5870185>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_Génova>.
+
+<http://www.wikidata.org/entity/Q5870188>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_Juan_de_Villanueva>.
+
+<http://www.wikidata.org/entity/Q5870199>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_Neveros>.
+
+<http://www.wikidata.org/entity/Q5870152>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_Nueva_(Martos)>.
+
+<http://www.wikidata.org/entity/Q3399294>
+        owl:sameAs <http://es.dbpedia.org/resource/Las_Burgas>.
+
+<http://www.wikidata.org/entity/Q3887462>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_Felipe_IV>.
+
+<http://www.wikidata.org/entity/Q5870190>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_La_Breña>.
+
+<http://www.wikidata.org/entity/Q5643968>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_del_Berro_(fuente_y_viaje_de_agua)>.
+
+<http://www.wikidata.org/entity/Q5797408>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_la_Princesa>.
+
+<http://www.wikidata.org/entity/Q5870250>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_las_Tres_Gitanillas>.
+
+<http://www.wikidata.org/entity/Q6043168>
+        owl:sameAs <http://es.dbpedia.org/resource/Ninfa_de_la_Caracola>.
+
+<http://www.wikidata.org/entity/Q8962960>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_la_Sardana>.
+
+<http://www.wikidata.org/entity/Q9060985>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_los_Luceros>.
+
+<http://www.wikidata.org/entity/Q5870272>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_los_Incrédulos>.
+
+<http://www.wikidata.org/entity/Q5870276>
+        owl:sameAs <http://es.dbpedia.org/resource/Glorieta_de_los_Toreros_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q6022971>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_Calvo_Sotelo>.
+
+<http://www.wikidata.org/entity/Q6437427>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_El_Caño_(Torrelodones)>.
+
+<http://www.wikidata.org/entity/Q8961960>
+        owl:sameAs <http://es.dbpedia.org/resource/Font_del_Gat>.
+
+<http://www.wikidata.org/entity/Q11922353>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_Neptuno_de_Manresa>.
+
+<http://www.wikidata.org/entity/Q5870311>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_del_Zarzón>.
+
+<http://www.wikidata.org/entity/Q11113170>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Aguadora>.
+
+<http://www.wikidata.org/entity/Q8352238>
+        owl:sameAs <http://es.dbpedia.org/resource/Cuatro_Fuentes>.
+
+<http://www.wikidata.org/entity/Q8962958>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_Orfeo>.
+
+<http://www.wikidata.org/entity/Q8962963>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_del_Torico>.
+
+<http://www.wikidata.org/entity/Q5870261>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_los_Colores>.
+
+<http://www.wikidata.org/entity/Q5870289>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_del_Járiz>.
+
+<http://www.wikidata.org/entity/Q6043171>
+        owl:sameAs <http://es.dbpedia.org/resource/Ninfa_del_Cántaro>.
+
+<http://www.wikidata.org/entity/Q8964305>
+        owl:sameAs <http://es.dbpedia.org/resource/Glorieta_de_Rafael_de_León>.
+
+<http://www.wikidata.org/entity/Q9018571>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Fuentecilla>.
+
+<http://www.wikidata.org/entity/Q5870267>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_los_Cuatro_Caños>.
+
+<http://www.wikidata.org/entity/Q5870270>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_los_Galápagos>.
+
+<http://www.wikidata.org/entity/Q8962947>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_Pública_(Valencia)>.
+
+<http://www.wikidata.org/entity/Q9010999>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_los_Leones_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q9055725>
+        owl:sameAs <http://es.dbpedia.org/resource/Parotet>.
+
+<http://www.wikidata.org/entity/Q5870308>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_del_Zacatín>.
+
+<http://www.wikidata.org/entity/Q5965015>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Rana_(Villena)>.
+
+<http://www.wikidata.org/entity/Q5870279>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_los_Tres_Caños>.
+
+<http://www.wikidata.org/entity/Q6023031>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_Goya>.
+
+<http://www.wikidata.org/entity/Q6076002>
+        owl:sameAs <http://es.dbpedia.org/resource/Pilón_de_los_Burros>.
+
+<http://www.wikidata.org/entity/Q8962971>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuentes_de_las_Palomas_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q11922308>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_Hércules>.
+
+<http://www.wikidata.org/entity/Q248090>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_García>.
+
+<http://www.wikidata.org/entity/Q155414>
+        owl:sameAs <http://es.dbpedia.org/resource/Foncalada>.
+
+<http://www.wikidata.org/entity/Q550600>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_la_Hispanidad>.
+
+<http://www.wikidata.org/entity/Q968782>
+        owl:sameAs <http://es.dbpedia.org/resource/Caños_de_San_Francisco>.
+
+<http://www.wikidata.org/entity/Q1472798>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_Neptuno_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q1519368>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_la_Sirena_de_Lérida>.
+
+<http://www.wikidata.org/entity/Q1647048>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_Apolo_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q1414600>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_Mágica_de_Montjuic>.
+
+<http://www.wikidata.org/entity/Q2736564>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_Cibeles>.
+
+<http://www.wikidata.org/entity/Q2877582>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_Pando>.
+
+<http://www.wikidata.org/entity/Q2723971>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_Canaletas>.
+
+<http://www.wikidata.org/entity/Q2884109>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Obispo_(Málaga)>.
+
+<http://www.wikidata.org/entity/Q2834317>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_la_Fama_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q1999259>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_del_Ángel_Caído>.
+
+<http://www.wikidata.org/entity/Q24568335>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_Agria>.
+
+<http://www.wikidata.org/entity/Q24661108>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_del_Águila>.
+
+<http://www.wikidata.org/entity/Q24939576>
+        owl:sameAs <http://es.dbpedia.org/resource/Pava_de_la_Balsa>.
+
+<http://www.wikidata.org/entity/Q22683079>
+        owl:sameAs <http://es.dbpedia.org/resource/Glorieta_de_la_Estrella>.
+
+<http://www.wikidata.org/entity/Q24023695>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_del_Rey_(Priego_de_Córdoba)>.
+
+<http://www.wikidata.org/entity/Q24090789>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_la_Dama_(Soria)>.
+
+<http://www.wikidata.org/entity/Q24024931>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_Colón_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q24256754>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Fontana>.
+
+<http://www.wikidata.org/entity/Q25058240>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_la_Abundancia>.
+
+<http://www.wikidata.org/entity/Q47528241>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_Vieja_(Ocaña)>.
+
+<http://www.wikidata.org/entity/Q50125816>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_Isabel_la_Católica_y_Cristóbal_Colón_(Granada)>.
+
+<http://www.wikidata.org/entity/Q54823783>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_Sesga>.
+
+<http://www.wikidata.org/entity/Q56402494>
+        owl:sameAs <http://es.dbpedia.org/resource/Font_del_gat_(abrevadero)>.
+
+<http://www.wikidata.org/entity/Q46600022>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_El_Molinar_de_Alcoy>.
+
+<http://www.wikidata.org/entity/Q30318439>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuentes_de_los_conventos_de_Madrid>.
+
+<http://www.wikidata.org/entity/Q33133172>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_Eugenio_d'Ors>.
+
+<http://www.wikidata.org/entity/Q35055255>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_del_Bombillo>.
+
+<http://www.wikidata.org/entity/Q38073807>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_Cella>.
+
+<http://www.wikidata.org/entity/Q30071168>
+        owl:sameAs <http://es.dbpedia.org/resource/Manantial_de_la_Salud_del_arroyo_de_San_Bernardino>.
+
+<http://www.wikidata.org/entity/Q28502622>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_la_plaza_de_Santo_Domingo>.
+
+<http://www.wikidata.org/entity/Q30071217>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_Matalobos>.
+
+<http://www.wikidata.org/entity/Q28502404>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_la_plaza_de_las_Descalzas>.
+
+<http://www.wikidata.org/entity/Q28502422>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_la_plaza_de_Puerta_de_Moros>.
+
+<http://www.wikidata.org/entity/Q29652277>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_del_Cisne_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q27881090>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_San_Salvador>.
+
+<http://www.wikidata.org/entity/Q28017809>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_Aldomar>.
+
+<http://www.wikidata.org/entity/Q27497553>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_los_Delfines_(San_Antón)>.
+
+<http://www.wikidata.org/entity/Q27589076>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_los_Mascarones>.
+
+<http://www.wikidata.org/entity/Q26720821>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_Catalina_de_Ribera>.
+
+<http://www.wikidata.org/entity/Q27865371>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_Lavapiés>.
+
+<http://www.wikidata.org/entity/Q26884243>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_la_Belleza>.
+
+<http://www.wikidata.org/entity/Q26896889>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_los_Niños>.
+
+<http://www.wikidata.org/entity/Q27498013>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_los_Galápagos_(San_Antón)>.
+
+<http://www.wikidata.org/entity/Q28130305>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_Pontejos>.
+
+<http://www.wikidata.org/entity/Q27498168>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_las_Recogidas>.
+
+<http://www.wikidata.org/entity/Q28017734>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_los_veinticinco_caños>.
+
+<http://www.wikidata.org/entity/Q21597519>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_del_Niño_(Soria)>.
+
+<http://www.wikidata.org/entity/Q21570154>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_los_Tres_Caños_(Soria)>.
+
+<http://www.wikidata.org/entity/Q21162806>
+        owl:sameAs <http://es.dbpedia.org/resource/Estanque_Ochavado>.
+
+<http://www.wikidata.org/entity/Q18115979>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_Hércules_(Gaudí)>.
+
+<http://www.wikidata.org/entity/Q18145171>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_Neptuno_(Barcelona)>.
+
+<http://www.wikidata.org/entity/Q18130427>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_Ceres>.
+
+<http://www.wikidata.org/entity/Q18146384>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_las_Tres_Gracias_(Barcelona)>.
+
+<http://www.wikidata.org/entity/Q18120931>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_Diana>.
+
+<http://www.wikidata.org/entity/Q18186624>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_Santa_Águeda_de_Jérica>.
+
+<http://www.wikidata.org/entity/Q18145791>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_del_Viejo>.
+
+<http://www.wikidata.org/entity/Q18529488>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuentes_de_Barcelona>.
+
+<http://www.wikidata.org/entity/Q20543747>
+        owl:sameAs <http://es.dbpedia.org/resource/El_rapto_de_Europa_(Oliveira)>.
+
+<http://www.wikidata.org/entity/Q19816854>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_Carmen_Amaya>.
+
+<http://www.wikidata.org/entity/Q20687530>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_los_Leones_(Soria)>.
+
+<http://www.wikidata.org/entity/Q20015161>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_los_Riojanos_Ilustres>.
+
+<http://www.wikidata.org/entity/Q20546492>
+        owl:sameAs <http://es.dbpedia.org/resource/Estatua_de_los_rederos>.
+
+<http://www.wikidata.org/entity/Q20971504>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_los_Baños_de_Montanejos>.
+
+<http://www.wikidata.org/entity/Q20544873>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_los_caballos>.
+
+<http://www.wikidata.org/entity/Q20830613>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_San_Vicente_de_Catí>.
+
+<http://www.wikidata.org/entity/Q56493461>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_San_Antonio_de_Padua>.
+
+<http://www.wikidata.org/entity/Q58002066>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_Vieja_(Ademuz)>.
+
+<http://www.wikidata.org/entity/Q65933828>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_las_Escaleras>.
+
+<http://www.wikidata.org/entity/Q97625173>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_de_Moratalla>.
+
+<http://www.wikidata.org/entity/Q97628665>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_Pinete_(Moguer)>.
+
+<http://www.wikidata.org/entity/Q97627193>
+        owl:sameAs <http://es.dbpedia.org/resource/Fontanilla>.
+
+<http://www.wikidata.org/entity/Q97826082>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_Primo_de_Rivera_(Jerez)>.
+
+<http://www.wikidata.org/entity/Q97925401>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_Cuba>.
+
+<http://www.wikidata.org/entity/Q97633214>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_las_Tres_Gracias_(Málaga)>.
+
+<http://www.wikidata.org/entity/Q107862085>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_del_Negrito>.
+
+<http://www.wikidata.org/entity/Q96656916>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_Reding>.
+
+<http://www.wikidata.org/entity/Q108378466>
+        owl:sameAs <http://es.dbpedia.org/resource/Estanque_del_Palacio_de_Cristal>.
+
+<http://www.wikidata.org/entity/Q110096244>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_Montemayor_(Moguer)>.
+
+<http://www.wikidata.org/entity/Q125484359>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_los_Leones_(Conil_de_la_Frontera)>.
+
+<http://www.wikidata.org/entity/Q122350539>
+        owl:sameAs <http://es.dbpedia.org/resource/Pilar_de_las_Ninfas>.
+
+<http://www.wikidata.org/entity/Q110994556>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_Dorada>.
+
+<http://www.wikidata.org/entity/Q112306187>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_del_Sol>.
+
+<http://www.wikidata.org/entity/Q110988178>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuentes_públicas_de_Valladolid>.
+
+<http://www.wikidata.org/entity/Q111968507>
+        owl:sameAs <http://es.dbpedia.org/resource/Alegoría_de_los_gremios>.
+
+<http://www.wikidata.org/entity/Q112759078>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_la_Salud>.
+
+<http://www.wikidata.org/entity/Q111434617>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_Los_Colosos>.
+
+<http://www.wikidata.org/entity/Q110989099>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_la_Fama_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q111901585>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_del_Cisne_(Valladolid)>.
+
+<http://www.wikidata.org/entity/Q124611980>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_la_Herrería>.
+
+<http://www.wikidata.org/entity/Q117770169>
+        owl:sameAs <http://es.dbpedia.org/resource/Noria_de_les_Paretetes_(Énova)>.
+
+<http://www.wikidata.org/entity/Q56044255>
+        owl:sameAs <http://es.dbpedia.org/resource/Yacimiento_arqueológico_del_Cortijo_de_Miraflores_y_Huerta_de_la_Albarrana>.
+
+<http://www.wikidata.org/entity/Q3034186>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_los_Caídos_por_España>.
+
+<http://www.wikidata.org/entity/Q6047924>
+        owl:sameAs <http://es.dbpedia.org/resource/Obelisco_de_la_Arganzuela>.
+
+<http://www.wikidata.org/entity/Q11008290>
+        owl:sameAs <http://es.dbpedia.org/resource/Obelisco_Europa_(Zaragoza)>.
+
+<http://www.wikidata.org/entity/Q6023096>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_Salvador_Rueda>.
+
+<http://www.wikidata.org/entity/Q6023113>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_Torrijos>.
+
+<http://www.wikidata.org/entity/Q593202>
+        owl:sameAs <http://es.dbpedia.org/resource/Mujer_y_pájaro>.
+
+<http://www.wikidata.org/entity/Q49676>
+        owl:sameAs <http://es.dbpedia.org/resource/Dolmen_Novo_Milenio>.
+
+<http://www.wikidata.org/entity/Q1518215>
+        owl:sameAs <http://es.dbpedia.org/resource/Las_Cuatro_Columnas>.
+
+<http://www.wikidata.org/entity/Q1519368>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_la_Sirena_de_Lérida>.
+
+<http://www.wikidata.org/entity/Q1647048>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_Apolo_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q1607260>
+        owl:sameAs <http://es.dbpedia.org/resource/Femme_(escultura)>.
+
+<http://www.wikidata.org/entity/Q1472798>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_Neptuno_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q1106161>
+        owl:sameAs <http://es.dbpedia.org/resource/Cristo_de_los_Faroles_(Córdoba)>.
+
+<http://www.wikidata.org/entity/Q1187408>
+        owl:sameAs <http://es.dbpedia.org/resource/Peine_del_viento>.
+
+<http://www.wikidata.org/entity/Q3862645>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_Alfonso_XII_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q4015981>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Chicharro>.
+
+<http://www.wikidata.org/entity/Q3747351>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_la_Alcachofa>.
+
+<http://www.wikidata.org/entity/Q3819918>
+        owl:sameAs <http://es.dbpedia.org/resource/Topos_V>.
+
+<http://www.wikidata.org/entity/Q3887462>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_Felipe_IV>.
+
+<http://www.wikidata.org/entity/Q6043168>
+        owl:sameAs <http://es.dbpedia.org/resource/Ninfa_de_la_Caracola>.
+
+<http://www.wikidata.org/entity/Q6072032>
+        owl:sameAs <http://es.dbpedia.org/resource/Per_Adriano>.
+
+<http://www.wikidata.org/entity/Q6152944>
+        owl:sameAs <http://es.dbpedia.org/resource/Triunfo_de_San_Rafael_(Plaza_de_la_Compañía)>.
+
+<http://www.wikidata.org/entity/Q6173016>
+        owl:sameAs <http://es.dbpedia.org/resource/Ángel_(escultura_de_Felip_Ros)>.
+
+<http://www.wikidata.org/entity/Q6129465>
+        owl:sameAs <http://es.dbpedia.org/resource/Sirenas_de_Segovia>.
+
+<http://www.wikidata.org/entity/Q6157296>
+        owl:sameAs <http://es.dbpedia.org/resource/Urano_(escultura)>.
+
+<http://www.wikidata.org/entity/Q6152946>
+        owl:sameAs <http://es.dbpedia.org/resource/Triunfo_de_San_Rafael_(Puente_romano_de_Córdoba)>.
+
+<http://www.wikidata.org/entity/Q6043171>
+        owl:sameAs <http://es.dbpedia.org/resource/Ninfa_del_Cántaro>.
+
+<http://www.wikidata.org/entity/Q6131334>
+        owl:sameAs <http://es.dbpedia.org/resource/Sol_Rojo_(Edgar_Negret)>.
+
+<http://www.wikidata.org/entity/Q6081506>
+        owl:sameAs <http://es.dbpedia.org/resource/Points_of_view>.
+
+<http://www.wikidata.org/entity/Q6112733>
+        owl:sameAs <http://es.dbpedia.org/resource/Rotonda_del_Minotauro>.
+
+<http://www.wikidata.org/entity/Q6152948>
+        owl:sameAs <http://es.dbpedia.org/resource/Triunfo_de_la_Candelaria>.
+
+<http://www.wikidata.org/entity/Q11937554>
+        owl:sameAs <http://es.dbpedia.org/resource/A_los_mártires_de_la_independencia>.
+
+<http://www.wikidata.org/entity/Q11937550>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_Rius_y_Taulet>.
+
+<http://www.wikidata.org/entity/Q13405928>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_Francesc_Macià>.
+
+<http://www.wikidata.org/entity/Q11704766>
+        owl:sameAs <http://es.dbpedia.org/resource/Triunfo_de_San_Rafael_(Plaza_del_Potro)>.
+
+<http://www.wikidata.org/entity/Q11922474>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_del_Genio_Catalán>.
+
+<http://www.wikidata.org/entity/Q11918904>
+        owl:sameAs <http://es.dbpedia.org/resource/Elogio_del_agua>.
+
+<http://www.wikidata.org/entity/Q11922308>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_Hércules>.
+
+<http://www.wikidata.org/entity/Q2736564>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_Cibeles>.
+
+<http://www.wikidata.org/entity/Q17496295>
+        owl:sameAs <http://es.dbpedia.org/resource/Lápida_a_Ramón_Pérez_de_Ayala>.
+
+<http://www.wikidata.org/entity/Q17517597>
+        owl:sameAs <http://es.dbpedia.org/resource/San_Juan_Bautista_(Pilar_Fernández_Carballedo)>.
+
+<http://www.wikidata.org/entity/Q17496255>
+        owl:sameAs <http://es.dbpedia.org/resource/León_(escultura)>.
+
+<http://www.wikidata.org/entity/Q17496257>
+        owl:sameAs <http://es.dbpedia.org/resource/Placa_conmemorativa_del_Carbayón>.
+
+<http://www.wikidata.org/entity/Q17496621>
+        owl:sameAs <http://es.dbpedia.org/resource/Llama_Olímpica_(escultura)>.
+
+<http://www.wikidata.org/entity/Q17496648>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_San_Francisco_de_Asís_(Oviedo)>.
+
+<http://www.wikidata.org/entity/Q17496630>
+        owl:sameAs <http://es.dbpedia.org/resource/Estatua_de_Fernando_Valdés_Salas>.
+
+<http://www.wikidata.org/entity/Q17496254>
+        owl:sameAs <http://es.dbpedia.org/resource/Estatua_de_Samuel_Sánchez>.
+
+<http://www.wikidata.org/entity/Q8964135>
+        owl:sameAs <http://es.dbpedia.org/resource/Giraldillo>.
+
+<http://www.wikidata.org/entity/Q9018489>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Diosa_(escultura)>.
+
+<http://www.wikidata.org/entity/Q9090229>
+        owl:sameAs <http://es.dbpedia.org/resource/Triunfo_de_San_Rafael_(Puerta_del_Puente)>.
+
+<http://www.wikidata.org/entity/Q8962963>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_del_Torico>.
+
+<http://www.wikidata.org/entity/Q9064514>
+        owl:sameAs <http://es.dbpedia.org/resource/Puerta_de_la_Ilustración>.
+
+<http://www.wikidata.org/entity/Q8962947>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_Pública_(Valencia)>.
+
+<http://www.wikidata.org/entity/Q9034948>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_Colón_(Moguer)>.
+
+<http://www.wikidata.org/entity/Q9034990>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_al_Cid_Campeador_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q11679612>
+        owl:sameAs <http://es.dbpedia.org/resource/A_Antoni_Gaudí>.
+
+<http://www.wikidata.org/entity/Q8183266>
+        owl:sameAs <http://es.dbpedia.org/resource/A_Lluís_Millet>.
+
+<http://www.wikidata.org/entity/Q11268617>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_Gabriel_Miró>.
+
+<http://www.wikidata.org/entity/Q8845596>
+        owl:sameAs <http://es.dbpedia.org/resource/Estatua_de_Espartero_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q5350918>
+        owl:sameAs <http://es.dbpedia.org/resource/Barcelona's_Head>.
+
+<http://www.wikidata.org/entity/Q5649838>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Astronauta_(Valdemoro)>.
+
+<http://www.wikidata.org/entity/Q5729445>
+        owl:sameAs <http://es.dbpedia.org/resource/Biznaguero>.
+
+<http://www.wikidata.org/entity/Q5394315>
+        owl:sameAs <http://es.dbpedia.org/resource/Escultura_per_a_Europa>.
+
+<http://www.wikidata.org/entity/Q5681934>
+        owl:sameAs <http://es.dbpedia.org/resource/A_Narcís_Oller>.
+
+<http://www.wikidata.org/entity/Q5577532>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_Su_Excelencia_el_Jefe_del_Estado>.
+
+<http://www.wikidata.org/entity/Q5654354>
+        owl:sameAs <http://es.dbpedia.org/resource/A_las_Peñas_de_San_Medín>.
+
+<http://www.wikidata.org/entity/Q5713145>
+        owl:sameAs <http://es.dbpedia.org/resource/Ave_Quiromántica>.
+
+<http://www.wikidata.org/entity/Q5820841>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Ampurdán>.
+
+<http://www.wikidata.org/entity/Q5719462>
+        owl:sameAs <http://es.dbpedia.org/resource/Barcelona_Olímpica>.
+
+<http://www.wikidata.org/entity/Q2841972>
+        owl:sameAs <http://es.dbpedia.org/resource/Nimfa_que_es_pentina>.
+
+<http://www.wikidata.org/entity/Q3139587>
+        owl:sameAs <http://es.dbpedia.org/resource/Hombre_Río_(Córdoba)>.
+
+<http://www.wikidata.org/entity/Q2918865>
+        owl:sameAs <http://es.dbpedia.org/resource/Ofelia_ahogada>.
+
+<http://www.wikidata.org/entity/Q2839053>
+        owl:sameAs <http://es.dbpedia.org/resource/Millenium_(obelisco)>.
+
+<http://www.wikidata.org/entity/Q2886822>
+        owl:sameAs <http://es.dbpedia.org/resource/Silla_del_rey>.
+
+<http://www.wikidata.org/entity/Q6023289>
+        owl:sameAs <http://es.dbpedia.org/resource/Estatua_ecuestre_de_Francisco_Pizarro_(Trujillo)>.
+
+<http://www.wikidata.org/entity/Q6023271>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_coreano_al_marino>.
+
+<http://www.wikidata.org/entity/Q6023181>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_los_caídos_del_25_de_julio_de_1797>.
+
+<http://www.wikidata.org/entity/Q6023212>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_al_Fiestero>.
+
+<http://www.wikidata.org/entity/Q6023252>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_al_Pescador_de_Salou>.
+
+<http://www.wikidata.org/entity/Q6023244>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_al_marqués_de_Larios>.
+
+<http://www.wikidata.org/entity/Q5943548>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_Diana_cazadora_(Madrid)>.
+
+<http://www.wikidata.org/entity/Q5963518>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Gamba_(escultura)>.
+
+<http://www.wikidata.org/entity/Q6005997>
+        owl:sameAs <http://es.dbpedia.org/resource/Materia_y_Forma_(Subirachs)>.
+
+<http://www.wikidata.org/entity/Q6023047>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_Juan_de_Mesa_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q6023089>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_Rubén_Darío_(Málaga)>.
+
+<http://www.wikidata.org/entity/Q6023107>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_Simón_Bolívar_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q5825584>
+        owl:sameAs <http://es.dbpedia.org/resource/El_llarg_viatge>.
+
+<http://www.wikidata.org/entity/Q5848895>
+        owl:sameAs <http://es.dbpedia.org/resource/Estatua_de_la_Niña_de_los_Peines_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q5848872>
+        owl:sameAs <http://es.dbpedia.org/resource/Estatua_de_Manolo_Vázquez>.
+
+<http://www.wikidata.org/entity/Q5848907>
+        owl:sameAs <http://es.dbpedia.org/resource/Estatua_ecuestre_de_Carlos_III>.
+
+<http://www.wikidata.org/entity/Q5848893>
+        owl:sameAs <http://es.dbpedia.org/resource/Estatua_y_fuentes_de_la_Mariblanca>.
+
+<http://www.wikidata.org/entity/Q5870224>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_la_Samaritana>.
+
+<http://www.wikidata.org/entity/Q6022958>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_Arsenio_Martínez_Campos>.
+
+<http://www.wikidata.org/entity/Q6023072>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_Martínez_Montañés>.
+
+<http://www.wikidata.org/entity/Q6023084>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_Pastora_Imperio>.
+
+<http://www.wikidata.org/entity/Q5848878>
+        owl:sameAs <http://es.dbpedia.org/resource/Estatua_de_Viriato_(Zamora)>.
+
+<http://www.wikidata.org/entity/Q6023041>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_Juan_Manuel_Rodríguez_Ojeda>.
+
+<http://www.wikidata.org/entity/Q6023146>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_la_tolerancia>.
+
+<http://www.wikidata.org/entity/Q5822151>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Icue>.
+
+<http://www.wikidata.org/entity/Q5839862>
+        owl:sameAs <http://es.dbpedia.org/resource/Espai_/_Temps>.
+
+<http://www.wikidata.org/entity/Q5991597>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Mano_(Botero)>.
+
+<http://www.wikidata.org/entity/Q6023044>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_Juan_Pablo_II_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q6023129>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_la_Duquesa_de_Alba>.
+
+<http://www.wikidata.org/entity/Q5848901>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Explorador_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q5822058>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Guerrero_de_Goslar>.
+
+<http://www.wikidata.org/entity/Q5839426>
+        owl:sameAs <http://es.dbpedia.org/resource/Escullera_(monumento)>.
+
+<http://www.wikidata.org/entity/Q5848861>
+        owl:sameAs <http://es.dbpedia.org/resource/Estatua_de_Curro_Romero>.
+
+<http://www.wikidata.org/entity/Q6023013>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_Espartero_(Logroño)>.
+
+<http://www.wikidata.org/entity/Q6023137>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_la_Infanta_María_Luisa_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q5827139>
+        owl:sameAs <http://es.dbpedia.org/resource/El_ángel_exterminador_(Llimona)>.
+
+<http://www.wikidata.org/entity/Q5870270>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_los_Galápagos>.
+
+<http://www.wikidata.org/entity/Q5861908>
+        owl:sameAs <http://es.dbpedia.org/resource/Figura_de_pie_en_tres_módulos>.
+
+<http://www.wikidata.org/entity/Q6023075>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_Narciso_Díaz_de_Escovar>.
+
+<http://www.wikidata.org/entity/Q5848858>
+        owl:sameAs <http://es.dbpedia.org/resource/Estatua_de_Carmen_la_Cigarrera>.
+
+<http://www.wikidata.org/entity/Q5848870>
+        owl:sameAs <http://es.dbpedia.org/resource/Estatua_de_Manolo_Caracol_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q6023031>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_Goya>.
+
+<http://www.wikidata.org/entity/Q6023039>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_Jovellanos_(Oviedo)>.
+
+<http://www.wikidata.org/entity/Q6023078>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_Narciso_Monturiol>.
+
+<http://www.wikidata.org/entity/Q15726782>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_al_Doctor_Robert>.
+
+<http://www.wikidata.org/entity/Q15728944>
+        owl:sameAs <http://es.dbpedia.org/resource/A_Francesc_Layret>.
+
+<http://www.wikidata.org/entity/Q15727775>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_Mosén_Jacint_Verdaguer>.
+
+<http://www.wikidata.org/entity/Q17538728>
+        owl:sameAs <http://es.dbpedia.org/resource/Asturias_(escultura)>.
+
+<http://www.wikidata.org/entity/Q17538774>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_los_Defensores_Caídos>.
+
+<http://www.wikidata.org/entity/Q17538740>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_al_Teniente_Coronel_Teijeiro>.
+
+<http://www.wikidata.org/entity/Q17537146>
+        owl:sameAs <http://es.dbpedia.org/resource/Alegorías_al_Trabajo_y_las_Artes>.
+
+<http://www.wikidata.org/entity/Q17560482>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_Francisco_Franco_(Oviedo)>.
+
+<http://www.wikidata.org/entity/Q17537228>
+        owl:sameAs <http://es.dbpedia.org/resource/Busto_de_Juan_Rodríguez_Muñiz>.
+
+<http://www.wikidata.org/entity/Q17537111>
+        owl:sameAs <http://es.dbpedia.org/resource/Lápida_de_Fermín_Canella_Secades>.
+
+<http://www.wikidata.org/entity/Q17560472>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Espiga_(escultura)>.
+
+<http://www.wikidata.org/entity/Q17538824>
+        owl:sameAs <http://es.dbpedia.org/resource/Busto_de_Isabel_II_(Oviedo)>.
+
+<http://www.wikidata.org/entity/Q17537304>
+        owl:sameAs <http://es.dbpedia.org/resource/Mausoleo_del_cabo_Luis_Noval>.
+
+<http://www.wikidata.org/entity/Q17525008>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_de_los_Reyes_Caudillos_(conjunto_escultórico)>.
+
+<http://www.wikidata.org/entity/Q17524975>
+        owl:sameAs <http://es.dbpedia.org/resource/Leones_de_la_plaza_de_Castilla>.
+
+<http://www.wikidata.org/entity/Q17518510>
+        owl:sameAs <http://es.dbpedia.org/resource/Alexander_Fleming_(escultura)>.
+
+<http://www.wikidata.org/entity/Q17525030>
+        owl:sameAs <http://es.dbpedia.org/resource/Estatua_de_Fray_Benito_Feijoo>.
+
+<http://www.wikidata.org/entity/Q17535401>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_al_marqués_de_Santa_Cruz>.
+
+<http://www.wikidata.org/entity/Q17524240>
+        owl:sameAs <http://es.dbpedia.org/resource/La_bailarina>.
+
+<http://www.wikidata.org/entity/Q17535513>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_Woody_Allen>.
+
+<http://www.wikidata.org/entity/Q17525060>
+        owl:sameAs <http://es.dbpedia.org/resource/Puertas_de_madera_de_las_Novedades>.
+
+<http://www.wikidata.org/entity/Q17535858>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_Leopoldo_Alas_%22Clarín%22>.
+
+<http://www.wikidata.org/entity/Q17536886>
+        owl:sameAs <http://es.dbpedia.org/resource/Amor_y_Dolor_(escultura)>.
+
+<http://www.wikidata.org/entity/Q17537059>
+        owl:sameAs <http://es.dbpedia.org/resource/Julián_Clavería_(escultura)>.
+
+<http://www.wikidata.org/entity/Q17535995>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_José_Tartiere>.
+
+<http://www.wikidata.org/entity/Q17525028>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_Plácido_Álvarez-Buylla>.
+
+<http://www.wikidata.org/entity/Q17519614>
+        owl:sameAs <http://es.dbpedia.org/resource/Murales_de_la_estación_de_Renfe_(Oviedo)>.
+
+<http://www.wikidata.org/entity/Q17525448>
+        owl:sameAs <http://es.dbpedia.org/resource/Busto_de_Guillermo_Schulz>.
+
+<http://www.wikidata.org/entity/Q17525016>
+        owl:sameAs <http://es.dbpedia.org/resource/Armando_Palacio_Valdés_(escultura)>.
+
+<http://www.wikidata.org/entity/Q17518441>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_al_General_Elorza>.
+
+<http://www.wikidata.org/entity/Q17536991>
+        owl:sameAs <http://es.dbpedia.org/resource/Placa_en_memoria_del_cabo_Luis_Noval>.
+
+<http://www.wikidata.org/entity/Q17523983>
+        owl:sameAs <http://es.dbpedia.org/resource/Cañones_del_parque_San_Pedro_de_los_Arcos_(Oviedo)>.
+
+<http://www.wikidata.org/entity/Q17525440>
+        owl:sameAs <http://es.dbpedia.org/resource/José_Rodríguez_Fernández_(escultura)>.
+
+<http://www.wikidata.org/entity/Q17531572>
+        owl:sameAs <http://es.dbpedia.org/resource/La_Maternidad_en_la_Florida_(escultura)>.
+
+<http://www.wikidata.org/entity/Q17518734>
+        owl:sameAs <http://es.dbpedia.org/resource/Santiago_Apóstol_(escultura)>.
+
+<http://www.wikidata.org/entity/Q18696741>
+        owl:sameAs <http://es.dbpedia.org/resource/Barcino_(escultura)>.
+
+<http://www.wikidata.org/entity/Q19291114>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_al_libro>.
+
+<http://www.wikidata.org/entity/Q16268973>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_la_Plaza_de_España_(Barcelona)>.
+
+<http://www.wikidata.org/entity/Q16608881>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_Bartolomé_de_las_Casas_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q16587750>
+        owl:sameAs <http://es.dbpedia.org/resource/La_República_(Homenaje_a_Pi_i_Margall)>.
+
+<http://www.wikidata.org/entity/Q15987275>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_la_Aurora>.
+
+<http://www.wikidata.org/entity/Q15817402>
+        owl:sameAs <http://es.dbpedia.org/resource/A_Rafael_Casanova>.
+
+<http://www.wikidata.org/entity/Q16219321>
+        owl:sameAs <http://es.dbpedia.org/resource/Dama_del_paraguas>.
+
+<http://www.wikidata.org/entity/Q16301193>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_Sagasta_(Logroño)>.
+
+<http://www.wikidata.org/entity/Q16003729>
+        owl:sameAs <http://es.dbpedia.org/resource/A_Goya>.
+
+<http://www.wikidata.org/entity/Q15991033>
+        owl:sameAs <http://es.dbpedia.org/resource/Cambio_(Utsurohi)>.
+
+<http://www.wikidata.org/entity/Q16185855>
+        owl:sameAs <http://es.dbpedia.org/resource/A_Galceran_Marquet>.
+
+<http://www.wikidata.org/entity/Q16089609>
+        owl:sameAs <http://es.dbpedia.org/resource/A_Joan_Güell_i_Ferrer>.
+
+<http://www.wikidata.org/entity/Q16516448>
+        owl:sameAs <http://es.dbpedia.org/resource/Paloma_de_la_paz_(escultura)>.
+
+<http://www.wikidata.org/entity/Q15991180>
+        owl:sameAs <http://es.dbpedia.org/resource/Aquí_hay_tomate_(instalación_artística)>.
+
+<http://www.wikidata.org/entity/Q16004135>
+        owl:sameAs <http://es.dbpedia.org/resource/Barcelona_(escultura)>.
+
+<http://www.wikidata.org/entity/Q23498740>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_los_defensores_de_1714>.
+
+<http://www.wikidata.org/entity/Q17560516>
+        owl:sameAs <http://es.dbpedia.org/resource/Busto_del_Padre_Vinjoy>.
+
+<http://www.wikidata.org/entity/Q17560550>
+        owl:sameAs <http://es.dbpedia.org/resource/Estatua_del_rey_Alfonso_II_de_Asturias>.
+
+<http://www.wikidata.org/entity/Q18123493>
+        owl:sameAs <http://es.dbpedia.org/resource/A_Pau_Casals>.
+
+<http://www.wikidata.org/entity/Q17563109>
+        owl:sameAs <http://es.dbpedia.org/resource/Estatua_de_Isabel_de_Portugal_(Albacete)>.
+
+<http://www.wikidata.org/entity/Q17561482>
+        owl:sameAs <http://es.dbpedia.org/resource/Mural_(Francisco_Fresno)>.
+
+<http://www.wikidata.org/entity/Q17560548>
+        owl:sameAs <http://es.dbpedia.org/resource/Sin_título_(escultura_de_Herminio_Álvarez)>.
+
+<http://www.wikidata.org/entity/Q17560492>
+        owl:sameAs <http://es.dbpedia.org/resource/Relieves_del_Instituto_Nacional_de_Previsión>.
+
+<http://www.wikidata.org/entity/Q17994282>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Sembrador>.
+
+<http://www.wikidata.org/entity/Q17627904>
+        owl:sameAs <http://es.dbpedia.org/resource/Pórtico_de_La_Mancha>.
+
+<http://www.wikidata.org/entity/Q18004983>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_Clavé>.
+
+<http://www.wikidata.org/entity/Q18168559>
+        owl:sameAs <http://es.dbpedia.org/resource/A_Aribau>.
+
+<http://www.wikidata.org/entity/Q18169048>
+        owl:sameAs <http://es.dbpedia.org/resource/A_Marià_Fortuny>.
+
+<http://www.wikidata.org/entity/Q18156161>
+        owl:sameAs <http://es.dbpedia.org/resource/Barcelona_a_Prim>.
+
+<http://www.wikidata.org/entity/Q18156044>
+        owl:sameAs <http://es.dbpedia.org/resource/A_Frederic_Soler>.
+
+<http://www.wikidata.org/entity/Q18168751>
+        owl:sameAs <http://es.dbpedia.org/resource/Al_Doctor_Trueta>.
+
+<http://www.wikidata.org/entity/Q20013240>
+        owl:sameAs <http://es.dbpedia.org/resource/Atmósfera_(Albacete)>.
+
+<http://www.wikidata.org/entity/Q20543747>
+        owl:sameAs <http://es.dbpedia.org/resource/El_rapto_de_Europa_(Oliveira)>.
+
+<http://www.wikidata.org/entity/Q20546492>
+        owl:sameAs <http://es.dbpedia.org/resource/Estatua_de_los_rederos>.
+
+<http://www.wikidata.org/entity/Q20543812>
+        owl:sameAs <http://es.dbpedia.org/resource/El_Sireno>.
+
+<http://www.wikidata.org/entity/Q20544873>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_los_caballos>.
+
+<http://www.wikidata.org/entity/Q20679343>
+        owl:sameAs <http://es.dbpedia.org/resource/Las_cuatro_barras_de_la_señera_catalana>.
+
+<http://www.wikidata.org/entity/Q20492520>
+        owl:sameAs <http://es.dbpedia.org/resource/Estatua_de_la_Mari_Blanca_(Pamplona)>.
+
+<http://www.wikidata.org/entity/Q18221399>
+        owl:sameAs <http://es.dbpedia.org/resource/Bicha_de_Balazote_(Albacete)>.
+
+<http://www.wikidata.org/entity/Q18224345>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_las_Brigadas_Internacionales_(Albacete)>.
+
+<http://www.wikidata.org/entity/Q18416394>
+        owl:sameAs <http://es.dbpedia.org/resource/Maternidad_(Albacete)>.
+
+<http://www.wikidata.org/entity/Q20925460>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_de_La_Mancha_a_Azorín>.
+
+<http://www.wikidata.org/entity/Q20976281>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_los_caídos_(Barcelona)>.
+
+<http://www.wikidata.org/entity/Q21004043>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_Colón_(Salamanca)>.
+
+<http://www.wikidata.org/entity/Q27973657>
+        owl:sameAs <http://es.dbpedia.org/resource/Euclídea>.
+
+<http://www.wikidata.org/entity/Q28517303>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_al_Sagrado_Corazón_de_Jesús_(San_Sebastián_de_La_Gomera)>.
+
+<http://www.wikidata.org/entity/Q27978628>
+        owl:sameAs <http://es.dbpedia.org/resource/El_regreso_de_Ícaro_con_su_ala_de_surf>.
+
+<http://www.wikidata.org/entity/Q28056680>
+        owl:sameAs <http://es.dbpedia.org/resource/El_adivinador>.
+
+<http://www.wikidata.org/entity/Q24023050>
+        owl:sameAs <http://es.dbpedia.org/resource/A_Ramón_Berenguer_III>.
+
+<http://www.wikidata.org/entity/Q24939576>
+        owl:sameAs <http://es.dbpedia.org/resource/Pava_de_la_Balsa>.
+
+<http://www.wikidata.org/entity/Q24021484>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_Colón_(Huelva)>.
+
+<http://www.wikidata.org/entity/Q26904352>
+        owl:sameAs <http://es.dbpedia.org/resource/Rana_de_la_fortuna>.
+
+<http://www.wikidata.org/entity/Q26884243>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_la_Belleza>.
+
+<http://www.wikidata.org/entity/Q48342736>
+        owl:sameAs <http://es.dbpedia.org/resource/Toka_(escultura)>.
+
+<http://www.wikidata.org/entity/Q52994011>
+        owl:sameAs <http://es.dbpedia.org/resource/Encuentros_(escultura)>.
+
+<http://www.wikidata.org/entity/Q54833814>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_Antonio_César_Jiménez>.
+
+<http://www.wikidata.org/entity/Q53244136>
+        owl:sameAs <http://es.dbpedia.org/resource/Homenaje_a_Fernando_Arrabal_(escultura)>.
+
+<http://www.wikidata.org/entity/Q30899007>
+        owl:sameAs <http://es.dbpedia.org/resource/Estatua_ecuestre_de_Felipe_III>.
+
+<http://www.wikidata.org/entity/Q30905471>
+        owl:sameAs <http://es.dbpedia.org/resource/Niña_de_Benalmádena>.
+
+<http://www.wikidata.org/entity/Q58467255>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_Homenaje_a_las_Víctimas_del_Terrorismo>.
+
+<http://www.wikidata.org/entity/Q59485002>
+        owl:sameAs <http://es.dbpedia.org/resource/La_madre_del_emigrante>.
+
+<http://www.wikidata.org/entity/Q83408864>
+        owl:sameAs <http://es.dbpedia.org/resource/David_y_Goliat_(escultura)>.
+
+<http://www.wikidata.org/entity/Q97826082>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_Primo_de_Rivera_(Jerez)>.
+
+<http://www.wikidata.org/entity/Q97633214>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_las_Tres_Gracias_(Málaga)>.
+
+<http://www.wikidata.org/entity/Q47361823>
+        owl:sameAs <http://es.dbpedia.org/resource/Santa_Eulalia_(Alentorn)>.
+
+<http://www.wikidata.org/entity/Q99435381>
+        owl:sameAs <http://es.dbpedia.org/resource/A_Manuel_Carrasco_Formiguera>.
+
+<http://www.wikidata.org/entity/Q99459905>
+        owl:sameAs <http://es.dbpedia.org/resource/Niños_cabalgando_sobre_peces>.
+
+<http://www.wikidata.org/entity/Q102480777>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_al_Minero_(Guardo)>.
+
+<http://www.wikidata.org/entity/Q103484214>
+        owl:sameAs <http://es.dbpedia.org/resource/Mujer_con_gallinas>.
+
+<http://www.wikidata.org/entity/Q106497814>
+        owl:sameAs <http://es.dbpedia.org/resource/Dorna_(escultura)>.
+
+<http://www.wikidata.org/entity/Q106570128>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_Castelao_(Pontevedra)>.
+
+<http://www.wikidata.org/entity/Q112145886>
+        owl:sameAs <http://es.dbpedia.org/resource/O_Carrabouxo>.
+
+<http://www.wikidata.org/entity/Q116025106>
+        owl:sameAs <http://es.dbpedia.org/resource/Panta_rei_(escultura)>.
+
+<http://www.wikidata.org/entity/Q116278278>
+        owl:sameAs <http://es.dbpedia.org/resource/Maternidad_(Gijón)>.
+
+<http://www.wikidata.org/entity/Q124611980>
+        owl:sameAs <http://es.dbpedia.org/resource/Fuente_de_la_Herrería>.
+
+<http://www.wikidata.org/entity/Q59138771>
+        owl:sameAs <http://es.dbpedia.org/resource/Sepulcro_de_Fernando_VI>.
+
+<http://www.wikidata.org/entity/Q6023113>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_a_Torrijos>.
+
+<http://www.wikidata.org/entity/Q6150087>
+        owl:sameAs <http://es.dbpedia.org/resource/Torre_Ciega>.
+
+<http://www.wikidata.org/entity/Q116507761>
+        owl:sameAs <http://es.dbpedia.org/resource/Sepulcro_de_Bárbara_de_Braganza>.
+
+<http://www.wikidata.org/entity/Q6057310>
+        owl:sameAs <http://es.dbpedia.org/resource/Pairón>.
+
+<http://www.wikidata.org/entity/Q978178>
+        owl:sameAs <http://es.dbpedia.org/resource/Reloj_solar_de_Baelo_Claudia>.
+
+<http://www.wikidata.org/entity/Q6105185>
+        owl:sameAs <http://es.dbpedia.org/resource/Reloj_solar_Multicaja-Zaragoza>.
+
+<http://www.wikidata.org/entity/Q2643179>
+        owl:sameAs <http://es.dbpedia.org/resource/Sinagoga_de_Córdoba>.
+
+<http://www.wikidata.org/entity/Q6129059>
+        owl:sameAs <http://es.dbpedia.org/resource/Sinagoga_del_Agua>.
+
+<http://www.wikidata.org/entity/Q3178007>
+        owl:sameAs <http://es.dbpedia.org/resource/Sinagoga_de_Madrid>.
+
+<http://www.wikidata.org/entity/Q6129061>
+        owl:sameAs <http://es.dbpedia.org/resource/Sinagoga_del_Campo_(Segovia)>.
+
+<http://www.wikidata.org/entity/Q6129057>
+        owl:sameAs <http://es.dbpedia.org/resource/Sinagoga_de_los_Ibáñez_de_Segovia>.
+
+<http://www.wikidata.org/entity/Q116811693>
+        owl:sameAs <http://es.dbpedia.org/resource/Sinagoga_Medieval_de_la_Misericordia>.
+
+<http://www.wikidata.org/entity/Q26306297>
+        owl:sameAs <http://es.dbpedia.org/resource/Sinagoga_de_Valencia_de_Alcántara>.
+
+<http://www.wikidata.org/entity/Q52008166>
+        owl:sameAs <http://es.dbpedia.org/resource/Sinagoga_de_Bet-El>.
+
+<http://www.wikidata.org/entity/Q239935>
+        owl:sameAs <http://es.dbpedia.org/resource/Ciudad_de_las_Artes_y_las_Ciencias>.
+
+<http://www.wikidata.org/entity/Q546180>
+        owl:sameAs <http://es.dbpedia.org/resource/Mesa_de_los_Tres_Reyes>.
+
+<http://www.wikidata.org/entity/Q160112>
+        owl:sameAs <http://es.dbpedia.org/resource/Museo_del_Prado>.
+
+<http://www.wikidata.org/entity/Q171517>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_Real_de_Madrid>.
+
+<http://www.wikidata.org/entity/Q950331>
+        owl:sameAs <http://es.dbpedia.org/resource/Calleja_de_las_Flores_(Córdoba)>.
+
+<http://www.wikidata.org/entity/Q970211>
+        owl:sameAs <http://es.dbpedia.org/resource/Burrotaxi>.
+
+<http://www.wikidata.org/entity/Q939811>
+        owl:sameAs <http://es.dbpedia.org/resource/Desierto_de_Tabernas>.
+
+<http://www.wikidata.org/entity/Q810684>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_basílica_de_Nuestra_Señora_del_Pilar_(Zaragoza)>.
+
+<http://www.wikidata.org/entity/Q47476>
+        owl:sameAs <http://es.dbpedia.org/resource/Alhambra>.
+
+<http://www.wikidata.org/entity/Q55684>
+        owl:sameAs <http://es.dbpedia.org/resource/Castillo-palacio_de_Alacuás>.
+
+<http://www.wikidata.org/entity/Q28119930>
+        owl:sameAs <http://es.dbpedia.org/resource/Playa_de_Cabeceira>.
+
+<http://www.wikidata.org/entity/Q28119932>
+        owl:sameAs <http://es.dbpedia.org/resource/Playa_de_Portocelo>.
+
+<http://www.wikidata.org/entity/Q28119934>
+        owl:sameAs <http://es.dbpedia.org/resource/Playa_de_Aguete>.
+
+<http://www.wikidata.org/entity/Q114943573>
+        owl:sameAs <http://es.dbpedia.org/resource/Búnker_de_Los_Barberos>.
+
+<http://www.wikidata.org/entity/Q113655205>
+        owl:sameAs <http://es.dbpedia.org/resource/Plaza_de_la_Reina_Victoria_Eugenia>.
+
+<http://www.wikidata.org/entity/Q2004707>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_Nuevo_(Ronda)>.
+
+<http://www.wikidata.org/entity/Q1424835>
+        owl:sameAs <http://es.dbpedia.org/resource/Monumento_natural_del_Roque_Nublo>.
+
+<http://www.wikidata.org/entity/Q1131807>
+        owl:sameAs <http://es.dbpedia.org/resource/Parque_del_Retiro_de_Madrid>.
+
+<http://www.wikidata.org/entity/Q1303386>
+        owl:sameAs <http://es.dbpedia.org/resource/Jardín_botánico_Viera_y_Clavijo>.
+
+<http://www.wikidata.org/entity/Q1865509>
+        owl:sameAs <http://es.dbpedia.org/resource/Pico_de_las_Nieves>.
+
+<http://www.wikidata.org/entity/Q8770950>
+        owl:sameAs <http://es.dbpedia.org/resource/Dunas_de_Maspalomas>.
+
+<http://www.wikidata.org/entity/Q3127243>
+        owl:sameAs <http://es.dbpedia.org/resource/Alcazaba_de_Málaga>.
+
+<http://www.wikidata.org/entity/Q3426178>
+        owl:sameAs <http://es.dbpedia.org/resource/Playa_de_Las_Canteras>.
+
+<http://www.wikidata.org/entity/Q7126325>
+        owl:sameAs <http://es.dbpedia.org/resource/Palacio_de_las_Dueñas_(Sevilla)>.
+
+<http://www.wikidata.org/entity/Q7362141>
+        owl:sameAs <http://es.dbpedia.org/resource/Foro_romano_provincial_de_Mérida>.
+
+<http://www.wikidata.org/entity/Q6105049>
+        owl:sameAs <http://es.dbpedia.org/resource/Relevo_de_la_Guardia_Real>.
+
+<http://www.wikidata.org/entity/Q5783330>
+        owl:sameAs <http://es.dbpedia.org/resource/Conjunto_patrimonial_Medina_Nogalte_(Puerto_Lumbreras)>.
+
+<http://www.wikidata.org/entity/Q7361967>
+        owl:sameAs <http://es.dbpedia.org/resource/Foro_romano_de_Mérida>.
+
+<http://www.wikidata.org/entity/Q2196869>
+        owl:sameAs <http://es.dbpedia.org/resource/Catedral_del_Salvador_(Zaragoza)>.
+
+<http://www.wikidata.org/entity/Q97625652>
+        owl:sameAs <http://es.dbpedia.org/resource/Puente_romano_de_Córdoba>.
