@@ -1,0 +1,1192 @@
+PREFIX bd:         <http://www.bigdata.com/rdf#>
+PREFIX dc:         <http://purl.org/dc/elements/1.1/>
+PREFIX dct:        <http://purl.org/dc/terms/>
+PREFIX foaf:       <http://xmlns.com/foaf/0.1/>
+PREFIX geo:        <http://www.w3.org/2003/01/geo/wgs84_pos#>
+PREFIX geosparql:  <http://www.opengis.net/ont/geosparql#>
+PREFIX lu:         <http://www.ontologydesignpatterns.org/ont/framenet/abox/lu/>
+PREFIX lugares:    <http://www.monumentos.es/lugares/>
+PREFIX monu:       <http://www.monumentos.es/>
+PREFIX owl:        <http://www.w3.org/2002/07/owl#>
+PREFIX p:          <http://www.wikidata.org/prop/>
+PREFIX pq:         <http://www.wikidata.org/prop/qualifier/>
+PREFIX ps:         <http://www.wikidata.org/prop/statement/>
+PREFIX rdf:        <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs:       <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX skos:       <http://www.w3.org/2004/02/skos/core#>
+PREFIX swrl:       <http://www.w3.org/2003/11/swrl#>
+PREFIX swrla:      <http://swrl.stanford.edu/ontologies/3.3/swrla.owl#>
+PREFIX swrlb:      <http://www.w3.org/2003/11/swrlb#>
+PREFIX terms:      <http://purl.org/dc/terms/>
+PREFIX tes:        <http://tesauros.mecd.es/tesauros/vocab#>
+PREFIX wd:         <http://www.wikidata.org/entity/>
+PREFIX wdt:        <http://www.wikidata.org/prop/direct/>
+PREFIX webprotege: <http://webprotege.stanford.edu/>
+PREFIX wikibase:   <http://wikiba.se/ontology#>
+PREFIX www:        <http://www.monumentos.es/#>
+PREFIX xml:        <http://www.w3.org/XML/1998/namespace>
+PREFIX xsd:        <http://www.w3.org/2001/XMLSchema#>
+
+wd:Q5493697  monu:tieneEstilo  monu:Neogótico , monu:Historicismo;
+        monu:tieneTipo    monu:Hospital_clausurado , monu:Hospital , monu:Arquitectura_Civil   .
+
+wd:Q5947798  monu:tieneEstilo  monu:Neoclásico;
+        monu:tieneTipo    monu:Casa_señorial , monu:Vivienda , monu:Arquitectura_Civil   .
+
+wd:Q6965621  monu:tieneEstilo  monu:Neogótico , monu:Historicismo , monu:Neomudéjar;
+        monu:tieneTipo    monu:Basílica_menor , monu:Arquitectura_Religiosa   .
+
+wd:Q122585040  monu:tieneEstilo  monu:Neoclásico;
+        monu:tieneTipo    monu:Mercado_de_Abastos , monu:Mercado , monu:Arquitectura_Civil   .
+
+wd:Q110977163  monu:tieneEstilo  monu:Arquitectura_moderna;
+        monu:tieneTipo    monu:Iglesia , monu:Arquitectura_Religiosa   .
+
+wd:Q56744113  monu:tieneEstilo  monu:Neogótico , monu:Historicismo;
+        monu:tieneTipo    monu:Iglesia , monu:Arquitectura_Religiosa   .
+
+wd:Q4894803  monu:tieneEstilo  monu:Renacentista;
+        monu:tieneTipo    monu:Iglesia , monu:Arquitectura_Religiosa   .
+
+wd:Q29444124  monu:tieneEstilo  monu:Historicismo , monu:Neomudéjar;
+        monu:tieneTipo    monu:Plaza_de_toros , monu:Arquitectura_Civil   .
+
+wd:Q12397421  monu:tieneEstilo  monu:Barroco;
+        monu:tieneTipo    monu:Iglesia , monu:Arquitectura_Religiosa   .
+
+wd:Q122208630  monu:tieneEstilo  monu:Historicismo , monu:Neomudéjar;
+        monu:tieneTipo    monu:Plaza_de_toros , monu:Arquitectura_Civil   .
+
+wd:Q1118403  monu:tieneEstilo  monu:Gótico_catalán , monu:Gótico;
+        monu:tieneTipo    monu:Basílica_menor , monu:Iglesia , monu:Arquitectura_Religiosa   .
+
+wd:Q3393623  monu:tieneEstilo  monu:Churrigueresco , monu:Barroco_español , monu:Barroco;
+        monu:tieneTipo    monu:Iglesia , monu:Arquitectura_Religiosa   .
+
+wd:Q20532749  monu:tieneEstilo  monu:Neoclásico;
+        monu:tieneTipo    monu:Iglesia , monu:Arquitectura_Religiosa   .
+
+wd:Q11704554  monu:tieneEstilo  monu:Barroco;
+        monu:tieneTipo    monu:Iglesia , monu:Arquitectura_Religiosa   .
+
+wd:Q61059573  monu:tieneEstilo  monu:Neogótico , monu:Historicismo;
+        monu:tieneTipo    monu:Iglesia , monu:Arquitectura_Religiosa   .
+
+wd:Q3565268  monu:tieneEstilo  monu:Barroco_español , monu:Barroco;
+        monu:tieneTipo    monu:Casa_Museo , monu:Museo , monu:Arquitectura_Civil   .
+
+wd:Q116767650  monu:tieneEstilo  monu:Eclecticismo;
+        monu:tieneTipo    monu:Mercado_de_Abastos , monu:Mercado , monu:Arquitectura_Civil   .
+
+wd:Q6452898  monu:tieneEstilo  monu:Neobarroco , monu:Historicismo;
+        monu:tieneTipo    monu:Mansión , monu:Vivienda , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q16191454  monu:tieneEstilo  monu:Eclecticismo;
+        monu:tieneTipo    monu:Iglesia , monu:Arquitectura_Religiosa   .
+
+wd:Q9093355  monu:tieneEstilo  monu:Modernismo_valenciano , monu:Eclecticismo , monu:Modernismo;
+        monu:tieneTipo    monu:Teatro , monu:Arquitectura_Civil   .
+
+wd:Q5759871  monu:tieneEstilo  monu:Eclecticismo;
+        monu:tieneTipo    monu:Plaza_de_toros , monu:Arquitectura_Civil   .
+
+wd:Q16599590  monu:tieneEstilo  monu:Eclecticismo;
+        monu:tieneTipo    monu:Plaza_de_toros , monu:Arquitectura_Civil   .
+
+wd:Q5698096  monu:tieneEstilo  monu:Eclecticismo;
+        monu:tieneTipo    monu:Balneario , monu:Arquitectura_Civil   .
+
+wd:Q16483719  monu:tieneEstilo  monu:Neorrománico , monu:Historicismo;
+        monu:tieneTipo    monu:Basílica_menor , monu:Iglesia , monu:Arquitectura_Religiosa   .
+
+wd:Q8201296  monu:tieneEstilo  monu:Eclecticismo;
+        monu:tieneTipo    monu:Centro_cultural , monu:Arquitectura_Civil   .
+
+wd:Q5819625  monu:tieneEstilo  monu:Arquitectura_en_hierro;
+        monu:tieneTipo    monu:Mercado_de_Abastos , monu:Mercado , monu:Arquitectura_Civil   .
+
+wd:Q9023261  monu:tieneEstilo  monu:Racionalismo;
+        monu:tieneTipo    monu:Fábrica , monu:ArquitecturaIndustrial   .
+
+wd:Q11922813  monu:tieneEstilo  monu:Neoclásico;
+        monu:tieneTipo    monu:Fábrica , monu:ArquitecturaIndustrial , monu:Vivienda , monu:Arquitectura_Civil   .
+
+wd:Q9028200  monu:tieneEstilo  monu:Neogótico , monu:Historicismo;
+        monu:tieneTipo    monu:Iglesia , monu:Arquitectura_Religiosa   .
+
+wd:Q47203039  monu:tieneEstilo  monu:Modernismo_valenciano , monu:Modernismo;
+        monu:tieneTipo    monu:Hotel , monu:Arquitectura_Civil   .
+
+wd:Q5939498  monu:tieneEstilo  monu:Historicismo , monu:Neomudéjar;
+        monu:tieneTipo    monu:Hotel , monu:Arquitectura_Civil   .
+
+wd:Q42025521  monu:tieneEstilo  monu:Neovasco , monu:Arquitectura_regionalista;
+        monu:tieneTipo    monu:Hotel , monu:Arquitectura_Civil   .
+
+wd:Q20533576  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Arquitectura_Civil   .
+
+wd:Q29940320  monu:tieneEstilo  monu:Arquitectura_de_cristal_y_hierro;
+        monu:tieneTipo    monu:Mercado , monu:Arquitectura_Civil   .
+
+wd:Q84561404  monu:tieneEstilo  monu:Modernismo_valenciano , monu:Modernismo;
+        monu:tieneTipo    monu:Hotel , monu:Fábrica , monu:ArquitecturaIndustrial , monu:Arquitectura_Civil   .
+
+wd:Q1684127  monu:tieneEstilo  monu:Modernismo_catalán , monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Arquitectura_Civil   .
+
+wd:Q8343011  monu:tieneEstilo  monu:Racionalismo;
+        monu:tieneTipo    monu:Teatro , monu:Arquitectura_Civil   .
+
+wd:Q11702095  monu:tieneEstilo  monu:Racionalismo;
+        monu:tieneTipo    monu:Hotel , monu:Arquitectura_Civil   .
+
+wd:Q11685695  monu:tieneEstilo  monu:Racionalismo;
+        monu:tieneTipo    monu:Hotel , monu:Arquitectura_Civil   .
+
+wd:Q21009850  monu:tieneEstilo  monu:Historicismo;
+        monu:tieneTipo    monu:Vivienda , monu:Arquitectura_Civil   .
+
+wd:Q21290654  monu:tieneEstilo  monu:Historicismo;
+        monu:tieneTipo    monu:Iglesia , monu:Arquitectura_Religiosa   .
+
+wd:Q95951136  monu:tieneEstilo  monu:Neoclásico;
+        monu:tieneTipo    monu:Vivienda , monu:Arquitectura_Civil   .
+
+wd:Q2842233  monu:tieneEstilo  monu:Barroco;
+        monu:tieneTipo    monu:Hospital_clausurado , monu:Hospital , monu:Arquitectura_Civil   .
+
+wd:Q5493780  monu:tieneEstilo  monu:Modernismo_valenciano , monu:Modernismo;
+        monu:tieneTipo    monu:Hotel , monu:Arquitectura_Civil   .
+
+wd:Q19829680  monu:tieneEstilo  monu:Modernismo_catalán , monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Arquitectura_Civil   .
+
+wd:Q96678673  monu:tieneEstilo  monu:Neoclásico;
+        monu:tieneTipo    monu:Vivienda , monu:Hospital_clausurado , monu:Hospital , monu:Arquitectura_Civil   .
+
+wd:Q42597703  monu:tieneEstilo  monu:Modernismo_valenciano , monu:Modernismo;
+        monu:tieneTipo    monu:Fábrica , monu:ArquitecturaIndustrial   .
+
+wd:Q19698422  monu:tieneEstilo  monu:Neoclásico;
+        monu:tieneTipo    monu:Vivienda , monu:Arquitectura_Civil   .
+
+wd:Q17000364  monu:tieneEstilo  monu:Neoclásico;
+        monu:tieneTipo    monu:Fábrica , monu:ArquitecturaIndustrial , monu:Vivienda , monu:Arquitectura_Civil   .
+
+wd:Q9011955  monu:tieneEstilo  monu:Modernismo_catalán , monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Arquitectura_Civil   .
+
+wd:Q11954616  monu:tieneEstilo  monu:Modernismo_valenciano , monu:Modernismo;
+        monu:tieneTipo    monu:Fábrica , monu:ArquitecturaIndustrial   .
+
+wd:Q21270017  monu:tieneEstilo  monu:Racionalismo;
+        monu:tieneTipo    monu:Hospital_clausurado , monu:Hospital , monu:Vivienda , monu:Arquitectura_Civil   .
+
+wd:Q957853  monu:tieneEstilo  monu:Racionalismo;
+        monu:tieneTipo    monu:Hospital_clausurado , monu:Hospital , monu:Vivienda , monu:Arquitectura_Civil   .
+
+wd:Q467712  monu:tieneEstilo  monu:Racionalismo;
+        monu:tieneTipo    monu:Hospital_clausurado , monu:Hospital , monu:Vivienda , monu:Arquitectura_Civil   .
+
+wd:Q93416219  monu:tieneEstilo  monu:Neoclásico;
+        monu:tieneTipo    monu:Vivienda , monu:Arquitectura_Civil , monu:Fábrica , monu:ArquitecturaIndustrial   .
+
+wd:Q108116457  monu:tieneEstilo  monu:Arquitectura_moderna;
+        monu:tieneTipo    monu:Sitio_de_interés  .
+
+wd:Q8197980  monu:tieneEstilo  monu:Historicismo , monu:Neomudéjar , monu:Modernismo;
+        monu:tieneTipo    monu:Fábrica , monu:ArquitecturaIndustrial   .
+
+wd:Q8776067  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Arquitectura_Civil   .
+
+wd:Q9013199  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Arquitectura_Civil   .
+
+wd:Q12393276  monu:tieneEstilo  monu:Eclecticismo;
+        monu:tieneTipo    monu:Sitio_de_interés  .
+
+wd:Q9028087  monu:tieneEstilo  monu:Arquitectura_moderna;
+        monu:tieneTipo    monu:Fábrica , monu:ArquitecturaIndustrial   .
+
+wd:Q2880123  monu:tieneEstilo  monu:Eclecticismo , monu:Historicismo;
+        monu:tieneTipo    monu:Vivienda , monu:Arquitectura_Civil   .
+
+wd:Q16168093  monu:tieneEstilo  monu:Modernismo , monu:Eclecticismo;
+        monu:tieneTipo    monu:Vivienda , monu:Arquitectura_Civil   .
+
+wd:Q22806986  monu:tieneEstilo  monu:Neoclásico;
+        monu:tieneTipo    monu:Fábrica , monu:ArquitecturaIndustrial , monu:Vivienda , monu:Hospital_clausurado , monu:Hospital , monu:Arquitectura_Civil   .
+
+wd:Q5548716  monu:tieneEstilo  monu:Neogótico , monu:Historicismo;
+        monu:tieneTipo    monu:Iglesia , monu:Arquitectura_Religiosa   .
+
+wd:Q6099793  monu:tieneEstilo  monu:Modernismo_valenciano , monu:Modernismo;
+        monu:tieneTipo    monu:Fábrica , monu:ArquitecturaIndustrial   .
+
+wd:Q107155713  monu:tieneEstilo  monu:Barroco;
+        monu:tieneTipo    monu:Convento , monu:Arquitectura_Religiosa   .
+
+wd:Q597732  monu:tieneEstilo  monu:Neorrománico , monu:Historicismo;
+        monu:tieneTipo    monu:Oratorio , monu:Capilla , monu:Arquitectura_Religiosa   .
+
+wd:Q16189746  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Capilla , monu:Arquitectura_Religiosa   .
+
+wd:Q9287524  monu:tieneEstilo  monu:Historicismo , monu:Neomudéjar;
+        monu:tieneTipo    monu:Santuario_mariano , monu:Santuario , monu:Arquitectura_Religiosa   .
+
+wd:Q1771508  monu:tieneEstilo  monu:Arquitectura_moderna;
+        monu:tieneTipo    monu:Iglesia , monu:Arquitectura_Religiosa   .
+
+wd:Q9057357  monu:tieneEstilo  monu:Gótico_valenciano , monu:Gótico;
+        monu:tieneTipo    monu:Torre_campanario , monu:Arquitectura_Religiosa   .
+
+wd:Q3395095  monu:tieneEstilo  monu:Barroco;
+        monu:tieneTipo    monu:Santuario , monu:Catedral , monu:Arquitectura_Religiosa   .
+
+wd:Q3819663  monu:tieneEstilo  monu:Gótico;
+        monu:tieneTipo    monu:Catedral , monu:Arquitectura_Religiosa   .
+
+wd:Q11680209  monu:tieneEstilo  monu:Gótico;
+        monu:tieneTipo    monu:Catedral , monu:Arquitectura_Religiosa   .
+
+wd:Q20107734  monu:tieneEstilo  monu:Gótico;
+        monu:tieneTipo    monu:Catedral , monu:Arquitectura_Religiosa   .
+
+wd:Q9010585  monu:tieneEstilo  monu:Gótico;
+        monu:tieneTipo    monu:Catedral , monu:Arquitectura_Religiosa   .
+
+wd:Q24283664  monu:tieneEstilo  monu:Neoclásico;
+        monu:tieneTipo    monu:Plaza_de_toros , monu:Arquitectura_Civil   .
+
+wd:Q168482  monu:tieneEstilo  monu:Arquitectura_high-tech;
+        monu:tieneTipo    monu:Centro_cultural , monu:Museo , monu:Arquitectura_Civil   .
+
+wd:Q6141803  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Teatro , monu:Arquitectura_Civil   .
+
+wd:Q8201253  monu:tieneEstilo  monu:Neoclásico;
+        monu:tieneTipo    monu:Cementerio , monu:Construcción_funeraria   .
+
+wd:Q99864628  monu:tieneEstilo  monu:Historicismo , monu:Neomudéjar;
+        monu:tieneTipo    monu:Plaza_de_toros , monu:Arquitectura_Civil   .
+
+wd:Q2939556  monu:tieneEstilo  monu:Brutalismo , monu:Arquitectura_moderna;
+        monu:tieneTipo    monu:Cementerio , monu:Construcción_funeraria   .
+
+wd:Q1627527  monu:tieneEstilo  monu:Arquitectura_en_hierro;
+        monu:tieneTipo    monu:Torre , monu:Arquitectura_Militar   .
+
+wd:Q521720  monu:tieneEstilo  monu:Eclecticismo , monu:Neogótico , monu:Historicismo;
+        monu:tieneTipo    monu:Mansión , monu:Vivienda , monu:Palacio , monu:Arquitectura_Civil , monu:Construcción_funeraria , monu:EstructuraFuneraria   .
+
+wd:Q29461709  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Construcción_funeraria , monu:EstructuraFuneraria   .
+
+wd:Q17000385  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Arquitectura_Civil , monu:Construcción_funeraria , monu:EstructuraFuneraria   .
+
+wd:Q5929571  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Construcción_funeraria , monu:EstructuraFuneraria   .
+
+wd:Q3753485  monu:tieneEstilo  monu:Postmodernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q11928722  monu:tieneEstilo  monu:Postmodernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q2531349  monu:tieneEstilo  monu:Postmodernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q30277484  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q8198878  monu:tieneEstilo  monu:Eclecticismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q517127  monu:tieneEstilo  monu:Historicismo , monu:Neomudéjar;
+        monu:tieneTipo    monu:Escultura , monu:Mobiliario_Urbano , monu:Arco_de_triunfo , monu:Construcción_Conmemorativa   .
+
+wd:Q9033494  monu:tieneEstilo  monu:Modernismo_catalán , monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Arquitectura_Civil   .
+
+wd:Q23505826  monu:tieneEstilo  monu:Racionalismo;
+        monu:tieneTipo    monu:Fábrica , monu:ArquitecturaIndustrial   .
+
+wd:Q18638299  monu:tieneEstilo  monu:Racionalismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q16167853  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q5927218  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q20005978  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q4893470  monu:tieneEstilo  monu:Eclecticismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q9096560  monu:tieneEstilo  monu:Eclecticismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q736567  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Casa_señorial , monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q26707690  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Escultura , monu:Construcción_funeraria , monu:Mobiliario_Urbano , monu:Mausoleo , monu:EstructuraFuneraria   .
+
+wd:Q11044088  monu:tieneEstilo  monu:Eclecticismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q316413  monu:tieneEstilo  monu:Arquitectura_moderna;
+        monu:tieneTipo    monu:Hotel , monu:Arquitectura_Civil   .
+
+wd:Q723669  monu:tieneEstilo  monu:Brutalismo , monu:Arquitectura_moderna;
+        monu:tieneTipo    monu:Cementerio , monu:Construcción_funeraria   .
+
+wd:Q122616994  monu:tieneEstilo  monu:Novecentismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q9073081  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q9056997  monu:tieneEstilo  monu:Modernismo_catalán , monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q16160735  monu:tieneEstilo  monu:Eclecticismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q11033074  monu:tieneEstilo  monu:Neorrománico , monu:Historicismo;
+        monu:tieneTipo    monu:Iglesia , monu:Arquitectura_Religiosa   .
+
+wd:Q5947252  monu:tieneEstilo  monu:Neoclásico;
+        monu:tieneTipo    monu:Iglesia , monu:Arquitectura_Religiosa   .
+
+wd:Q8962180  monu:tieneEstilo  monu:Historicismo;
+        monu:tieneTipo    monu:Museo , monu:Arquitectura_Civil   .
+
+wd:Q54422669  monu:tieneEstilo  monu:Neovasco , monu:Arquitectura_regionalista;
+        monu:tieneTipo    monu:Iglesia , monu:Arquitectura_Religiosa   .
+
+wd:Q28708669  monu:tieneEstilo  monu:Historicismo , monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q11682260  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Masía , monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q30277441  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q6637563  monu:tieneEstilo  monu:Modernismo , monu:Historicismo;
+        monu:tieneTipo    monu:Masía , monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q19289793  monu:tieneEstilo  monu:Modernismo_catalán , monu:Modernismo;
+        monu:tieneTipo    monu:Sitio_de_interés  .
+
+wd:Q111431966  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q21483882  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q93419972  monu:tieneEstilo  monu:Eclecticismo;
+        monu:tieneTipo    monu:Fábrica , monu:ArquitecturaIndustrial   .
+
+wd:Q20876964  monu:tieneEstilo  monu:Arquitectura_regionalista;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q20004545  monu:tieneEstilo  monu:Neorrenacentista , monu:Historicismo;
+        monu:tieneTipo    monu:Iglesia , monu:Arquitectura_Religiosa   .
+
+wd:Q19300504  monu:tieneEstilo  monu:Modernismo_catalán , monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q9028607  monu:tieneEstilo  monu:Modernismo_catalán , monu:Eclecticismo , monu:Modernismo;
+        monu:tieneTipo    monu:Masía , monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q30154949  monu:tieneEstilo  monu:Eclecticismo , monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q5642290  monu:tieneEstilo  monu:Modernismo_catalán , monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q11682939  monu:tieneEstilo  monu:Eclecticismo , monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q3470343  monu:tieneEstilo  monu:Modernismo_catalán , monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q958447  monu:tieneEstilo  monu:Eclecticismo , monu:Modernismo;
+        monu:tieneTipo    monu:Masía , monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q597739  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Iglesia , monu:Arquitectura_Religiosa , monu:Vivienda , monu:Masía , monu:Arquitectura_Civil   .
+
+wd:Q2354454  monu:tieneEstilo  monu:Historicismo , monu:Modernismo_catalán , monu:Modernismo;
+        monu:tieneTipo    monu:Casa_Museo , monu:Museo , monu:Vivienda , monu:Arquitectura_Civil , monu:Ermita , monu:Iglesia , monu:Arquitectura_Religiosa   .
+
+wd:Q16183731  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q19301967  monu:tieneEstilo  monu:Modernismo_catalán , monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Arquitectura_Civil   .
+
+wd:Q11926911  monu:tieneEstilo  monu:Modernismo_catalán , monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q20732439  monu:tieneEstilo  monu:Neoclásico , monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q11036700  monu:tieneEstilo  monu:Modernismo_catalán , monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q13530471  monu:tieneEstilo  monu:Modernismo , monu:Historicismo;
+        monu:tieneTipo    monu:Masía , monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q108293225  monu:tieneEstilo  monu:Eclecticismo , monu:Modernismo;
+        monu:tieneTipo    monu:Masía , monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q23615412  monu:tieneEstilo  monu:Historicismo , monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q953734  monu:tieneEstilo  monu:Racionalismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q8188500  monu:tieneEstilo  monu:Modernismo_catalán , monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q19301886  monu:tieneEstilo  monu:Racionalismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q4891487  monu:tieneEstilo  monu:Eclecticismo , monu:Modernismo_catalán , monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q16607854  monu:tieneEstilo  monu:Historicismo , monu:Modernismo , monu:Eclecticismo;
+        monu:tieneTipo    monu:Vivienda , monu:Arquitectura_Civil , monu:Iglesia , monu:Arquitectura_Religiosa   .
+
+wd:Q11928525  monu:tieneEstilo  monu:Eclecticismo , monu:Modernismo;
+        monu:tieneTipo    monu:Iglesia , monu:Arquitectura_Religiosa , monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q5489262  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q21714993  monu:tieneEstilo  monu:Modernismo_catalán , monu:Modernismo;
+        monu:tieneTipo    monu:Masía , monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q11917646  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q9058384  monu:tieneEstilo  monu:Modernismo_catalán , monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q30277385  monu:tieneEstilo  monu:Neoclásico , monu:Neoegipcio , monu:Historicismo , monu:Modernismo;
+        monu:tieneTipo    monu:Construcción_funeraria , monu:Mausoleo , monu:EstructuraFuneraria , monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q8963276  monu:tieneEstilo  monu:Modernismo , monu:Eclecticismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q17000379  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q11926447  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q11929381  monu:tieneEstilo  monu:Modernismo_catalán , monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q1399830  monu:tieneEstilo  monu:Neoclásico;
+        monu:tieneTipo    monu:Molino_hidráulico , monu:Molino , monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q112156880  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q5785445  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q108293124  monu:tieneEstilo  monu:Historicismo , monu:Eclecticismo , monu:Novecentismo , monu:Modernismo;
+        monu:tieneTipo    monu:Convento , monu:Iglesia , monu:Arquitectura_Religiosa , monu:Masía , monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q9013333  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q30137309  monu:tieneEstilo  monu:Novecentismo , monu:Eclecticismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q30277446  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q19300359  monu:tieneEstilo  monu:Eclecticismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q30277429  monu:tieneEstilo  monu:Historicismo , monu:Eclecticismo , monu:Modernismo;
+        monu:tieneTipo    monu:Masía , monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q28708733  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q2890034  monu:tieneEstilo  monu:Historicismo , monu:Eclecticismo , monu:Modernismo;
+        monu:tieneTipo    monu:Mercado , monu:Capilla , monu:Iglesia , monu:Arquitectura_Religiosa , monu:Masía , monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q11927585  monu:tieneEstilo  monu:Modernismo_catalán , monu:Modernismo;
+        monu:tieneTipo    monu:Construcción_funeraria , monu:Mausoleo , monu:EstructuraFuneraria , monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q19291170  monu:tieneEstilo  monu:Eclecticismo , monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q28370377  monu:tieneEstilo  monu:Eclecticismo , monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q925005  monu:tieneEstilo  monu:Eclecticismo , monu:Historicismo , monu:Modernismo_catalán , monu:Modernismo;
+        monu:tieneTipo    monu:Convento , monu:Torre_campanario , monu:Iglesia , monu:Capilla , monu:Arquitectura_Religiosa , monu:Masía , monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q11928598  monu:tieneEstilo  monu:Eclecticismo , monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q30276093  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q8963742  monu:tieneEstilo  monu:Eclecticismo , monu:Arquitectura_en_hierro , monu:Modernismo_catalán , monu:Modernismo;
+        monu:tieneTipo    monu:Fábrica , monu:ArquitecturaIndustrial , monu:Torre , monu:Arquitectura_Militar , monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q8204710  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q30277421  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q9013351  monu:tieneEstilo  monu:Modernismo_catalán , monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q9065971  monu:tieneEstilo  monu:Modernismo_catalán , monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Arquitectura_Civil   .
+
+wd:Q11038407  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Masía , monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q19301847  monu:tieneEstilo  monu:Modernismo_catalán , monu:Eclecticismo , monu:Modernismo , monu:Historicismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q7167730  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q8194962  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q8772204  monu:tieneEstilo  monu:Modernismo_catalán , monu:Eclecticismo , monu:Historicismo , monu:Modernismo;
+        monu:tieneTipo    monu:Masía , monu:Museo , monu:Construcción_funeraria , monu:Mausoleo , monu:EstructuraFuneraria , monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q17000382  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q88153170  monu:tieneEstilo  monu:Eclecticismo , monu:Modernismo_catalán , monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q11685483  monu:tieneEstilo  monu:Historicismo , monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q19300677  monu:tieneEstilo  monu:Neoclásico;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q30277461  monu:tieneEstilo  monu:Modernismo , monu:Eclecticismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q9028072  monu:tieneEstilo  monu:Eclecticismo , monu:Modernismo_catalán , monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q628834  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Masía , monu:Arquitectura_Civil   .
+
+wd:Q29950700  monu:tieneEstilo  monu:Eclecticismo;
+        monu:tieneTipo    monu:Plaza_de_toros , monu:Arquitectura_Civil   .
+
+wd:Q5868143  monu:tieneEstilo  monu:Renacentista;
+        monu:tieneTipo    monu:Vivienda , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q30047422  monu:tieneEstilo  monu:Neoclásico;
+        monu:tieneTipo    monu:Vivienda , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q20950090  monu:tieneEstilo  monu:Neoclásico;
+        monu:tieneTipo    monu:Museo , monu:Arquitectura_Civil   .
+
+wd:Q892719  monu:tieneEstilo  monu:Neobarroco , monu:Eclecticismo , monu:Neoárabe , monu:Historicismo;
+        monu:tieneTipo    monu:Teatro_de_ópera , monu:Teatro , monu:Casa_Consistorial , monu:Plaza_de_toros , monu:Arquitectura_Civil   .
+
+wd:Q67947315  monu:tieneEstilo  monu:Historicismo , monu:Neomudéjar;
+        monu:tieneTipo    monu:Teatro , monu:Arquitectura_Civil   .
+
+wd:Q9013103  monu:tieneEstilo  monu:Historicismo;
+        monu:tieneTipo    monu:Iglesia , monu:Arquitectura_Religiosa   .
+
+wd:Q5994708  monu:tieneEstilo  monu:Barroco;
+        monu:tieneTipo    monu:Iglesia , monu:Arquitectura_Religiosa   .
+
+wd:Q9057746  monu:tieneEstilo  monu:Renacentista;
+        monu:tieneTipo    monu:Iglesia , monu:Arquitectura_Religiosa   .
+
+wd:Q25323620  monu:tieneEstilo  monu:Barroco;
+        monu:tieneTipo    monu:Vivienda , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q5951547  monu:tieneEstilo  monu:Arquitectura_en_hierro , monu:Historicismo;
+        monu:tieneTipo    monu:Mercado_de_Abastos , monu:Mercado , monu:Vivienda , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q29257725  monu:tieneEstilo  monu:Neobarroco , monu:Historicismo;
+        monu:tieneTipo    monu:Vivienda , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q19300454  monu:tieneEstilo  monu:Eclecticismo;
+        monu:tieneTipo    monu:Casa_Consistorial , monu:Arquitectura_Civil   .
+
+wd:Q2877971  monu:tieneEstilo  monu:Historicismo , monu:Eclecticismo , monu:Modernismo;
+        monu:tieneTipo    monu:Construcción_funeraria , monu:Mausoleo , monu:EstructuraFuneraria , monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q3754860  monu:tieneEstilo  monu:Eclecticismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q19336170  monu:tieneEstilo  monu:Racionalismo;
+        monu:tieneTipo    monu:Vivienda , monu:Arquitectura_Civil   .
+
+wd:Q19340688  monu:tieneEstilo  monu:Racionalismo;
+        monu:tieneTipo    monu:Vivienda , monu:Arquitectura_Civil   .
+
+wd:Q40011333  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q19356001  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q6152727  monu:tieneEstilo  monu:Neorrománico , monu:Historicismo , monu:Eclecticismo;
+        monu:tieneTipo    monu:Palacio_episcopal , monu:Arquitectura_Religiosa , monu:Vivienda , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q9013290  monu:tieneEstilo  monu:Historicismo , monu:Neoclásico;
+        monu:tieneTipo    monu:Catedral , monu:Arquitectura_Religiosa , monu:Vivienda , monu:Arquitectura_Civil   .
+
+wd:Q25328  monu:tieneEstilo  monu:Historicismo , monu:Neogótico , monu:Modernismo , monu:Modernismo_catalán;
+        monu:tieneTipo    monu:Cripta , monu:Construcción_funeraria , monu:EstructuraFuneraria   , monu:Arquitectura_Civil , monu:Arquitectura_Religiosa , monu:Palacio , monu:Vivienda , monu:Palacio_episcopal , monu:Museo , monu:Casa , monu:Jardín , monu:Mobiliario_Urbano , monu:Fuente .
+
+wd:Q80940053  monu:tieneEstilo  monu:Neogótico , monu:Historicismo;
+        monu:tieneTipo    monu:Iglesia , monu:Arquitectura_Religiosa , monu:Hotel , monu:Vivienda , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q5939427  monu:tieneEstilo  monu:Neoclásico;
+        monu:tieneTipo    monu:Santuario_mariano , monu:Basílica_menor , monu:Santuario , monu:Arquitectura_Religiosa   .
+
+wd:Q5981871  monu:tieneEstilo  monu:Eclecticismo;
+        monu:tieneTipo    monu:Centro_cultural , monu:Arquitectura_Civil   .
+
+wd:Q3393367  monu:tieneEstilo  monu:Neoclásico;
+        monu:tieneTipo    monu:Vivienda , monu:Arquitectura_Civil   .
+
+wd:Q1150065  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q16617717  monu:tieneEstilo  monu:Neoclásico;
+        monu:tieneTipo    monu:Plaza_porticada , monu:Plaza , monu:Arquitectura_Civil   .
+
+wd:Q973178  monu:tieneEstilo  monu:Modernismo_catalán , monu:Modernismo;
+        monu:tieneTipo    monu:Iglesia , monu:Arquitectura_Religiosa , monu:Fábrica , monu:ArquitecturaIndustrial , monu:Masía , monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q106883067  monu:tieneEstilo  monu:Neorrománico , monu:Historicismo;
+        monu:tieneTipo    monu:Palacio_episcopal , monu:Vivienda , monu:Palacio , monu:Arquitectura_Religiosa , monu:Arquitectura_Civil   .
+
+wd:Q9023348  monu:tieneEstilo  monu:Modernismo , monu:Historicismo , monu:Neogótico , monu:Eclecticismo;
+        monu:tieneTipo    wikibase:Item  , monu:Arquitectura_Civil , monu:Casa_Consistorial , monu:Casa , monu:Vivienda , monu:Museo , monu:Masía , monu:Arquitectura_Religiosa , monu:Torre_campanario , monu:ArquitecturaIndustrial , monu:Fábrica .
+
+wd:Q674592  monu:tieneEstilo  monu:Eclecticismo , monu:Neoclásico;
+        monu:tieneTipo    monu:Masía , monu:Vivienda , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q60197985  monu:tieneEstilo  monu:Neoclásico;
+        monu:tieneTipo    monu:Vivienda , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q6185672  monu:tieneEstilo  monu:Eclecticismo , monu:Neoclásico;
+        monu:tieneTipo    monu:Teatro , monu:Arquitectura_Civil   .
+
+wd:Q616998  monu:tieneEstilo  monu:Gótico_valenciano , monu:Gótico;
+        monu:tieneTipo    monu:Catedral , monu:Arquitectura_Religiosa   .
+
+wd:Q29588702  monu:tieneEstilo  monu:Modernismo_valenciano , monu:Modernismo , monu:Neoclásico;
+        monu:tieneTipo    monu:Mercado , monu:Casa_Consistorial , monu:Arquitectura_Civil   .
+
+wd:Q20993897  monu:tieneEstilo  monu:Eclecticismo , monu:Historicismo;
+        monu:tieneTipo    monu:Mansión , monu:Vivienda , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q30276205  monu:tieneEstilo  monu:Eclecticismo , monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q16746253  monu:tieneEstilo  monu:Neogótico , monu:Historicismo , monu:Neomudéjar;
+        monu:tieneTipo    monu:Basílica_menor , monu:Arquitectura_Religiosa   .
+
+wd:Q8962231  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Teatro , monu:Construcción_funeraria , monu:Mausoleo , monu:EstructuraFuneraria , monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q93439737  monu:tieneEstilo  monu:Neoclásico;
+        monu:tieneTipo    monu:Fábrica , monu:ArquitecturaIndustrial , monu:Vivienda , monu:Arquitectura_Civil   .
+
+wd:Q11909619  monu:tieneEstilo  monu:Eclecticismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Casa_Consistorial , monu:Arquitectura_Civil   .
+
+wd:Q6128494  monu:tieneEstilo  monu:Neoclásico;
+        monu:tieneTipo    monu:Iglesia , monu:Arquitectura_Religiosa   .
+
+wd:Q11703785  monu:tieneEstilo  monu:Eclecticismo;
+        monu:tieneTipo    monu:Casino , monu:Vivienda , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q20532761  monu:tieneEstilo  monu:Eclecticismo;
+        monu:tieneTipo    monu:Hotel , monu:Arquitectura_Civil   .
+
+wd:Q721659  monu:tieneEstilo  monu:Eclecticismo , monu:Historicismo;
+        monu:tieneTipo    monu:Vivienda , monu:Arquitectura_Civil   .
+
+wd:Q5859195  monu:tieneEstilo  monu:Neobizantino , monu:Historicismo;
+        monu:tieneTipo    monu:Iglesia , monu:Arquitectura_Religiosa   .
+
+wd:Q5952302  monu:tieneEstilo  monu:Renacentista;
+        monu:tieneTipo    monu:Vivienda , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q10750587  monu:tieneEstilo  monu:Neoclásico;
+        monu:tieneTipo    monu:Vivienda , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q346159  monu:tieneEstilo  monu:Neogótico , monu:Historicismo , monu:Modernismo_catalán , monu:Modernismo , monu:Eclecticismo;
+        monu:tieneTipo    monu:Basílica_menor , monu:Iglesia , monu:Arquitectura_Religiosa , monu:Casa , monu:Vivienda , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q2275418  monu:tieneEstilo  monu:Barroco;
+        monu:tieneTipo    monu:Colegiata , monu:Vivienda , monu:Palacio , monu:Arquitectura_Civil , monu:Iglesia_jesuítica , monu:Iglesia , monu:Arquitectura_Religiosa   .
+
+wd:Q1337287  monu:tieneEstilo  monu:Renacentista;
+        monu:tieneTipo    monu:Vivienda , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q8263591  monu:tieneEstilo  monu:Barroco;
+        monu:tieneTipo    monu:Vivienda , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q892081  monu:tieneEstilo  monu:Neoárabe , monu:Historicismo , monu:Neomudéjar;
+        monu:tieneTipo    monu:Plaza_de_toros , monu:Arquitectura_Civil   .
+
+wd:Q12385887  monu:tieneEstilo  monu:Arquitectura_moderna;
+        monu:tieneTipo    monu:Museo_de_arte , monu:Biblioteca , monu:Museo , monu:Arquitectura_Civil   .
+
+wd:Q3605398  monu:tieneEstilo  monu:Historicismo;
+        monu:tieneTipo    monu:Cruz_de_término , monu:Arquitectura_Religiosa   .
+
+wd:Q1440835  monu:tieneEstilo  monu:Modernismo_catalán , monu:Modernismo , monu:Neoclásico;
+        monu:tieneTipo    monu:Vivienda , monu:Escultura , monu:Fuente , monu:Mobiliario_Urbano , monu:Plaza , monu:Arquitectura_Civil   .
+
+wd:Q9011116  monu:tieneEstilo  monu:Modernismo_catalán , monu:Modernismo , monu:Eclecticismo;
+        monu:tieneTipo    monu:Fábrica , monu:ArquitecturaIndustrial , monu:Cementerio , monu:Construcción_funeraria   .
+
+wd:Q11940568  monu:tieneEstilo  monu:Modernismo_catalán , monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q5490740  monu:tieneEstilo  monu:Modernismo_catalán , monu:Modernismo , monu:Historicismo;
+        monu:tieneTipo    monu:Vivienda , monu:Prisión , monu:Construcción_Conmemorativa , monu:Arquitectura_Civil   .
+
+wd:Q63852226  monu:tieneEstilo  monu:Neogótico , monu:Historicismo;
+        monu:tieneTipo    monu:Palacio_episcopal , monu:Vivienda , monu:Palacio , monu:Arquitectura_Religiosa , monu:Arquitectura_Civil   .
+
+wd:Q2242694  monu:tieneEstilo  monu:Eclecticismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q8962617  monu:tieneEstilo  monu:Renacentista;
+        monu:tieneTipo    monu:Vivienda , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q8204714  monu:tieneEstilo  monu:Gótico;
+        monu:tieneTipo    monu:Catedral , monu:Arquitectura_Religiosa   .
+
+wd:Q29514527  monu:tieneEstilo  monu:Neoárabe , monu:Eclecticismo , monu:Historicismo;
+        monu:tieneTipo    monu:Casino , monu:Arquitectura_Civil   .
+
+wd:Q6068480  monu:tieneEstilo  monu:Modernismo_valenciano , monu:Modernismo , monu:Neoárabe , monu:Eclecticismo , monu:Historicismo;
+        monu:tieneTipo    monu:Teatro , monu:Museo , monu:Casino , monu:Arquitectura_Civil   .
+
+wd:Q5929460  monu:tieneEstilo  monu:Modernismo , monu:Neoplateresco , monu:Historicismo;
+        monu:tieneTipo    monu:Casa , monu:Vivienda , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q427861  monu:tieneEstilo  monu:Neoclásico;
+        monu:tieneTipo    monu:Plaza_de_toros , monu:Arquitectura_Civil   .
+
+wd:Q72211012  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Sitio_de_interés  .
+
+wd:Q2840793  monu:tieneEstilo  monu:Eclecticismo;
+        monu:tieneTipo    monu:Mansión , monu:Vivienda , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q5994806  monu:tieneEstilo  monu:Eclecticismo , monu:Modernismo;
+        monu:tieneTipo    monu:Casa_Consistorial , monu:Vivienda , monu:Teatro , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q2877777  monu:tieneEstilo  monu:Eclecticismo , monu:Arquitectura_de_cristal_y_hierro , monu:Arquitectura_victoriana;
+        monu:tieneTipo    monu:Museo , monu:Arquitectura_Civil   .
+
+wd:Q2070359  monu:tieneEstilo  monu:Modernismo_catalán , monu:Modernismo , monu:Eclecticismo;
+        monu:tieneTipo    monu:Hospital_clausurado , monu:Hospital , monu:Casa , monu:Vivienda , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q8960483  monu:tieneEstilo  monu:Neogótico , monu:Historicismo , monu:Eclecticismo;
+        monu:tieneTipo    monu:Castillo , monu:Arquitectura_Militar , monu:Vivienda , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q8776025  monu:tieneEstilo  monu:Modernismo , monu:Eclecticismo;
+        monu:tieneTipo    monu:Casa , monu:Vivienda , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q5929968  monu:tieneEstilo  monu:Eclecticismo;
+        monu:tieneTipo    monu:Basílica_menor , monu:Iglesia , monu:Arquitectura_Religiosa   .
+
+wd:Q517692  monu:tieneEstilo  monu:Modernismo_catalán , monu:Modernismo;
+        monu:tieneTipo    monu:Escultura , monu:Mobiliario_Urbano   .
+
+wd:Q428717  monu:tieneEstilo  monu:Neoclásico , monu:Eclecticismo;
+        monu:tieneTipo    monu:Vivienda , monu:Torre_de_Reloj , monu:Torre , monu:Arquitectura_Civil , monu:Arquitectura_Militar   .
+
+wd:Q31709849  monu:tieneEstilo  monu:Historicismo , monu:Neomudéjar;
+        monu:tieneTipo    monu:Arquitectura_Religiosa   .
+
+wd:Q5945532  monu:tieneEstilo  monu:Historicismo , monu:Neomudéjar;
+        monu:tieneTipo    monu:Manufactura_real , monu:Fábrica , monu:ArquitecturaIndustrial   .
+
+wd:Q598128  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Cementerio , monu:Construcción_funeraria , monu:Casa_Consistorial , monu:Arquitectura_Civil   .
+
+wd:Q11686063  monu:tieneEstilo  monu:Eclecticismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q17000381  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q9021519  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q84089765  monu:tieneEstilo  monu:Renacentista;
+        monu:tieneTipo    monu:Iglesia , monu:Arquitectura_Religiosa   .
+
+wd:Q352793  monu:tieneEstilo  monu:Renacentista;
+        monu:tieneTipo    monu:Vivienda , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q11085661  monu:tieneEstilo  monu:Arquitectura_de_cristal_y_hierro , monu:Eclecticismo;
+        monu:tieneTipo    monu:Mercado , monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q5699789  monu:tieneEstilo  monu:Eclecticismo , monu:Historicismo , monu:Neoclásico;
+        monu:tieneTipo    monu:Mansión , monu:Vivienda , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q5866077  monu:tieneEstilo  monu:Neoclásico;
+        monu:tieneTipo    monu:Arco_de_triunfo , monu:Grupo_escultórico , monu:Escultura , monu:Construcción_Conmemorativa , monu:Mobiliario_Urbano , monu:Vivienda , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q5859676  monu:tieneEstilo  monu:Neogótico , monu:Neobizantino , monu:Neobarroco , monu:Historicismo;
+        monu:tieneTipo    monu:Iglesia , monu:Arquitectura_Religiosa , monu:Construcción_funeraria , monu:Mausoleo , monu:EstructuraFuneraria , monu:Casa_Consistorial , monu:Arquitectura_Civil   .
+
+wd:Q5994209  monu:tieneEstilo  monu:Neobarroco , monu:Historicismo;
+        monu:tieneTipo    monu:Casa_Consistorial , monu:Arquitectura_Civil   .
+
+wd:Q6121462  monu:tieneEstilo  monu:Neoclásico;
+        monu:tieneTipo    monu:Casa_Consistorial , monu:Arquitectura_Civil   .
+
+wd:Q106194021  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Sitio_de_interés  .
+
+wd:Q867801  monu:tieneEstilo  monu:Historicismo , monu:Neomudéjar;
+        monu:tieneTipo    monu:Iglesia , monu:Arquitectura_Religiosa   .
+
+wd:Q7420227  monu:tieneEstilo  monu:Barroco;
+        monu:tieneTipo    monu:Basílica_menor , monu:Iglesia , monu:Arquitectura_Religiosa   .
+
+wd:Q5868736  monu:tieneEstilo  monu:Barroco;
+        monu:tieneTipo    monu:Iglesia , monu:Arquitectura_Religiosa   .
+
+wd:Q517106  monu:tieneEstilo  monu:Historicismo , monu:Eclecticismo , monu:Modernismo_catalán , monu:Modernismo;
+        monu:tieneTipo    monu:Iglesia , monu:Arquitectura_Religiosa , monu:Prisión , monu:Construcción_Conmemorativa , monu:Vivienda , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q317876  monu:tieneEstilo  monu:Modernismo , monu:Modernismo_catalán , monu:Neoclásico , monu:Eclecticismo;
+        monu:tieneTipo    monu:Hospital_clausurado   , monu:Arquitectura_Civil , monu:Palacio , monu:Vivienda , monu:Casa , monu:Hotel , monu:EstructuraFuneraria , monu:Mausoleo , monu:Construcción_funeraria , monu:Museo , monu:Hospital .
+
+wd:Q4890734  monu:tieneEstilo  monu:Románico;
+        monu:tieneTipo    monu:Antigua_catedral , monu:Iglesia , monu:Arquitectura_Religiosa   .
+
+wd:Q9007805  monu:tieneEstilo  monu:Barroco;
+        monu:tieneTipo    monu:Santuario , monu:Iglesia , monu:Arquitectura_Religiosa   .
+
+wd:Q704356  monu:tieneEstilo  monu:Barroco;
+        monu:tieneTipo    monu:Santuario , monu:Iglesia , monu:Arquitectura_Religiosa   .
+
+wd:Q1678035  monu:tieneEstilo  monu:Barroco;
+        monu:tieneTipo    monu:Iglesia , monu:Arquitectura_Religiosa   .
+
+wd:Q9088472  monu:tieneEstilo  monu:Neoclásico;
+        monu:tieneTipo    monu:Mercado_de_Abastos , monu:Mercado , monu:Arquitectura_Civil   .
+
+wd:Q67872807  monu:tieneEstilo  monu:Historicismo , monu:Neomudéjar;
+        monu:tieneTipo    monu:Plaza_de_toros , monu:Arquitectura_Civil   .
+
+wd:Q20533291  monu:tieneEstilo  monu:Neogótico , monu:Historicismo , monu:Eclecticismo;
+        monu:tieneTipo    monu:Iglesia , monu:Arquitectura_Religiosa , monu:Plaza , monu:Casa_Consistorial , monu:Vivienda , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q49257602  monu:tieneEstilo  monu:Modernismo_valenciano , monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q8201047  monu:tieneEstilo  monu:Neoclásico , monu:Barroco;
+        monu:tieneTipo    monu:Vivienda , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q311692  monu:tieneEstilo  monu:Minimalismo;
+        monu:tieneTipo    monu:Iglesia , monu:Arquitectura_Religiosa   .
+
+wd:Q27496678  monu:tieneEstilo  monu:Racionalismo;
+        monu:tieneTipo    monu:Teatro , monu:Arquitectura_Civil   .
+
+wd:Q2893413  monu:tieneEstilo  monu:Historicismo , monu:Neomudéjar;
+        monu:tieneTipo    monu:Teatro , monu:Arquitectura_Civil   .
+
+wd:Q11685559  monu:tieneEstilo  monu:Eclecticismo;
+        monu:tieneTipo    monu:Iglesia , monu:Arquitectura_Religiosa   .
+
+wd:Q5660510  monu:tieneEstilo  monu:Eclecticismo;
+        monu:tieneTipo    monu:Sitio_de_interés  .
+
+wd:Q5946186  monu:tieneEstilo  monu:Eclecticismo;
+        monu:tieneTipo    monu:Sitio_de_interés  .
+
+wd:Q9013267  monu:tieneEstilo  monu:Barroco , monu:Neoclásico;
+        monu:tieneTipo    monu:Iglesia , monu:Arquitectura_Religiosa , monu:Vivienda , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q3813638  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Sitio_de_interés  .
+
+wd:Q3845022  monu:tieneEstilo  monu:Estilo_Segundo_Imperio , monu:Historicismo , monu:Estilo_reina_Ana;
+        monu:tieneTipo    monu:Hotel , monu:Vivienda , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q12258733  monu:tieneEstilo  monu:Eclecticismo;
+        monu:tieneTipo    monu:Vivienda , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q5932291  monu:tieneEstilo  monu:Eclecticismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa_Consistorial , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q20768266  monu:tieneEstilo  monu:Neoclásico;
+        monu:tieneTipo    monu:Museo , monu:Arquitectura_Civil   .
+
+wd:Q3564443  monu:tieneEstilo  monu:Neorrománico , monu:Neoegipcio , monu:Historicismo , monu:Modernismo;
+        monu:tieneTipo    monu:Construcción_funeraria , monu:Mausoleo , monu:EstructuraFuneraria , monu:Vivienda , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q72209723  monu:tieneEstilo  monu:Eclecticismo;
+        monu:tieneTipo    monu:Vivienda , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q5872370  monu:tieneEstilo  monu:Eclecticismo;
+        monu:tieneTipo    monu:Vivienda , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q867088  monu:tieneEstilo  monu:Renacentista;
+        monu:tieneTipo    monu:Vivienda , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q5494029  monu:tieneEstilo  monu:Renacentista;
+        monu:tieneTipo    monu:Sitio_de_interés  .
+
+wd:Q1220605  monu:tieneEstilo  monu:Plateresco;
+        monu:tieneTipo    monu:Casa_Consistorial , monu:Arquitectura_Civil   .
+
+wd:Q8772199  monu:tieneEstilo  monu:Modernismo_catalán , monu:Modernismo;
+        monu:tieneTipo    monu:Construcción_funeraria , monu:Mausoleo , monu:EstructuraFuneraria , monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q20640432  monu:tieneEstilo  monu:Eclecticismo , monu:Historicismo , monu:Neomudéjar;
+        monu:tieneTipo    monu:Teatro , monu:Hotel , monu:Arquitectura_Civil   .
+
+wd:Q1652670  monu:tieneEstilo  monu:Neovasco , monu:Arquitectura_regionalista;
+        monu:tieneTipo    monu:Vivienda , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q12260624  monu:tieneEstilo  monu:Neogótico , monu:Historicismo;
+        monu:tieneTipo    monu:Iglesia , monu:Arquitectura_Religiosa   .
+
+wd:Q8963317  monu:tieneEstilo  monu:Modernismo_catalán , monu:Modernismo;
+        monu:tieneTipo    monu:Museo , monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q6292377  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Sitio_de_interés  .
+
+wd:Q9053996  monu:tieneEstilo  monu:Eclecticismo , monu:Historicismo , monu:Neomudéjar , monu:Modernismo;
+        monu:tieneTipo    monu:Convento , monu:Iglesia , monu:Vivienda , monu:Casa , monu:Arquitectura_Civil , monu:Concatedral , monu:Catedral , monu:Arquitectura_Religiosa , monu:Monumento_patrimonio_histórico_de_España   .
+
+wd:Q5827294  monu:tieneEstilo  monu:Eclecticismo , monu:Historicismo , monu:Neomudéjar;
+        monu:tieneTipo    monu:Plaza_de_toros , monu:Arquitectura_Civil   .
+
+wd:Q2944065  monu:tieneEstilo  monu:Historicismo , monu:Neomudéjar;
+        monu:tieneTipo    monu:Fábrica , monu:ArquitecturaIndustrial , monu:Biblioteca , monu:Arquitectura_Civil   .
+
+wd:Q2944350  monu:tieneEstilo  monu:Historicismo , monu:Neomudéjar;
+        monu:tieneTipo    monu:Fábrica , monu:ArquitecturaIndustrial , monu:Biblioteca , monu:Arquitectura_Civil   .
+
+wd:Q3059611  monu:tieneEstilo  monu:Neogótico , monu:Historicismo , monu:Neomudéjar;
+        monu:tieneTipo    monu:Iglesia , monu:Arquitectura_Religiosa , monu:Fábrica , monu:ArquitecturaIndustrial , monu:Biblioteca , monu:Arquitectura_Civil   .
+
+wd:Q5484804  monu:tieneEstilo  monu:Historicismo , monu:Neomudéjar;
+        monu:tieneTipo    monu:Plaza_de_toros , monu:Arquitectura_Civil   .
+
+wd:Q17000365  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Monumento_patrimonio_histórico_de_España , monu:Casino , monu:Arquitectura_Civil   .
+
+wd:Q5721384  monu:tieneEstilo  monu:Barroco;
+        monu:tieneTipo    monu:Catedral , monu:Arquitectura_Religiosa   .
+
+wd:Q66464  monu:tieneEstilo  monu:Gótico;
+        monu:tieneTipo    monu:Catedral , monu:Monumento_patrimonio_histórico_de_España , monu:Monasterio_cartujo , monu:Monasterio , monu:Arquitectura_Religiosa   .
+
+wd:Q16173867  monu:tieneEstilo  monu:Gótico_valenciano , monu:Gótico;
+        monu:tieneTipo    monu:Monumento_patrimonio_histórico_de_España , monu:Catedral , monu:Arquitectura_Religiosa   .
+
+wd:Q11905514  monu:tieneEstilo  monu:Gótico_valenciano , monu:Gótico;
+        monu:tieneTipo    monu:Torre_campanario , monu:Monumento_patrimonio_histórico_de_España , monu:Catedral , monu:Arquitectura_Religiosa   .
+
+wd:Q2010084  monu:tieneEstilo  monu:Plateresco , monu:Gótico_tardío , monu:Gótico , monu:Renacentista;
+        monu:tieneTipo    monu:Pazo , monu:Vivienda , monu:Catedral , monu:Prisión , monu:Xenodochium , monu:Hospital , monu:Convento , monu:Monasterio , monu:Arquitectura_Religiosa , monu:Arquitectura_Civil   .
+
+wd:Q63115613  monu:tieneEstilo  monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Arquitectura_Civil   .
+
+wd:Q5650676  monu:tieneEstilo  monu:Historicismo , monu:Neoclásico , monu:Modernismo_valenciano , monu:Modernismo;
+        monu:tieneTipo    monu:Iglesia , monu:Arquitectura_Religiosa , monu:Casa_Consistorial , monu:Vivienda , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q11163422  monu:tieneEstilo  monu:Eclecticismo , monu:Modernismo;
+        monu:tieneTipo    monu:Mirador , monu:Plaza_de_toros , monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q11685115  monu:tieneEstilo  monu:Modernismo_valenciano , monu:Eclecticismo , monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q5982882  monu:tieneEstilo  monu:Modernismo , monu:Neorrománico , monu:Eclecticismo , monu:Historicismo;
+        monu:tieneTipo    monu:Vivienda , monu:Arquitectura_Civil , monu:Basílica_menor , monu:Iglesia , monu:Arquitectura_Religiosa   .
+
+wd:Q2686751  monu:tieneEstilo  monu:Renacentista;
+        monu:tieneTipo    monu:Vivienda , monu:Palacio_Real , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q940671  monu:tieneEstilo  monu:Renacentista;
+        monu:tieneTipo    monu:Capilla , monu:Iglesia , monu:Monasterio , monu:Catedral , monu:Arquitectura_Religiosa   .
+
+wd:Q3140999  monu:tieneEstilo  monu:Gótico , monu:Renacentista;
+        monu:tieneTipo    monu:Abadía_benedictina , monu:Abadía , monu:Monasterio_cartujo , monu:Monasterio , monu:Arquitectura_Religiosa , monu:Vivienda , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q732537  monu:tieneEstilo  monu:Barroco;
+        monu:tieneTipo    monu:Monumento_patrimonio_histórico_de_España , monu:Santuario_mariano , monu:Concatedral , monu:Basílica_menor , monu:Santuario , monu:Catedral , monu:Iglesia , monu:Arquitectura_Religiosa   .
+
+wd:Q5858456  monu:tieneEstilo  monu:Rococo , monu:Neoclásico , monu:Barroco;
+        monu:tieneTipo    monu:Monumento_patrimonio_histórico_de_España , monu:Santuario_mariano , monu:Concatedral , monu:Basílica_menor , monu:Santuario , monu:Catedral , monu:Iglesia , monu:Arquitectura_Religiosa   .
+
+wd:Q3134295  monu:tieneEstilo  monu:Renacentista , monu:Plateresco;
+        monu:tieneTipo    monu:Hospital_clausurado , monu:Hospital , monu:Casa_Solariega , monu:Vivienda , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q7808691  monu:tieneEstilo  monu:Arte_asturiano , monu:Mozárabe;
+        monu:tieneTipo    monu:Monumento_patrimonio_histórico_de_España , monu:Iglesia , monu:Arquitectura_Religiosa   .
+
+wd:Q339190  monu:tieneEstilo  monu:Renacentista;
+        monu:tieneTipo    monu:Catedral , monu:Arquitectura_Religiosa , monu:Vivienda , monu:Palacio , monu:Hospital_clausurado , monu:Hospital , monu:Museo , monu:Arquitectura_Civil   .
+
+wd:Q25475760  monu:tieneEstilo  monu:Neogótico , monu:Historicismo;
+        monu:tieneTipo    monu:Monasterio , monu:Arquitectura_Religiosa   .
+
+wd:Q892266  monu:tieneEstilo  monu:Neogótico , monu:Historicismo , monu:Modernismo;
+        monu:tieneTipo    monu:Iglesia , monu:Arquitectura_Religiosa , monu:Casa_Consistorial , monu:Arquitectura_Civil   .
+
+wd:Q12754  monu:tieneEstilo  monu:Modernismo_catalán , monu:Eclecticismo , monu:Modernismo;
+        monu:tieneTipo    monu:Iglesia , monu:Arquitectura_Religiosa   .
+
+wd:Q16189706  monu:tieneEstilo  monu:Barroco;
+        monu:tieneTipo    monu:Iglesia , monu:Arquitectura_Religiosa , monu:Vivienda , monu:Palacio_Real , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q5931632  monu:tieneEstilo  monu:Neobizantino , monu:Historicismo;
+        monu:tieneTipo    monu:Iglesia , monu:Arquitectura_Religiosa   .
+
+wd:Q3049047  monu:tieneEstilo  monu:Churrigueresco , monu:Barroco_español , monu:Barroco;
+        monu:tieneTipo    monu:Iglesia , monu:Arquitectura_Religiosa , monu:Cuartel , monu:Arquitectura_Militar , monu:Museo , monu:Arquitectura_Civil   .
+
+wd:Q3781231  monu:tieneEstilo  monu:Neoclásico;
+        monu:tieneTipo    monu:Museo_de_arte , monu:Vivienda , monu:Palacio , monu:Museo , monu:Arquitectura_Civil   .
+
+wd:Q2429525  monu:tieneEstilo  monu:Neoclásico;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q1363098  monu:tieneEstilo  monu:Renacentista;
+        monu:tieneTipo    monu:Monumento_patrimonio_histórico_de_España , monu:Monasterio , monu:Arquitectura_Religiosa   .
+
+wd:Q3327101  monu:tieneEstilo  monu:Plateresco , monu:Gótico , monu:Renacentista;
+        monu:tieneTipo    monu:Iglesia , monu:Catedral , monu:Arquitectura_Religiosa , monu:Xenodochium , monu:Hospital_clausurado , monu:Hospital , monu:Hotel , monu:Monumento_patrimonio_histórico_de_España , monu:Museo , monu:Arquitectura_Civil   .
+
+wd:Q459775  monu:tieneEstilo  monu:Modernismo_catalán , monu:Modernismo;
+        monu:tieneTipo    monu:Iglesia , monu:Arquitectura_Religiosa , monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q892611  monu:tieneEstilo  monu:Historicismo , monu:Neogótico , monu:Eclecticismo , monu:Neobarroco , monu:Modernismo , monu:Modernismo_catalán;
+        monu:tieneTipo    wikibase:Item  , monu:Arquitectura_Civil , monu:Palacio , monu:Vivienda , monu:Casa , monu:Arquitectura_Religiosa , monu:Catedral , monu:ArquitecturaIndustrial , monu:Fábrica .
+
+wd:Q12750  monu:tieneEstilo  monu:Modernismo , monu:Modernismo_catalán , monu:Neoclásico , monu:Historicismo;
+        monu:tieneTipo    wikibase:Item  , monu:Arquitectura_Civil , monu:Casa , monu:Vivienda , monu:EstructuraFuneraria , monu:Mausoleo , monu:Construcción_funeraria , monu:Masía , monu:Arquitectura_Religiosa , monu:Capilla , monu:Oratorio .
+
+wd:Q893297  monu:tieneEstilo  monu:Modernismo_catalán , monu:Modernismo;
+        monu:tieneTipo    monu:Vivienda , monu:Casa , monu:Arquitectura_Civil   .
+
+wd:Q5699043  monu:tieneEstilo  monu:Barroco;
+        monu:tieneTipo    monu:Vivienda , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q19841121  monu:tieneEstilo  monu:Barroco;
+        monu:tieneTipo    monu:Vivienda , monu:Palacio_Real , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q2632655  monu:tieneEstilo  monu:Renacentista;
+        monu:tieneTipo    monu:Monasterio , monu:Arquitectura_Religiosa   .
+
+wd:Q3374095  monu:tieneEstilo  monu:Eclecticismo , monu:Historicismo;
+        monu:tieneTipo    monu:Mansión , monu:Vivienda , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q2327379  monu:tieneEstilo  monu:Barroco;
+        monu:tieneTipo    monu:Monumento_patrimonio_histórico_de_España , monu:Vivienda , monu:Palacio_Real , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q85000  monu:tieneEstilo  monu:Barroco;
+        monu:tieneTipo    monu:Monumento_patrimonio_histórico_de_España , monu:Vivienda , monu:Palacio_Real , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q2857391  monu:tieneEstilo  monu:Neogótico , monu:Historicismo , monu:Modernismo , monu:Eclecticismo , monu:Arquitectura_regionalista;
+        monu:tieneTipo    monu:Iglesia , monu:Casa_Consistorial , monu:Vivienda , monu:Palacio , monu:Arquitectura_Civil , monu:Monasterio , monu:Arquitectura_Religiosa   .
+
+wd:Q2454966  monu:tieneEstilo  monu:Neoclásico , monu:Barroco;
+        monu:tieneTipo    monu:Museo , monu:Monasterio_de_monjas_cistercienses , monu:Monasterio_cisterciense , monu:Monasterio , monu:Arquitectura_Religiosa , monu:Monumento_patrimonio_histórico_de_España , monu:Vivienda , monu:Palacio_Real , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q2875983  monu:tieneEstilo  monu:Neogótico , monu:Historicismo , monu:Neoclásico;
+        monu:tieneTipo    monu:Catedral , monu:Arquitectura_Religiosa   .
+
+wd:Q3324260  monu:tieneEstilo  monu:Racionalismo;
+        monu:tieneTipo    monu:Mercado , monu:Museo , monu:Arquitectura_Civil   .
+
+wd:Q891937  monu:tieneEstilo  monu:Historicismo , monu:Neomudéjar;
+        monu:tieneTipo    monu:Iglesia , monu:Arquitectura_Religiosa   .
+
+wd:Q2565889  monu:tieneEstilo  monu:Rococo , monu:Neoclásico , monu:Barroco;
+        monu:tieneTipo    monu:Escultura , monu:Fuente , monu:Mobiliario_Urbano , monu:Vivienda , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q8962726  monu:tieneEstilo  monu:Neoclásico;
+        monu:tieneTipo    monu:Iglesia_conventual , monu:Basílica_menor , monu:Iglesia , monu:Arquitectura_Religiosa   .
+
+wd:Q9003235  monu:tieneEstilo  monu:Renacentista;
+        monu:tieneTipo    monu:Convento , monu:Casa , monu:Arquitectura_Religiosa , monu:Casa_Solariega , monu:Vivienda , monu:Palacio , monu:Museo , monu:Arquitectura_Civil   .
+
+wd:Q3290205  monu:tieneEstilo  monu:Neorrománico , monu:Historicismo;
+        monu:tieneTipo    monu:Catedral , monu:Arquitectura_Religiosa   .
+
+wd:Q2857931  monu:tieneEstilo  monu:Neomudéjar , monu:Arquitectura_regionalista , monu:Historicismo;
+        monu:tieneTipo    monu:Vivienda , monu:Iglesia_conventual , monu:Iglesia , monu:Humilladero , monu:Arquitectura_Religiosa , monu:Plaza_porticada , monu:Plaza , monu:Arquitectura_Civil   .
+
+wd:Q3014635  monu:tieneEstilo  monu:Neoárabe , monu:Historicismo;
+        monu:tieneTipo    monu:Mercado , monu:Arquitectura_Civil   .
+
+wd:Q2849049  monu:tieneEstilo  monu:Renacentista;
+        monu:tieneTipo    monu:Capilla , monu:Iglesia , monu:Catedral , monu:Arquitectura_Religiosa   .
+
+wd:Q5861971  monu:tieneEstilo  monu:Neoclásico;
+        monu:tieneTipo    monu:Teatro , monu:Arquitectura_Civil   .
+
+wd:Q5684641  monu:tieneEstilo  monu:Eclecticismo;
+        monu:tieneTipo    monu:Vivienda , monu:Palacio_Real , monu:Palacio , monu:Arquitectura_Civil   .
+
+wd:Q9057546  monu:tieneEstilo  monu:Barroco , monu:Neoclásico;
+        monu:tieneTipo    monu:Iglesia , monu:Arquitectura_Religiosa , monu:Monumento_patrimonio_histórico_de_España , monu:Castillo , monu:Museo , monu:Arquitectura_Civil , monu:Arquitectura_Militar   .
+
+wd:Q9015783  monu:tieneEstilo  monu:Neoclásico;
+        monu:tieneTipo    monu:Monumento_patrimonio_histórico_de_España , monu:Castillo , monu:Museo , monu:Arquitectura_Civil , monu:Arquitectura_Militar   .
+
+wd:Q5875898  monu:tieneEstilo  monu:Herreriano , monu:Manierismo , monu:Mudéjar , monu:Renacentista;
+        monu:tieneTipo    monu:Alcázar , monu:Arquitectura_Militar   .
+
+wd:Q363914  monu:tieneEstilo  monu:Herreriano , monu:Manierismo , monu:Mudéjar , monu:Renacentista;
+        monu:tieneTipo    monu:Catedral , monu:Basílica_menor , monu:Iglesia , monu:Arquitectura_Religiosa , monu:Alcázar , monu:Arquitectura_Militar   .
+
+wd:Q3776367  monu:tieneEstilo  monu:Herreriano , monu:Manierismo , monu:Mudéjar , monu:Renacentista;
+        monu:tieneTipo    monu:Alcázar , monu:Arquitectura_Militar   .
+
+wd:Q299378  monu:tieneEstilo  monu:Renacentista;
+        monu:tieneTipo    monu:Monumento_patrimonio_histórico_de_España , monu:Torre_Costera , monu:Fortaleza , monu:Torre , monu:Arquitectura_Militar   .
+
+wd:Q973374  monu:tieneEstilo  monu:Renacentista;
+        monu:tieneTipo    monu:Monumento_patrimonio_histórico_de_España , monu:Ciudadela , monu:Arquitectura_Militar   .

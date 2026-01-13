@@ -1,0 +1,545 @@
+PREFIX dc:         <http://purl.org/dc/elements/1.1/>
+PREFIX geo:        <http://www.w3.org/2003/01/geo/wgs84_pos#>
+PREFIX geosparql:  <http://www.opengis.net/ont/geosparql#>
+PREFIX lugares:    <http://www.monumentos.es/lugares/>
+PREFIX monu:       <http://www.monumentos.es/>
+PREFIX owl:        <http://www.w3.org/2002/07/owl#>
+PREFIX rdf:        <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs:       <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX skos:       <http://www.w3.org/2004/02/skos/core#>
+PREFIX swrl:       <http://www.w3.org/2003/11/swrl#>
+PREFIX swrla:      <http://swrl.stanford.edu/ontologies/3.3/swrla.owl#>
+PREFIX swrlb:      <http://www.w3.org/2003/11/swrlb#>
+PREFIX terms:      <http://purl.org/dc/terms/>
+PREFIX webprotege: <http://webprotege.stanford.edu/>
+PREFIX www:        <http://www.monumentos.es/#>
+PREFIX xml:        <http://www.w3.org/XML/1998/namespace>
+PREFIX xsd:        <http://www.w3.org/2001/XMLSchema#>
+PREFIX wd:    <http://www.wikidata.org/entity/>
+
+monu:Calle
+        monu:Monumento_tiene_estilo  monu:Modernismo_catalán , monu:Barroco , monu:Gótico , monu:Renacentista , monu:Modernismo , monu:Eclecticismo , monu:Novecentismo , monu:Neoclásico , monu:Arquitectura_popular ;
+        monu:Monumento_tiene_siglo   monu:Siglo_XV , monu:Siglo_XIV , monu:Siglo_XIII , monu:Siglo_XII , monu:Siglo_XVII , monu:Siglo_XIX , monu:Siglo_XVI , monu:Siglo_XI , monu:Siglo_XX , monu:Siglo_XVIII , monu:Siglo_XXI .
+
+
+
+monu:Abadía
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Cristiana;
+        monu:Monumento_tiene_estilo  monu:Eclecticismo , monu:Renacentista , monu:Gótico , monu:Neogótico , monu:Historicismo , monu:Románico , monu:Barroco , monu:Rococo , monu:Barroco_español;
+        monu:Monumento_tiene_siglo   monu:Siglo_XIV , monu:Siglo_IX , monu:Siglo_XII , monu:Siglo_X , monu:Siglo_XVIII , monu:Siglo_XVI , monu:Siglo_XI , monu:Siglo_XX , monu:Siglo_XVII .
+
+  monu:Abadía_benedictina
+
+          monu:Monumento_pertenece_a_cultura
+                  monu:Cultura_Cristiana ;
+          monu:Monumento_tiene_estilo  monu:Renacentista , monu:Barroco_español , monu:Barroco , monu:Eclecticismo , monu:Románico , monu:Gótico ;
+          monu:Monumento_tiene_siglo   monu:Siglo_XVII , monu:Siglo_XIV , monu:Siglo_XI , monu:Siglo_X , monu:Siglo_XII , monu:Siglo_XX , monu:Siglo_IX.
+
+monu:Antigua_catedral
+
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Cristiana ;
+        monu:Monumento_tiene_estilo  monu:Románico , monu:Neorrománico , monu:Historicismo ;
+        monu:Monumento_tiene_siglo   monu:Siglo_XIII , monu:Siglo_X , monu:Siglo_XIV .
+
+monu:Basílica  monu:Monumento_tiene_estilo
+                monu:Neoclásico ;
+        monu:Monumento_tiene_siglo   monu:Siglo_XVIII .
+
+monu:Basílica_menor
+monu:Monumento_pertenece_a_cultura
+        monu:Cultura_Cristiana  ;
+monu:Monumento_tiene_estilo  monu:Eclecticismo , monu:Gótico_catalán , monu:Barroco , monu:Neomudéjar , monu:Modernismo_catalán , monu:Racionalismo , monu:Románico , monu:Rococo , monu:Gótico_valenciano , monu:Manierismo , monu:Neogótico , monu:Neobarroco , monu:Paleocristiano , monu:Historicismo , monu:Gótico , monu:Gótico_tardío , monu:Barroco_español , monu:Herreriano , monu:Renacentista , monu:Visigodo , monu:Modernismo , monu:Neorrománico , monu:Neoclásico ;
+monu:Monumento_tiene_siglo   monu:Siglo_XVIII , monu:Siglo_XVII , monu:Siglo_XVI , monu:Siglo_XI , monu:Siglo_X , monu:Siglo_XIII , monu:Siglo_VI , monu:Siglo_XII , monu:Siglo_XV , monu:Siglo_VII , monu:Siglo_XIX , monu:Siglo_XX , monu:Siglo_XIV .
+
+monu:Capilla
+        monu:Monumento_pertenece_a_cultura
+               monu:Cultura_Cristiana ;
+        monu:Monumento_tiene_epoca   monu:Edad_Contemporánea , monu:Baja_Edad_Media , monu:Edad_Moderna ;
+        monu:Monumento_tiene_estilo  monu:Barroco , monu:Gótico_isabelino , monu:Gótico_flamígero , monu:Neoclásico , monu:Gótico_catalán , monu:Eclecticismo , monu:Renacentista , monu:Mudéjar , monu:Novecentismo , monu:Paleocristiano , monu:Manierismo , monu:Historicismo , monu:Modernismo , monu:Gótico , monu:Prerrománico , monu:Mudéjar_aragonés , monu:Arquitectura_popular , monu:Neorrománico , monu:Racionalismo , monu:Gótico_tardío , monu:Neogótico , monu:Románico ;
+        monu:Monumento_tiene_siglo   monu:Siglo_XI , monu:Siglo_XIV , monu:Siglo_XXI , monu:Siglo_XVI , monu:Siglo_XVII , monu:Siglo_XX , monu:Siglo_XIX , monu:Siglo_XII , monu:Siglo_XVIII , monu:Siglo_XV , monu:Siglo_XIII .
+
+
+monu:Catedral
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Cristiana ;
+        monu:Monumento_tiene_epoca   monu:Edad_Media ;
+        monu:Monumento_tiene_estilo  monu:Neorrománico , monu:Renacentista , monu:Mudéjar , monu:Neoclásico , monu:Hispano_musulmán , monu:Rococo , monu:Neogótico , monu:Herreriano , monu:Gótico_flamígero , monu:Historicismo , monu:Románico , monu:Gótico , monu:Gótico_valenciano , monu:Gótico_tardío , monu:Manierismo , monu:Neomudéjar , monu:Barroco , monu:Mudéjar_aragonés ;
+        monu:Monumento_tiene_siglo   monu:Siglo_XVI , monu:Siglo_XII , monu:Siglo_XVIII , monu:Siglo_X , monu:Siglo_V , monu:Siglo_XVII , monu:Siglo_XV , monu:Siglo_VIII , monu:Siglo_XIV , monu:Siglo_IX , monu:Siglo_XX , monu:Siglo_XIX , monu:Siglo_VI , monu:Siglo_XI , monu:Siglo_XIII .
+
+monu:Claustro
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Cristiana ;
+        monu:Monumento_tiene_estilo  monu:Gótico , monu:Románico , monu:Neoclásico , monu:Renacentista , monu:Arquitectura_popular ;
+        monu:Monumento_tiene_siglo   monu:Siglo_XIII , monu:Siglo_XIX , monu:Siglo_XVI .
+
+    monu:Colegiata
+monu:Monumento_pertenece_a_cultura
+        monu:Cultura_Cristiana  ;
+monu:Monumento_tiene_estilo  monu:Gótico_tardío , monu:Barroco , monu:Renacentista , monu:Románico , monu:Gótico ;
+monu:Monumento_tiene_siglo   monu:Siglo_XI , monu:Siglo_XVII , monu:Siglo_XVI , monu:Siglo_XVIII , monu:Siglo_VIII , monu:Siglo_XIII .
+
+monu:Concatedral
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Cristiana ;
+        monu:Monumento_tiene_estilo  monu:Barroco , monu:Gótico , monu:Gótico_tardío , monu:Historicismo , monu:Rococo , monu:Neoclásico , monu:Mudéjar , monu:Neomudéjar , monu:Mudéjar_aragonés , monu:Románico , monu:Renacentista ;
+        monu:Monumento_tiene_siglo   monu:Siglo_XV , monu:Siglo_XIX , monu:Siglo_XVII , monu:Siglo_XIV , monu:Siglo_XII , monu:Siglo_XVI , monu:Siglo_XIII .
+
+        monu:Convento
+                monu:Monumento_pertenece_a_cultura
+                        monu:Cultura_Cristiana , monu:Cultura_Romana  ;
+                monu:Monumento_tiene_epoca   monu:Edad_Moderna , monu:Edad_Contemporánea , monu:Edad_Antigua ;
+                monu:Monumento_tiene_estilo  monu:Gótico_isabelino , monu:Gótico_valenciano , monu:Modernismo , monu:Gótico_tardío , monu:Estilo_Segundo_Imperio , monu:Barroco_español , monu:Arte_cisterciense , monu:Neogótico , monu:Arquitectura_moderna , monu:Románico , monu:Historicismo , monu:Neoclásico , monu:Gótico , monu:Arquitectura_popular , monu:Mudéjar , monu:Modernismo_valenciano , monu:Barroco , monu:Plateresco , monu:Eclecticismo , monu:Renacentista , monu:Clasicismo , monu:Manierismo ;
+                monu:Monumento_tiene_siglo   monu:Siglo_XVIII , monu:Siglo_XII , monu:Siglo_XIII , monu:Siglo_XX , monu:Siglo_XIV , monu:Siglo_XV , monu:Siglo_XVII , monu:Siglo_XVI , monu:Siglo_XXI , monu:Siglo_XIX .
+
+
+                monu:Convento_de_frailes_carmelitas
+
+monu:Monumento_pertenece_a_cultura
+        monu:Cultura_Cristiana .
+
+monu:Convento_franciscano
+
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Cristiana ;
+        monu:Monumento_tiene_estilo  monu:Manierismo , monu:Románico , monu:Gótico , monu:Barroco_español , monu:Renacentista , monu:Gótico_isabelino , monu:Barroco , monu:Gótico_tardío ;
+        monu:Monumento_tiene_siglo   monu:Siglo_XIII , monu:Siglo_XVIII , monu:Siglo_XVII , monu:Siglo_XV , monu:Siglo_XIV .
+
+        monu:Cruz_de_término
+                monu:Monumento_pertenece_a_cultura
+                        monu:Cultura_Cristiana ;
+                monu:Monumento_tiene_estilo  monu:Neoclásico , monu:Barroco , monu:Arquitectura_popular , monu:Eclecticismo , monu:Románico , monu:Gótico , monu:Novecentismo , monu:Historicismo , monu:Gótico_tardío , monu:Modernismo , monu:Renacentista , monu:Neogótico , monu:Gótico_flamígero ;
+                monu:Monumento_tiene_siglo   monu:Siglo_XVI , monu:Siglo_XIV , monu:Siglo_XXI , monu:Siglo_XIX , monu:Siglo_XX , monu:Siglo_XIII , monu:Siglo_XVIII , monu:Siglo_XII , monu:Siglo_XV , monu:Siglo_XVII .
+
+monu:Cruz_monumental
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Cristiana ;
+        monu:Monumento_tiene_estilo  monu:Barroco , monu:Modernismo , monu:Gótico , monu:Modernismo_catalán , monu:Arquitectura_popular ;
+        monu:Monumento_tiene_siglo   monu:Siglo_XX , monu:Siglo_XIX , monu:Siglo_XXI .
+
+        monu:Eremitorio
+                monu:Monumento_pertenece_a_cultura
+                        monu:Cultura_Cristiana , monu:Cultura_Romana ;
+                monu:Monumento_tiene_epoca   monu:Edad_del_Hierro , monu:Edad_Moderna , monu:Edad_Antigua , monu:Alta_Edad_Media , monu:Primera_Edad_del_Hierro , monu:Antigüedad_tardía ;
+                monu:Monumento_tiene_estilo  monu:Visigodo , monu:Historicismo , monu:Gótico_tardío , monu:Barroco_español , monu:Eclecticismo , monu:Románico , monu:Neogótico , monu:Barroco , monu:Gótico , monu:Arquitectura_popular , monu:Prerrománico , monu:Gótico_valenciano , monu:Neoclásico ;
+                monu:Monumento_tiene_siglo   monu:Siglo_XVIII , monu:Siglo_XX , monu:Siglo_VIII , monu:Siglo_XVI , monu:Siglo_XIX , monu:Siglo_XVII , monu:Siglo_XV .
+
+                monu:Ermita
+                        monu:Monumento_pertenece_a_cultura
+                                monu:Cultura_Cristiana , monu:Cultura_Visigoda  ;
+                        monu:Monumento_tiene_epoca   monu:Edad_Moderna , monu:Edad_Contemporánea , monu:Edad_Antigua , monu:Edad_Media , monu:Baja_Edad_Media ;
+                        monu:Monumento_tiene_estilo  monu:Modernismo_catalán , monu:Rococo , monu:Clasicismo , monu:Hispano_musulmán , monu:Arte_asturiano , monu:Barroco , monu:Manierismo , monu:Barroco_español , monu:Renacentista , monu:Arquitectura_popular , monu:Modernismo , monu:Mozárabe , monu:Herreriano , monu:Neomudéjar , monu:Modernismo_valenciano , monu:Eclecticismo , monu:Gótico , monu:Gótico_tardío , monu:Arte_de_repoblación , monu:Neogótico , monu:Primer_románico , monu:Gótico_valenciano , monu:Mudéjar , monu:Arquitectura_de_la_Antigua_Roma , monu:Prerrománico , monu:Románico , monu:Arte_emiral_y_califal , monu:Neoclásico , monu:Visigodo , monu:Historicismo ;
+                        monu:Monumento_tiene_siglo   monu:Siglo_XVII , monu:Siglo_XI , monu:Siglo_XIV , monu:Siglo_VIII , monu:Siglo_IX , monu:Siglo_VII , monu:Siglo_XX , monu:Siglo_V , monu:Siglo_XXI , monu:Siglo_XIX , monu:Siglo_XIII , monu:Siglo_XVI , monu:Siglo_XVIII , monu:Siglo_XV , monu:Siglo_XII , monu:Siglo_VI .
+
+                        monu:Iglesia
+                                monu:Monumento_pertenece_a_cultura
+                                        monu:Cultura_Visigoda ,  monu:Cultura_Cristiana ;
+                                monu:Monumento_tiene_epoca   monu:Edad_Contemporánea , monu:Edad_Media , monu:Edad_Moderna ;
+                                monu:Monumento_tiene_estilo  monu:Barroco , monu:Arte_emiral_y_califal , monu:Neogótico , monu:Arquitectura_popular , monu:Arte_de_repoblación , monu:Herreriano , monu:Gótico_catalán , monu:Arquitectura_rupestre , monu:Gótico_flamígero , monu:Neorrenacentista , monu:Neoherreriano , monu:Plateresco , monu:Neobarroco , monu:Neorrománico , monu:Arquitectura_moderna , monu:Neoplateresco , monu:Arquitectura_regionalista , monu:Neoclásico , monu:Paleocristiano , monu:Mudéjar , monu:Clasicismo , monu:Gótico_tardío , monu:Funcionalismo , monu:Gótico , monu:Primer_románico , monu:Historicismo , monu:Prerrománico , monu:Románico , monu:Mudéjar_aragonés , monu:Arte_cisterciense , monu:Gótico_Tardío , monu:Visigodo , monu:Neovasco , monu:Rococo , monu:Novecentismo , monu:Minimalismo , monu:Modernismo_catalán , monu:Churrigueresco , monu:Mozárabe , monu:Neobizantino , monu:Modernismo , monu:Brutalismo , monu:Renacentista , monu:Gótico_valenciano , monu:Gótico_isabelino , monu:Eclecticismo , monu:Bizantino , monu:Racionalismo , monu:Barroco_español , monu:Neomudéjar , monu:Modernismo_valenciano , monu:Arte_asturiano , monu:Hispano_musulmán , monu:Manierismo ;
+                                monu:Monumento_tiene_siglo   monu:Siglo_XV , monu:Siglo_X , monu:Siglo_VIII , monu:Siglo_V , monu:Siglo_XVI , monu:Siglo_VI , monu:Siglo_XVIII , monu:Siglo_XIII , monu:Siglo_XX , monu:Siglo_XIX , monu:Siglo_XXI , monu:Siglo_I , monu:Siglo_XII , monu:Siglo_VII , monu:Siglo_XIV , monu:Siglo_IX , monu:Siglo_XVII , monu:Siglo_XI .
+
+monu:Iglesia_conventual
+
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Cristiana ;
+        monu:Monumento_tiene_estilo  monu:Barroco , monu:Gótico , monu:Neoclásico , monu:Neomudéjar , monu:Historicismo ;
+        monu:Monumento_tiene_siglo   monu:Siglo_XV , monu:Siglo_XVIII , monu:Siglo_XVII , monu:Siglo_XIX , monu:Siglo_XX .
+
+monu:Iglesia_cueva
+monu:Monumento_pertenece_a_cultura
+        monu:Cultura_Cristiana ;
+monu:Monumento_tiene_estilo  monu:Arquitectura_moderna , monu:Arquitectura_rupestre , monu:Prerrománico , monu:Románico .
+
+monu:Iglesia_fortificada
+
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Cristiana ;
+        monu:Monumento_tiene_estilo  monu:Mudéjar_aragonés , monu:Mudéjar ;
+        monu:Monumento_tiene_siglo   monu:Siglo_XIV .
+
+monu:Iglesia_jesuítica
+
+monu:Monumento_pertenece_a_cultura
+        monu:Cultura_Cristiana ;
+monu:Monumento_tiene_estilo  monu:Manierismo , monu:Herreriano , monu:Renacentista , monu:Barroco ;
+monu:Monumento_tiene_siglo   monu:Siglo_XVI , monu:Siglo_XVIII , monu:Siglo_XVII .
+
+monu:Mezquita
+        monu:Monumento_pertenece_a_cultura
+                 monu:Cultura_Islámica ;
+        monu:Monumento_tiene_estilo  monu:Historicismo , monu:Hispano_musulmán , monu:Renacentista , monu:Mozárabe , monu:Manierismo , monu:Arte_emiral_y_califal , monu:Neoárabe ;
+        monu:Monumento_tiene_siglo   monu:Siglo_X , monu:Siglo_XXI , monu:Siglo_XX , monu:Siglo_XVI .
+
+        monu:Monasterio
+                monu:Monumento_pertenece_a_cultura
+                       monu:Cultura_Cristiana  ;
+                monu:Monumento_tiene_epoca   monu:Edad_Antigua ;
+                monu:Monumento_tiene_estilo  monu:Herreriano , monu:Barroco , monu:Modernismo_catalán , monu:Gótico_valenciano , monu:Historicismo , monu:Modernismo , monu:Arquitectura_regionalista , monu:Neogótico , monu:Prerrománico , monu:Eclecticismo , monu:Gótico_isabelino , monu:Gótico , monu:Gótico_catalán , monu:Clasicismo , monu:Hispano_musulmán , monu:Mozárabe , monu:Manierismo , monu:Barroco_español , monu:Visigodo , monu:Arte_cisterciense , monu:Renacentista , monu:Románico , monu:Mudéjar , monu:Arquitectura_popular , monu:Neoclásico , monu:Gótico_tardío ;
+                monu:Monumento_tiene_siglo   monu:Siglo_XII , monu:Siglo_XIV , monu:Siglo_XVII , monu:Siglo_X , monu:Siglo_VI , monu:Siglo_IX , monu:Siglo_XI , monu:Siglo_XX , monu:Siglo_XVI , monu:Siglo_XV , monu:Siglo_XIX , monu:Siglo_XVIII , monu:Siglo_XIII , monu:Siglo_VIII .
+
+monu:Monasterio_cartujo
+
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Cristiana ;
+        monu:Monumento_tiene_estilo  monu:Románico , monu:Gótico , monu:Barroco , monu:Arquitectura_popular , monu:Neoclásico , monu:Renacentista ;
+        monu:Monumento_tiene_siglo   monu:Siglo_XVI , monu:Siglo_XVII , monu:Siglo_XIV , monu:Siglo_XV , monu:Siglo_XIII .
+
+monu:Monasterio_cisterciense
+
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Cristiana ;
+        monu:Monumento_tiene_estilo  monu:Hispano_musulmán , monu:Renacentista , monu:Barroco , monu:Historicismo , monu:Arte_cisterciense , monu:Modernismo_catalán , monu:Arquitectura_popular , monu:Modernismo , monu:Neoclásico , monu:Románico , monu:Gótico_valenciano , monu:Mudéjar , monu:Neogótico , monu:Gótico ;
+        monu:Monumento_tiene_siglo   monu:Siglo_XVII , monu:Siglo_XII , monu:Siglo_XIII , monu:Siglo_XX , monu:Siglo_XIV , monu:Siglo_XVI , monu:Siglo_XI .
+
+
+monu:Monasterio_de_monjas_cistercienses
+
+  monu:Monumento_pertenece_a_cultura
+          monu:Cultura_Cristiana ;
+  monu:Monumento_tiene_estilo  monu:Neoclásico , monu:Renacentista , monu:Románico , monu:Arte_cisterciense , monu:Barroco ;
+  monu:Monumento_tiene_siglo   monu:Siglo_XVII , monu:Siglo_XVI , monu:Siglo_XIV , monu:Siglo_XX , monu:Siglo_XII .
+
+monu:Monasterio_de_mujeres
+
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Cristiana ;
+        monu:Monumento_tiene_estilo  monu:Barroco , monu:Eclecticismo , monu:Románico , monu:Arte_cisterciense , monu:Gótico ;
+        monu:Monumento_tiene_siglo   monu:Siglo_XIII , monu:Siglo_XV , monu:Siglo_XVII , monu:Siglo_XII , monu:Siglo_XI .
+
+
+  monu:Oratorio
+monu:Monumento_pertenece_a_cultura
+        monu:Cultura_Cristiana ;
+monu:Monumento_tiene_estilo  monu:Gótico , monu:Mozárabe , monu:Renacentista , monu:Neoclásico , monu:Arquitectura_popular , monu:Barroco , monu:Historicismo , monu:Neorrománico , monu:Eclecticismo , monu:Modernismo ;
+monu:Monumento_tiene_siglo   monu:Siglo_XVIII , monu:Siglo_XXI , monu:Siglo_XVII , monu:Siglo_XIII , monu:Siglo_XV , monu:Siglo_XIX , monu:Siglo_XX .
+
+monu:Retablo
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Cristiana ;
+        monu:Monumento_tiene_epoca   monu:Edad_Media ;
+        monu:Monumento_tiene_estilo  monu:Barroco , monu:Gótico ;
+        monu:Monumento_tiene_siglo   monu:Siglo_XVI , monu:Siglo_XVIII , monu:Siglo_XVII , monu:Siglo_XV , monu:Siglo_XIV , monu:Siglo_XX .
+
+monu:Santuario
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Romana , monu:Cultura_Talayótica ,  monu:Cultura_Cristiana ;
+        monu:Monumento_tiene_epoca   monu:Edad_Contemporánea , monu:Edad_Antigua , monu:Edad_Moderna ;
+        monu:Monumento_tiene_estilo  monu:Neoclásico , monu:Novecentismo , monu:Historicismo , monu:Arquitectura_popular , monu:Neomudéjar , monu:Eclecticismo , monu:Manierismo , monu:Neobarroco , monu:Gótico_tardío , monu:Barroco_español , monu:NeoMedieval , monu:Herreriano , monu:Rococo , monu:Neogótico , monu:Barroco , monu:Renacentista , monu:Románico , monu:Gótico ;
+        monu:Monumento_tiene_siglo   monu:Siglo_XIII , monu:Siglo_XIV , monu:Siglo_XVI , monu:Siglo_XVII , monu:Siglo_IX , monu:Siglo_XV , monu:Siglo_XVIII , monu:Siglo_XX , monu:Siglo_XII , monu:Siglo_VII , monu:Siglo_XIX .
+
+monu:Santuario_mariano
+
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Cristiana ;
+        monu:Monumento_tiene_estilo  monu:Barroco , monu:Neobarroco , monu:Neoclásico , monu:Rococo , monu:Románico , monu:Gótico , monu:Gótico_tardío , monu:Neomudéjar , monu:Historicismo ;
+        monu:Monumento_tiene_siglo   monu:Siglo_XX , monu:Siglo_XIV , monu:Siglo_XVII , monu:Siglo_XVI , monu:Siglo_VII .
+
+monu:Sinagoga
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Hebrea ;
+        monu:Monumento_tiene_estilo  monu:Románico , monu:Mudéjar , monu:Hispano_musulmán ;
+        monu:Monumento_tiene_siglo   monu:Siglo_XIV , monu:Siglo_XIII , monu:Siglo_XV , monu:Siglo_XX .
+
+
+monu:Templo_egipcio
+        monu:Monumento_tiene_estilo  monu:Arquitectura_del_Antiguo_Egipto .
+
+monu:Templo_Romano
+monu:Monumento_pertenece_a_cultura
+        monu:Cultura_Romana ;
+monu:Monumento_tiene_epoca   monu:Edad_Antigua ;
+monu:Monumento_tiene_estilo  monu:Arquitectura_de_la_Antigua_Roma .
+
+monu:Torre_campanario
+
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Islámica , monu:Cultura_Cristiana ;
+        monu:Monumento_tiene_epoca   monu:Edad_Moderna ;
+        monu:Monumento_tiene_estilo  monu:Neogótico , monu:Románico , monu:Gótico , monu:Barroco_español , monu:Mudéjar_aragonés , monu:Hispano_musulmán , monu:Modernismo , monu:Modernismo_catalán , monu:Mudéjar , monu:Barroco , monu:Gótico_valenciano , monu:Renacentista , monu:Historicismo , monu:Arte_almohade ;
+        monu:Monumento_tiene_siglo   monu:Siglo_XVIII , monu:Siglo_XVII , monu:Siglo_XX , monu:Siglo_XIII , monu:Siglo_XVI , monu:Siglo_XV , monu:Siglo_XIX .
+
+monu:Astillero_naval
+        monu:Monumento_tiene_estilo  monu:Gótico ;
+        monu:Monumento_tiene_siglo   monu:Siglo_XXI , monu:Siglo_XIX , monu:Siglo_XX , monu:Siglo_XIII , monu:Siglo_XVIII .
+
+
+monu:Baldaquino
+    monu:Monumento_pertenece_a_cultura
+            monu:Cultura_Cristiana ;
+    monu:Monumento_tiene_siglo  monu:Siglo_XIII .
+
+monu:Centro_de_visitantes
+
+    monu:Monumento_pertenece_a_cultura
+            monu:Cultura_Romana , monu:Cultura_Cristiana ;
+    monu:Monumento_tiene_epoca   monu:Edades_Prehistóricas , monu:Edad_Antigua , monu:Edad_del_Hierro ;
+    monu:Monumento_tiene_estilo  monu:Barroco , monu:Gótico ;
+    monu:Monumento_tiene_siglo   monu:Siglo_XVIII , monu:Siglo_XXI , monu:Siglo_XIX , monu:Siglo_XX , monu:Siglo_XV .
+
+    monu:Centro_histórico
+
+            monu:Monumento_tiene_epoca   monu:Edad_Antigua , monu:Edad_del_Hierro ;
+            monu:Monumento_tiene_estilo  monu:Arquitectura_popular , monu:Gótico , monu:Románico , monu:Renacentista , monu:Modernismo , monu:Arquitectura_de_la_Antigua_Roma , monu:Racionalismo , monu:Neoclásico , monu:Historicismo , monu:Barroco , monu:Novecentismo ;
+            monu:Monumento_tiene_siglo   monu:Siglo_XVI , monu:Siglo_XVII , monu:Siglo_XIV , monu:Siglo_XIII , monu:Siglo_XII , monu:Siglo_XVIII , monu:Siglo_XIX , monu:Siglo_XX , monu:Siglo_XXI .
+
+monu:Ciudad_celtíbera
+
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Celtibérica , monu:Cultura_Romana ;
+        monu:Monumento_tiene_epoca  monu:Edad_Antigua , monu:Edad_del_Hierro , monu:Edades_Prehistóricas .
+
+monu:Ciudad_romana
+monu:Monumento_pertenece_a_cultura
+        monu:Cultura_Romana , monu:Cultura_Celtibérica , monu:Vascones ;
+monu:Monumento_tiene_epoca  monu:Edades_Prehistóricas , monu:Edad_del_Bronce , monu:Edad_del_Hierro , monu:Edad_Antigua , monu:Edad_Media .
+
+monu:Colonia_augusta
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Romana ;
+        monu:Monumento_tiene_epoca  monu:Edad_Antigua , monu:Edad_del_Hierro ;
+        monu:Monumento_tiene_siglo  monu:Siglo_I_aC .
+
+        monu:Conjunto_Histórico_Artístico
+
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Islámica , monu:Cultura_Cristiana ;
+        monu:Monumento_tiene_estilo  monu:Modernismo , monu:Gótico , monu:Hispano_musulmán , monu:Románico , monu:Gótico_isabelino , monu:Renacentista , monu:Arquitectura_popular , monu:Gótico_tardío , monu:Barroco ;
+        monu:Monumento_tiene_siglo   monu:Siglo_XIX , monu:Siglo_XIV , monu:Siglo_XX , monu:Siglo_XV , monu:Siglo_XII , monu:Siglo_XVII , monu:Siglo_XVIII , monu:Siglo_IX , monu:Siglo_XVI .
+
+monu:Construcción_Conmemorativa
+
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Romana , monu:Cultura_Cristiana ;
+        monu:Monumento_tiene_epoca   monu:Edad_Antigua ;
+        monu:Monumento_tiene_estilo  monu:Neoclásico , monu:Neomudéjar , monu:Historicismo ;
+        monu:Monumento_tiene_siglo   monu:Siglo_XX , monu:Siglo_XIX , monu:Siglo_XVI , monu:Siglo_XXI , monu:Siglo_II_aC , monu:Siglo_XVIII , monu:Siglo_XVII .
+
+monu:Arco_de_triunfo
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Romana ;
+        monu:Monumento_tiene_epoca   monu:Edad_Antigua ;
+        monu:Monumento_tiene_estilo  monu:Neoclásico , monu:Historicismo , monu:Neomudéjar ;
+        monu:Monumento_tiene_siglo   monu:Siglo_XIX , monu:Siglo_II_aC , monu:Siglo_XVI , monu:Siglo_XX , monu:Siglo_XVIII .
+
+monu:Columna_Conmemorativa
+
+monu:Monumento_tiene_siglo  monu:Siglo_XVIII , monu:Siglo_XX , monu:Siglo_XIX .
+
+monu:Obelisco
+        monu:Monumento_tiene_siglo  monu:Siglo_XX , monu:Siglo_XIX , monu:Siglo_XXI .
+
+        monu:Construcción_funeraria
+
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Cristiana , monu:Cultura_de_los_Millares , monu:Cultura_Ibérica , monu:Cultura_Romana , monu:Cultura_Talayótica , monu:Cultura_de_La_Tène , monu:Cultura_Islámica ;
+        monu:Monumento_tiene_epoca   monu:Edad_Media , monu:Calcolítico , monu:Neolítico , monu:Bronce_Pleno , monu:Bronce_Final , monu:Bronce_Antiguo , monu:Edad_del_Bronce , monu:Edad_Moderna , monu:Alta_Edad_Media , monu:Edad_Contemporánea , monu:Edades_Prehistóricas , monu:Edad_Antigua , monu:Baja_Edad_Media , monu:Edad_del_Hierro ;
+        monu:Monumento_tiene_estilo  monu:Arquitectura_de_la_Antigua_Roma , monu:Románico , monu:Modernismo_catalán , monu:Paleocristiano , monu:Neobizantino , monu:Brutalismo , monu:Historicismo , monu:Megalitismo , monu:Neoclásico , monu:Neoegipcio , monu:Neorrománico , monu:Gótico , monu:Arquitectura_regionalista , monu:Arquitectura_moderna , monu:Neogótico , monu:Eclecticismo , monu:Arquitectura_popular , monu:Novecentismo , monu:Modernismo , monu:Barroco , monu:Neovasco , monu:Visigodo ;
+        monu:Monumento_tiene_siglo   monu:Siglo_XII , monu:Siglo_VII_aC , monu:Siglo_XVIII , monu:Siglo_VII , monu:Siglo_XXI , monu:Siglo_XIV , monu:Siglo_XIII , monu:Siglo_XIX , monu:Siglo_XVII , monu:Siglo_IV_aC , monu:Siglo_XX , monu:Siglo_V , monu:Siglo_XVI , monu:Siglo_XV .
+
+        monu:Cementerio
+                monu:Monumento_pertenece_a_cultura
+                        monu:Cultura_Cristiana ;
+                monu:Monumento_tiene_epoca   monu:Edad_Contemporánea , monu:Neolítico , monu:Edades_Prehistóricas , monu:Edad_Moderna ;
+                monu:Monumento_tiene_estilo  monu:Novecentismo , monu:Arquitectura_regionalista , monu:Neoclásico , monu:Modernismo , monu:Arquitectura_moderna , monu:Eclecticismo , monu:Arquitectura_popular , monu:Historicismo , monu:Gótico , monu:Barroco , monu:Modernismo_catalán , monu:Brutalismo , monu:Románico , monu:Neovasco ;
+                monu:Monumento_tiene_siglo   monu:Siglo_XX , monu:Siglo_XXI , monu:Siglo_XV , monu:Siglo_XIII , monu:Siglo_XVI , monu:Siglo_XVIII , monu:Siglo_XIX .
+
+                monu:EstructuraFuneraria
+
+                        monu:Monumento_pertenece_a_cultura
+                                monu:Cultura_Cristiana , monu:Cultura_Romana , monu:Cultura_de_La_Tène , monu:Cultura_de_los_Millares , monu:Cultura_Talayótica , monu:Cultura_Ibérica , monu:Cultura_Islámica ;
+                        monu:Monumento_tiene_epoca   monu:Bronce_Antiguo , monu:Edad_del_Bronce , monu:Alta_Edad_Media , monu:Edad_Antigua , monu:Edad_Media , monu:Calcolítico , monu:Edades_Prehistóricas , monu:Edad_del_Hierro , monu:Bronce_Final , monu:Neolítico , monu:Baja_Edad_Media , monu:Edad_Moderna , monu:Bronce_Pleno ;
+                        monu:Monumento_tiene_estilo  monu:Neobizantino , monu:Arquitectura_de_la_Antigua_Roma , monu:Gótico , monu:Modernismo , monu:Megalitismo , monu:Eclecticismo , monu:Visigodo , monu:Neoegipcio , monu:Paleocristiano , monu:Arquitectura_popular , monu:Neogótico , monu:Novecentismo , monu:Neorrománico , monu:Modernismo_catalán , monu:Neoclásico , monu:Historicismo ;
+                        monu:Monumento_tiene_siglo   monu:Siglo_VII_aC , monu:Siglo_XIX , monu:Siglo_XVIII , monu:Siglo_XII , monu:Siglo_XXI , monu:Siglo_VII , monu:Siglo_IV_aC , monu:Siglo_V , monu:Siglo_XX .
+
+monu:Capilla_funeraria
+
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Cristiana ;
+        monu:Monumento_tiene_estilo  monu:Neoclásico , monu:Gótico ;
+        monu:Monumento_tiene_siglo   monu:Siglo_VII .
+
+monu:Cista
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Islámica , monu:Cultura_Romana ;
+        monu:Monumento_tiene_epoca  monu:Edad_Antigua .
+
+monu:Columbario
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Cristiana , monu:Cultura_Romana ;
+        monu:Monumento_tiene_epoca   monu:Edad_Antigua ;
+        monu:Monumento_tiene_estilo  monu:Arquitectura_de_la_Antigua_Roma ;
+        monu:Monumento_tiene_siglo   monu:Siglo_XVIII .
+
+monu:Cripta
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Cristiana ;
+        monu:Monumento_tiene_estilo  monu:Neoclásico , monu:Modernismo , monu:Visigodo ;
+        monu:Monumento_tiene_siglo   monu:Siglo_XVIII , monu:Siglo_XX .
+
+        monu:Dolmen
+                monu:Monumento_pertenece_a_cultura
+                        monu:Cultura_Romana , monu:Cultura_de_La_Tène ;
+                monu:Monumento_tiene_epoca   monu:Edad_Antigua , monu:Bronce_Antiguo , monu:Bronce_Pleno , monu:Calcolítico , monu:Neolítico , monu:Edad_del_Hierro , monu:Bronce_Final , monu:Edad_del_Bronce , monu:Edades_Prehistóricas , monu:Edad_Media ;
+                monu:Monumento_tiene_estilo  monu:Megalitismo .
+
+monu:Hipogeo
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Talayótica , monu:Cultura_Cristiana , monu:Cultura_Romana ;
+        monu:Monumento_tiene_epoca   monu:Edad_Antigua , monu:Edad_del_Hierro ;
+        monu:Monumento_tiene_estilo  monu:Modernismo , monu:Visigodo .
+
+monu:Mausoleo
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Romana , monu:Cultura_Cristiana ;
+        monu:Monumento_tiene_epoca   monu:Edad_Antigua ;
+        monu:Monumento_tiene_estilo  monu:Eclecticismo , monu:Neobizantino , monu:Modernismo , monu:Novecentismo , monu:Neoegipcio , monu:Arquitectura_popular , monu:Arquitectura_de_la_Antigua_Roma , monu:Neoclásico , monu:Historicismo , monu:Neogótico , monu:Modernismo_catalán , monu:Neorrománico ;
+        monu:Monumento_tiene_siglo   monu:Siglo_IV_aC , monu:Siglo_XXI , monu:Siglo_V , monu:Siglo_XX , monu:Siglo_XII , monu:Siglo_XIX , monu:Siglo_VII_aC .
+
+monu:Monumento_funerario
+
+        monu:Monumento_tiene_estilo  monu:Arquitectura_de_la_Antigua_Roma , monu:Eclecticismo ;
+        monu:Monumento_tiene_siglo   monu:Siglo_XVIII , monu:Siglo_XXI , monu:Siglo_XIX , monu:Siglo_XX .
+
+monu:Necrópolis
+  monu:Monumento_pertenece_a_cultura
+          monu:Cultura_Cristiana , monu:Cultura_Ibérica , monu:Cultura_de_los_Millares , monu:Cultura_Romana , monu:Cultura_Talayótica , monu:Cultura_Islámica ;
+  monu:Monumento_tiene_epoca   monu:Edades_Prehistóricas , monu:Edad_Moderna , monu:Alta_Edad_Media , monu:Edad_del_Hierro , monu:Edad_del_Bronce , monu:Edad_Media , monu:Edad_Antigua , monu:Neolítico , monu:Baja_Edad_Media ;
+  monu:Monumento_tiene_estilo  monu:Paleocristiano .
+
+  monu:Cueva
+          monu:Monumento_pertenece_a_cultura
+                  monu:Cultura_Cristiana , monu:Cultura_Talayótica ;
+          monu:Monumento_tiene_epoca   monu:Paleolítico , monu:Paleolítico_Superior , monu:Solutrense , monu:Calcolítico , monu:Musteriense , monu:Neolítico , monu:Magdaleniense , monu:Gravetiense , monu:Edades_Prehistóricas , monu:Mesolítico , monu:Paleolítico_Medio , monu:Edad_del_Bronce ;
+          monu:Monumento_tiene_estilo  monu:Arquitectura_popular , monu:Barroco , monu:Eclecticismo ;
+          monu:Monumento_tiene_siglo   monu:Siglo_XVIII , monu:Siglo_VI_aC , monu:Siglo_VIII , monu:Siglo_XX , monu:Siglo_XIX , monu:Siglo_XII , monu:Siglo_XXI .
+
+  monu:Cueva_con_arte_prehistórico
+
+monu:Monumento_tiene_epoca  monu:Neolítico , monu:Musteriense , monu:Gravetiense , monu:Edades_Prehistóricas , monu:Paleolítico_Superior , monu:Paleolítico_Medio , monu:Paleolítico , monu:Magdaleniense , monu:Solutrense ;
+monu:Monumento_tiene_siglo  monu:Siglo_XX .
+
+monu:Cueva_turística
+        monu:Monumento_tiene_epoca  monu:Edades_Prehistóricas ;
+        monu:Monumento_tiene_siglo  monu:Siglo_XX .
+
+monu:Ingeniería  monu:Monumento_pertenece_a_cultura
+        monu:Cultura_Romana ;
+monu:Monumento_tiene_epoca  monu:Edad_Antigua ;
+monu:Monumento_tiene_siglo  monu:Siglo_XVI , monu:Siglo_XI , monu:Siglo_XX , monu:Siglo_XIX , monu:Siglo_XVIII .
+
+monu:Jardín
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Cristiana ;
+        monu:Monumento_tiene_epoca   monu:Edad_Contemporánea ;
+        monu:Monumento_tiene_estilo  monu:Arte_nazarí , monu:Neoclásico , monu:Modernismo , monu:Novecentismo , monu:Modernismo_catalán , monu:Arquitectura_popular , monu:Hispano_musulmán , monu:Eclecticismo ;
+        monu:Monumento_tiene_siglo   monu:Siglo_XVI , monu:Siglo_XIII , monu:Siglo_XIX , monu:Siglo_XVIII , monu:Siglo_XV , monu:Siglo_XX , monu:Siglo_XVII , monu:Siglo_XXI .
+
+monu:Jardín_Botánico
+        monu:Monumento_tiene_siglo  monu:Siglo_XVIII , monu:Siglo_XIX , monu:Siglo_XX , monu:Siglo_XXI .
+
+monu:Jardin_historico
+
+        monu:Monumento_tiene_epoca   monu:Edad_Contemporánea ;
+        monu:Monumento_tiene_estilo  monu:Arquitectura_popular , monu:Modernismo , monu:Arte_nazarí , monu:Novecentismo , monu:Neoclásico , monu:Hispano_musulmán , monu:Eclecticismo , monu:Modernismo_catalán ;
+        monu:Monumento_tiene_siglo   monu:Siglo_XX , monu:Siglo_XV , monu:Siglo_XVIII , monu:Siglo_XVII , monu:Siglo_XIX .
+
+monu:Megalito
+monu:Monumento_pertenece_a_cultura
+        monu:Cultura_Romana , monu:Cultura_Talayótica , monu:Cultura_Céltica , monu:Vetones ;
+monu:Monumento_tiene_epoca  monu:Bronce_Antiguo , monu:Edad_Antigua , monu:Edades_Prehistóricas , monu:Calcolítico , monu:Neolítico , monu:Edad_del_Bronce , monu:Edad_del_Hierro .
+
+monu:Mirador
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Cristiana ;
+        monu:Monumento_tiene_estilo  monu:Modernismo , monu:Arquitectura_popular ;
+        monu:Monumento_tiene_siglo   monu:Siglo_XXI , monu:Siglo_XX , monu:Siglo_XIX .
+
+        monu:Mobiliario_Urbano
+
+                monu:Monumento_pertenece_a_cultura
+                        monu:Cultura_Cristiana , monu:Cultura_Islámica , monu:Cultura_Romana ;
+                monu:Monumento_tiene_epoca   monu:Edad_Contemporánea , monu:Edad_Antigua , monu:Edad_Moderna , monu:Edad_Media ;
+                monu:Monumento_tiene_estilo  monu:Manierismo , monu:Prerrománico , monu:Barroco , monu:Neogótico , monu:Románico , monu:Modernismo_valenciano , monu:Historicismo , monu:Eclecticismo , monu:Arquitectura_popular , monu:Renacentista , monu:Modernismo_catalán , monu:Arquitectura_moderna , monu:Gótico , monu:Rococo , monu:Arquitectura_de_la_Antigua_Roma , monu:Mudéjar , monu:Neoclásico , monu:Arquitectura_en_hierro , monu:Novecentismo , monu:Barroco_español , monu:Art_déco , monu:Modernismo ;
+                monu:Monumento_tiene_siglo   monu:Siglo_V_aC , monu:Siglo_XIX , monu:Siglo_XIV , monu:Siglo_I_aC , monu:Siglo_XVII , monu:Siglo_XIII , monu:Siglo_II , monu:Siglo_XV , monu:Siglo_XXI , monu:Siglo_XVIII , monu:Siglo_XX , monu:Siglo_I , monu:Siglo_XVI .
+
+                monu:Escultura
+                        monu:Monumento_pertenece_a_cultura
+                                monu:Cultura_Cristiana , monu:Cultura_Romana ;
+                        monu:Monumento_tiene_epoca   monu:Edad_Contemporánea , monu:Edad_Antigua ;
+                        monu:Monumento_tiene_estilo  monu:Historicismo , monu:Modernismo_catalán , monu:Modernismo , monu:Neogótico , monu:Renacentista , monu:Rococo , monu:Eclecticismo , monu:Arquitectura_popular , monu:Barroco , monu:Neoclásico , monu:Arquitectura_en_hierro , monu:Novecentismo ;
+                        monu:Monumento_tiene_siglo   monu:Siglo_XVI , monu:Siglo_XIX , monu:Siglo_I , monu:Siglo_V_aC , monu:Siglo_XX , monu:Siglo_XIV , monu:Siglo_XXI , monu:Siglo_XVIII , monu:Siglo_I_aC , monu:Siglo_XVII , monu:Siglo_II .
+
+monu:Busto
+        monu:Monumento_tiene_epoca  monu:Edad_Contemporánea ;
+        monu:Monumento_tiene_siglo  monu:Siglo_XIX , monu:Siglo_I , monu:Siglo_XXI , monu:Siglo_XVIII , monu:Siglo_XX .
+
+monu:Grupo_escultórico
+
+        monu:Monumento_tiene_estilo  monu:Neoclásico , monu:Novecentismo , monu:Historicismo , monu:Arquitectura_en_hierro ;
+        monu:Monumento_tiene_siglo   monu:Siglo_XIX , monu:Siglo_XX , monu:Siglo_XXI , monu:Siglo_XVIII , monu:Siglo_XVI , monu:Siglo_XVII .
+
+        monu:Fuente
+                monu:Monumento_pertenece_a_cultura
+                        monu:Cultura_Cristiana , monu:Cultura_Romana , monu:Cultura_Islámica ;
+                monu:Monumento_tiene_epoca   monu:Edad_Contemporánea , monu:Edad_Moderna , monu:Edad_Media , monu:Edad_Antigua ;
+                monu:Monumento_tiene_estilo  monu:Prerrománico , monu:Rococo , monu:Arquitectura_de_la_Antigua_Roma , monu:Neoclásico , monu:Barroco , monu:Historicismo , monu:Gótico , monu:Manierismo , monu:Arquitectura_popular , monu:Renacentista , monu:Barroco_español , monu:Modernismo_catalán , monu:Arquitectura_en_hierro , monu:Eclecticismo , monu:Románico , monu:Art_déco , monu:Modernismo , monu:Modernismo_valenciano , monu:Mudéjar , monu:Novecentismo ;
+                monu:Monumento_tiene_siglo   monu:Siglo_XIV , monu:Siglo_XV , monu:Siglo_I , monu:Siglo_XIX , monu:Siglo_XVII , monu:Siglo_XXI , monu:Siglo_XIII , monu:Siglo_XVI , monu:Siglo_XX , monu:Siglo_XVIII .
+
+monu:Quiosco_de_música
+
+        monu:Monumento_tiene_estilo  monu:Modernismo , monu:Arquitectura_moderna ;
+        monu:Monumento_tiene_siglo   monu:Siglo_XXI , monu:Siglo_XX .
+
+monu:Reloj_de_sol
+    monu:Monumento_pertenece_a_cultura
+            monu:Cultura_Cristiana ;
+    monu:Monumento_tiene_siglo  monu:Siglo_XIX , monu:Siglo_XXI , monu:Siglo_XX .
+
+monu:Monumento_patrimonio_histórico_de_España
+
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Celtibérica , monu:Cultura_Cristiana , monu:Cultura_Islámica , monu:Cultura_Romana , monu:Cultura_Hebrea ;
+        monu:Monumento_tiene_epoca   monu:Edades_Prehistóricas , monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        monu:Monumento_tiene_estilo  monu:Gótico , monu:Arquitectura_moderna , monu:Barroco_español , monu:Mudéjar_aragonés , monu:Hispano_musulmán , monu:Rococo , monu:Manierismo , monu:Prerrománico , monu:Modernismo , monu:Herreriano , monu:Arquitectura_modernista_del_Bajo_Aragón , monu:Románico , monu:Barroco , monu:Arte_cisterciense , monu:Mozárabe , monu:Gótico_valenciano , monu:Neoclásico , monu:Gótico_tardío , monu:Mudéjar , monu:Visigodo , monu:Renacentista , monu:Racionalismo ;
+        monu:Monumento_tiene_siglo   monu:Siglo_XV , monu:Siglo_XVI , monu:Siglo_XXI , monu:Siglo_XII , monu:Siglo_XVIII , monu:Siglo_VIII , monu:Siglo_XIX , monu:Siglo_XVII , monu:Siglo_XI , monu:Siglo_X , monu:Siglo_IX , monu:Siglo_XIV , monu:Siglo_V , monu:Siglo_XX , monu:Siglo_XIII .
+
+monu:Monumento_natural
+
+        monu:Monumento_tiene_siglo  monu:Siglo_XX , monu:Siglo_XXI .
+
+monu:Patrimonio_de_la_Humanidad
+        monu:Monumento_tiene_epoca  monu:Neolítico .
+
+        monu:Peña  monu:Esta_situado_en  <http://www.wikidata.org/entity/Q1116829> , <http://www.wikidata.org/entity/Q950901> , <http://www.wikidata.org/entity/Q13929> , <http://www.wikidata.org/entity/Q508754> , <http://www.wikidata.org/entity/Q13937> , <http://www.wikidata.org/entity/Q13006> , <http://www.wikidata.org/entity/Q95028> , <http://www.wikidata.org/entity/Q829045> , <http://www.wikidata.org/entity/Q503094> .
+
+monu:Pintura_rupestre
+
+                monu:Monumento_tiene_epoca  monu:Edad_del_Bronce , monu:Edades_Prehistóricas , monu:Edad_del_Hierro , monu:Bronce_Antiguo , monu:Edad_Antigua , monu:Bronce_Pleno , monu:Neolítico , monu:Paleolítico , monu:Edad_Media , monu:Paleolítico_Superior , monu:Calcolítico .
+
+monu:Poblado_ibérico
+        monu:Monumento_pertenece_a_cultura
+              monu:Cultura_Ibérica ;
+        monu:Monumento_tiene_epoca  monu:Edad_del_Hierro , monu:Edades_Prehistóricas ;
+        monu:Monumento_tiene_siglo  monu:Siglo_IV_aC .
+
+monu:Porche  monu:Monumento_tiene_siglo
+                monu:Siglo_XIII , monu:Siglo_XII .
+
+monu:Puerta  monu:Monumento_pertenece_a_cultura
+          monu:Cultura_Islámica ;
+  monu:Monumento_tiene_siglo  monu:Siglo_XII .
+
+  monu:Verraco
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_de_La_Tène , monu:Cultura_Céltica , monu:Vetones ;
+        monu:Monumento_tiene_epoca  monu:Edad_Antigua , monu:Edades_Prehistóricas , monu:Edad_del_Hierro ;
+        monu:Monumento_tiene_siglo  monu:Siglo_II , monu:Siglo_VI_aC , monu:Siglo_V_aC , monu:Siglo_IV_aC .
+
+        monu:Zona_Arqueológica
+                
+                monu:Monumento_pertenece_a_cultura
+                        monu:Cultura_de_La_Tène , monu:Cultura_Canaria , monu:Cultura_del_Argar , monu:Cultura_Céltica , monu:Cultura_Tartésica , monu:Bronce_de_la_Mancha , monu:Cultura_de_Hallstatt , monu:Autrigones , lugares:Cultura_Ibérica , monu:Cultura_Talayótica , monu:Cultura_Visigoda , monu:Cultura_Hebrea , monu:Cultura_Celtibérica , monu:Berones , monu:Cultura_Fenicia , monu:Cultura_Romana , monu:Cultura_Ibérica , monu:Vascones , monu:Cultura_Carpetana , monu:Cultura_de_los_Millares , monu:Cultura_Cristiana , monu:Vetones , monu:Cultura_Cartaginesa , monu:Cultura_Islámica , monu:Várdulos ;
+                monu:Monumento_tiene_epoca   monu:Musteriense , monu:Epipaleolítico , monu:Alta_Edad_Media , monu:Mesolítico , monu:Edad_Contemporánea , monu:Bronce_Pleno , monu:Paleolítico_inferior_arcaico , monu:Paleolítico_Medio , monu:Edad_Antigua , monu:Primera_Edad_del_Hierro , monu:Paleolítico_Superior , monu:Edad_del_Hierro , monu:Edad_del_Bronce , monu:Edades_Prehistóricas , monu:Neolítico , monu:Bronce_Final , monu:Solutrense , monu:Edad_Moderna , monu:Paleolítico_Inferior , monu:Achelense , monu:Paleolítico , monu:Bronce_Antiguo , monu:Edad_Media , monu:Plena_Edad_Media , monu:Antigüedad_tardía , monu:Calcolítico , monu:Gravetiense , monu:Baja_Edad_Media ;
+                monu:Monumento_tiene_estilo  monu:Neoclásico , monu:Visigodo , monu:Románico , monu:Arquitectura_popular , monu:Hispano_musulmán , monu:Prerrománico , monu:Mozárabe , monu:Arquitectura_de_la_Antigua_Roma , monu:Arte_emiral_y_califal , monu:Barroco , monu:Arquitectura_del_Antiguo_Egipto , monu:Paleocristiano , monu:Mudéjar , monu:Gótico ;
+                monu:Monumento_tiene_siglo   monu:Siglo_XIX , monu:Siglo_XIV , monu:Siglo_III_aC , monu:Siglo_IX , monu:Siglo_VI , monu:Siglo_III , monu:Siglo_I , monu:Siglo_VIII , monu:Siglo_IV_aC , monu:Siglo_X , monu:Siglo_V , monu:Siglo_XII , monu:Siglo_VI_aC , monu:Siglo_XX , monu:Siglo_II_aC , monu:Siglo_XV , monu:Siglo_IV , monu:Siglo_XVII , monu:Siglo_XVI , monu:Siglo_XI , monu:Siglo_XXI , monu:Siglo_VII , monu:Siglo_XIII , monu:Siglo_II , monu:Siglo_I_aC , monu:Siglo_XVIII .

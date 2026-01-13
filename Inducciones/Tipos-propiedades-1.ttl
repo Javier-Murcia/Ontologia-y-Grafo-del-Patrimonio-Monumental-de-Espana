@@ -1,0 +1,622 @@
+@prefix webprotege: <http://webprotege.stanford.edu/> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix swrlb: <http://www.w3.org/2003/11/swrlb#> .
+@prefix swrl:  <http://www.w3.org/2003/11/swrl#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix swrla: <http://swrl.stanford.edu/ontologies/3.3/swrla.owl#> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix geosparql: <http://www.opengis.net/ont/geosparql#> .
+@prefix terms: <http://purl.org/dc/terms/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix www:   <http://www.monumentos.es/#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace> .
+@prefix monu:  <http://www.monumentos.es/> .
+@prefix lugares: <http://www.monumentos.es/lugares/> .
+@prefix dc:    <http://purl.org/dc/elements/1.1/> .
+
+monu:Castillo  monu:Esta_situado_en  <http://www.wikidata.org/entity/Q81803> , <http://www.wikidata.org/entity/Q81802> , <http://www.wikidata.org/entity/Q24004405> , <http://www.wikidata.org/entity/Q95086> , <http://www.wikidata.org/entity/Q81972> , <http://www.wikidata.org/entity/Q24271891> , <http://www.wikidata.org/entity/Q71113> , <http://www.wikidata.org/entity/Q7194> , <http://www.wikidata.org/entity/Q54925> , <http://www.wikidata.org/entity/Q82142> , <http://www.wikidata.org/entity/Q55182> , <http://www.wikidata.org/entity/Q71080> , <http://www.wikidata.org/entity/Q95015> , <http://www.wikidata.org/entity/Q55269> , <http://www.wikidata.org/entity/Q81949> , <http://www.wikidata.org/entity/Q95027> , <http://www.wikidata.org/entity/Q99976> , <http://www.wikidata.org/entity/Q81977> , <http://www.wikidata.org/entity/Q95028> , <http://www.wikidata.org/entity/Q55271> , <http://www.wikidata.org/entity/Q93366> , <http://www.wikidata.org/entity/Q13904> , <http://www.wikidata.org/entity/Q54929> , <http://www.wikidata.org/entity/Q54932> , <http://www.wikidata.org/entity/Q81801> , <http://www.wikidata.org/entity/Q55283> , <http://www.wikidata.org/entity/Q71140> , <http://www.wikidata.org/entity/Q54889> , <http://www.wikidata.org/entity/Q54888> , <http://www.wikidata.org/entity/Q95080> , <http://www.wikidata.org/entity/Q82119> , <http://www.wikidata.org/entity/Q71097> , <http://www.wikidata.org/entity/Q95025> , <http://www.wikidata.org/entity/Q81978> , <http://www.wikidata.org/entity/Q55288> , <http://www.wikidata.org/entity/Q24004403> , <http://www.wikidata.org/entity/Q95010> , <http://www.wikidata.org/entity/Q54942> , <http://www.wikidata.org/entity/Q55180> , <http://www.wikidata.org/entity/Q55276> , <http://www.wikidata.org/entity/Q95088> , <http://www.wikidata.org/entity/Q98392> , <http://www.wikidata.org/entity/Q54936> , <http://www.wikidata.org/entity/Q54939> , <http://www.wikidata.org/entity/Q95038> , <http://www.wikidata.org/entity/Q54955> ;
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_de_La_Tène , monu:Cultura_Romana , monu:Cultura_Ibérica , monu:Cultura_Cristiana , monu:Cultura_Islámica ;
+        monu:Monumento_tiene_epoca   monu:Edades_Prehistóricas , monu:Edad_del_Bronce , monu:Calcolítico , monu:Bronce_Pleno , monu:Edad_Media , monu:Edad_Moderna , monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        monu:Monumento_tiene_estilo  monu:Prerrománico , monu:Neoárabe , monu:Renacentista , monu:Gótico , monu:Gótico_valenciano , monu:Arte_almorávide , monu:Neoclásico , monu:Románico , monu:Gótico_tardío , monu:Gótico_catalán , monu:Arte_emiral_y_califal , monu:Historicismo , monu:Arquitectura_popular , monu:Primer_románico , monu:Gótico_flamígero , monu:Neogótico , monu:Mudéjar , monu:Barroco , monu:Hispano_musulmán , monu:Bizantino ;
+        monu:Monumento_tiene_siglo   monu:Siglo_VII , monu:Siglo_XIX , monu:Siglo_XII , monu:Siglo_XIII , monu:Siglo_XX , monu:Siglo_XIV , monu:Siglo_XV , monu:Siglo_XVII , monu:Siglo_X , monu:Siglo_VIII , monu:Siglo_XI , monu:Siglo_XXI , monu:Siglo_IX , monu:Siglo_XVIII , monu:Siglo_XVI .
+
+        monu:Abrigo  monu:Esta_situado_en   <http://www.wikidata.org/entity/Q71113> , <http://www.wikidata.org/entity/Q71080> , <http://www.wikidata.org/entity/Q95038> , <http://www.wikidata.org/entity/Q55288> , <http://www.wikidata.org/entity/Q54889> , <http://www.wikidata.org/entity/Q24004405> , <http://www.wikidata.org/entity/Q54888> , <http://www.wikidata.org/entity/Q81977> , <http://www.wikidata.org/entity/Q81949> , <http://www.wikidata.org/entity/Q95025> , <http://www.wikidata.org/entity/Q71097> , <http://www.wikidata.org/entity/Q81972> , <http://www.wikidata.org/entity/Q95088> , <http://www.wikidata.org/entity/Q54932> , <http://www.wikidata.org/entity/Q55182> , <http://www.wikidata.org/entity/Q54939> , <http://www.wikidata.org/entity/Q54925> , <http://www.wikidata.org/entity/Q13904> , <http://www.wikidata.org/entity/Q93366> , <http://www.wikidata.org/entity/Q81803> , <http://www.wikidata.org/entity/Q24271891> , <http://www.wikidata.org/entity/Q81802> , <http://www.wikidata.org/entity/Q95080> , <http://www.wikidata.org/entity/Q98392> , <http://www.wikidata.org/entity/Q54929> , <http://www.wikidata.org/entity/Q55269> , <http://www.wikidata.org/entity/Q55283> , <http://www.wikidata.org/entity/Q55180> , <http://www.wikidata.org/entity/Q24004403> , <http://www.wikidata.org/entity/Q54936> , <http://www.wikidata.org/entity/Q7194> , <http://www.wikidata.org/entity/Q71140> , <http://www.wikidata.org/entity/Q81801> , <http://www.wikidata.org/entity/Q54955> , <http://www.wikidata.org/entity/Q99976> , <http://www.wikidata.org/entity/Q55271> , <http://www.wikidata.org/entity/Q95086> , <http://www.wikidata.org/entity/Q81978> , <http://www.wikidata.org/entity/Q95027> , <http://www.wikidata.org/entity/Q95015> , <http://www.wikidata.org/entity/Q95028> , <http://www.wikidata.org/entity/Q55276> , <http://www.wikidata.org/entity/Q82142> , <http://www.wikidata.org/entity/Q54942> , <http://www.wikidata.org/entity/Q82119> , <http://www.wikidata.org/entity/Q95010> ;
+                monu:Monumento_tiene_epoca  monu:Neolítico , monu:Edades_Prehistóricas .
+
+monu:Arco  monu:Esta_situado_en      <http://www.wikidata.org/entity/Q54929> , <http://www.wikidata.org/entity/Q82142> , <http://www.wikidata.org/entity/Q71097> , <http://www.wikidata.org/entity/Q24004403> , <http://www.wikidata.org/entity/Q95080> , <http://www.wikidata.org/entity/Q55283> , <http://www.wikidata.org/entity/Q55182> , <http://www.wikidata.org/entity/Q7194> , <http://www.wikidata.org/entity/Q71113> , <http://www.wikidata.org/entity/Q81803> , <http://www.wikidata.org/entity/Q55269> , <http://www.wikidata.org/entity/Q81977> , <http://www.wikidata.org/entity/Q95027> , <http://www.wikidata.org/entity/Q55276> , <http://www.wikidata.org/entity/Q71140> , <http://www.wikidata.org/entity/Q95010> , <http://www.wikidata.org/entity/Q24271891> , <http://www.wikidata.org/entity/Q99976> , <http://www.wikidata.org/entity/Q98392> , <http://www.wikidata.org/entity/Q95086> , <http://www.wikidata.org/entity/Q55180> , <http://www.wikidata.org/entity/Q24004405> , <http://www.wikidata.org/entity/Q95038> , <http://www.wikidata.org/entity/Q81801> , <http://www.wikidata.org/entity/Q82119> , <http://www.wikidata.org/entity/Q55271> , <http://www.wikidata.org/entity/Q54888> , <http://www.wikidata.org/entity/Q81978> , <http://www.wikidata.org/entity/Q95028> , <http://www.wikidata.org/entity/Q54925> , <http://www.wikidata.org/entity/Q54955> , <http://www.wikidata.org/entity/Q95015> , <http://www.wikidata.org/entity/Q13904> , <http://www.wikidata.org/entity/Q54942> , <http://www.wikidata.org/entity/Q95025> , <http://www.wikidata.org/entity/Q81972> , <http://www.wikidata.org/entity/Q54932> , <http://www.wikidata.org/entity/Q81949> , <http://www.wikidata.org/entity/Q81802> , <http://www.wikidata.org/entity/Q54936> , <http://www.wikidata.org/entity/Q93366> , <http://www.wikidata.org/entity/Q54889> , <http://www.wikidata.org/entity/Q55288> , <http://www.wikidata.org/entity/Q71080> , <http://www.wikidata.org/entity/Q95088> , <http://www.wikidata.org/entity/Q54939> ;
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Cristiana , monu:Cultura_Romana ;
+        monu:Monumento_tiene_epoca   monu:Edad_Antigua ;
+        monu:Monumento_tiene_estilo  monu:Gótico , monu:Barroco , monu:Neoclásico ;
+        monu:Monumento_tiene_siglo   monu:Siglo_XVIII , monu:Siglo_XIX , monu:Siglo_XV , monu:Siglo_XVI , monu:Siglo_XX .
+
+monu:ArquitecturaIndustrial
+        monu:Esta_situado_en         <http://www.wikidata.org/entity/Q81949> , <http://www.wikidata.org/entity/Q81977> , <http://www.wikidata.org/entity/Q54932> , <http://www.wikidata.org/entity/Q71113> , <http://www.wikidata.org/entity/Q55180> , <http://www.wikidata.org/entity/Q99976> , <http://www.wikidata.org/entity/Q95028> , <http://www.wikidata.org/entity/Q54955> , <http://www.wikidata.org/entity/Q82142> , <http://www.wikidata.org/entity/Q81802> , <http://www.wikidata.org/entity/Q24271891> , <http://www.wikidata.org/entity/Q81972> , <http://www.wikidata.org/entity/Q95010> , <http://www.wikidata.org/entity/Q24004403> , <http://www.wikidata.org/entity/Q93366> , <http://www.wikidata.org/entity/Q71097> , <http://www.wikidata.org/entity/Q55182> , <http://www.wikidata.org/entity/Q71140> , <http://www.wikidata.org/entity/Q54889> , <http://www.wikidata.org/entity/Q95025> , <http://www.wikidata.org/entity/Q98392> , <http://www.wikidata.org/entity/Q55283> , <http://www.wikidata.org/entity/Q82119> , <http://www.wikidata.org/entity/Q54939> , <http://www.wikidata.org/entity/Q24004405> , <http://www.wikidata.org/entity/Q13904> , <http://www.wikidata.org/entity/Q95027> , <http://www.wikidata.org/entity/Q55269> , <http://www.wikidata.org/entity/Q95088> , <http://www.wikidata.org/entity/Q95015> , <http://www.wikidata.org/entity/Q54942> , <http://www.wikidata.org/entity/Q81801> , <http://www.wikidata.org/entity/Q54925> , <http://www.wikidata.org/entity/Q55271> , <http://www.wikidata.org/entity/Q81978> , <http://www.wikidata.org/entity/Q95038> , <http://www.wikidata.org/entity/Q55288> , <http://www.wikidata.org/entity/Q95080> , <http://www.wikidata.org/entity/Q71080> , <http://www.wikidata.org/entity/Q54888> , <http://www.wikidata.org/entity/Q7194> , <http://www.wikidata.org/entity/Q54929> , <http://www.wikidata.org/entity/Q81803> , <http://www.wikidata.org/entity/Q95086> , <http://www.wikidata.org/entity/Q55276> , <http://www.wikidata.org/entity/Q54936> ;
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Cristiana , monu:Cultura_Islámica , monu:Cultura_Romana ;
+        monu:Monumento_tiene_epoca   monu:Edad_Antigua , monu:Edad_Contemporánea ;
+        monu:Monumento_tiene_estilo  monu:Modernismo_catalán , monu:Gótico , monu:Historicismo , monu:Arquitectura_popular , monu:Modernismo , monu:Renacentista , monu:Racionalismo , monu:Eclecticismo , monu:Modernismo_valenciano , monu:Neomudéjar ;
+        monu:Monumento_tiene_siglo   monu:Siglo_XX , monu:Siglo_XIV , monu:Siglo_XIX , monu:Siglo_XVI , monu:Siglo_XVIII .
+
+monu:Chimenea  monu:Esta_situado_en  <http://www.wikidata.org/entity/Q81972> , <http://www.wikidata.org/entity/Q95086> , <http://www.wikidata.org/entity/Q54929> , <http://www.wikidata.org/entity/Q55283> , <http://www.wikidata.org/entity/Q93366> , <http://www.wikidata.org/entity/Q55180> , <http://www.wikidata.org/entity/Q7194> , <http://www.wikidata.org/entity/Q24004405> , <http://www.wikidata.org/entity/Q55271> , <http://www.wikidata.org/entity/Q55269> , <http://www.wikidata.org/entity/Q95088> , <http://www.wikidata.org/entity/Q81949> , <http://www.wikidata.org/entity/Q71080> , <http://www.wikidata.org/entity/Q82119> , <http://www.wikidata.org/entity/Q24271891> , <http://www.wikidata.org/entity/Q54932> , <http://www.wikidata.org/entity/Q71097> , <http://www.wikidata.org/entity/Q54925> , <http://www.wikidata.org/entity/Q13904> , <http://www.wikidata.org/entity/Q81978> , <http://www.wikidata.org/entity/Q95080> , <http://www.wikidata.org/entity/Q95027> , <http://www.wikidata.org/entity/Q95015> , <http://www.wikidata.org/entity/Q95038> , <http://www.wikidata.org/entity/Q95028> , <http://www.wikidata.org/entity/Q24004403> , <http://www.wikidata.org/entity/Q95025> , <http://www.wikidata.org/entity/Q95010> , <http://www.wikidata.org/entity/Q99976> , <http://www.wikidata.org/entity/Q54942> , <http://www.wikidata.org/entity/Q54889> , <http://www.wikidata.org/entity/Q54936> , <http://www.wikidata.org/entity/Q54955> , <http://www.wikidata.org/entity/Q54939> , <http://www.wikidata.org/entity/Q54888> , <http://www.wikidata.org/entity/Q81803> , <http://www.wikidata.org/entity/Q55276> , <http://www.wikidata.org/entity/Q81802> , <http://www.wikidata.org/entity/Q81977> , <http://www.wikidata.org/entity/Q71140> , <http://www.wikidata.org/entity/Q55182> , <http://www.wikidata.org/entity/Q98392> , <http://www.wikidata.org/entity/Q71113> , <http://www.wikidata.org/entity/Q55288> , <http://www.wikidata.org/entity/Q81801> , <http://www.wikidata.org/entity/Q82142> ;
+        monu:Monumento_tiene_epoca   monu:Edad_Contemporánea ;
+        monu:Monumento_tiene_estilo  monu:Neomudéjar , monu:Historicismo ;
+        monu:Monumento_tiene_siglo   monu:Siglo_XX .
+
+monu:Fábrica  monu:Esta_situado_en   <http://www.wikidata.org/entity/Q55180> , <http://www.wikidata.org/entity/Q71113> , <http://www.wikidata.org/entity/Q54942> , <http://www.wikidata.org/entity/Q55276> , <http://www.wikidata.org/entity/Q13904> , <http://www.wikidata.org/entity/Q54929> , <http://www.wikidata.org/entity/Q55288> , <http://www.wikidata.org/entity/Q95010> , <http://www.wikidata.org/entity/Q95025> , <http://www.wikidata.org/entity/Q81801> , <http://www.wikidata.org/entity/Q24004405> , <http://www.wikidata.org/entity/Q7194> , <http://www.wikidata.org/entity/Q81977> , <http://www.wikidata.org/entity/Q71080> , <http://www.wikidata.org/entity/Q54889> , <http://www.wikidata.org/entity/Q54888> , <http://www.wikidata.org/entity/Q71140> , <http://www.wikidata.org/entity/Q71097> , <http://www.wikidata.org/entity/Q98392> , <http://www.wikidata.org/entity/Q54932> , <http://www.wikidata.org/entity/Q95080> , <http://www.wikidata.org/entity/Q24004403> , <http://www.wikidata.org/entity/Q24271891> , <http://www.wikidata.org/entity/Q54925> , <http://www.wikidata.org/entity/Q81949> , <http://www.wikidata.org/entity/Q55269> , <http://www.wikidata.org/entity/Q93366> , <http://www.wikidata.org/entity/Q55182> , <http://www.wikidata.org/entity/Q82119> , <http://www.wikidata.org/entity/Q81972> , <http://www.wikidata.org/entity/Q55283> , <http://www.wikidata.org/entity/Q82142> , <http://www.wikidata.org/entity/Q95086> , <http://www.wikidata.org/entity/Q95028> , <http://www.wikidata.org/entity/Q95027> , <http://www.wikidata.org/entity/Q99976> , <http://www.wikidata.org/entity/Q55271> , <http://www.wikidata.org/entity/Q95015> , <http://www.wikidata.org/entity/Q54939> , <http://www.wikidata.org/entity/Q54936> , <http://www.wikidata.org/entity/Q81803> , <http://www.wikidata.org/entity/Q81802> , <http://www.wikidata.org/entity/Q95088> , <http://www.wikidata.org/entity/Q95038> , <http://www.wikidata.org/entity/Q54955> , <http://www.wikidata.org/entity/Q81978> ;
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Islámica , monu:Cultura_Romana , monu:Cultura_Cristiana ;
+        monu:Monumento_tiene_epoca   monu:Edad_Antigua , monu:Edad_Contemporánea ;
+        monu:Monumento_tiene_estilo  monu:Eclecticismo , monu:Modernismo , monu:Renacentista , monu:Modernismo_catalán , monu:Gótico , monu:Arquitectura_popular , monu:Modernismo_valenciano , monu:Racionalismo ;
+        monu:Monumento_tiene_siglo   monu:Siglo_XVI , monu:Siglo_XVIII , monu:Siglo_XX , monu:Siglo_XIV , monu:Siglo_XIX .
+
+monu:Manufactura_real
+monu:Esta_situado_en         <http://www.wikidata.org/entity/Q81802> , <http://www.wikidata.org/entity/Q95025> , <http://www.wikidata.org/entity/Q95088> , <http://www.wikidata.org/entity/Q71113> , <http://www.wikidata.org/entity/Q55276> , <http://www.wikidata.org/entity/Q81949> , <http://www.wikidata.org/entity/Q71080> , <http://www.wikidata.org/entity/Q95038> , <http://www.wikidata.org/entity/Q55269> , <http://www.wikidata.org/entity/Q54939> , <http://www.wikidata.org/entity/Q55288> , <http://www.wikidata.org/entity/Q54889> , <http://www.wikidata.org/entity/Q95080> , <http://www.wikidata.org/entity/Q81801> , <http://www.wikidata.org/entity/Q54925> , <http://www.wikidata.org/entity/Q54888> , <http://www.wikidata.org/entity/Q55180> , <http://www.wikidata.org/entity/Q81978> , <http://www.wikidata.org/entity/Q54942> , <http://www.wikidata.org/entity/Q54955> , <http://www.wikidata.org/entity/Q95086> , <http://www.wikidata.org/entity/Q71097> , <http://www.wikidata.org/entity/Q13904> , <http://www.wikidata.org/entity/Q93366> , <http://www.wikidata.org/entity/Q82142> , <http://www.wikidata.org/entity/Q95010> , <http://www.wikidata.org/entity/Q7194> , <http://www.wikidata.org/entity/Q54936> , <http://www.wikidata.org/entity/Q24004403> , <http://www.wikidata.org/entity/Q98392> , <http://www.wikidata.org/entity/Q54932> , <http://www.wikidata.org/entity/Q54929> , <http://www.wikidata.org/entity/Q81977> , <http://www.wikidata.org/entity/Q95027> , <http://www.wikidata.org/entity/Q82119> , <http://www.wikidata.org/entity/Q95015> , <http://www.wikidata.org/entity/Q95028> , <http://www.wikidata.org/entity/Q55283> , <http://www.wikidata.org/entity/Q81972> , <http://www.wikidata.org/entity/Q99976> , <http://www.wikidata.org/entity/Q71140> , <http://www.wikidata.org/entity/Q24004405> , <http://www.wikidata.org/entity/Q24271891> , <http://www.wikidata.org/entity/Q55271> , <http://www.wikidata.org/entity/Q81803> , <http://www.wikidata.org/entity/Q55182> ;
+monu:Monumento_pertenece_a_cultura
+        monu:Cultura_Cristiana ;
+monu:Monumento_tiene_epoca   monu:Edad_Contemporánea ;
+monu:Monumento_tiene_estilo  monu:Renacentista ;
+monu:Monumento_tiene_siglo   monu:Siglo_XVIII , monu:Siglo_XIX .
+
+monu:Yacimiento_Minero
+        monu:Esta_situado_en        <http://www.wikidata.org/entity/Q71080> , <http://www.wikidata.org/entity/Q71097> , <http://www.wikidata.org/entity/Q93366> , <http://www.wikidata.org/entity/Q54932> , <http://www.wikidata.org/entity/Q24004403> , <http://www.wikidata.org/entity/Q95088> , <http://www.wikidata.org/entity/Q98392> , <http://www.wikidata.org/entity/Q71113> , <http://www.wikidata.org/entity/Q7194> , <http://www.wikidata.org/entity/Q55271> , <http://www.wikidata.org/entity/Q95080> , <http://www.wikidata.org/entity/Q81972> , <http://www.wikidata.org/entity/Q55269> , <http://www.wikidata.org/entity/Q24271891> , <http://www.wikidata.org/entity/Q55288> , <http://www.wikidata.org/entity/Q54929> , <http://www.wikidata.org/entity/Q55283> , <http://www.wikidata.org/entity/Q82142> , <http://www.wikidata.org/entity/Q95010> , <http://www.wikidata.org/entity/Q81977> , <http://www.wikidata.org/entity/Q81801> , <http://www.wikidata.org/entity/Q55276> , <http://www.wikidata.org/entity/Q13904> , <http://www.wikidata.org/entity/Q54936> , <http://www.wikidata.org/entity/Q55180> , <http://www.wikidata.org/entity/Q54942> , <http://www.wikidata.org/entity/Q81949> , <http://www.wikidata.org/entity/Q71140> , <http://www.wikidata.org/entity/Q54955> , <http://www.wikidata.org/entity/Q95038> , <http://www.wikidata.org/entity/Q99976> , <http://www.wikidata.org/entity/Q95086> , <http://www.wikidata.org/entity/Q81803> , <http://www.wikidata.org/entity/Q81978> , <http://www.wikidata.org/entity/Q81802> , <http://www.wikidata.org/entity/Q95015> , <http://www.wikidata.org/entity/Q54925> , <http://www.wikidata.org/entity/Q95028> , <http://www.wikidata.org/entity/Q95027> , <http://www.wikidata.org/entity/Q82119> , <http://www.wikidata.org/entity/Q54939> , <http://www.wikidata.org/entity/Q54889> , <http://www.wikidata.org/entity/Q24004405> , <http://www.wikidata.org/entity/Q54888> , <http://www.wikidata.org/entity/Q55182> , <http://www.wikidata.org/entity/Q95025> ;
+        monu:Monumento_tiene_siglo  monu:Siglo_XVI .
+
+monu:Arquitectura_Civil
+        
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Celtibérica , monu:Cultura_Tartésica , monu:Cultura_Ibérica , monu:Cultura_Hebrea , monu:Cultura_de_La_Tène , monu:Cultura_Cristiana , monu:Cultura_Romana , monu:Cultura_de_Hallstatt , monu:Cultura_Bizantina , monu:Cultura_Islámica ;
+        monu:Monumento_tiene_epoca   monu:Calcolítico , monu:Edad_Moderna , monu:Edad_Contemporánea , monu:Edad_Media , monu:Primera_Edad_del_Hierro , monu:Edad_Antigua , monu:Edad_del_Hierro , monu:Bronce_Pleno , monu:Edad_del_Bronce , monu:Edades_Prehistóricas , monu:Baja_Edad_Media ;
+        monu:Monumento_tiene_estilo  monu:Neoárabe , monu:Modernismo_catalán , monu:Gótico_isabelino , monu:Brutalismo , monu:Racionalismo , monu:Arquitectura_popular , monu:Postmodernismo , monu:Estilo_fernandino , monu:Clasicismo , monu:Arquitectura_rupestre , monu:Neorrománico , monu:Mudéjar , monu:Historicismo , monu:Eclecticismo , monu:Herreriano , monu:Manierismo , monu:Neoplateresco , monu:Arquitectura_en_hierro , monu:Prerrománico , monu:Modernismo , monu:Arte_almohade , monu:Gótico_tardío , monu:Arte_emiral_y_califal , monu:Novecentismo , monu:Gótico_catalán , monu:Románico , monu:Mudéjar_aragonés , monu:Art_déco , monu:Barroco , monu:Visigodo , monu:Neogótico , monu:Neobarroco , monu:Gótico_flamígero , monu:Postmoodernismo , monu:Arquitectura_regionalista , monu:Neorrenacentista , monu:Arte_almorávide , monu:Gótico , monu:Gótico_valenciano , monu:Plateresco , monu:Arquitectura_de_la_Antigua_Roma , monu:Arquitectura_moderna , monu:Rococo , monu:Modernismo_valenciano , monu:Arte_nazarí , monu:Neoclásico , monu:Barroco_español , monu:Neomudéjar , monu:Renacentista , monu:Hispano_musulmán ;
+        monu:Monumento_tiene_siglo   monu:Siglo_II , monu:Siglo_XIX , monu:Siglo_XIII , monu:Siglo_XIV , monu:Siglo_XI , monu:Siglo_XX , monu:Siglo_IX , monu:Siglo_X , monu:Siglo_I , monu:Siglo_XVIII , monu:Siglo_XVI , monu:Siglo_IV , monu:Siglo_XV , monu:Siglo_XII , monu:Siglo_XXI , monu:Siglo_I_aC , monu:Siglo_XVII .
+
+monu:Acueducto
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Romana , monu:Cultura_Cristiana , monu:Cultura_Bizantina ;
+        monu:Monumento_tiene_epoca  monu:Edad_Antigua ;
+        monu:Monumento_tiene_siglo  monu:Siglo_XVI , monu:Siglo_XI , monu:Siglo_XVIII .
+
+
+
+monu:Alberca
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Romana , monu:Cultura_Islámica ;
+        monu:Monumento_tiene_epoca  monu:Edad_Moderna , monu:Edad_Contemporánea , monu:Edad_Antigua .
+
+monu:Alhóndiga
+monu:Monumento_tiene_estilo  monu:Renacentista ;
+monu:Monumento_tiene_siglo   monu:Siglo_XVI , monu:Siglo_XVII .
+
+monu:Aljibe
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Romana , monu:Cultura_Islámica , monu:Cultura_Cristiana ;
+        monu:Monumento_tiene_epoca   monu:Edades_Prehistóricas , monu:Edad_Contemporánea , monu:Edad_del_Hierro , monu:Edad_Media , monu:Edad_Moderna , monu:Edad_Antigua ;
+        monu:Monumento_tiene_estilo  monu:Arquitectura_popular , monu:Hispano_musulmán , monu:Mudéjar , monu:Barroco ;
+        monu:Monumento_tiene_siglo   monu:Siglo_XIX , monu:Siglo_I , monu:Siglo_XXI .
+
+monu:Anfiteatro
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Romana ;
+        monu:Monumento_tiene_epoca   monu:Edad_Antigua ;
+        monu:Monumento_tiene_estilo  monu:Arquitectura_de_la_Antigua_Roma ;
+        monu:Monumento_tiene_siglo   monu:Siglo_II .
+
+monu:Balneario
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Islámica , monu:Cultura_Romana ;
+        monu:Monumento_tiene_epoca   monu:Edad_Contemporánea , monu:Edad_Antigua ;
+        monu:Monumento_tiene_estilo  monu:Neoclásico ,  monu:Hispano_musulmán ;
+        monu:Monumento_tiene_siglo   monu:Siglo_I_aC , monu:Siglo_XX , monu:Siglo_XIX , monu:Siglo_XVIII .
+
+monu:Balsa  monu:Esta_situado_en    <http://www.wikidata.org/entity/Q54889> , <http://www.wikidata.org/entity/Q98392> , <http://www.wikidata.org/entity/Q54955> , <http://www.wikidata.org/entity/Q95038> , <http://www.wikidata.org/entity/Q13904> , <http://www.wikidata.org/entity/Q99976> , <http://www.wikidata.org/entity/Q54936> , <http://www.wikidata.org/entity/Q24004403> , <http://www.wikidata.org/entity/Q95010> , <http://www.wikidata.org/entity/Q81801> , <http://www.wikidata.org/entity/Q81978> , <http://www.wikidata.org/entity/Q54929> , <http://www.wikidata.org/entity/Q82142> , <http://www.wikidata.org/entity/Q54932> , <http://www.wikidata.org/entity/Q95015> , <http://www.wikidata.org/entity/Q95027> , <http://www.wikidata.org/entity/Q95080> , <http://www.wikidata.org/entity/Q55182> , <http://www.wikidata.org/entity/Q24271891> , <http://www.wikidata.org/entity/Q81802> , <http://www.wikidata.org/entity/Q54925> , <http://www.wikidata.org/entity/Q54939> , <http://www.wikidata.org/entity/Q71080> , <http://www.wikidata.org/entity/Q54942> , <http://www.wikidata.org/entity/Q81949> , <http://www.wikidata.org/entity/Q82119> , <http://www.wikidata.org/entity/Q95088> , <http://www.wikidata.org/entity/Q95025> , <http://www.wikidata.org/entity/Q95086> , <http://www.wikidata.org/entity/Q95028> , <http://www.wikidata.org/entity/Q24004405> , <http://www.wikidata.org/entity/Q54888> , <http://www.wikidata.org/entity/Q71097> , <http://www.wikidata.org/entity/Q93366> , <http://www.wikidata.org/entity/Q71140> , <http://www.wikidata.org/entity/Q55276> , <http://www.wikidata.org/entity/Q7194> , <http://www.wikidata.org/entity/Q55180> , <http://www.wikidata.org/entity/Q81803> , <http://www.wikidata.org/entity/Q55288> , <http://www.wikidata.org/entity/Q71113> , <http://www.wikidata.org/entity/Q55269> , <http://www.wikidata.org/entity/Q81977> , <http://www.wikidata.org/entity/Q81972> , <http://www.wikidata.org/entity/Q55271> , <http://www.wikidata.org/entity/Q55283> ;
+monu:Monumento_pertenece_a_cultura
+        monu:Cultura_Romana ;
+monu:Monumento_tiene_epoca  monu:Edad_Antigua ;
+monu:Monumento_tiene_siglo  monu:Siglo_I .
+
+monu:Biblioteca
+        monu:Monumento_tiene_estilo  monu:Historicismo , monu:Arquitectura_popular , monu:Novecentismo , monu:Eclecticismo , monu:Arquitectura_moderna ;
+        monu:Monumento_tiene_siglo   monu:Siglo_XXI , monu:Siglo_XV , monu:Siglo_XVI , monu:Siglo_XIX , monu:Siglo_XX , monu:Siglo_XVIII , monu:Siglo_XII .
+
+monu:Calzada_Romana
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Romana ;
+        monu:Monumento_tiene_epoca  monu:Edad_Antigua .
+
+monu:Casa_Consistorial
+
+monu:Monumento_pertenece_a_cultura
+        monu:Cultura_Cristiana ;
+monu:Monumento_tiene_epoca   monu:Edad_Contemporánea ;
+monu:Monumento_tiene_estilo  monu:Neobarroco , monu:Neorrenacentista , monu:Arquitectura_popular , monu:Eclecticismo , monu:Novecentismo , monu:Modernismo_catalán , monu:Barroco , monu:Postmoodernismo , monu:Renacentista , monu:Clasicismo , monu:Gótico_tardío , monu:Neorrománico , monu:Gótico , monu:Modernismo , monu:Neoclásico , monu:Arquitectura_regionalista , monu:Barroco_español , monu:Manierismo , monu:Plateresco , monu:Historicismo ;
+monu:Monumento_tiene_siglo   monu:Siglo_XVII , monu:Siglo_XVI , monu:Siglo_XXI , monu:Siglo_XIX , monu:Siglo_XVIII , monu:Siglo_XV , monu:Siglo_XX .
+
+monu:Casino
+        monu:Monumento_tiene_epoca   monu:Edad_Moderna ;
+        monu:Monumento_tiene_estilo  monu:Mudéjar , monu:Neoclásico , monu:Eclecticismo , monu:Historicismo , monu:Modernismo , monu:Neoárabe , monu:Neomudéjar ;
+        monu:Monumento_tiene_siglo   monu:Siglo_XVIII , monu:Siglo_XX , monu:Siglo_XIX .
+
+monu:Centro_cultural monu:Monumento_pertenece_a_cultura
+        monu:Cultura_Cristiana , monu:Cultura_Islámica ;
+monu:Monumento_tiene_estilo  monu:Mudéjar , monu:Neoárabe , monu:Historicismo , monu:Hispano_musulmán , monu:Gótico_tardío , monu:Neoclásico , monu:Gótico , monu:Renacentista ;
+monu:Monumento_tiene_siglo   monu:Siglo_XX , monu:Siglo_XVI , monu:Siglo_XIX , monu:Siglo_XVIII , monu:Siglo_XXI .
+
+monu:Centro_de_arte
+        monu:Monumento_tiene_siglo  monu:Siglo_XX , monu:Siglo_XXI .
+
+monu:Circo
+monu:Monumento_pertenece_a_cultura
+        monu:Cultura_Romana ;
+monu:Monumento_tiene_epoca  monu:Edad_Antigua .
+
+monu:EstacionDeFerrocarril
+        monu:Esta_situado_en  <http://www.wikidata.org/entity/Q82142> , <http://www.wikidata.org/entity/Q81802> , <http://www.wikidata.org/entity/Q71080> , <http://www.wikidata.org/entity/Q81803> , <http://www.wikidata.org/entity/Q71097> , <http://www.wikidata.org/entity/Q54888> , <http://www.wikidata.org/entity/Q99976> , <http://www.wikidata.org/entity/Q95028> , <http://www.wikidata.org/entity/Q95015> , <http://www.wikidata.org/entity/Q54889> , <http://www.wikidata.org/entity/Q71113> , <http://www.wikidata.org/entity/Q13904> , <http://www.wikidata.org/entity/Q54939> , <http://www.wikidata.org/entity/Q95027> , <http://www.wikidata.org/entity/Q55269> , <http://www.wikidata.org/entity/Q54936> , <http://www.wikidata.org/entity/Q81978> , <http://www.wikidata.org/entity/Q55180> , <http://www.wikidata.org/entity/Q93366> , <http://www.wikidata.org/entity/Q81972> , <http://www.wikidata.org/entity/Q54932> , <http://www.wikidata.org/entity/Q55288> , <http://www.wikidata.org/entity/Q24271891> , <http://www.wikidata.org/entity/Q71140> , <http://www.wikidata.org/entity/Q54942> , <http://www.wikidata.org/entity/Q55276> , <http://www.wikidata.org/entity/Q24004403> , <http://www.wikidata.org/entity/Q7194> , <http://www.wikidata.org/entity/Q54925> , <http://www.wikidata.org/entity/Q82119> , <http://www.wikidata.org/entity/Q55182> , <http://www.wikidata.org/entity/Q81949> , <http://www.wikidata.org/entity/Q54955> , <http://www.wikidata.org/entity/Q55271> , <http://www.wikidata.org/entity/Q81801> , <http://www.wikidata.org/entity/Q95080> , <http://www.wikidata.org/entity/Q95010> , <http://www.wikidata.org/entity/Q98392> , <http://www.wikidata.org/entity/Q95038> , <http://www.wikidata.org/entity/Q95088> , <http://www.wikidata.org/entity/Q55283> , <http://www.wikidata.org/entity/Q95086> , <http://www.wikidata.org/entity/Q95025> , <http://www.wikidata.org/entity/Q81977> , <http://www.wikidata.org/entity/Q24004405> , <http://www.wikidata.org/entity/Q54929> .
+
+monu:Faro
+monu:Monumento_tiene_estilo  monu:Arquitectura_popular , monu:Arquitectura_de_la_Antigua_Roma , monu:Arquitectura_en_hierro , monu:Eclecticismo ;
+monu:Monumento_tiene_siglo   monu:Siglo_II , monu:Siglo_XIX , monu:Siglo_XVII , monu:Siglo_XX , monu:Siglo_XVI .
+
+monu:Hamman
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Islámica ;
+        monu:Monumento_tiene_estilo  monu:Románico , monu:Hispano_musulmán , monu:Arte_almorávide , monu:Arte_almohade ;
+        monu:Monumento_tiene_siglo   monu:Siglo_XI , monu:Siglo_XIII .
+
+monu:Hospital
+monu:Monumento_pertenece_a_cultura
+        monu:Cultura_Cristiana ;
+monu:Monumento_tiene_estilo  monu:Neogótico , monu:Arquitectura_popular , monu:Gótico_valenciano , monu:Mudéjar , monu:Gótico , monu:Barroco , monu:Neoclásico , monu:Románico , monu:Plateresco , monu:Historicismo , monu:Renacentista ;
+monu:Monumento_tiene_siglo   monu:Siglo_XII , monu:Siglo_XV , monu:Siglo_XVIII , monu:Siglo_XIX , monu:Siglo_XIV , monu:Siglo_XVI , monu:Siglo_XVII , monu:Siglo_XIII , monu:Siglo_XX .
+
+monu:Hospital_clausurado
+
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Cristiana ;
+        monu:Monumento_tiene_estilo  monu:Barroco , monu:Arquitectura_popular , monu:Historicismo , monu:Mudéjar , monu:Gótico , monu:Plateresco , monu:Neogótico , monu:Neoclásico , monu:Románico , monu:Renacentista , monu:Gótico_valenciano ;
+        monu:Monumento_tiene_siglo   monu:Siglo_XIII , monu:Siglo_XIX , monu:Siglo_XII , monu:Siglo_XVII , monu:Siglo_XV , monu:Siglo_XVI , monu:Siglo_XX , monu:Siglo_XVIII , monu:Siglo_XIV .
+
+
+monu:Xenodochium
+monu:Monumento_pertenece_a_cultura
+        monu:Cultura_Cristiana ;
+monu:Monumento_tiene_estilo  monu:Románico , monu:Barroco , monu:Renacentista , monu:Plateresco ;
+monu:Monumento_tiene_siglo   monu:Siglo_XVI , monu:Siglo_XIII , monu:Siglo_XII , monu:Siglo_XVII , monu:Siglo_XVIII .
+
+monu:Hotel
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Cristiana ;
+        monu:Monumento_tiene_epoca   monu:Edad_Contemporánea , monu:Edad_Moderna ;
+        monu:Monumento_tiene_estilo  monu:Barroco_español , monu:Arquitectura_moderna , monu:Racionalismo , monu:Modernismo , monu:Neoárabe , monu:Barroco , monu:Neomudéjar , monu:Neoclásico , monu:Brutalismo , monu:Neogótico , monu:Plateresco , monu:Historicismo , monu:Novecentismo , monu:Eclecticismo ;
+        monu:Monumento_tiene_siglo   monu:Siglo_XVI , monu:Siglo_XX , monu:Siglo_XVII , monu:Siglo_XVIII , monu:Siglo_XIX , monu:Siglo_XXI .
+
+monu:Paradores_de_Turismo_de_España
+
+monu:Monumento_pertenece_a_cultura
+      monu:Cultura_Cristiana ;
+monu:Monumento_tiene_estilo  monu:Arquitectura_moderna ;
+monu:Monumento_tiene_siglo   monu:Siglo_XX .
+
+monu:Mansio
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Celtibérica , monu:Cultura_Romana ;
+        monu:Monumento_tiene_epoca  monu:Edad_Antigua , monu:Edad_del_Hierro .
+
+monu:Mercado
+monu:Monumento_tiene_estilo  monu:Neoárabe , monu:Arquitectura_en_hierro , monu:Historicismo , monu:Eclecticismo , monu:Modernismo_valenciano , monu:Novecentismo , monu:Modernismo , monu:Arquitectura_popular , monu:Manierismo , monu:Racionalismo , monu:Arquitectura_moderna , monu:Neoclásico ;
+monu:Monumento_tiene_siglo   monu:Siglo_XIX , monu:Siglo_XX , monu:Siglo_XVII .
+
+monu:Mercado_de_Abastos
+
+        monu:Monumento_tiene_estilo  monu:Manierismo , monu:Racionalismo , monu:Neoclásico , monu:Arquitectura_en_hierro ;
+        monu:Monumento_tiene_siglo   monu:Siglo_XIX , monu:Siglo_XVII , monu:Siglo_XX .
+
+monu:Molino
+monu:Monumento_pertenece_a_cultura
+      monu:Cultura_Islámica , monu:Cultura_Romana , monu:Cultura_Cristiana ;
+monu:Monumento_tiene_epoca   monu:Edad_Antigua , monu:Edad_Contemporánea , monu:Edad_Media , monu:Baja_Edad_Media , monu:Edad_Moderna ;
+monu:Monumento_tiene_estilo  monu:Gótico_flamígero , monu:Modernismo , monu:Románico , monu:Novecentismo , monu:Gótico_tardío , monu:Gótico , monu:Neoclásico , monu:Arquitectura_popular , monu:Barroco , monu:Eclecticismo ;
+monu:Monumento_tiene_siglo   monu:Siglo_XXI , monu:Siglo_XIII , monu:Siglo_XIX , monu:Siglo_XVII , monu:Siglo_XX , monu:Siglo_XII , monu:Siglo_XIV , monu:Siglo_XVIII , monu:Siglo_XV , monu:Siglo_XVI .
+
+monu:Molino_de_viento
+
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Cristiana ;
+        monu:Monumento_tiene_epoca   monu:Edad_Contemporánea , monu:Edad_Moderna ;
+        monu:Monumento_tiene_estilo  monu:Modernismo , monu:Arquitectura_popular ;
+        monu:Monumento_tiene_siglo   monu:Siglo_XIX , monu:Siglo_XX , monu:Siglo_XVII .
+
+monu:Molino_hidráulico
+monu:Monumento_tiene_estilo  monu:Gótico , monu:Gótico_flamígero , monu:Neoclásico , monu:Arquitectura_popular , monu:Románico , monu:Novecentismo , monu:Gótico_tardío , monu:Eclecticismo , monu:Modernismo ;
+monu:Monumento_tiene_siglo   monu:Siglo_XVI , monu:Siglo_XVII , monu:Siglo_XX , monu:Siglo_XIX , monu:Siglo_XIII , monu:Siglo_XIV , monu:Siglo_XII , monu:Siglo_XV , monu:Siglo_XVIII , monu:Siglo_XXI .
+
+monu:Museo
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Cristiana , monu:Cultura_Hebrea , monu:Cultura_Romana ;
+        monu:Monumento_tiene_epoca   monu:Edad_Antigua , monu:Edad_Contemporánea , monu:Edad_Moderna ;
+        monu:Monumento_tiene_estilo  monu:Arquitectura_rupestre , monu:Gótico_tardío , monu:Modernismo , monu:Plateresco , monu:Gótico_isabelino , monu:Herreriano , monu:Barroco_español , monu:Barroco , monu:Neomudéjar , monu:Gótico , monu:Arquitectura_de_la_Antigua_Roma , monu:Novecentismo , monu:Arquitectura_popular , monu:Mudéjar , monu:Modernismo_catalán , monu:Eclecticismo , monu:Historicismo , monu:Hispano_musulmán , monu:Racionalismo , monu:Renacentista , monu:Románico , monu:Arquitectura_moderna , monu:Neoclásico , monu:Manierismo ;
+        monu:Monumento_tiene_siglo   monu:Siglo_XX , monu:Siglo_XVII , monu:Siglo_XXI , monu:Siglo_XI , monu:Siglo_XVIII , monu:Siglo_XV , monu:Siglo_XVI , monu:Siglo_XIX , monu:Siglo_I , monu:Siglo_XII , monu:Siglo_XIV , monu:Siglo_XIII .
+
+monu:Casa_Museo
+monu:Monumento_tiene_estilo  monu:Arquitectura_popular , monu:Arquitectura_rupestre , monu:Barroco , monu:Barroco_español ;
+monu:Monumento_tiene_siglo   monu:Siglo_I , monu:Siglo_XXI , monu:Siglo_XIX , monu:Siglo_XX .
+
+monu:Museo_arqueológico
+
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Romana ;
+        monu:Monumento_tiene_epoca   monu:Edad_Antigua , monu:Edad_Contemporánea ;
+        monu:Monumento_tiene_estilo  monu:Arquitectura_de_la_Antigua_Roma , monu:Gótico ;
+        monu:Monumento_tiene_siglo   monu:Siglo_XI , monu:Siglo_XX , monu:Siglo_XXI , monu:Siglo_XIX .
+
+monu:Museo_de_arte
+monu:Monumento_pertenece_a_cultura
+        monu:Cultura_Cristiana ;
+monu:Monumento_tiene_estilo  monu:Renacentista , monu:Modernismo , monu:Eclecticismo , monu:Arquitectura_popular , monu:Románico , monu:Gótico , monu:Barroco , monu:Neoclásico , monu:Modernismo_catalán , monu:Arquitectura_moderna ;
+monu:Monumento_tiene_siglo   monu:Siglo_XV , monu:Siglo_XIII , monu:Siglo_XIX , monu:Siglo_XVIII , monu:Siglo_XXI , monu:Siglo_XX .
+
+monu:Museo_de_escultura
+
+        monu:Monumento_tiene_siglo  monu:Siglo_XIX .
+
+
+monu:Museo_de_historia
+monu:Monumento_tiene_siglo  monu:Siglo_XXI , monu:Siglo_XX .
+
+
+
+monu:Museo_etnográfico
+
+monu:Monumento_tiene_epoca  monu:Edad_Moderna , monu:Edad_Contemporánea ;
+monu:Monumento_tiene_siglo  monu:Siglo_XXI , monu:Siglo_XIX , monu:Siglo_XX .
+
+monu:Museo_nacional
+        monu:Monumento_tiene_siglo  monu:Siglo_XX , monu:Siglo_XIX , monu:Siglo_XXI .
+
+monu:Noria
+monu:Monumento_pertenece_a_cultura
+        monu:Cultura_Islámica , monu:Cultura_Romana ;
+monu:Monumento_tiene_epoca  monu:Edad_Contemporánea , monu:Edad_Antigua ;
+monu:Monumento_tiene_siglo  monu:Siglo_XX .
+
+monu:Palacio_episcopal
+
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Cristiana ;
+        monu:Monumento_tiene_estilo  monu:Neogótico , monu:Románico , monu:Neorrománico , monu:Historicismo , monu:Gótico , monu:Barroco , monu:Neoclásico , monu:Renacentista ;
+        monu:Monumento_tiene_siglo   monu:Siglo_XVI , monu:Siglo_XIV , monu:Siglo_XIII , monu:Siglo_XIX , monu:Siglo_XVIII .
+
+monu:Paseo
+monu:Monumento_tiene_siglo  monu:Siglo_XVIII , monu:Siglo_XIX , monu:Siglo_XX .
+
+monu:Paseo_marítimo
+        monu:Monumento_tiene_siglo  monu:Siglo_XX .
+
+monu:Plaza
+monu:Monumento_pertenece_a_cultura
+        monu:Cultura_Romana ;
+monu:Monumento_tiene_epoca   monu:Edad_Moderna , monu:Edad_Antigua ;
+monu:Monumento_tiene_estilo  monu:Gótico_valenciano , monu:Arquitectura_regionalista , monu:Novecentismo , monu:Barroco , monu:Historicismo , monu:Neoclásico , monu:Arquitectura_popular , monu:Renacentista , monu:Gótico_tardío , monu:Gótico , monu:Eclecticismo , monu:Arquitectura_moderna , monu:Modernismo ;
+monu:Monumento_tiene_siglo   monu:Siglo_XII , monu:Siglo_XIII , monu:Siglo_XVII , monu:Siglo_XXI , monu:Siglo_XVI , monu:Siglo_XIX , monu:Siglo_XV , monu:Siglo_XX , monu:Siglo_XIV , monu:Siglo_XVIII .
+
+monu:Plaza_mayor
+        monu:Monumento_tiene_siglo  monu:Siglo_XII .
+
+
+monu:Plaza_porticada
+monu:Monumento_tiene_estilo  monu:Arquitectura_regionalista , monu:Historicismo , monu:Renacentista , monu:Barroco ;
+monu:Monumento_tiene_siglo   monu:Siglo_XX .
+
+monu:Plaza_de_toros
+        monu:Monumento_tiene_epoca   monu:Edad_Contemporánea;
+        monu:Monumento_tiene_estilo  monu:Mudéjar , monu:Postmodernismo , monu:Eclecticismo , monu:Arquitectura_regionalista , monu:Neoclásico , monu:Arquitectura_popular , monu:Barroco , monu:Neomudéjar , monu:Historicismo , monu:Neoárabe;
+        monu:Monumento_tiene_siglo   monu:Siglo_XVII , monu:Siglo_XXI , monu:Siglo_XIX , monu:Siglo_XX , monu:Siglo_XVIII .
+
+
+monu:Prisión
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Cristiana;
+        monu:Monumento_tiene_estilo  monu:Eclecticismo , monu:Neoclásico , monu:Barroco_español , monu:Barroco , monu:Historicismo , monu:Renacentista , monu:Gótico;
+        monu:Monumento_tiene_siglo   monu:Siglo_XXI , monu:Siglo_XVII , monu:Siglo_XVI , monu:Siglo_XIX , monu:Siglo_XVIII , monu:Siglo_XX .
+
+        monu:Puente
+                monu:Monumento_pertenece_a_cultura
+                        monu:Cultura_Islámica , monu:Cultura_Bizantina , monu:Cultura_Romana;
+                monu:Monumento_tiene_epoca   monu:Edad_Media , monu:Edad_Contemporánea , monu:Edad_Antigua;
+                monu:Monumento_tiene_estilo  monu:Modernismo_valenciano , monu:Mudéjar , monu:Novecentismo , monu:Renacentista , monu:Eclecticismo , monu:Historicismo , monu:Arquitectura_moderna , monu:Arquitectura_en_hierro , monu:Arquitectura_de_la_Antigua_Roma , monu:Barroco , monu:Modernismo_catalán , monu:Modernismo , monu:Arquitectura_popular , monu:Neoclásico , monu:Románico , monu:Gótico , monu:Gótico_valenciano;
+                monu:Monumento_tiene_siglo   monu:Siglo_XVII , monu:Siglo_XI , monu:Siglo_XV , monu:Siglo_XII , monu:Siglo_XVI , monu:Siglo_II , monu:Siglo_XXI , monu:Siglo_XIII , monu:Siglo_XX , monu:Siglo_XIX , monu:Siglo_XVIII , monu:Siglo_XIV .
+
+
+monu:Puente_de_fábrica
+
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Romana , monu:Cultura_Bizantina;
+        monu:Monumento_tiene_epoca   monu:Edad_Antigua;
+        monu:Monumento_tiene_estilo  monu:Gótico , monu:Arquitectura_de_la_Antigua_Roma;
+        monu:Monumento_tiene_siglo   monu:Siglo_II .
+
+monu:Puente_en_arco
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Romana , monu:Cultura_Bizantina;
+        monu:Monumento_tiene_epoca   monu:Edad_Antigua;
+        monu:Monumento_tiene_estilo  monu:Románico , monu:Gótico , monu:Gótico_valenciano;
+        monu:Monumento_tiene_siglo   monu:Siglo_XII , monu:Siglo_XVIII , monu:Siglo_XVI , monu:Siglo_XIX , monu:Siglo_II , monu:Siglo_XXI , monu:Siglo_XIII , monu:Siglo_XX .
+
+
+monu:Puente_romano
+      monu:Monumento_pertenece_a_cultura
+              monu:Cultura_Romana;
+      monu:Monumento_tiene_epoca   monu:Edad_Antigua;
+      monu:Monumento_tiene_estilo  monu:Gótico , monu:Arquitectura_de_la_Antigua_Roma;
+      monu:Monumento_tiene_siglo   monu:Siglo_XVI .
+
+
+monu:Puerta_de_la_ciudad
+
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Cristiana;
+        monu:Monumento_tiene_estilo  monu:Arquitectura_de_la_Antigua_Roma , monu:Mudéjar , monu:Clasicismo , monu:Gótico_flamígero , monu:Gótico_tardío , monu:Plateresco , monu:Arte_emiral_y_califal , monu:Hispano_musulmán , monu:Historicismo , monu:Manierismo , monu:Gótico , monu:Románico , monu:Arquitectura_popular , monu:Neoclásico , monu:Renacentista , monu:Barroco;
+        monu:Monumento_tiene_siglo   monu:Siglo_XX , monu:Siglo_XVI , monu:Siglo_XIV , monu:Siglo_XII , monu:Siglo_XV , monu:Siglo_XIX , monu:Siglo_XVII , monu:Siglo_XIII , monu:Siglo_XVIII .
+
+monu:Pósito
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Romana;
+        monu:Monumento_tiene_epoca  monu:Edad_Contemporánea , monu:Edad_Antigua , monu:Edad_Moderna;
+        monu:Monumento_tiene_siglo  monu:Siglo_XVIII .
+
+
+monu:Teatro
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Cristiana , monu:Cultura_Romana;
+        monu:Monumento_tiene_epoca   monu:Edad_Contemporánea , monu:Edad_Antigua;
+        monu:Monumento_tiene_estilo  monu:Racionalismo , monu:Neobarroco , monu:Clasicismo , monu:Arquitectura_en_hierro , monu:Historicismo , monu:Neomudéjar , monu:Modernismo_valenciano , monu:Novecentismo , monu:Gótico , monu:Eclecticismo , monu:Art_déco , monu:Arquitectura_de_la_Antigua_Roma , monu:Modernismo , monu:Neoclásico;
+        monu:Monumento_tiene_siglo   monu:Siglo_XVIII , monu:Siglo_XVI , monu:Siglo_XXI , monu:Siglo_XIX , monu:Siglo_I_aC , monu:Siglo_I , monu:Siglo_XX , monu:Siglo_XVII .
+
+monu:Teatro_de_ópera
+        monu:Monumento_tiene_estilo  monu:Neobarroco , monu:Eclecticismo , monu:Historicismo;
+        monu:Monumento_tiene_siglo   monu:Siglo_XIX , monu:Siglo_XX , monu:Siglo_XXI .
+
+monu:Teatro_Romano
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Romana;
+        monu:Monumento_tiene_epoca   monu:Edad_Antigua;
+        monu:Monumento_tiene_estilo  monu:Arquitectura_de_la_Antigua_Roma;
+        monu:Monumento_tiene_siglo   monu:Siglo_I_aC , monu:Siglo_I .
+
+        monu:Termas
+monu:Monumento_pertenece_a_cultura
+        monu:Cultura_Romana;
+monu:Monumento_tiene_epoca   monu:Edad_Antigua;
+monu:Monumento_tiene_estilo  monu:Arquitectura_de_la_Antigua_Roma .
+
+
+monu:Torre_de_Reloj
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Cristiana;
+        monu:Monumento_tiene_estilo  monu:Mudéjar_aragonés , monu:Mudéjar , monu:Gótico , monu:Románico , monu:Neoclásico , monu:Eclecticismo;
+        monu:Monumento_tiene_siglo   monu:Siglo_XX , monu:Siglo_XVI , monu:Siglo_XXI , monu:Siglo_XV , monu:Siglo_XIX .
+
+monu:Tribunal_del_Santo_Oficio
+monu:Monumento_tiene_siglo  monu:Siglo_XVIII .
+
+monu:Vivienda
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_de_Hallstatt , monu:Cultura_Tartésica , monu:Cultura_de_La_Tène , monu:Cultura_Islámica , monu:Cultura_Cristiana , monu:Cultura_Romana;
+        monu:Monumento_tiene_epoca   monu:Baja_Edad_Media , monu:Primera_Edad_del_Hierro , monu:Edad_Contemporánea , monu:Edad_Moderna , monu:Bronce_Pleno , monu:Edades_Prehistóricas , monu:Calcolítico , monu:Edad_Media , monu:Edad_del_Bronce , monu:Edad_del_Hierro , monu:Edad_Antigua;
+        monu:Monumento_tiene_estilo  monu:Neorrománico , monu:Arquitectura_industrial , monu:Prerrománico , monu:Arquitectura_de_la_Antigua_Roma , monu:Visigodo , monu:Postmodernismo , monu:Arquitectura_moderna , monu:Funcionalismo , monu:Brutalismo , monu:Neoárabe , monu:Art_déco , monu:Racionalismo , monu:Estilo_Segundo_Imperio , monu:Románico , monu:Neomudéjar , monu:Gótico_isabelino , monu:Neoherreriano , monu:Novecentismo , monu:Churrigueresco , monu:Barroco_español , monu:Neoplateresco , monu:Clasicismo , monu:Neogótico , monu:Modernismo_catalán , monu:Gótico_catalán , monu:Neorrenacentista , monu:Neobarroco , monu:Historicismo , monu:Gótico_flamígero , monu:Estilo_reina_Ana , monu:Arquitectura_popular , monu:Gótico_tardío , monu:Arte_nazarí , monu:Neovasco , monu:Arquitectura_regionalista , monu:Modernismo_valenciano , monu:Herreriano , monu:Manierismo , monu:Estilo_fernandino , monu:Neoclásico , monu:Plateresco , monu:Mudéjar_aragonés , monu:Arte_taifa , monu:Mudéjar , monu:Hispano_musulmán , monu:Rococo , monu:Gótico_valenciano , monu:Renacentista , monu:Modernismo , monu:Gótico , monu:Barroco , monu:Eclecticismo;
+        monu:Monumento_tiene_siglo   monu:Siglo_XII , monu:Siglo_I_aC , monu:Siglo_IV , monu:Siglo_IX , monu:Siglo_XI , monu:Siglo_I , monu:Siglo_XXI , monu:Siglo_X , monu:Siglo_XIV , monu:Siglo_II , monu:Siglo_XVII , monu:Siglo_XV , monu:Siglo_XIX , monu:Siglo_XIII , monu:Siglo_XVIII , monu:Siglo_XX , monu:Siglo_XVI .
+
+        monu:Alquería
+                monu:Monumento_pertenece_a_cultura
+                        monu:Cultura_Ibérica , monu:Cultura_Cristiana , monu:Cultura_Islámica , monu:Cultura_Romana;
+                monu:Monumento_tiene_epoca   monu:Edad_Media , monu:Edad_del_Hierro , monu:Edad_Antigua;
+                monu:Monumento_tiene_estilo  monu:Barroco_español , monu:Barroco;
+                monu:Monumento_tiene_siglo   monu:Siglo_XV , monu:Siglo_XIX , monu:Siglo_XX , monu:Siglo_XVIII , monu:Siglo_XVII .
+
+
+monu:Baserri
+        monu:Monumento_tiene_estilo  monu:Neoclásico , monu:Barroco , monu:Renacentista , monu:Gótico;
+        monu:Monumento_tiene_siglo   monu:Siglo_XX , monu:Siglo_XVIII , monu:Siglo_XIX , monu:Siglo_XVII , monu:Siglo_XVI .
+
+        monu:Casa
+                monu:Monumento_pertenece_a_cultura
+                        monu:Cultura_Romana , monu:Cultura_Islámica , monu:Cultura_Cristiana;
+                monu:Monumento_tiene_epoca   monu:Edad_Media , monu:Edad_Moderna , monu:Edad_Antigua , monu:Edad_Contemporánea;
+                monu:Monumento_tiene_estilo  monu:Postmodernismo , monu:Arquitectura_moderna , monu:Plateresco , monu:Funcionalismo , monu:Brutalismo , monu:Modernismo_valenciano , monu:Neoárabe , monu:Gótico_catalán , monu:Neomudéjar , monu:Románico , monu:Neovasco , monu:Arquitectura_regionalista , monu:Art_déco , monu:Racionalismo , monu:Gótico_flamígero , monu:Novecentismo , monu:Arquitectura_popular , monu:Mudéjar , monu:Eclecticismo , monu:Modernismo_catalán , monu:Neoclásico , monu:Neogótico , monu:Historicismo , monu:Modernismo , monu:Gótico , monu:Gótico_tardío , monu:Barroco , monu:Renacentista;
+                monu:Monumento_tiene_siglo   monu:Siglo_XI , monu:Siglo_I , monu:Siglo_XIV , monu:Siglo_XIII , monu:Siglo_XV , monu:Siglo_XVIII , monu:Siglo_XXI , monu:Siglo_XVII , monu:Siglo_XVI , monu:Siglo_XIX , monu:Siglo_XX .
+
+monu:Casa_natal
+        monu:Monumento_tiene_estilo  monu:Gótico , monu:Modernismo , monu:Neoclásico , monu:Modernismo_catalán;
+        monu:Monumento_tiene_siglo   monu:Siglo_XX , monu:Siglo_XIX .
+
+
+monu:Casa_rural
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Cristiana;
+        monu:Monumento_tiene_estilo  monu:Modernismo_catalán , monu:Modernismo , monu:Historicismo , monu:Gótico , monu:Arquitectura_popular , monu:Barroco , monu:Gótico_tardío;
+        monu:Monumento_tiene_siglo   monu:Siglo_XVII , monu:Siglo_XXI , monu:Siglo_XI , monu:Siglo_XIV , monu:Siglo_XV , monu:Siglo_XVIII , monu:Siglo_XX , monu:Siglo_XIX , monu:Siglo_XVI .
+
+monu:Casa_señorial
+        monu:Monumento_tiene_estilo  monu:Neobarroco , monu:Arquitectura_regionalista , monu:Neogótico , monu:Historicismo , monu:Barroco_español , monu:Renacentista , monu:Modernismo , monu:Neoclásico , monu:Manierismo , monu:Gótico_tardío , monu:Gótico , monu:Arquitectura_popular , monu:Barroco;
+        monu:Monumento_tiene_siglo   monu:Siglo_XXI , monu:Siglo_XIX , monu:Siglo_XV , monu:Siglo_XVIII , monu:Siglo_XX , monu:Siglo_XVI , monu:Siglo_XVII .
+
+monu:Casa_Solariega
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Cristiana;
+        monu:Monumento_tiene_epoca   monu:Edad_Moderna;
+        monu:Monumento_tiene_estilo  monu:Barroco , monu:Plateresco , monu:Renacentista;
+        monu:Monumento_tiene_siglo   monu:Siglo_XV , monu:Siglo_XX , monu:Siglo_XVIII , monu:Siglo_XVI , monu:Siglo_XIX , monu:Siglo_XVII .
+
+monu:Caserío
+        monu:Monumento_tiene_estilo  monu:Neoclásico , monu:Barroco , monu:Renacentista , monu:Gótico;
+        monu:Monumento_tiene_siglo   monu:Siglo_XX , monu:Siglo_XVIII , monu:Siglo_XIX , monu:Siglo_XVII , monu:Siglo_XVI .
+
+monu:Cortijo
+        monu:Monumento_tiene_estilo  monu:Barroco , monu:Neogótico , monu:Historicismo;
+        monu:Monumento_tiene_siglo   monu:Siglo_XVIII , monu:Siglo_XX , monu:Siglo_XIX , monu:Siglo_X .
+
+        monu:Masía
+
+                monu:Monumento_tiene_estilo  monu:Neogótico , monu:Gótico_catalán , monu:Prerrománico , monu:Gótico_flamígero , monu:Renacentista , monu:Neoclásico , monu:Eclecticismo , monu:Barroco_español , monu:Barroco , monu:Románico , monu:Modernismo_catalán , monu:Modernismo , monu:Novecentismo , monu:Historicismo , monu:Hispano_musulmán , monu:Arquitectura_popular , monu:Gótico , monu:Gótico_tardío;
+                monu:Monumento_tiene_siglo   monu:Siglo_I , monu:Siglo_XI , monu:Siglo_X , monu:Siglo_XIV , monu:Siglo_XXI , monu:Siglo_XV , monu:Siglo_XII , monu:Siglo_XIII , monu:Siglo_XVI , monu:Siglo_IX , monu:Siglo_XX , monu:Siglo_XIX , monu:Siglo_XVIII , monu:Siglo_XVII .
+
+                monu:Palacio
+                        monu:Monumento_pertenece_a_cultura
+                                monu:Cultura_Romana , monu:Cultura_Islámica , monu:Cultura_Cristiana;
+                        monu:Monumento_tiene_epoca   monu:Edad_Antigua , monu:Edad_Contemporánea , monu:Edad_Moderna;
+                        monu:Monumento_tiene_estilo  monu:Neorrománico , monu:Estilo_Segundo_Imperio , monu:Románico , monu:Neomudéjar , monu:Gótico_isabelino , monu:Neoherreriano , monu:Novecentismo , monu:Churrigueresco , monu:Barroco_español , monu:Neogótico , monu:Neoplateresco , monu:Clasicismo , monu:Modernismo_catalán , monu:Gótico_catalán , monu:Neorrenacentista , monu:Neobarroco , monu:Historicismo , monu:Gótico_flamígero , monu:Estilo_reina_Ana , monu:Gótico_tardío , monu:Arquitectura_popular , monu:Arte_nazarí , monu:Neovasco , monu:Arquitectura_regionalista , monu:Modernismo_valenciano , monu:Modernismo , monu:Herreriano , monu:Manierismo , monu:Estilo_fernandino , monu:Neoclásico , monu:Plateresco , monu:Mudéjar_aragonés , monu:Arte_taifa , monu:Mudéjar , monu:Hispano_musulmán , monu:Rococo , monu:Gótico_valenciano , monu:Renacentista , monu:Barroco , monu:Eclecticismo , monu:Gótico;
+                        monu:Monumento_tiene_siglo   monu:Siglo_XXI , monu:Siglo_X , monu:Siglo_XIV , monu:Siglo_XIX , monu:Siglo_II , monu:Siglo_XVI , monu:Siglo_XVII , monu:Siglo_XV , monu:Siglo_XVIII , monu:Siglo_XX , monu:Siglo_XIII .
+
+monu:Mansión
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Cristiana;
+        monu:Monumento_tiene_estilo  monu:Modernismo , monu:Neoclásico , monu:Neobarroco , monu:Gótico , monu:Eclecticismo , monu:Historicismo , monu:Plateresco , monu:Barroco , monu:Renacentista;
+        monu:Monumento_tiene_siglo   monu:Siglo_XVIII , monu:Siglo_XIX , monu:Siglo_XVI , monu:Siglo_XX , monu:Siglo_XVII .
+
+monu:Palacio_episcopal
+
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Cristiana;
+        monu:Monumento_tiene_estilo  monu:Románico , monu:Renacentista , monu:Gótico , monu:Neorrománico , monu:Rococo , monu:Barroco , monu:Neoclásico , monu:Historicismo , monu:Neogótico;
+        monu:Monumento_tiene_siglo   monu:Siglo_XVI , monu:Siglo_XIV , monu:Siglo_XIII , monu:Siglo_XVIII , monu:Siglo_XIX .
+
+monu:Palacio_Real monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Cristiana;
+        monu:Monumento_tiene_estilo  monu:Estilo_fernandino , monu:Neoclásico , monu:Rococo , monu:Barroco , monu:Eclecticismo , monu:Gótico , monu:Renacentista;
+        monu:Monumento_tiene_siglo   monu:Siglo_XIX , monu:Siglo_II , monu:Siglo_XVI , monu:Siglo_XVIII , monu:Siglo_XX , monu:Siglo_XIII , monu:Siglo_XVII .
+
+monu:Pazo
+      monu:Monumento_pertenece_a_cultura
+              monu:Cultura_Cristiana;
+      monu:Monumento_tiene_estilo  monu:Renacentista , monu:Barroco;
+      monu:Monumento_tiene_siglo   monu:Siglo_XVII , monu:Siglo_XVI , monu:Siglo_XX , monu:Siglo_XVIII , monu:Siglo_XIX .
+
+      monu:Villa
+              monu:Monumento_pertenece_a_cultura
+                      monu:Cultura_de_Hallstatt , monu:Cultura_Tartésica , monu:Cultura_Islámica , monu:Cultura_Romana , monu:Cultura_Cristiana , monu:Cultura_de_La_Tène;
+              monu:Monumento_tiene_epoca   monu:Edad_Moderna , monu:Primera_Edad_del_Hierro , monu:Edad_Contemporánea , monu:Edad_Antigua , monu:Edad_del_Hierro , monu:Edad_del_Bronce , monu:Edad_Media , monu:Calcolítico , monu:Edades_Prehistóricas , monu:Bronce_Pleno;
+              monu:Monumento_tiene_estilo  monu:Arquitectura_de_la_Antigua_Roma , monu:Visigodo , monu:Arquitectura_popular , monu:Neoclásico;
+              monu:Monumento_tiene_siglo   monu:Siglo_XX , monu:Siglo_I_aC , monu:Siglo_IV , monu:Siglo_XXI .
+
+monu:Villa_Romana
+        monu:Monumento_pertenece_a_cultura
+               monu:Cultura_Romana ;
+        monu:Monumento_tiene_epoca    monu:Edad_Antigua ;
+        monu:Monumento_tiene_estilo  monu:Arquitectura_de_la_Antigua_Roma , monu:Visigodo , monu:Arquitectura_popular ;
+        monu:Monumento_tiene_siglo   monu:Siglo_II_aC , monu:Siglo_I , monu:Siglo_I_aC , monu:Siglo_IV  .
+
+        monu:Arquitectura_Militar
+
+                monu:Monumento_pertenece_a_cultura
+                        monu:Autrigones , monu:Várdulos , monu:Cultura_Cartaginesa , monu:Cultura_Celtibérica , monu:Berones , monu:Cultura_de_los_Millares , monu:Cultura_Ibérica , monu:Cultura_de_Hallstatt , monu:Cultura_de_La_Tène , monu:Cultura_Romana , monu:Cultura_Islámica , monu:Cultura_Cristiana;
+                monu:Monumento_tiene_epoca   monu:Edad_Contemporánea , monu:Plena_Edad_Media , monu:Bronce_Final , monu:Paleolítico , monu:Neolítico , monu:Baja_Edad_Media , monu:Alta_Edad_Media , monu:Antigüedad_tardía , monu:Primera_Edad_del_Hierro , monu:Bronce_Antiguo , monu:Bronce_Pleno , monu:Edades_Prehistóricas , monu:Calcolítico , monu:Edad_Media , monu:Edad_del_Bronce , monu:Edad_del_Hierro , monu:Edad_Moderna , monu:Edad_Antigua;
+                monu:Monumento_tiene_estilo  monu:Racionalismo , monu:Gótico_flamígero , monu:Gótico_catalán , monu:Primer_románico , monu:Arte_almorávide , monu:Prerrománico , monu:Arquitectura_industrial , monu:Novecentismo , monu:Neomudéjar , monu:Modernismo , monu:Eclecticismo , monu:Barroco_español , monu:Arquitectura_en_hierro , monu:Visigodo , monu:Arte_emiral_y_califal , monu:Arte_almohade , monu:Neoárabe , monu:Bizantino , monu:Gótico_tardío , monu:Arquitectura_de_la_Antigua_Roma , monu:Neogótico , monu:Historicismo , monu:Arquitectura_popular , monu:Gótico_valenciano , monu:Barroco , monu:Plateresco , monu:Mudéjar_aragonés , monu:Arte_taifa , monu:Hispano_musulmán , monu:Renacentista , monu:Gótico , monu:Románico , monu:Mudéjar , monu:Manierismo , monu:Herreriano , monu:Neoclásico;
+                monu:Monumento_tiene_siglo   monu:Siglo_VII , monu:Siglo_XX , monu:Siglo_IX , monu:Siglo_II , monu:Siglo_V , monu:Siglo_X , monu:Siglo_VIII , monu:Siglo_XII , monu:Siglo_XIV , monu:Siglo_XIX , monu:Siglo_XXI , monu:Siglo_XV , monu:Siglo_XI , monu:Siglo_XVI , monu:Siglo_XVII , monu:Siglo_XIII , monu:Siglo_XVIII .
+
+monu:Alcazaba
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Islámica ;
+          monu:Monumento_tiene_estilo monu:Hispano_musulmán;
+        monu:Monumento_tiene_siglo   monu:Siglo_XI .
+
+monu:Alcázar
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Islámica , monu:Cultura_Cristiana;
+        monu:Monumento_tiene_estilo  monu:Hispano_musulmán , monu:Renacentista , monu:Gótico , monu:Románico , monu:Mudéjar , monu:Manierismo , monu:Herreriano;
+        monu:Monumento_tiene_siglo   monu:Siglo_XIV , monu:Siglo_XIII .
+
+
+monu:Búnker
+monu:Monumento_tiene_estilo  monu:Arquitectura_popular;
+monu:Monumento_tiene_siglo   monu:Siglo_XXI , monu:Siglo_XX .
+
+monu:Castillo
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Ibérica , monu:Cultura_de_La_Tène , monu:Cultura_Romana , monu:Cultura_Islámica , monu:Cultura_Cristiana;
+        monu:Monumento_tiene_epoca   monu:Alta_Edad_Media , monu:Antigüedad_tardía , monu:Primera_Edad_del_Hierro , monu:Bronce_Pleno , monu:Edades_Prehistóricas , monu:Calcolítico , monu:Edad_Media , monu:Edad_del_Bronce , monu:Edad_del_Hierro , monu:Edad_Moderna , monu:Edad_Antigua;
+        monu:Monumento_tiene_estilo  monu:Gótico_flamígero , monu:Gótico_catalán , monu:Neogótico , monu:Primer_románico , monu:Arte_almorávide , monu:Arquitectura_de_la_Antigua_Roma , monu:Novecentismo , monu:Eclecticismo , monu:Prerrománico , monu:Gótico_tardío , monu:Arte_emiral_y_califal , monu:Arte_almohade , monu:Neoárabe , monu:Historicismo , monu:Bizantino , monu:Barroco , monu:Arquitectura_popular , monu:Gótico_valenciano , monu:Plateresco , monu:Mudéjar_aragonés , monu:Arte_taifa , monu:Hispano_musulmán , monu:Mudéjar , monu:Renacentista , monu:Neoclásico , monu:Románico , monu:Gótico;
+        monu:Monumento_tiene_siglo   monu:Siglo_VIII , monu:Siglo_VII , monu:Siglo_II , monu:Siglo_IX , monu:Siglo_XX , monu:Siglo_XIX , monu:Siglo_X , monu:Siglo_XVI , monu:Siglo_XII , monu:Siglo_XIV , monu:Siglo_XXI , monu:Siglo_XV , monu:Siglo_XVIII , monu:Siglo_XVII , monu:Siglo_XI , monu:Siglo_XIII .
+
+        monu:Castro
+                monu:Monumento_pertenece_a_cultura
+                       monu:Autrigones , monu:Várdulos , monu:Cultura_Celtibérica , monu:Berones , monu:Cultura_Romana , monu:Cultura_de_Hallstatt ;
+                monu:Monumento_tiene_epoca   monu:Edad_Moderna , monu:Bronce_Final , monu:Paleolítico , monu:Calcolítico , monu:Neolítico , monu:Antigüedad_tardía , monu:Edad_del_Hierro , monu:Edad_del_Bronce ,  monu:Edad_Antigua , monu:Edades_Prehistóricas , monu:Bronce_Antiguo , monu:Primera_Edad_del_Hierro;
+                monu:Monumento_tiene_estilo  monu:Visigodo , monu:Renacentista.
+
+
+monu:Ciudadela
+        monu:Monumento_tiene_estilo  monu:Gótico , monu:Renacentista;
+        monu:Monumento_tiene_siglo   monu:Siglo_XVII , monu:Siglo_XVIII , monu:Siglo_XVI .
+
+
+        monu:Fortaleza
+monu:Monumento_pertenece_a_cultura
+monu:Cultura_Islámica , monu:Cultura_Romana , monu:Cultura_Cristiana;
+monu:Monumento_tiene_epoca   monu:Edad_Contemporánea , monu:Calcolítico , monu:Edad_Media , monu:Edades_Prehistóricas , monu:Edad_del_Hierro , monu:Edad_Moderna , monu:Edad_Antigua;
+monu:Monumento_tiene_estilo  monu:Gótico_valenciano , monu:Arquitectura_popular , monu:Gótico_tardío , monu:Arquitectura_de_la_Antigua_Roma , monu:Hispano_musulmán , monu:Románico , monu:Renacentista , monu:Gótico , monu:Mudéjar;
+monu:Monumento_tiene_siglo   monu:Siglo_XXI , monu:Siglo_XII , monu:Siglo_XX , monu:Siglo_X , monu:Siglo_XI , monu:Siglo_II , monu:Siglo_XIX , monu:Siglo_XIV , monu:Siglo_XVI , monu:Siglo_XV , monu:Siglo_V , monu:Siglo_XIII , monu:Siglo_XVIII , monu:Siglo_XVII .
+
+monu:Torre
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_de_Hallstatt , monu:Cultura_Islámica , monu:Cultura_de_La_Tène , monu:Cultura_Romana , monu:Cultura_Cristiana;
+        monu:Monumento_tiene_epoca   monu:Edad_Contemporánea , monu:Baja_Edad_Media , monu:Edad_Moderna , monu:Primera_Edad_del_Hierro , monu:Bronce_Antiguo , monu:Bronce_Pleno , monu:Edades_Prehistóricas , monu:Calcolítico , monu:Edad_Media , monu:Edad_del_Bronce , monu:Edad_del_Hierro , monu:Edad_Antigua;
+        monu:Monumento_tiene_estilo  monu:Arquitectura_industrial , monu:Novecentismo , monu:Neoclásico , monu:Neomudéjar , monu:Modernismo , monu:Eclecticismo , monu:Gótico_valenciano , monu:Barroco_español , monu:Arquitectura_en_hierro , monu:Arte_almohade , monu:Arquitectura_de_la_Antigua_Roma , monu:Gótico_tardío , monu:Barroco , monu:Neogótico , monu:Historicismo , monu:Hispano_musulmán , monu:Arquitectura_popular , monu:Herreriano , monu:Manierismo , monu:Gótico , monu:Renacentista , monu:Mudéjar , monu:Románico;
+        monu:Monumento_tiene_siglo   monu:Siglo_XX , monu:Siglo_II , monu:Siglo_X , monu:Siglo_XIX , monu:Siglo_V , monu:Siglo_XIII , monu:Siglo_XV , monu:Siglo_VIII , monu:Siglo_XI , monu:Siglo_XII , monu:Siglo_XVIII , monu:Siglo_XVI , monu:Siglo_XIV , monu:Siglo_XVII , monu:Siglo_XXI .
+
+  monu:Torre_Costera
+  monu:Monumento_tiene_estilo  monu:Renacentista;
+  monu:Monumento_tiene_siglo   monu:Siglo_XVIII , monu:Siglo_XVI , monu:Siglo_XIX , monu:Siglo_XVII .
+
+  monu:Torre_defensiva
+          monu:Monumento_pertenece_a_cultura
+                  monu:Cultura_Islámica , monu:Cultura_Romana , monu:Cultura_Cristiana;
+          monu:Monumento_tiene_epoca   monu:Edad_Media , monu:Edad_Moderna , monu:Edad_Antigua;
+          monu:Monumento_tiene_estilo  monu:Gótico_valenciano , monu:Arquitectura_popular , monu:Gótico_tardío , monu:Hispano_musulmán , monu:Arquitectura_de_la_Antigua_Roma , monu:Románico , monu:Renacentista , monu:Gótico , monu:Mudéjar;
+          monu:Monumento_tiene_siglo   monu:Siglo_XXI , monu:Siglo_XII , monu:Siglo_X , monu:Siglo_XI , monu:Siglo_XVII , monu:Siglo_II , monu:Siglo_XIV , monu:Siglo_XVIII , monu:Siglo_XV , monu:Siglo_V , monu:Siglo_XIII .
+
+
+  monu:Torre_del_Homenaje
+
+monu:Monumento_tiene_estilo  monu:Gótico , monu:Románico;
+monu:Monumento_tiene_siglo   monu:Siglo_XXI .
+
+monu:Torre_vigía
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Cristiana , monu:Cultura_de_Hallstatt , monu:Cultura_Romana , monu:Cultura_Islámica;
+        monu:Monumento_tiene_epoca   monu:Edad_Moderna , monu:Primera_Edad_del_Hierro , monu:Bronce_Antiguo , monu:Edades_Prehistóricas , monu:Edad_Media , monu:Edad_del_Bronce , monu:Edad_del_Hierro , monu:Edad_Antigua;
+        monu:Monumento_tiene_estilo  monu:Gótico_tardío , monu:Gótico , monu:Hispano_musulmán , monu:Neogótico , monu:Historicismo , monu:Arquitectura_popular , monu:Románico;
+        monu:Monumento_tiene_siglo   monu:Siglo_X , monu:Siglo_XIX , monu:Siglo_XIII , monu:Siglo_XV , monu:Siglo_VIII , monu:Siglo_XIV , monu:Siglo_XII , monu:Siglo_XVII , monu:Siglo_XVI , monu:Siglo_XVIII , monu:Siglo_XI .
+
+monu:Torre_Costera
+        monu:Monumento_tiene_estilo  monu:Renacentista;
+        monu:Monumento_tiene_siglo   monu:Siglo_XVIII , monu:Siglo_XVI , monu:Siglo_XIX , monu:Siglo_XVII .
+
+        monu:Muralla
+                monu:Monumento_pertenece_a_cultura
+                        monu:Cultura_Cartaginesa , monu:Cultura_de_los_Millares , monu:Cultura_de_La_Tène , monu:Cultura_Romana , monu:Cultura_Islámica , monu:Cultura_Cristiana;
+                monu:Monumento_tiene_epoca   monu:Bronce_Final , monu:Baja_Edad_Media , monu:Plena_Edad_Media , monu:Edad_Moderna , monu:Bronce_Pleno , monu:Edades_Prehistóricas , monu:Calcolítico , monu:Edad_Antigua , monu:Edad_Media , monu:Edad_del_Bronce , monu:Edad_del_Hierro;
+                monu:Monumento_tiene_estilo  monu:Renacentista , monu:Románico , monu:Arquitectura_de_la_Antigua_Roma , monu:Hispano_musulmán , monu:Arquitectura_popular , monu:Gótico;
+                monu:Monumento_tiene_siglo   monu:Siglo_X , monu:Siglo_XIX , monu:Siglo_XII , monu:Siglo_XIV , monu:Siglo_XIII , monu:Siglo_IX , monu:Siglo_XI , monu:Siglo_XVII , monu:Siglo_XVI .
+
+monu:Muralla_urbana
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Cartaginesa , monu:Cultura_Romana;
+        monu:Monumento_tiene_epoca   monu:Edad_Antigua;
+        monu:Monumento_tiene_estilo  monu:Arquitectura_de_la_Antigua_Roma , monu:Gótico;
+        monu:Monumento_tiene_siglo   monu:Siglo_X , monu:Siglo_XII , monu:Siglo_XIV , monu:Siglo_XIII , monu:Siglo_IX , monu:Siglo_XVI .
+
+monu:Oppidum
+        monu:Monumento_pertenece_a_cultura
+                monu:Cultura_Romana;
+        monu:Monumento_tiene_epoca  monu:Primera_Edad_del_Hierro , monu:Edad_del_Hierro , monu:Edad_Antigua , monu:Edades_Prehistóricas , monu:Edad_del_Bronce , monu:Edad_Media .
+
+
+        monu:Arquitectura_Religiosa
+
+                monu:Monumento_pertenece_a_cultura
+                        monu:Cultura_Talayótica , monu:Cultura_Visigoda , monu:Cultura_Islámica , monu:Cultura_Romana , monu:Cultura_Hebrea , monu:Cultura_Cristiana;
+                monu:Monumento_tiene_epoca   monu:Baja_Edad_Media , monu:Primera_Edad_del_Hierro , monu:Alta_Edad_Media , monu:Antigüedad_tardía , monu:Edad_del_Hierro , monu:Edad_Contemporánea , monu:Edad_Media , monu:Edad_Moderna , monu:Edad_Antigua;
+                monu:Monumento_tiene_estilo  monu:NeoMedieval , monu:Gótico_Tardío , monu:Neovasco , monu:Funcionalismo , monu:Churrigueresco , monu:Neoherreriano , monu:Neobarroco , monu:Bizantino , monu:Neorrenacentista , monu:Modernismo_valenciano , monu:Novecentismo , monu:Neoárabe , monu:Arquitectura_de_la_Antigua_Roma , monu:Arquitectura_del_Antiguo_Egipto , monu:Brutalismo , monu:Arquitectura_moderna , monu:Neobizantino , monu:Estilo_Segundo_Imperio , monu:Arte_de_repoblación , monu:Arquitectura_rupestre , monu:Gótico_flamígero , monu:Primer_románico , monu:Paleocristiano , monu:Neoplateresco , monu:Arte_almohade , monu:Minimalismo , monu:Racionalismo , monu:Plateresco , monu:Neorrománico , monu:Arte_emiral_y_califal , monu:Eclecticismo , monu:Modernismo_catalán , monu:Modernismo , monu:Neogótico , monu:Arte_asturiano , monu:Arquitectura_popular , monu:Visigodo , monu:Gótico_catalán , monu:Herreriano , monu:Arquitectura_regionalista , monu:Historicismo , monu:Neomudéjar , monu:Mudéjar_aragonés , monu:Manierismo , monu:Rococo , monu:Mozárabe , monu:Renacentista , monu:Gótico_isabelino , monu:Prerrománico , monu:Clasicismo , monu:Barroco_español , monu:Gótico_tardío , monu:Mudéjar , monu:Hispano_musulmán , monu:Arte_cisterciense , monu:Gótico , monu:Románico , monu:Gótico_valenciano , monu:Barroco , monu:Neoclásico;
+                monu:Monumento_tiene_siglo   monu:Siglo_I , monu:Siglo_XXI , monu:Siglo_VII , monu:Siglo_V , monu:Siglo_VIII , monu:Siglo_VI , monu:Siglo_XVI , monu:Siglo_XIX , monu:Siglo_XI , monu:Siglo_XVIII , monu:Siglo_XVII , monu:Siglo_XX , monu:Siglo_XIV , monu:Siglo_IX , monu:Siglo_XIII , monu:Siglo_XII , monu:Siglo_X , monu:Siglo_XV .
